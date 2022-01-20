@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 overflow-hidden;
+}
+
+.absolute-center {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-15%); 
+  z-index: 10;
+}
+
+.text-dynamic {
+  font-size: clamp(0.5rem, min(3vh, 3vw), 1.5rem);
+}
+
+@media (min-height: 550px) {
+  .text-dynamic {
+    font-size: clamp(1rem, min(5vh, 5vw), 2.25rem);  
+  }
+}
+
+@keyframes bounce {
+  0%, 20% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-30px);
+  }
+
+  50% {
+    transform: translateY(5px);
+  }
+
+  60% {
+    transform: translateY(-15px);
+  }
+
+  80% {
+    transform: translateY(2px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translateX(-1px)
+  }
+  
+  20%, 80% {
+    transform: translateX(2px)
+  }
+
+  30%, 50%, 70% {
+    transform: translateX(-4px)
+  }
+
+  40%, 60% {
+    transform: translateX(4px)
+  }
+}
+
+@keyframes flipIn {
+  0% {
+    transform: rotateX(0)
+  }
+  100% {
+    transform: rotateX(-90deg)
+  }
+}
+@keyframes flipOut {
+  0% {
+    transform: rotateX(-90deg)
+  }
+  100% {
+    transform: rotateX(0)
+  }
+}

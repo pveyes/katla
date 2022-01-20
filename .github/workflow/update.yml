@@ -1,0 +1,20 @@
+on:
+  schedule:
+    # GMT+9 will be the first to get the update
+    - cron: '0 9 * * *'
+
+jobs:
+  update_katla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+          registry-url: 'https://registry.npmjs.org'
+      - name: install deps
+        run: npm ci 
+      - name: send notification
+        run: npm start
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
