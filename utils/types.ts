@@ -1,18 +1,18 @@
 export interface GameState {
-  answers: string[]
-  attempt: number
+  answers: string[];
+  attempt: number;
 }
 
 export interface GameStats {
   distribution: {
-    1: number
-    2: number
-    3: number
-    4: number
-    5: number
-    6: number
-    fail: number
-  },
-  currentStreak: number
-  maxStreak: number
+    1: number;
+    2: number;
+    3: number;
+    4: number;
+    5: number;
+    6: number;
+    fail: number;
+  };
+  currentStreak: number;
+  maxStreak: number;
 }

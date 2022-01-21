@@ -10,7 +10,7 @@ body {
   position: absolute;
   top: 15%;
   left: 50%;
-  transform: translateX(-50%) translateY(-15%); 
+  transform: translateX(-50%) translateY(-15%);
   z-index: 10;
 }
 
@@ -20,12 +20,13 @@ body {
 
 @media (min-height: 550px) {
   .text-dynamic {
-    font-size: clamp(1rem, min(5vh, 5vw), 2.25rem);  
+    font-size: clamp(1rem, min(5vh, 5vw), 2.25rem);
   }
 }
 
 @keyframes bounce {
-  0%, 20% {
+  0%,
+  20% {
     transform: translateY(0);
   }
 
@@ -51,36 +52,41 @@ body {
 }
 
 @keyframes shake {
-  10%, 90% {
-    transform: translateX(-1px)
-  }
-  
-  20%, 80% {
-    transform: translateX(2px)
+  10%,
+  90% {
+    transform: translateX(-1px);
   }
 
-  30%, 50%, 70% {
-    transform: translateX(-4px)
+  20%,
+  80% {
+    transform: translateX(2px);
   }
 
-  40%, 60% {
-    transform: translateX(4px)
+  30%,
+  50%,
+  70% {
+    transform: translateX(-4px);
+  }
+
+  40%,
+  60% {
+    transform: translateX(4px);
   }
 }
 
 @keyframes flipIn {
   0% {
-    transform: rotateX(0)
+    transform: rotateX(0);
   }
   100% {
-    transform: rotateX(-90deg)
+    transform: rotateX(-90deg);
   }
 }
 @keyframes flipOut {
   0% {
-    transform: rotateX(-90deg)
+    transform: rotateX(-90deg);
   }
   100% {
-    transform: rotateX(0)
+    transform: rotateX(0);
   }
 }

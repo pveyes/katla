@@ -6,7 +6,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "update": "node ./.scripts/update.js"
+    "update": "node ./.scripts/update.js",
+    "format": "prettier --write '**/*.{js,md,json,yml,yaml,css,ts,tsx}'",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.3",
@@ -22,7 +27,10 @@
     "autoprefixer": "^10.4.2",
     "eslint": "8.7.0",
     "eslint-config-next": "12.0.8",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.2.2",
     "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
     "tailwindcss": "^3.0.15",
     "typescript": "^4.5.4"
   }

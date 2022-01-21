@@ -7,5 +7,5 @@ export function getTotalWin(stats: GameStats) {
 }
 
 export function getTotalPlay(stats: GameStats) {
-  return getTotalWin(stats) + stats.distribution.fail
+  return getTotalWin(stats) + stats.distribution.fail;
 }
