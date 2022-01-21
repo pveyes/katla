@@ -25,7 +25,7 @@ export default function StatsModal(props: Props) {
       (new Date().getTime() - new Date(date).getTime())
       / 24 / 60 / 60 / 1000
     );
-    const score = gameState.answers[gameState.attempt - 1] === answer ? num : 'X';
+    const score = gameState.answers[gameState.attempt - 1] === answer ? gameState.attempt : 'X';
     let text = `Katla ${num} ${score}/6\n\n`;
 
     gameState.answers.filter(Boolean).forEach(userAnswer => {
