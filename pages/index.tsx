@@ -176,7 +176,7 @@ export default function Home(props: Props) {
         showMessage(message, () => {
           setShowStats(true);
         })
-      } else if (gameState.attempt === 6) {
+      } else if (gameState.attempt === 5) {
         setStats({
           distribution: {
             ...stats.distribution,
