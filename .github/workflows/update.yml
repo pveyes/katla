@@ -14,7 +14,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       - name: install deps
         run: npm ci 
-      - name: send notification
-        run: npm start
+      - name: update new word
+        run: npm run update
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
