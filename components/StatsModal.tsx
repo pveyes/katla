@@ -22,7 +22,7 @@ export default function StatsModal(props: Props) {
 
   function handleShare() {
     const num = Math.ceil(
-      (new Date().getTime() - new Date(date).getTime())
+      (new Date(date).getTime() - new Date('2022-01-20').getTime())
       / 24 / 60 / 60 / 1000
     );
     const score = gameState.answers[gameState.attempt - 1] === answer ? gameState.attempt : 'X';
