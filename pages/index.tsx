@@ -279,7 +279,7 @@ export default function Home(props: Props) {
                   {userAnswer.split("").map((char, index) => {
                     let state = null;
                     if (i < gameState.attempt) {
-                      state = answerStates[i];
+                      state = answerStates[index];
                     }
 
                     const isInvalid = invalidAnswer && i === gameState.attempt;
