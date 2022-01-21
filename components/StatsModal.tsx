@@ -23,7 +23,7 @@ export default function StatsModal(props: Props) {
   const totalWin = getTotalWin(stats);
   const totalPlay = getTotalPlay(stats);
 
-  function handleShare() {
+  function generateText(){
     const num = Math.ceil(
       (new Date(date).getTime() - new Date("2022-01-20").getTime()) /
         24 /
@@ -51,7 +51,11 @@ export default function StatsModal(props: Props) {
     });
 
     text += "\nhttps://katla.vercel.app";
+    return text
+  }
 
+  function handleShare() {
+    const text = generateText()
     if ("share" in navigator) {
       navigator.share({
         text: text,
@@ -64,34 +68,9 @@ export default function StatsModal(props: Props) {
   }
 
   function handleShareToTwitter() {
-    const num = Math.ceil(
-      (new Date(date).getTime() - new Date("2022-01-20").getTime()) /
-        24 /
-        60 /
-        60 /
-        1000
-    );
-    const score =
-      gameState.answers[gameState.attempt - 1] === answer
-        ? gameState.attempt
-        : "X";
-    let text = `Katla ${num} ${score}/6%0A%0A`;
-
-    gameState.answers.filter(Boolean).forEach((userAnswer) => {
-      userAnswer.split("").forEach((char, i) => {
-        if (answer[i] === char) {
-          text += "🟩";
-        } else if (answer.includes(char)) {
-          text += "🟨";
-        } else {
-          text += "⬛";
-        }
-      });
-      text += "%0A";
-    });
-
-    text += "%0Ahttps://katla.vercel.app";
-    const shareToTwitter = `https://twitter.com/intent/tweet?text=${text}`;
+    const text = generateText()
+    const encodeURI = text.replaceAll("\n", "%0A")
+    const shareToTwitter = `https://twitter.com/intent/tweet?text=${encodeURI}`;
     window.open(shareToTwitter, "_blank");
   }
 
