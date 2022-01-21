@@ -51,6 +51,7 @@ export default function StatsModal(props: Props) {
     }
     else {
       navigator.clipboard.writeText(text);
+      onClose();
       showMessage('Disalin ke clipboard')
     }
   }
