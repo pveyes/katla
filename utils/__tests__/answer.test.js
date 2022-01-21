@@ -26,4 +26,12 @@ test("should prioritize `correct` before `exist` and `wrong` characters", () => 
     "correct",
     "wrong",
   ]);
+
+  expect(getAnswerStates("NANAR", "GANAR")).toEqual([
+    "wrong",
+    "correct",
+    "correct",
+    "correct",
+    "correct",
+  ]);
 });
