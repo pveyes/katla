@@ -1,7 +1,8 @@
 on:
   schedule:
-    # GMT+9 will be the first to get the update
-    - cron: "0 9 * * *"
+    # Update on every 00:00 GMT+7 which means 17:00 UTC
+    # TODO: ideally GMT+9 people get this first
+    - cron: "0 17 * * *"
 
 jobs:
   update_katla:

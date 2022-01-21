@@ -73,8 +73,8 @@ async function main() {
     word = allWords[Math.floor(Math.random() * allWords.length)];
   }
 
-  console.log("Inserting word:", word);
   await insertWord(word);
+  console.log("New word inserted");
 }
 
 main().catch((error) => {
