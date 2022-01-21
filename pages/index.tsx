@@ -13,6 +13,7 @@ import Alert from '../components/Alert';
 import { decode, encode } from '../utils/codec'
 import { getCongratulationMessage } from '../utils/message';
 import { GameState, GameStats } from '../utils/types';
+import { getTotalPlay } from '../utils/score';
 
 interface Props {
   hash: string
@@ -80,6 +81,8 @@ export default function Home(props: Props) {
   useEffect(() => {
     if (gameState.attempt === 6 || gameState.answers[gameState.attempt - 1] === answer) {
       setShowStats(true);
+    } else if (getTotalPlay(stats) === 0) {
+      setShowHelp(true);
     }
     // we want this effect to execute once on mount
     // eslint-disable-next-line react-hooks/exhaustive-deps
