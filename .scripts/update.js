@@ -15,7 +15,6 @@ async function getUsedWords(cursor) {
       return result.properties.Word.title.length > 0;
     })
     .map((result) => {
-      console.log("result", result.properties.Word.title[0]);
       return result.properties.Word.title[0].plain_text;
     });
 
@@ -29,6 +28,7 @@ async function getUsedWords(cursor) {
 
 async function insertWord(word) {
   const now = new Date();
+  now.setHours(now.getHours() + 7);
   const year = now.getFullYear();
   const month = (now.getMonth() + 1).toString().padStart(2, "0");
   const date = now.getDate().toString().padStart(2, "0");
