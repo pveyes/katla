@@ -1,12 +1,6 @@
 import Head from "next/head";
 import { GetStaticProps } from "next";
-import React, {
-  ComponentRef,
-  PropsWithChildren,
-  useEffect,
-  useRef,
-  useState,
-} from "react";
+import React, { PropsWithChildren, useEffect, useRef, useState } from "react";
 import useSWR from "swr";
 import createPersistedState from "use-persisted-state";
 
@@ -16,10 +10,11 @@ import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
 import Alert from "../components/Alert";
-import { decode, encode } from "../utils/codec";
+import { decode } from "../utils/codec";
 import { getCongratulationMessage } from "../utils/message";
 import { GameState, GameStats } from "../utils/types";
 import { getTotalPlay } from "../utils/score";
+import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   hash: string;
@@ -278,18 +273,13 @@ export default function Home(props: Props) {
               let userAnswer = gameState.answers[i] ?? "";
               userAnswer += " ".repeat(5 - userAnswer.length);
 
+              const answerStates = getAnswerStates(userAnswer, answer);
               return (
                 <div className="grid grid-cols-5 gap-1.5 relative" key={i}>
                   {userAnswer.split("").map((char, index) => {
                     let state = null;
                     if (i < gameState.attempt) {
-                      if (char === answer[index]) {
-                        state = "correct";
-                      } else if (answer.includes(char)) {
-                        state = "exist";
-                      } else if (char !== " ") {
-                        state = "wrong";
-                      }
+                      state = answerStates[index];
                     }
 
                     const isInvalid = invalidAnswer && i === gameState.attempt;

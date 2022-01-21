@@ -1,8 +1,9 @@
 import { CSSProperties, useEffect, useState } from "react";
+import { AnswerState } from "../utils/types";
 
 interface Props {
   char: string;
-  state: "correct" | "exist" | "wrong" | null;
+  state: AnswerState;
   isInvalid?: boolean;
   delay: number;
 }
