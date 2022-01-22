@@ -15,19 +15,16 @@ import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
 
+import useGame from "../utils/useGame";
 import { decode } from "../utils/codec";
-import { GameState, GameStats } from "../utils/types";
 import { getTotalPlay } from "../utils/score";
+import { GAME_STATS_KEY } from "../utils/constants";
+import { GameStats, PersistedState } from "../utils/types";
 
 interface Props {
   hash: string;
   date: string;
 }
-
-const initialState: GameState = {
-  answers: Array(6).fill(""),
-  attempt: 0,
-};
 
 const initialStats: GameStats = {
   distribution: {
@@ -43,74 +40,46 @@ const initialStats: GameStats = {
   maxStreak: 0,
 };
 
-type PersistedState<T> = (initialState: T) => [T, (newState: T) => void];
-const useGameState: PersistedState<GameState> =
-  createPersistedState("katla:gameState");
 const useStats: PersistedState<GameStats> =
-  createPersistedState("katla:gameStats");
+  createPersistedState(GAME_STATS_KEY);
 
 const fetcher = (...args: Parameters<typeof fetch>) =>
   fetch(...args).then((res) => res.json());
 
 export default function Home(props: Props) {
-  const { hash, date } = props;
-  const answer = decode(hash);
-
-  const [mounted, setMounted] = useState(false);
-  const [gameState, setGameState] = useGameState(initialState);
+  const { state, setState, gameReady, currentHash } = useGame(props);
   const [stats, setStats] = useStats(initialStats);
   const [message, setMessage] = useState(null);
   const { data: words = [] } = useSWR("/api/words", fetcher);
 
-  // menu
+  // modals
   const [showHelp, setShowHelp] = useState(false);
   const [showStats, setShowStats] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
 
+  // modal effect
   useEffect(() => {
-    setMounted(true);
-
-    // new game schedule
-    const now = new Date();
-    const gameDate = new Date(date);
-    gameDate.setHours(0);
-    gameDate.setMinutes(0);
-    gameDate.setSeconds(0);
-    gameDate.setMilliseconds(0);
-    const isAfterGameDate = now.getTime() >= gameDate.getTime();
-    const lastHash = localStorage.getItem("katla:lastHash");
-    if (lastHash !== hash && isAfterGameDate) {
-      localStorage.setItem("katla:lastHash", hash);
-      setGameState({
-        answers: Array(6).fill(""),
-        attempt: 0,
-      });
+    if (!gameReady) {
+      return;
     }
-  }, [hash, date, setGameState]);
 
-  useEffect(() => {
-    if (
-      gameState.attempt === 6 ||
-      gameState.answers[gameState.attempt - 1] === answer
-    ) {
-      setShowStats(true);
-    } else if (getTotalPlay(stats) === 0) {
+    // show help screen for first-time player
+    if (getTotalPlay(stats) === 0) {
       setShowHelp(true);
     }
-    // we want this effect to execute once on mount
+    // show stats screen if user already finished playing current session
+    else if (
+      state.attempt === 6 ||
+      state.answers[state.attempt - 1] === decode(currentHash)
+    ) {
+      setShowStats(true);
+    }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [gameReady, currentHash]);
 
-  function showMessage(message: string, cb?: () => void) {
-    setMessage(message);
-    setTimeout(() => {
-      setMessage(null);
-      cb && cb();
-    }, 750);
-  }
+  const ready = gameReady && words.length > 0;
 
-  const ready = mounted && words.length > 0;
-
+  // auto resize board game to fit screen
   useEffect(() => {
     if (!ready) {
       return;
@@ -132,6 +101,14 @@ export default function Home(props: Props) {
     return () => window.removeEventListener("resize", handleResize);
   }, [ready]);
 
+  function showMessage(message: string, cb?: () => void) {
+    setMessage(message);
+    setTimeout(() => {
+      setMessage(null);
+      cb && cb();
+    }, 750);
+  }
+
   const headerProps: ComponentProps<typeof Header> = {
     onShowStats: () => setShowStats(true),
     onShowHelp: () => setShowHelp(true),
@@ -151,9 +128,9 @@ export default function Home(props: Props) {
       <Header {...headerProps} />
       {message && <Alert>{message}</Alert>}
       <App
-        hash={hash}
-        gameState={gameState}
-        setGameState={setGameState}
+        hash={currentHash}
+        gameState={state}
+        setGameState={setState}
         stats={stats}
         setStats={setStats}
         showStats={() => setShowStats(true)}
@@ -164,10 +141,10 @@ export default function Home(props: Props) {
       <StatsModal
         isOpen={showStats}
         onClose={() => setShowStats(false)}
-        gameState={gameState}
+        gameState={state}
         stats={stats}
         date={props.date}
-        hash={hash}
+        hash={currentHash}
         showMessage={showMessage}
       />
       <SettingsModal
