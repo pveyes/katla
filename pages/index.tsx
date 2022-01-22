@@ -71,8 +71,13 @@ export default function Home(props: Props) {
     // new game schedule
     const now = new Date();
     const gameDate = new Date(date);
+    gameDate.setHours(0);
+    gameDate.setMinutes(0);
+    gameDate.setSeconds(0);
+    gameDate.setMilliseconds(0);
+    const isAfterGameDate = now.getTime() >= gameDate.getTime();
     const lastHash = localStorage.getItem("katla:lastHash");
-    if (lastHash !== hash && gameDate.getTime() >= now.getTime()) {
+    if (lastHash !== hash && isAfterGameDate) {
       localStorage.setItem("katla:lastHash", hash);
       setGameState({
         answers: Array(6).fill(""),
