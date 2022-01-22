@@ -2,6 +2,7 @@ import Modal from "./Modal";
 import { GameState, GameStats } from "../utils/types";
 import { getTotalPlay, getTotalWin } from "../utils/score";
 import { useEffect, useState } from "react";
+import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   isOpen: boolean;
@@ -23,7 +24,7 @@ export default function StatsModal(props: Props) {
   const totalWin = getTotalWin(stats);
   const totalPlay = getTotalPlay(stats);
 
-  function generateText(){
+  function generateText() {
     const num = Math.ceil(
       (new Date(date).getTime() - new Date("2022-01-20").getTime()) /
         24 /
@@ -38,24 +39,25 @@ export default function StatsModal(props: Props) {
     let text = `Katla ${num} ${score}/6\n\n`;
 
     gameState.answers.filter(Boolean).forEach((userAnswer) => {
-      userAnswer.split("").forEach((char, i) => {
-        if (answer[i] === char) {
-          text += "🟩";
-        } else if (answer.includes(char)) {
-          text += "🟨";
-        } else {
-          text += "⬛";
+      const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
+        switch (state) {
+          case "correct":
+            return "🟩";
+          case "exist":
+            return "🟨";
+          case "wrong":
+            return "⬛";
         }
       });
-      text += "\n";
+      text += `${answerEmojis.join("")}\n`;
     });
 
     text += "\nhttps://katla.vercel.app";
-    return text
+    return text;
   }
 
   function handleShare() {
-    const text = generateText()
+    const text = generateText();
     if ("share" in navigator) {
       navigator.share({
         text: text,
@@ -68,8 +70,8 @@ export default function StatsModal(props: Props) {
   }
 
   function handleShareToTwitter() {
-    const text = generateText()
-    const encodeURI = text.replaceAll("\n", "%0A")
+    const text = generateText();
+    const encodeURI = text.replaceAll("\n", "%0A");
     const shareToTwitter = `https://twitter.com/intent/tweet?text=${encodeURI}`;
     window.open(shareToTwitter, "_blank");
   }
