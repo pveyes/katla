@@ -20,6 +20,7 @@ import { decode } from "../utils/codec";
 import { getTotalPlay } from "../utils/score";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
+import fetcher from "../utils/fetcher";
 
 interface Props {
   hash: string;
@@ -42,9 +43,6 @@ const initialStats: GameStats = {
 
 const useStats: PersistedState<GameStats> =
   createPersistedState(GAME_STATS_KEY);
-
-const fetcher = (...args: Parameters<typeof fetch>) =>
-  fetch(...args).then((res) => res.json());
 
 export default function Home(props: Props) {
   const { state, setState, gameReady, currentHash } = useGame(props);
