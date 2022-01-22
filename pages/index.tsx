@@ -1,20 +1,23 @@
 import Head from "next/head";
-import { GetStaticProps } from "next";
-import React, { PropsWithChildren, useEffect, useRef, useState } from "react";
+import React, {
+  ComponentProps,
+  PropsWithChildren,
+  useEffect,
+  useState,
+} from "react";
 import useSWR from "swr";
 import createPersistedState from "use-persisted-state";
+import { GetStaticProps } from "next";
 
-import Tile from "../components/Tile";
-import Keyboard from "../components/Keyboard";
+import App from "../components/App";
+import Alert from "../components/Alert";
 import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
-import Alert from "../components/Alert";
+
 import { decode } from "../utils/codec";
-import { getCongratulationMessage } from "../utils/message";
 import { GameState, GameStats } from "../utils/types";
 import { getTotalPlay } from "../utils/score";
-import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   hash: string;
@@ -51,14 +54,13 @@ const fetcher = (...args: Parameters<typeof fetch>) =>
 
 export default function Home(props: Props) {
   const { hash, date } = props;
+  const answer = decode(hash);
+
   const [mounted, setMounted] = useState(false);
   const [gameState, setGameState] = useGameState(initialState);
   const [stats, setStats] = useStats(initialStats);
-  const { data: words = [] } = useSWR("/api/words", fetcher);
   const [message, setMessage] = useState(null);
-  const isAnimating = useRef(null);
-  const answer = decode(hash);
-  const [invalidAnswer, setInvalidAnswer] = useState(false);
+  const { data: words = [] } = useSWR("/api/words", fetcher);
 
   // menu
   const [showHelp, setShowHelp] = useState(false);
@@ -99,122 +101,6 @@ export default function Home(props: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  function handlePressChar(char: string) {
-    // ignore if already finished
-    if (gameState.answers[gameState.attempt - 1] === answer) {
-      return;
-    }
-
-    if (isAnimating.current) {
-      return;
-    }
-
-    setGameState({
-      answers: gameState.answers.map((answer, i) => {
-        if (i === gameState.attempt && answer.length < 5) {
-          return answer + char;
-        }
-
-        return answer;
-      }),
-      attempt: gameState.attempt,
-    });
-  }
-
-  function handleBackspace() {
-    if (isAnimating.current) {
-      return;
-    }
-
-    setGameState({
-      answers: gameState.answers.map((answer, i) => {
-        if (i === gameState.attempt) {
-          return answer.slice(0, -1);
-        }
-
-        return answer;
-      }),
-      attempt: gameState.attempt,
-    });
-  }
-
-  function handleSubmit() {
-    if (isAnimating.current) {
-      return;
-    }
-
-    // ignore submission if the answer is already correct
-    if (gameState.answers[gameState.attempt - 1] === answer) {
-      return;
-    }
-
-    const userAnswer = gameState.answers[gameState.attempt];
-    if (userAnswer.length < 5) {
-      markInvalid();
-      showMessage("Tidak cukup huruf");
-      return;
-    }
-
-    if (!words.includes(userAnswer)) {
-      markInvalid();
-      showMessage("Tidak ada dalam KBBI");
-      return;
-    }
-
-    setInvalidAnswer(false);
-    setGameState({
-      answers: gameState.answers.map((answer, i) => {
-        if (i === gameState.attempt) {
-          return userAnswer;
-        }
-
-        return answer;
-      }),
-      attempt: gameState.attempt + 1,
-    });
-
-    isAnimating.current = true;
-    setTimeout(() => {
-      isAnimating.current = false;
-
-      if (answer === userAnswer) {
-        setStats({
-          distribution: {
-            ...stats.distribution,
-            [gameState.attempt + 1]:
-              stats.distribution[gameState.attempt + 1] + 1,
-          },
-          currentStreak: stats.currentStreak + 1,
-          maxStreak: Math.max(stats.maxStreak, stats.currentStreak + 1),
-        });
-        const message = getCongratulationMessage(gameState.attempt);
-        showMessage(message, () => {
-          setShowStats(true);
-        });
-      } else if (gameState.attempt === 5) {
-        setStats({
-          distribution: {
-            ...stats.distribution,
-            fail: stats.distribution.fail + 1,
-          },
-          currentStreak: 0,
-          maxStreak: stats.maxStreak,
-        });
-
-        showMessage(`Jawaban: ${answer}`, () => {
-          setShowStats(true);
-        });
-      }
-    }, 400 * 6);
-  }
-
-  function markInvalid() {
-    setInvalidAnswer(true);
-    setTimeout(() => {
-      setInvalidAnswer(false);
-    }, 600);
-  }
-
   function showMessage(message: string, cb?: () => void) {
     setMessage(message);
     setTimeout(() => {
@@ -246,70 +132,33 @@ export default function Home(props: Props) {
     return () => window.removeEventListener("resize", handleResize);
   }, [ready]);
 
+  const headerProps: ComponentProps<typeof Header> = {
+    onShowStats: () => setShowStats(true),
+    onShowHelp: () => setShowHelp(true),
+    onShowSetting: () => setShowSettings(true),
+  };
+
   if (!ready) {
     return (
       <Container>
-        <Header
-          onShowStats={() => setShowStats(true)}
-          onShowHelp={() => setShowHelp(true)}
-          onShowSetting={() => setShowSettings(true)}
-        />
+        <Header {...headerProps} />
       </Container>
     );
   }
 
   return (
     <Container>
-      <Header
-        onShowStats={() => setShowStats(true)}
-        onShowHelp={() => setShowHelp(true)}
-        onShowSetting={() => setShowSettings(true)}
-      />
-      <div className="mx-auto max-w-full px-4 flex justify-center items-centerg grow-0 shrink">
-        {message && <Alert>{message}</Alert>}
-        <div
-          className="grid grid-rows-6 gap-1.5 max-w-full"
-          style={{ aspectRatio: "1 / 1" }}
-          id="katla"
-        >
-          {Array(6)
-            .fill("")
-            .map((_, i) => {
-              let userAnswer = gameState.answers[i] ?? "";
-              userAnswer += " ".repeat(5 - userAnswer.length);
-
-              const answerStates = getAnswerStates(userAnswer, answer);
-              return (
-                <div className="grid grid-cols-5 gap-1.5 relative" key={i}>
-                  {userAnswer.split("").map((char, index) => {
-                    let state = null;
-                    if (i < gameState.attempt) {
-                      state = answerStates[index];
-                    }
-
-                    const isInvalid = invalidAnswer && i === gameState.attempt;
-                    return (
-                      <Tile
-                        key={index}
-                        char={char}
-                        state={state}
-                        isInvalid={isInvalid}
-                        delay={300 * index}
-                      />
-                    );
-                  })}
-                </div>
-              );
-            })}
-        </div>
-      </div>
-      <Keyboard
-        gameState={gameState}
+      <Header {...headerProps} />
+      {message && <Alert>{message}</Alert>}
+      <App
         hash={hash}
-        onPressChar={handlePressChar}
-        onBackspace={handleBackspace}
-        onSubmit={handleSubmit}
-        isAnimating={isAnimating}
+        gameState={gameState}
+        setGameState={setGameState}
+        stats={stats}
+        setStats={setStats}
+        showStats={() => setShowStats(true)}
+        showMessage={showMessage}
+        words={words}
       />
       <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
       <StatsModal
