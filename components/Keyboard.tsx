@@ -1,19 +1,22 @@
 import KeyboardButton from "./KeyboardButton";
 import { GameState } from "../utils/types";
 import { MutableRefObject, useEffect, useRef } from "react";
+import { decode } from "../utils/codec";
+import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   onPressChar: (char: string) => void;
   onBackspace: () => void;
   onSubmit: () => void;
   gameState: GameState;
-  answer: string;
+  hash: string;
   isAnimating: MutableRefObject<boolean>;
 }
 
 export default function Keyboard(props: Props) {
-  const { onPressChar, onBackspace, onSubmit, gameState, answer, isAnimating } =
+  const { onPressChar, onBackspace, onSubmit, gameState, hash, isAnimating } =
     props;
+  const answer = decode(hash);
   const usedChars = new Set(
     gameState.answers
       .slice(0, gameState.attempt)

@@ -289,15 +289,13 @@ export default function Home(props: Props) {
 
                     const isInvalid = invalidAnswer && i === gameState.attempt;
                     return (
-                      <React.Fragment key={index}>
-                        <Tile
-                          key={index}
-                          char={char}
-                          state={state}
-                          isInvalid={isInvalid}
-                          delay={300 * index}
-                        />
-                      </React.Fragment>
+                      <Tile
+                        key={index}
+                        char={char}
+                        state={state}
+                        isInvalid={isInvalid}
+                        delay={300 * index}
+                      />
                     );
                   })}
                 </div>
@@ -307,7 +305,7 @@ export default function Home(props: Props) {
       </div>
       <Keyboard
         gameState={gameState}
-        answer={answer}
+        hash={hash}
         onPressChar={handlePressChar}
         onBackspace={handleBackspace}
         onSubmit={handleSubmit}
@@ -320,7 +318,7 @@ export default function Home(props: Props) {
         gameState={gameState}
         stats={stats}
         date={props.date}
-        answer={answer}
+        hash={hash}
         showMessage={showMessage}
       />
       <SettingsModal
