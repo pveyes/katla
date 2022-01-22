@@ -3,6 +3,7 @@ import { GameState, GameStats } from "../utils/types";
 import { getTotalPlay, getTotalWin } from "../utils/score";
 import { useEffect, useState } from "react";
 import { getAnswerStates } from "../utils/answer";
+import { decode } from "../utils/codec";
 
 interface Props {
   isOpen: boolean;
@@ -10,14 +11,14 @@ interface Props {
   gameState: GameState;
   stats: GameStats;
   date: string;
-  answer: string;
+  hash: string;
   showMessage: (message: string) => void;
 }
 
 export default function StatsModal(props: Props) {
-  const { isOpen, onClose, gameState, stats, date, answer, showMessage } =
-    props;
+  const { isOpen, onClose, gameState, stats, date, hash, showMessage } = props;
 
+  const answer = decode(hash);
   const showShare =
     gameState.answers.filter(Boolean).length === 6 ||
     gameState.answers[gameState.attempt - 1] === answer;
