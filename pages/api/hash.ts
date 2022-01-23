@@ -25,7 +25,7 @@ export default async function handler(
   const word = entry.properties.Word.title[0].plain_text;
   res.setHeader(
     "Cache-Control",
-    "public, s-maxage=3600, stale-while-revalidate=86400"
+    "public, s-maxage=60, stale-while-revalidate=3600"
   );
   res.status(200).json({ hash: encode(word), date: date });
 }
