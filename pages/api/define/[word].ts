@@ -1,4 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
+import cheerio from "cheerio";
 
 interface Definition {
   def_text: string;
@@ -15,15 +16,30 @@ export default async function handler(
   res: NextApiResponse
 ) {
   const word = req.query.word as string;
-  const kateglo: KategloResponse = await fetch(
-    `https://kateglo.com/api.php?format=json&phrase=${word}`
-  ).then((res) => res.json());
-  const definitions = Array.from(kateglo.kateglo.definition).map(
-    (d) => d.def_text
-  );
+
+  let definitions = [];
+  try {
+    const kateglo: KategloResponse = await fetch(
+      `https://kateglo.com/api.php?format=json&phrase=${word}`
+    ).then((res) => res.json());
+    definitions = Array.from(kateglo.kateglo.definition).map((d) => d.def_text);
+  } catch (err) {
+    console.warn(
+      `Failed to fetch definitions from kateglo.com, using KBBI online for word ${word}`
+    );
+    const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`).then(
+      (res) => res.text()
+    );
+    const $ = cheerio.load(html);
+    $("ol li, ul.adjusted-par li").each((i, el) => {
+      $(el).find("font").remove();
+      definitions.push($(el).text());
+    });
+  }
+
   res.setHeader(
     "Cache-Control",
-    "public, s-maxage=3600, stale-while-revalidate=86400"
+    "public, s-maxage=21600, stale-while-revalidate=86400"
   );
   res.status(200).json(definitions);
 }

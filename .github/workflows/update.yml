@@ -1,8 +1,8 @@
 on:
   schedule:
-    # Update on every 00:00 GMT+7 which means 17:00 UTC
-    # TODO: ideally GMT+9 people get this first
-    - cron: "0 17 * * *"
+    # Update on every 23:58 GMT+7 which means 16:58 UTC
+    # as a 2 minutes buffer to rebuild SSG page
+    - cron: "58 16 * * *"
 
 jobs:
   update_katla:
@@ -18,4 +18,6 @@ jobs:
       - name: update new word
         run: yarn update
         env:
+          SECRET_DATE: ${{ secrets.SECRET_DATE }}
+          SECRET_WORD: ${{ secrets.SECRET_WORD }}
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}

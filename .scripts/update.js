@@ -27,8 +27,7 @@ async function getUsedWords(cursor) {
 }
 
 async function insertWord(word) {
-  const now = new Date();
-  now.setHours(now.getHours() + 7);
+  const now = getMidnightDate();
   const year = now.getFullYear();
   const month = (now.getMonth() + 1).toString().padStart(2, "0");
   const date = now.getDate().toString().padStart(2, "0");
@@ -62,6 +61,16 @@ async function insertWord(word) {
   });
 }
 
+// because this actions runs on UTC and previous date (23:58)
+// we have to adjust few things
+function getMidnightDate() {
+  const now = new Date();
+  now.setHours(now.getHours() + 7);
+  const deltaToMidnightMinutes = 60 - now.getMinutes();
+  now.setMinutes(now.getMinutes() + deltaToMidnightMinutes);
+  return now;
+}
+
 async function main() {
   const [usedWords, allWords] = await Promise.all([
     getUsedWords(),
@@ -71,6 +80,16 @@ async function main() {
   let word = allWords[Math.floor(Math.random() * allWords.length)];
   while (usedWords.includes(word)) {
     word = allWords[Math.floor(Math.random() * allWords.length)];
+  }
+
+  const secretDate = process.env.SECRET_DATE;
+  const secretWord = process.env.SECRET_WORD;
+  if (secretDate && secretWord) {
+    const date = getMidnightDate();
+    const [mm, dd] = secretDate.split("-").map(Number);
+    if (date.getDate() == dd && date.getMonth() + 1 === mm) {
+      word = secretWord;
+    }
   }
 
   await insertWord(word);

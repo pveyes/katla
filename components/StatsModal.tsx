@@ -1,5 +1,6 @@
 import useSWR from "swr";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import confetti from "canvas-confetti";
 
 import Modal from "./Modal";
 
@@ -23,6 +24,7 @@ export default function StatsModal(props: Props) {
   const { isOpen, onClose, gameState, stats, date, hash, showMessage } = props;
 
   const answer = decode(hash);
+  const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
   const showShare =
     gameState.answers.filter(Boolean).length === 6 ||
     gameState.answers[gameState.attempt - 1] === answer;
@@ -60,6 +62,42 @@ export default function StatsModal(props: Props) {
     text += "\nhttps://katla.vercel.app";
     return text;
   }
+
+  useEffect(() => {
+    if (!isOpen || !showShare || secretHash !== hash) {
+      return;
+    }
+
+    // do this for 3 seconds
+    const duration = 3 * 1000;
+    const end = Date.now() + duration;
+
+    let animationFrame;
+    function frame() {
+      // launch a few confetti from the left edge
+      confetti({
+        particleCount: 7,
+        angle: 60,
+        spread: 55,
+        origin: { x: 0 },
+      });
+      // and launch a few from the right edge
+      confetti({
+        particleCount: 7,
+        angle: 120,
+        spread: 55,
+        origin: { x: 1 },
+      });
+
+      // keep going until we are out of time
+      if (Date.now() < end) {
+        animationFrame = requestAnimationFrame(frame);
+      }
+    }
+
+    frame();
+    return () => cancelAnimationFrame(animationFrame);
+  }, [isOpen, showShare, secretHash, hash]);
 
   function handleShare() {
     const text = generateText();
@@ -202,13 +240,26 @@ function RemainingTime() {
   const [remainingTime, setRemainingTime] = useState(
     `${hours}:${minutes}:${seconds}`
   );
+  const reloadTimeout = useRef(null);
 
   useEffect(() => {
     const t = setInterval(() => {
       const now = new Date();
       const hours = 23 - now.getHours();
-      const seconds = (59 - now.getSeconds()).toString().padStart(2, "0");
       const minutes = (59 - now.getMinutes()).toString().padStart(2, "0");
+      const seconds = (59 - now.getSeconds()).toString().padStart(2, "0");
+
+      if (
+        !reloadTimeout.current &&
+        hours === 0 &&
+        minutes == "00" &&
+        Number(seconds) <= 5
+      ) {
+        reloadTimeout.current = setTimeout(() => {
+          window.location.reload();
+        }, 1000 * Number(seconds));
+      }
+
       setRemainingTime(`${hours}:${minutes}:${seconds}`);
     }, 500);
     return () => clearInterval(t);
@@ -217,17 +268,29 @@ function RemainingTime() {
 }
 
 function WordDefinition({ answer }) {
-  const { data = [], error } = useSWR(`/api/define/${answer}`, fetcher);
-
-  if (data.length === 0) {
-    return null;
-  }
+  const { data = [] } = useSWR(`/api/define/${answer}`, fetcher);
 
   return (
     <div className="w-10/12 mx-auto mb-8">
-      <h3 className="uppercase font-semibold mb-2">Katla hari ini</h3>
+      <h3 className="uppercase font-semibold">Katla hari ini</h3>
+      <p className="text-xs mb-2 text-gray-400">
+        Mohon untuk tetap dirahasiakan
+      </p>
       <p>
-        <strong>{answer}</strong>: {data.join("\n")}
+        <strong>{answer}</strong>
+        {data.length > 0 ? (
+          data.length === 1 ? (
+            `: ${data[0]}`
+          ) : (
+            <ul className="text-sm">
+              {data.map((d, i) => (
+                <li className=" list-outside list-disc ml-6" key={i}>
+                  {d}
+                </li>
+              ))}
+            </ul>
+          )
+        ) : null}
       </p>
       <a
         className="text-green-600 text-sm"
