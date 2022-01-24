@@ -1,5 +1,6 @@
 const { Client } = require("@notionhq/client");
-const fetch = require("node-fetch");
+const path = require("path");
+const fs = require("fs/promises");
 
 const databaseId = "04dc0ae3bb6c4702b5f99df302b593ec";
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
@@ -74,7 +75,9 @@ function getMidnightDate() {
 async function main() {
   const [usedWords, allWords] = await Promise.all([
     getUsedWords(),
-    fetch("https://katla.vercel.app/api/words").then((res) => res.json()),
+    fs
+      .readFile(path.join(__dirname, "whitelist.csv"), "utf-8")
+      .then((text) => text.split(",")),
   ]);
 
   let word = allWords[Math.floor(Math.random() * allWords.length)];
