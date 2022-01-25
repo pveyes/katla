@@ -6,6 +6,7 @@ import Keyboard from "./Keyboard";
 import { GameState, GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getCongratulationMessage } from "../utils/message";
+import { getTotalPlay } from "../utils/score";
 
 interface Props {
   hash: string;
@@ -123,7 +124,10 @@ export default function App(props: Props) {
           currentStreak: stats.currentStreak + 1,
           maxStreak: Math.max(stats.maxStreak, stats.currentStreak + 1),
         });
-        const message = getCongratulationMessage(gameState.attempt);
+        const message = getCongratulationMessage(
+          gameState.attempt,
+          getTotalPlay(stats)
+        );
         showMessage(message, () => {
           showStats();
         });

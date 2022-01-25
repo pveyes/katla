@@ -1,7 +1,11 @@
-export function getCongratulationMessage(attempt: number) {
+export function getCongratulationMessage(attempt: number, totalPlay: number) {
+  if (totalPlay === 0 && attempt === 0) {
+    return "Curang bukan nih?";
+  }
+
   switch (attempt) {
     case 0:
-      return "Menakjubkan";
+      return "Hoki? Atau kena spoiler?";
     case 1:
       return "Luar Biasa";
     case 2:
@@ -11,6 +15,6 @@ export function getCongratulationMessage(attempt: number) {
     case 4:
       return "Bagus";
     default:
-      return "Selamat";
+      return "Nyaris!!";
   }
 }

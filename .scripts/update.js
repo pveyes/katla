@@ -77,7 +77,7 @@ async function main() {
     getUsedWords(),
     fs
       .readFile(path.join(__dirname, "whitelist.csv"), "utf-8")
-      .then((text) => text.split(",")),
+      .then((text) => text.split(",").filter(Boolean)),
   ]);
 
   const validWords = allWords.filter((word) => !usedWords.includes(word));
