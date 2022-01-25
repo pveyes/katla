@@ -17,7 +17,7 @@ export default async function handler(
 ) {
   const word = req.query.word as string;
 
-  let definitions = [];
+  let definitions: String[] | null = null;
   try {
     const kateglo: KategloResponse = await fetch(
       `https://kateglo.com/api.php?format=json&phrase=${word}`
@@ -27,14 +27,24 @@ export default async function handler(
     console.warn(
       `Failed to fetch definitions from kateglo.com, using KBBI online for word ${word}`
     );
-    const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`).then(
-      (res) => res.text()
-    );
-    const $ = cheerio.load(html);
-    $("ol li, ul.adjusted-par li").each((i, el) => {
-      $(el).find("font").remove();
-      definitions.push($(el).text());
-    });
+    try {
+      definitions = [];
+      const html = await fetch(
+        `https://kbbi.kemdikbud.go.id/entri/${word}`
+      ).then((res) => res.text());
+      const $ = cheerio.load(html);
+      $("ol li, ul.adjusted-par li").each((i, el) => {
+        $(el).find("font").remove();
+        definitions.push($(el).text());
+      });
+    } catch (err) {
+      definitions = null;
+    }
+  }
+
+  if (definitions === null) {
+    res.status(500).json({ error: "Failed to get definitions" });
+    return;
   }
 
   res.setHeader(
