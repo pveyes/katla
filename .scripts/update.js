@@ -80,11 +80,10 @@ async function main() {
       .then((text) => text.split(",")),
   ]);
 
-  let word = allWords[Math.floor(Math.random() * allWords.length)];
-  while (usedWords.includes(word)) {
-    word = allWords[Math.floor(Math.random() * allWords.length)];
-  }
+  const validWords = allWords.filter((word) => !usedWords.includes(word));
 
+  // use let to allow secret words
+  let word = validWords[Math.floor(Math.random() * validWords.length)];
   const secretDate = process.env.SECRET_DATE;
   const secretWord = process.env.SECRET_WORD;
   if (secretDate && secretWord) {
