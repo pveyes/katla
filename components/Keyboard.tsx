@@ -1,8 +1,8 @@
+import { MutableRefObject, useEffect, useRef } from "react";
+
 import KeyboardButton from "./KeyboardButton";
 import { GameState } from "../utils/types";
-import { MutableRefObject, useEffect, useRef } from "react";
 import { decode } from "../utils/codec";
-import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   onPressChar: (char: string) => void;

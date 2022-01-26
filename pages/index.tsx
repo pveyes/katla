@@ -178,18 +178,28 @@ function Header({ onShowStats, onShowHelp, onShowSetting }) {
   return (
     <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
       <Head>
-        <title>Katla - Permainan kata harian</title>
+        <title>Katla - Permainan Kata | 1 Hari 1 Kata 6 Kesempatan</title>
         <meta
           name="description"
-          content="Tebak kata tersembunyi dalam 6 percobaan. Kata baru tersedia setiap hari."
+          content="Tebak kata rahasia dalam 6 percobaan. Kata baru tersedia setiap hari."
         />
-
+        <meta
+          name="keywords"
+          content="game, permainan, tebak, kata, rahasia, wordle, indonesia, kbbi"
+        />
         <meta property="og:url" content="https://katla.vercel.app/" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Katla - Permainan kata harian" />
+        <meta
+          property="og:title"
+          content="Katla - Permainan Kata | 1 Hari 1 Kata 6 Kesempatan"
+        />
         <meta
           property="og:description"
-          content="Tebak kata tersembunyi dalam 6 percobaan. Kata baru tersedia setiap hari"
+          content="Tebak kata rahasia dalam 6 percobaan. Kata baru tersedia setiap hari"
+        />
+        <meta
+          property="og:keywords"
+          content="game, permainan, tebak, kata, rahasia, wordle, indonesia, kbbi"
         />
         <meta property="og:image" content="https://katla.vercel.app/og.png" />
 

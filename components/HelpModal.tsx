@@ -13,7 +13,8 @@ export default function HelpModal(props: Props) {
       <Modal.Title>Cara Bermain</Modal.Title>
       <div className="text-sm">
         <p className="mb-2">
-          Tebak <strong className="uppercase">Katla</strong> dalam 6 percobaan
+          Tebak <strong className="uppercase">Katla</strong> dalam 6 kesempatan.
+          1 hari ada 1 kata rahasia.
         </p>
         <p className="mb-2">
           Setiap tebakan harus merupakan kata valid 5 huruf sesuai KBBI. Tekan
@@ -41,7 +42,7 @@ export default function HelpModal(props: Props) {
           })}
         </div>
         <div className="mb-4">
-          Ada huruf <strong>S</strong> di kata dan posisinya sudah tepat
+          Huruf <strong>S</strong> ada dan posisinya sudah tepat
         </div>
         <div
           className="grid grid-cols-5 grid-rows-1 gap-1.5 w-64 mb-2"
@@ -59,7 +60,7 @@ export default function HelpModal(props: Props) {
           })}
         </div>
         <div className="mb-4">
-          Ada huruf <strong>A</strong> di kata namun posisinya belum tepat
+          Huruf <strong>A</strong> ada namun posisinya belum tepat
         </div>
         <div
           className="grid grid-cols-5 grid-rows-1 gap-1.5 w-64 mb-2"
@@ -77,7 +78,7 @@ export default function HelpModal(props: Props) {
           })}
         </div>
         <div className="mb-4">
-          Tidak ada huruf <strong>K</strong> di kata
+          Tidak ada huruf <strong>K</strong> di kata rahasia
         </div>
         <hr className="border-gray-700 mb-4" />
         <p className="font-semibold">

@@ -75,9 +75,12 @@ function getMidnightDate() {
 async function main() {
   const [usedWords, allWords] = await Promise.all([
     getUsedWords(),
-    fs
-      .readFile(path.join(__dirname, "whitelist.csv"), "utf-8")
-      .then((text) => text.split(",").filter(Boolean)),
+    fs.readFile(path.join(__dirname, "whitelist.csv"), "utf-8").then((text) =>
+      text
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean)
+    ),
   ]);
 
   const validWords = allWords.filter((word) => !usedWords.includes(word));
