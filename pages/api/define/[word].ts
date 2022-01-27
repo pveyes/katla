@@ -19,24 +19,27 @@ export default async function handler(
 
   let definitions: String[] | null = null;
   try {
-    const kateglo: KategloResponse = await fetch(
-      `https://kateglo.com/api.php?format=json&phrase=${word}`
-    ).then((res) => res.json());
-    definitions = Array.from(kateglo.kateglo.definition).map((d) => d.def_text);
+    const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`).then(
+      (res) => res.text()
+    );
+    const $ = cheerio.load(html);
+
+    definitions = [];
+    $("ol li, ul.adjusted-par li").each((i, el) => {
+      $(el).find("font").remove();
+      definitions.push($(el).text());
+    });
   } catch (err) {
     console.warn(
-      `Failed to fetch definitions from kateglo.com, using KBBI online for word ${word}`
+      `Failed to fetch definitions from KBBI, using kateglo.com for word ${word}`
     );
     try {
-      definitions = [];
-      const html = await fetch(
-        `https://kbbi.kemdikbud.go.id/entri/${word}`
-      ).then((res) => res.text());
-      const $ = cheerio.load(html);
-      $("ol li, ul.adjusted-par li").each((i, el) => {
-        $(el).find("font").remove();
-        definitions.push($(el).text());
-      });
+      const kateglo: KategloResponse = await fetch(
+        `https://kateglo.com/api.php?format=json&phrase=${word}`
+      ).then((res) => res.json());
+      definitions = Array.from(kateglo.kateglo.definition).map(
+        (d) => d.def_text
+      );
     } catch (err) {
       definitions = null;
     }
