@@ -1,5 +1,6 @@
 import { GetStaticProps } from "next";
 import { useEffect, useState } from "react";
+import { formatDate, formatTime } from "../utils/formatter";
 
 interface Props {
   hash: string;
@@ -13,14 +14,19 @@ export default function Debug(props: Props) {
     const gameStats = localStorage.getItem("katla:gameStats");
     const lastHash = localStorage.getItem("katla:lastHash");
     const now = new Date();
-    const month = (now.getMonth() + 1).toString().padStart(2, "0");
-    const date = now.getDate().toString().padStart(2, "0");
-    const nowDate = `${now.getFullYear()}-${month}-${date}`;
+    const nowDate = formatDate(now);
+    const nowHours = formatTime(now);
     setDebugCode(
       btoa(
-        [props.hash, props.date, lastHash, nowDate, gameState, gameStats].join(
-          ":"
-        )
+        [
+          props.hash,
+          props.date,
+          lastHash,
+          nowDate,
+          nowHours,
+          gameState,
+          gameStats,
+        ].join(":")
       )
     );
   }, []);
@@ -33,7 +39,7 @@ export default function Debug(props: Props) {
       ) : (
         <>
           <p className="mb-4">
-            Send this code to{" "}
+            Kirimkan keluhan dan sertakan kode ini ke{" "}
             <a className="text-blue-400" href="https://twitter.com/pveyes">
               @pveyes
             </a>{" "}

@@ -11,6 +11,7 @@ import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
 import useRemainingTime from "../utils/useRemainingTime";
 import { Game } from "../utils/useGame";
+import { pad0 } from "../utils/formatter";
 
 interface Props {
   isOpen: boolean;
@@ -24,7 +25,7 @@ interface Props {
 export default function StatsModal(props: Props) {
   const { isOpen, onClose, game, stats, showMessage } = props;
   const { hours, minutes, seconds } = props.remainingTime;
-  const remainingTime = `${hours}:${minutes}:${seconds}`;
+  const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
 
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
