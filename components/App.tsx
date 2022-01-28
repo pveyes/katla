@@ -75,21 +75,6 @@ export default function App(props: Props) {
       return;
     }
 
-    const now = new Date();
-    const gameDate = new Date(game.date);
-    if (
-      now.getTime() > gameDate.getTime() &&
-      (now.getFullYear() > gameDate.getFullYear() ||
-        now.getMonth() > gameDate.getMonth() ||
-        now.getDate() > gameDate.getDate())
-    ) {
-      markInvalid();
-      showMessage("Silahkan tunggu hingga katla baru tersedia", () => {
-        window.location.reload();
-      });
-      return;
-    }
-
     const userAnswer = game.state.answers[game.state.attempt];
     if (userAnswer.length < 5) {
       markInvalid();
