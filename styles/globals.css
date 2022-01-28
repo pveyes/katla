@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gray-900 overflow-hidden;
+  @apply dark:bg-gray-900 bg-white overflow-hidden;
 }
 
 .absolute-center {

@@ -163,7 +163,8 @@ export default function StatsModal(props: Props) {
                     7
                   );
             const alignment = ratio === 7 ? "justify-center" : "justify-end";
-            const background = ratio === 7 ? "bg-gray-700" : "bg-green-600";
+            const background =
+              ratio === 7 ? "dark:bg-gray-700 bg-gray-300" : "bg-green-600";
             return (
               <div className="flex h-5 mb-2" key={i}>
                 <div className="tabular-nums">{i + 1}</div>

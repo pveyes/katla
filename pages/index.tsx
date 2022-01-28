@@ -22,6 +22,8 @@ import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
 import fetcher from "../utils/fetcher";
 
+import { useTheme } from "next-themes";
+
 interface Props {
   hash: string;
   date: string;
@@ -175,6 +177,8 @@ function Container(props: PropsWithChildren<{}>) {
 }
 
 function Header({ onShowStats, onShowHelp, onShowSetting }) {
+  const { theme, setTheme } = useTheme();
+
   return (
     <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
       <Head>
@@ -212,25 +216,74 @@ function Header({ onShowStats, onShowHelp, onShowSetting }) {
       </Head>
       <div className="border-b border-b-gray-700 relative text-gray-500">
         <h1
-          className="uppercase text-4xl text-gray-200 font-bold w-max mx-auto relative z-10"
+          className="uppercase text-4xl dark:text-gray-200 text-gray-900 font-bold w-max mx-auto relative z-10"
           style={{ letterSpacing: 4 }}
         >
           Katla
         </h1>
         <div className="absolute flex flex-row items-center justify-between inset-0">
-          <button onClick={onShowHelp} title="Bantuan" aria-label="Pengaturan">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              height="24"
-              viewBox="0 0 24 24"
-              width="24"
+          <div className="flex gap-2">
+            <button
+              onClick={onShowHelp}
+              title="Bantuan"
+              aria-label="Pengaturan"
             >
-              <path
-                fill="currentColor"
-                d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
-              ></path>
-            </svg>
-          </button>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+              >
+                <path
+                  fill="currentColor"
+                  d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
+                ></path>
+              </svg>
+            </button>
+            {theme === "dark" ? (
+              <button
+                onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                title="Tema"
+                aria-label="Tema"
+              >
+                <svg
+                  className="w-6 h-6"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"
+                  ></path>
+                </svg>
+              </button>
+            ) : (
+              <button
+                onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                title="Tema"
+                aria-label="Tema"
+              >
+                <svg
+                  className="w-6 h-6"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"
+                  ></path>
+                </svg>
+              </button>
+            )}
+          </div>
           <div className="flex gap-2">
             <button
               onClick={onShowStats}
