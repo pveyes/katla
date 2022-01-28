@@ -4,48 +4,51 @@ import confetti from "canvas-confetti";
 
 import Modal from "./Modal";
 
-import { GameState, GameStats } from "../utils/types";
+import { GameStats } from "../utils/types";
 import { getTotalPlay, getTotalWin } from "../utils/score";
 import { getAnswerStates } from "../utils/answer";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
+import useRemainingTime from "../utils/useRemainingTime";
+import { Game } from "../utils/useGame";
 
 interface Props {
   isOpen: boolean;
   onClose: () => void;
-  gameState: GameState;
+  game: Game;
   stats: GameStats;
-  date: string;
-  hash: string;
   showMessage: (message: string) => void;
+  remainingTime: ReturnType<typeof useRemainingTime>;
 }
 
 export default function StatsModal(props: Props) {
-  const { isOpen, onClose, gameState, stats, date, hash, showMessage } = props;
+  const { isOpen, onClose, game, stats, showMessage } = props;
+  const { hours, minutes, seconds } = props.remainingTime;
+  const remainingTime = `${hours}:${minutes}:${seconds}`;
 
-  const answer = decode(hash);
+  const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
   const showShare =
-    gameState.answers.filter(Boolean).length === 6 ||
-    gameState.answers[gameState.attempt - 1] === answer;
+    game.state.answers.filter(Boolean).length === 6 ||
+    game.state.answers[game.state.attempt - 1] === answer;
   const totalWin = getTotalWin(stats);
   const totalPlay = getTotalPlay(stats);
 
   function generateText() {
     const num = Math.ceil(
-      (new Date(date).getTime() - new Date("2022-01-20").getTime()) /
+      (new Date(game.date).getTime() - new Date("2022-01-20").getTime()) /
         24 /
         60 /
         60 /
         1000
     );
     const score =
-      gameState.answers[gameState.attempt - 1] === answer
-        ? gameState.attempt
+      game.state.answers[game.state.attempt - 1] === answer
+        ? game.state.attempt
         : "X";
     let text = `Katla ${num} ${score}/6\n\n`;
 
-    gameState.answers.filter(Boolean).forEach((userAnswer) => {
+    game.state.answers.filter(Boolean).forEach((userAnswer) => {
       const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
         switch (state) {
           case "correct":
@@ -64,7 +67,7 @@ export default function StatsModal(props: Props) {
   }
 
   useEffect(() => {
-    if (!isOpen || !showShare || secretHash !== hash) {
+    if (!isOpen || !showShare || secretHash !== game.hash) {
       return;
     }
 
@@ -97,7 +100,7 @@ export default function StatsModal(props: Props) {
 
     frame();
     return () => cancelAnimationFrame(animationFrame);
-  }, [isOpen, showShare, secretHash, hash]);
+  }, [isOpen, showShare, secretHash, game.hash]);
 
   function handleShare() {
     const text = generateText();
@@ -187,7 +190,7 @@ export default function StatsModal(props: Props) {
               <div className="font-semibold uppercase text-xs md:text-md">
                 Katla berikutnya
               </div>
-              <RemainingTime />
+              <div className="text-xl md:text-4xl">{remainingTime}</div>
             </div>
             <div className="bg-gray-400" style={{ width: 1 }}></div>
             <div className="flex flex-col gap-4">
@@ -230,41 +233,6 @@ export default function StatsModal(props: Props) {
       )}
     </Modal>
   );
-}
-
-function RemainingTime() {
-  const now = new Date();
-  const hours = 23 - now.getHours();
-  const seconds = (59 - now.getSeconds()).toString().padStart(2, "0");
-  const minutes = (59 - now.getMinutes()).toString().padStart(2, "0");
-  const [remainingTime, setRemainingTime] = useState(
-    `${hours}:${minutes}:${seconds}`
-  );
-  const reloadTimeout = useRef(null);
-
-  useEffect(() => {
-    const t = setInterval(() => {
-      const now = new Date();
-      const hours = 23 - now.getHours();
-      const minutes = (59 - now.getMinutes()).toString().padStart(2, "0");
-      const seconds = (59 - now.getSeconds()).toString().padStart(2, "0");
-
-      if (
-        !reloadTimeout.current &&
-        hours === 0 &&
-        minutes == "00" &&
-        Number(seconds) <= 5
-      ) {
-        reloadTimeout.current = setTimeout(() => {
-          window.location.reload();
-        }, 1000 * Number(seconds));
-      }
-
-      setRemainingTime(`${hours}:${minutes}:${seconds}`);
-    }, 500);
-    return () => clearInterval(t);
-  }, []);
-  return <div className="text-xl md:text-4xl">{remainingTime}</div>;
 }
 
 function WordDefinition({ answer }) {

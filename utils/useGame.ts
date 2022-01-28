@@ -14,10 +14,16 @@ interface Config {
   date: string;
 }
 
+export interface Game extends Config {
+  ready: boolean;
+  state: GameState;
+  setState: (state: GameState) => void;
+}
+
 const useGameState: PersistedState<GameState> =
   createPersistedState(GAME_STATE_KEY);
 
-export default function useGame(config: Config) {
+export default function useGame(config: Config): Game {
   const [state, setState] = useGameState(initialState);
   const [gameReady, setGameReady] = useState(false);
   const [currentHash, setCurrentHash] = useState(config.hash);
@@ -55,5 +61,11 @@ export default function useGame(config: Config) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return { gameReady, state, setState, currentHash };
+  return {
+    hash: currentHash,
+    date: config.date,
+    ready: gameReady,
+    state,
+    setState,
+  };
 }

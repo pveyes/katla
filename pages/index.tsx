@@ -21,6 +21,7 @@ import { getTotalPlay } from "../utils/score";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
 import fetcher from "../utils/fetcher";
+import useRemainingTime from "../utils/useRemainingTime";
 
 interface Props {
   hash: string;
@@ -45,7 +46,8 @@ const useStats: PersistedState<GameStats> =
   createPersistedState(GAME_STATS_KEY);
 
 export default function Home(props: Props) {
-  const { state, setState, gameReady, currentHash } = useGame(props);
+  const remainingTime = useRemainingTime();
+  const game = useGame(props);
   const [stats, setStats] = useStats(initialStats);
   const [message, setMessage] = useState(null);
   const { data: words = [] } = useSWR("/api/words", fetcher);
@@ -57,7 +59,7 @@ export default function Home(props: Props) {
 
   // modal effect
   useEffect(() => {
-    if (!gameReady) {
+    if (!game.ready) {
       return;
     }
 
@@ -67,15 +69,15 @@ export default function Home(props: Props) {
     }
     // show stats screen if user already finished playing current session
     else if (
-      state.attempt === 6 ||
-      state.answers[state.attempt - 1] === decode(currentHash)
+      game.state.attempt === 6 ||
+      game.state.answers[game.state.attempt - 1] === decode(game.hash)
     ) {
       setShowStats(true);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [gameReady, currentHash]);
+  }, [game.ready, game.hash]);
 
-  const ready = gameReady && words.length > 0;
+  const ready = game.ready && words.length > 0;
 
   // auto resize board game to fit screen
   useEffect(() => {
@@ -126,9 +128,7 @@ export default function Home(props: Props) {
       <Header {...headerProps} />
       {message && <Alert>{message}</Alert>}
       <App
-        hash={currentHash}
-        gameState={state}
-        setGameState={setState}
+        game={game}
         stats={stats}
         setStats={setStats}
         showStats={() => setShowStats(true)}
@@ -139,11 +139,10 @@ export default function Home(props: Props) {
       <StatsModal
         isOpen={showStats}
         onClose={() => setShowStats(false)}
-        gameState={state}
+        game={game}
         stats={stats}
-        date={props.date}
-        hash={currentHash}
         showMessage={showMessage}
+        remainingTime={remainingTime}
       />
       <SettingsModal
         isOpen={showSettings}
