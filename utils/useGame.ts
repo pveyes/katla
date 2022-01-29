@@ -1,7 +1,9 @@
 import { useEffect, useState } from "react";
 import createPersistedState from "use-persisted-state";
-import { LAST_HASH_KEY, GAME_STATE_KEY } from "./constants";
+import useSWR from "swr";
 
+import { LAST_HASH_KEY, GAME_STATE_KEY } from "./constants";
+import fetcher from "./fetcher";
 import { GameState, PersistedState } from "./types";
 
 const initialState: GameState = {
@@ -15,18 +17,23 @@ interface Config {
 }
 
 export interface Game extends Config {
+  words: string[];
   ready: boolean;
   state: GameState;
   setState: (state: GameState) => void;
 }
 
-const useGameState: PersistedState<GameState> =
+const useGamePersistedState: PersistedState<GameState> =
   createPersistedState(GAME_STATE_KEY);
 
-export default function useGame(config: Config): Game {
+export default function useGame(
+  config: Config,
+  useGameState = useGamePersistedState
+): Game {
   const [state, setState] = useGameState(initialState);
   const [gameReady, setGameReady] = useState(false);
   const [currentHash, setCurrentHash] = useState(config.hash);
+  const { data: words = [] } = useSWR("/api/words", fetcher);
 
   useEffect(() => {
     setGameReady(true);
@@ -62,9 +69,10 @@ export default function useGame(config: Config): Game {
   }, []);
 
   return {
+    words,
     hash: currentHash,
     date: config.date,
-    ready: gameReady,
+    ready: gameReady && words.length > 0,
     state,
     setState,
   };

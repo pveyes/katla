@@ -1,4 +1,4 @@
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 import Board from "./Board";
 import Keyboard from "./Keyboard";
@@ -16,11 +16,11 @@ interface Props {
   setStats: (stats: GameStats) => void;
   showMessage: (message: string, cb?: () => void) => void;
   showStats: () => void;
-  words: string[];
 }
 
 export default function App(props: Props) {
-  const { game, stats, setStats, showMessage, showStats, words } = props;
+  const { game, stats, setStats, showMessage, showStats } = props;
+  const words = game.words;
 
   const [invalidAnswer, setInvalidAnswer] = useState(false);
   const isAnimating = useRef(null);
@@ -148,6 +148,28 @@ export default function App(props: Props) {
       setInvalidAnswer(false);
     }, 600);
   }
+
+  // auto resize board game to fit screen
+  useEffect(() => {
+    if (!game.ready) {
+      return;
+    }
+
+    function handleResize() {
+      const katla = document.querySelector("#katla") as HTMLDivElement;
+      const height =
+        window.innerHeight -
+        document.querySelector("#header").getBoundingClientRect().height -
+        document.querySelector("#keyboard").getBoundingClientRect().height;
+      const width = window.innerWidth;
+      katla.style.height = Math.min(height, width) + "px";
+      katla.style.width = Math.min(height, width) + "px";
+    }
+
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, [game.ready]);
 
   return (
     <>

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "./Link";
 import Modal from "./Modal";
 
 interface Props {
@@ -23,18 +23,25 @@ export default function SettingsModal(props: Props) {
         <strong>Katla</strong> merupakan <s>imitasi</s> adaptasi dari{" "}
         <a
           href="https://www.powerlanguage.co.uk/wordle/"
-          className="text-green-600 hover:underline"
+          className="text-green-600 hover:text-green-700"
         >
           Wordle
         </a>
       </p>
-      <p>
-        <h2 className="text-xl">Terdapat Masalah?</h2>
-        <Link href="/debug">
-          <a className="text-green-600">Laporkan bug</a>
+      <p className="mb-4">
+        Kamu bisa melihat daftar kata yang telah digunakan sebelumnya di dalam{" "}
+        <Link href="/arsip">
+          <a className="text-green-600 hover:text-green-700">Arsip</a>
         </Link>
+      </p>
+      <p>
+        <h2 className="text-xl font-semibold">Terdapat Masalah?</h2>
+        <Link href="/debug">Laporkan bug</Link>
         <span> atau </span>
-        <button onClick={handleReset} className="text-green-600">
+        <button
+          onClick={handleReset}
+          className="text-green-600 hover:text-green-700"
+        >
           reset sesi sekarang
         </button>
       </p>
