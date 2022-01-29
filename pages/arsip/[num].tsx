@@ -40,7 +40,7 @@ const initialStats: GameStats = {
 };
 
 export default function Arsip(props: Props) {
-  const game = useGame(props, useState);
+  const game = useGame(props, false);
   const [stats, setStats] = useState(initialStats);
   const [message, setMessage] = useState(null);
   const [showHelp, setShowHelp] = useState(false);

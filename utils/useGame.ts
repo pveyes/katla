@@ -28,9 +28,10 @@ const useGamePersistedState: PersistedState<GameState> =
 
 export default function useGame(
   config: Config,
-  useGameState = useGamePersistedState
+  enableStorage: boolean = true
 ): Game {
-  const [state, setState] = useGameState(initialState);
+  const useGameState = enableStorage ? useGamePersistedState : useState;
+  const [state, setState] = useGameState<GameState>(initialState);
   const [gameReady, setGameReady] = useState(false);
   const [currentHash, setCurrentHash] = useState(config.hash);
   const { data: words = [] } = useSWR("/api/words", fetcher);
@@ -40,6 +41,10 @@ export default function useGame(
 
     const lastHash = localStorage.getItem(LAST_HASH_KEY);
     let currentHash = config.hash;
+
+    if (!enableStorage) {
+      return;
+    }
 
     if (lastHash !== currentHash && lastHash !== "") {
       // new game schedule
