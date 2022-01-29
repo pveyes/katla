@@ -15,8 +15,12 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
+    "@liveblocks/client": "^0.14.1",
+    "@liveblocks/node": "^0.3.0",
+    "@liveblocks/react": "^0.14.1",
     "@notionhq/client": "^0.4.12",
     "@reach/dialog": "^0.16.2",
+    "@reach/menu-button": "^0.16.2",
     "@sentry/nextjs": "^6.17.4",
     "canvas-confetti": "^1.4.0",
     "cheerio": "^1.0.0-rc.10",

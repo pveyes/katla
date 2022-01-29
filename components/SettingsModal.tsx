@@ -12,28 +12,18 @@ import {
   LAST_SESSION_RESET_KEY,
 } from "../utils/constants";
 import LocalStorage from "../utils/browser";
-import { Game } from "../utils/game";
+import { Game, LiveConfig } from "../utils/types";
+import { shareInviteLink } from "../utils/liveGame";
 
 interface Props {
   isOpen: boolean;
   onClose: () => void;
   game: Game;
+  liveConfig?: LiveConfig;
 }
 
 export default function SettingsModal(props: Props) {
-  function handleReset() {
-    LocalStorage.removeItem(GAME_STATE_KEY);
-    LocalStorage.removeItem(GAME_STATS_KEY);
-    LocalStorage.removeItem(INVALID_WORDS_KEY);
-    LocalStorage.removeItem(LAST_HASH_KEY);
-    LocalStorage.setItem(
-      LAST_SESSION_RESET_KEY,
-      new Date().getTime().toString()
-    );
-    window.location.reload();
-  }
-
-  const { game, isOpen, onClose } = props;
+  const { game, isOpen, onClose, liveConfig } = props;
   const { resolvedTheme, setTheme } = useTheme();
 
   return (
@@ -66,6 +56,88 @@ export default function SettingsModal(props: Props) {
           game.setState({ ...game.state, enableHighContrast });
         }}
       />
+      {liveConfig ? (
+        liveConfig.isHost ? (
+          <AdminTools config={liveConfig} game={game} onClose={onClose} />
+        ) : (
+          <PlayerTools config={liveConfig} />
+        )
+      ) : (
+        <AdditionalInformation />
+      )}
+    </Modal>
+  );
+}
+
+interface AdminToolsProps {
+  game: Game;
+  onClose: () => void;
+  config: LiveConfig;
+}
+
+function AdminTools(props: AdminToolsProps) {
+  const { game, onClose, config } = props;
+
+  function handleReset() {
+    game.resetState();
+    onClose();
+  }
+
+  function handleInvite() {
+    shareInviteLink(config, onClose);
+  }
+
+  return (
+    <div>
+      <h4 className="text-center uppercase font-semibold my-4">Mode Lawan</h4>
+      <button className="color-accent block mb-2" onClick={handleInvite}>
+        Ajak pemain
+      </button>
+      <button className="color-accent block mb-2" onClick={handleReset}>
+        Mulai dari awal
+      </button>
+    </div>
+  );
+}
+
+interface PlayerToolsProps {
+  config: LiveConfig;
+}
+
+function PlayerTools(props: PlayerToolsProps) {
+  const { config } = props;
+
+  function handleInvite() {
+    shareInviteLink(config);
+  }
+
+  return (
+    <div>
+      <h4 className="text-center uppercase font-semibold my-4">
+        Pengaturan Mode Lawan
+      </h4>
+      <button className="color-accent" onClick={handleInvite}>
+        Ajak pemain
+      </button>
+    </div>
+  );
+}
+
+function AdditionalInformation() {
+  function handleReset() {
+    LocalStorage.removeItem(GAME_STATE_KEY);
+    LocalStorage.removeItem(GAME_STATS_KEY);
+    LocalStorage.removeItem(INVALID_WORDS_KEY);
+    LocalStorage.removeItem(LAST_HASH_KEY);
+    LocalStorage.setItem(
+      LAST_SESSION_RESET_KEY,
+      new Date().getTime().toString()
+    );
+    window.location.reload();
+  }
+
+  return (
+    <>
       <h4 className="text-center uppercase font-semibold my-4">Informasi</h4>
       <p className="mb-4">
         <strong>Katla</strong> merupakan <s>imitasi</s> adaptasi dari{" "}
@@ -117,7 +189,7 @@ export default function SettingsModal(props: Props) {
           reset sesi sekarang
         </button>
       </div>
-    </Modal>
+    </>
   );
 }
 

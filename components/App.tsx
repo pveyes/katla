@@ -8,16 +8,16 @@ import { decode, encode } from "../utils/codec";
 import { getCongratulationMessage, getFailureMessage } from "../utils/message";
 import {
   checkHardModeAnswer,
-  Game,
   getAnswerStates,
   verifyStreak,
 } from "../utils/game";
+import { Game } from "../utils/types";
 import { trackEvent } from "../utils/tracking";
 import Alert from "./Alert";
 import { rainEmoji } from "./EmojiRain";
 
 interface Props {
-  game: Game;
+  game: Game<any>;
   stats: GameStats;
   words: string[];
   setStats: (stats: GameStats) => void;
@@ -138,6 +138,7 @@ export default function App(props: Props) {
     }
 
     setInvalidAnswer(false);
+    game.submitAnswer?.(userAnswer, game.state.attempt + 1);
     game.setState({
       ...game.state,
       answers: game.state.answers.map((answer, i) => {
@@ -156,6 +157,23 @@ export default function App(props: Props) {
       isAnimating.current = false;
 
       if (answer === userAnswer) {
+        if (typeof game.submitAnswer === "function") {
+          game.setState({
+            ...game.state,
+            answers: game.state.answers.map((answer, i) => {
+              if (i === game.state.attempt) {
+                return userAnswer;
+              }
+
+              return answer;
+            }),
+            attempt: game.state.attempt + 1,
+            lastCompletedDate: new Date().getTime(),
+          });
+
+          return;
+        }
+
         trackEvent("succeed", {
           hash: game.hash,
           attempt: game.state.attempt + 1,
@@ -189,6 +207,7 @@ export default function App(props: Props) {
           maxStreak: Math.max(stats.maxStreak, currentStreak),
         });
 
+        // TODO: move to game.submitAnswer
         const message = getCongratulationMessage(game.state.attempt + 1, stats);
         Alert.show(message, {
           id: "finish",
@@ -196,6 +215,23 @@ export default function App(props: Props) {
           cb: showStats,
         });
       } else if (game.state.attempt === 5) {
+        if (typeof game.submitAnswer === "function") {
+          game.setState({
+            ...game.state,
+            answers: game.state.answers.map((answer, i) => {
+              if (i === game.state.attempt) {
+                return userAnswer;
+              }
+
+              return answer;
+            }),
+            attempt: game.state.attempt + 1,
+            lastCompletedDate: new Date().getTime(),
+          });
+
+          return;
+        }
+
         trackEvent("failed", { hash: game.hash });
         setStats({
           distribution: {
@@ -237,7 +273,9 @@ export default function App(props: Props) {
       const maxTileHeight =
         window.innerHeight -
         document.querySelector("#header").getBoundingClientRect().height -
-        document.querySelector("#keyboard").getBoundingClientRect().height;
+        document.querySelector("#keyboard").getBoundingClientRect().height -
+        (document.querySelector("#game-bar")?.getBoundingClientRect()?.height ??
+          0);
       const maxTileSize = Math.min(maxTileHeight, window.innerWidth);
       const singleTileSize = Math.max(Math.floor((maxTileSize - 30) / 6), 62);
 
@@ -253,7 +291,7 @@ export default function App(props: Props) {
 
   return (
     <>
-      <div className="mx-auto max-w-full px-4 flex justify-center items-centerg grow-0 shrink">
+      <div className="mx-auto max-w-full px-4 flex justify-center items-center grow-0 shrink">
         <Board
           hash={game.hash}
           gameState={game.state}

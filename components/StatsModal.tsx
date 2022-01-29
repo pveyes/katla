@@ -1,24 +1,23 @@
 import useSWR from "swr";
 import { useEffect } from "react";
-import confetti from "canvas-confetti";
 import { useTheme } from "next-themes";
 import * as Sentry from "@sentry/nextjs";
 
 import Modal from "./Modal";
+import Alert from "./Alert";
 
-import { GameStats } from "../utils/types";
+import { Game, GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
 import { pad0 } from "../utils/formatter";
 import {
-  Game,
   useRemainingTime,
   getTotalPlay,
   getTotalWin,
   getAnswerStates,
 } from "../utils/game";
-import { checkNativeShareSupport } from "../utils/browser";
-import Alert from "./Alert";
+import confetti from "../utils/animation";
+import { checkNativeShareSupport, shareText } from "../utils/browser";
 
 interface Props {
   isOpen: boolean;
@@ -76,87 +75,11 @@ export default function StatsModal(props: Props) {
       return;
     }
 
-    // do this for 3 seconds
-    const duration = 3 * 1000;
-    const end = Date.now() + duration;
-
-    let animationFrame;
-    function frame() {
-      // launch a few confetti from the left edge
-      confetti({
-        particleCount: 7,
-        angle: 60,
-        spread: 55,
-        origin: { x: 0 },
-      });
-      // and launch a few from the right edge
-      confetti({
-        particleCount: 7,
-        angle: 120,
-        spread: 55,
-        origin: { x: 1 },
-      });
-
-      // keep going until we are out of time
-      if (Date.now() < end) {
-        animationFrame = requestAnimationFrame(frame);
-      }
-    }
-
-    frame();
-    return () => cancelAnimationFrame(animationFrame);
+    return confetti();
   }, [isOpen, showShare, secretHash, game.hash]);
 
   function handleShare() {
-    const text = generateText();
-    const shareData: ShareData = { text };
-    const clipboardSuccessCallback = () => {
-      onClose();
-      Alert.show("Disalin ke clipboard", { id: "clipboard " });
-    };
-    const clipboardFailedCallback = (err: Error) => {
-      Sentry.captureException(err);
-      onClose();
-      Alert.show("Gagal menyalin ke clipboard", { id: "clipboard" });
-    };
-
-    if (useNativeShare) {
-      // native share
-      navigator.share(shareData).catch(() => {
-        // TODO: handle non abort error
-      });
-    } else if (
-      "clipboard" in navigator &&
-      typeof navigator.clipboard.writeText === "function" &&
-      // https://sentry.io/share/issue/5074ad1fa6b34a2a9985edc7155967f0/
-      // https://stackoverflow.com/questions/61243646/clipboard-api-call-throws-notallowederror-without-invoking-onpermissionrequest
-      "permissions" in navigator
-    ) {
-      // async clipboard API
-      const promise = navigator.clipboard.writeText(text);
-
-      // https://sentry.io/share/issue/59a42dfd516a439a99f763ee276aff26/
-      if (promise) {
-        promise.then(clipboardSuccessCallback).catch(clipboardFailedCallback);
-      }
-    } else {
-      // legacy browsers without async clipboard API support
-      const textarea = document.createElement("textarea");
-      textarea.textContent = text;
-      textarea.style.position = "fixed";
-      document.body.appendChild(textarea);
-      // https://sentry.io/share/issue/cb8a0ca8f6fc47858eafe4bc5959debd/
-      textarea.focus();
-      textarea.select();
-      try {
-        document.execCommand("copy");
-        clipboardSuccessCallback();
-      } catch (err) {
-        clipboardFailedCallback(err);
-      } finally {
-        document.body.removeChild(textarea);
-      }
-    }
+    shareText(generateText(), { cb: onClose });
   }
 
   async function handleShareImage() {
