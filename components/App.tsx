@@ -8,6 +8,7 @@ import { decode } from "../utils/codec";
 import { getCongratulationMessage } from "../utils/message";
 import { getTotalPlay } from "../utils/score";
 import { Game } from "../utils/useGame";
+import { trackEvent } from "../utils/tracking";
 
 interface Props {
   game: Game;
@@ -84,6 +85,7 @@ export default function App(props: Props) {
 
     if (!words.includes(userAnswer)) {
       markInvalid();
+      trackEvent("invalid_word", { word: userAnswer });
       showMessage("Tidak ada dalam KBBI");
       return;
     }
@@ -105,6 +107,7 @@ export default function App(props: Props) {
       isAnimating.current = false;
 
       if (answer === userAnswer) {
+        trackEvent("succeed", { hash: game.hash });
         setStats({
           distribution: {
             ...stats.distribution,
@@ -122,6 +125,7 @@ export default function App(props: Props) {
           showStats();
         });
       } else if (game.state.attempt === 5) {
+        trackEvent("failed", { hash: game.hash });
         setStats({
           distribution: {
             ...stats.distribution,
