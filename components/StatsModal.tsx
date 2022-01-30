@@ -1,5 +1,5 @@
 import useSWR from "swr";
-import { useEffect, useRef, useState } from "react";
+import { useEffect } from "react";
 import confetti from "canvas-confetti";
 
 import Modal from "./Modal";
@@ -12,6 +12,7 @@ import fetcher from "../utils/fetcher";
 import useRemainingTime from "../utils/useRemainingTime";
 import { Game } from "../utils/useGame";
 import { pad0 } from "../utils/formatter";
+import getGameNum from "../utils/game";
 
 interface Props {
   isOpen: boolean;
@@ -36,13 +37,7 @@ export default function StatsModal(props: Props) {
   const totalPlay = getTotalPlay(stats);
 
   function generateText() {
-    const num = Math.ceil(
-      (new Date(game.date).getTime() - new Date("2022-01-20").getTime()) /
-        24 /
-        60 /
-        60 /
-        1000
-    );
+    const num = getGameNum(game.date);
     const score =
       game.state.answers[game.state.attempt - 1] === answer
         ? game.state.attempt

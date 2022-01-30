@@ -1,7 +1,6 @@
 import React, { ComponentProps, useEffect, useState } from "react";
 import createPersistedState from "use-persisted-state";
 import { GetStaticProps } from "next";
-import { differenceInDays } from "date-fns";
 
 import Container from "../components/Container";
 import Header from "../components/Header";
@@ -18,6 +17,7 @@ import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
 import useRemainingTime from "../utils/useRemainingTime";
 import HeadingWithNum from "../components/HeadingWithNum";
+import getGameNum from "../utils/game";
 
 interface Props {
   hash: string;
@@ -46,10 +46,6 @@ export default function Home(props: Props) {
   const game = useGame(props);
   const [stats, setStats] = useStats(initialStats);
   const [message, setMessage] = useState(null);
-
-  const start = new Date("2022-01-20");
-  const now = new Date();
-  const diff = differenceInDays(now, start);
 
   // modals
   const [showHelp, setShowHelp] = useState(false);
@@ -85,7 +81,7 @@ export default function Home(props: Props) {
   }
 
   const headerProps: ComponentProps<typeof Header> = {
-    customHeading: <HeadingWithNum num={diff} />,
+    customHeading: <HeadingWithNum num={getGameNum(game.date)} />,
     onShowStats: () => setShowStats(true),
     onShowHelp: () => setShowHelp(true),
     onShowSettings: () => setShowSettings(true),
