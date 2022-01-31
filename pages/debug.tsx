@@ -1,5 +1,11 @@
 import { GetStaticProps } from "next";
 import { useEffect, useState } from "react";
+import {
+  GAME_STATE_KEY,
+  GAME_STATS_KEY,
+  INVALID_WORDS_KEY,
+  LAST_HASH_KEY,
+} from "../utils/constants";
 import { formatDate, formatTime } from "../utils/formatter";
 
 interface Props {
@@ -10,9 +16,10 @@ interface Props {
 export default function Debug(props: Props) {
   const [debugCode, setDebugCode] = useState("");
   useEffect(() => {
-    const gameState = localStorage.getItem("katla:gameState");
-    const gameStats = localStorage.getItem("katla:gameStats");
-    const lastHash = localStorage.getItem("katla:lastHash");
+    const gameState = localStorage.getItem(GAME_STATE_KEY);
+    const gameStats = localStorage.getItem(GAME_STATS_KEY);
+    const lastHash = localStorage.getItem(LAST_HASH_KEY);
+    const invalidWords = localStorage.getItem(INVALID_WORDS_KEY);
     const now = new Date();
     const nowDate = formatDate(now);
     const nowHours = formatTime(now);
@@ -26,6 +33,8 @@ export default function Debug(props: Props) {
           nowHours,
           gameState,
           gameStats,
+          invalidWords,
+          navigator.userAgent,
         ].join(":")
       )
     );

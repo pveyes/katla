@@ -9,7 +9,7 @@ export function formatTime(d: Date) {
   const hours = d.getHours();
   const minutes = d.getMinutes();
   const seconds = d.getSeconds();
-  return `${hours}:${pad0(minutes)}-${pad0(seconds)}`;
+  return `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
 }
 
 export function pad0(n: number): string {

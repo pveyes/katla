@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import createPersistedState from "use-persisted-state";
 import useSWR from "swr";
 
-import { LAST_HASH_KEY, GAME_STATE_KEY } from "./constants";
+import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import fetcher from "./fetcher";
 import { GameState, PersistedState } from "./types";
 
@@ -22,6 +22,7 @@ export interface Game extends Config {
   ready: boolean;
   state: GameState;
   setState: (state: GameState) => void;
+  trackInvalidWord: (word: string) => void;
 }
 
 const useGamePersistedState: PersistedState<GameState> =
@@ -65,6 +66,7 @@ export default function useGame(
           attempt: 0,
           lastCompletedDate: state.lastCompletedDate,
         });
+        localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
       }
       // not yet ready for a new game
       else {
@@ -75,6 +77,21 @@ export default function useGame(
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  function trackInvalidWord(word: string) {
+    let invalidWords = [];
+    try {
+      invalidWords = JSON.parse(localStorage.getItem(INVALID_WORDS_KEY));
+      if (!Array.isArray(invalidWords)) {
+        throw new Error("invalid words is not an array");
+      }
+    } catch (err) {
+      invalidWords = [];
+    }
+
+    invalidWords.push(word);
+    localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(invalidWords));
+  }
+
   return {
     words,
     hash: currentHash,
@@ -82,5 +99,6 @@ export default function useGame(
     ready: gameReady && words.length > 0,
     state,
     setState,
+    trackInvalidWord,
   };
 }
