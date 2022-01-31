@@ -1,4 +1,9 @@
 import { CSSProperties, useEffect, useState } from "react";
+import {
+  FLIP_ANIMATION_DELAY_MS,
+  FLIP_ANIMATION_DURATION_MS,
+  SHAKE_ANIMATION_DURATION_MS,
+} from "../utils/animation";
 import { AnswerState } from "../utils/types";
 
 interface Props {
@@ -32,12 +37,12 @@ export default function Tile(props: Props) {
   const style: CSSProperties = {};
   if (props.isInvalid) {
     style.animationName = "shake";
-    style.animationDuration = "600ms";
+    style.animationDuration = `${SHAKE_ANIMATION_DURATION_MS}ms`;
   }
 
   if (animate) {
-    style.animationName = "flipIn";
-    style.animationDuration = "400ms";
+    style.animationName = "flip";
+    style.animationDuration = `${FLIP_ANIMATION_DURATION_MS}ms`;
     style.animationDelay = `${props.delay}ms`;
   }
 
@@ -54,7 +59,7 @@ export default function Tile(props: Props) {
           setBackground("bg-gray-700");
           break;
       }
-    }, props.delay + 200);
+    }, props.delay + FLIP_ANIMATION_DELAY_MS);
   }, [animate, props.state, props.delay]);
 
   return (

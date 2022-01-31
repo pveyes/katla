@@ -2,6 +2,7 @@ import { GameState } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getAnswerStates } from "../utils/answer";
 import Tile from "./Tile";
+import { FLIP_ANIMATION_DELAY_MS } from "../utils/animation";
 
 interface Props {
   hash: string;
@@ -41,7 +42,7 @@ export default function Board(props: Props) {
                     char={char}
                     state={state}
                     isInvalid={isInvalid}
-                    delay={300 * index}
+                    delay={FLIP_ANIMATION_DELAY_MS * index}
                   />
                 );
               })}
