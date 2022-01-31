@@ -9,3 +9,18 @@ export function getTotalWin(stats: GameStats) {
 export function getTotalPlay(stats: GameStats) {
   return getTotalWin(stats) + stats.distribution.fail;
 }
+
+export function verifyStreak(lastCompletedDate: string | null): boolean {
+  if (lastCompletedDate === null) {
+    return true;
+  }
+
+  const lastDate = new Date(lastCompletedDate);
+  const now = new Date();
+  now.setDate(now.getDate() - 1);
+  return (
+    now.getDate() === lastDate.getDate() &&
+    now.getMonth() === lastDate.getMonth() &&
+    now.getFullYear() === lastDate.getFullYear()
+  );
+}
