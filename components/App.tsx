@@ -138,10 +138,7 @@ export default function App(props: Props) {
           maxStreak: Math.max(stats.maxStreak, currentStreak),
         });
 
-        const message = getCongratulationMessage(
-          game.state.attempt,
-          getTotalPlay(stats)
-        );
+        const message = getCongratulationMessage(game.state.attempt + 1, stats);
         showMessage(message, () => {
           showStats();
         });

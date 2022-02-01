@@ -238,7 +238,8 @@ function WordDefinition({ answer }) {
     <div className="w-10/12 mx-auto mb-8">
       <h3 className="uppercase font-semibold">Katla hari ini</h3>
       <p className="text-xs mb-2 text-gray-400">
-        Mohon untuk tetap dirahasiakan
+        Mohon untuk tetap dirahasiakan, semua orang mendapatkan kata yang sama
+        🙏
       </p>
       <p>
         <strong>{answer}</strong>
