@@ -100,12 +100,9 @@ export default function StatsModal(props: Props) {
 
   function handleShare() {
     const text = generateText();
-    if ("share" in navigator) {
-      navigator.share({
-        title: "Katla",
-        text: text,
-        url: "https://katla.vercel.app",
-      });
+    const shareData: ShareData = { text };
+    if ("share" in navigator && navigator.canShare(shareData)) {
+      navigator.share(shareData);
     } else {
       navigator.clipboard.writeText(text);
       onClose();
