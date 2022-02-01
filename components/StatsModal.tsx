@@ -102,7 +102,9 @@ export default function StatsModal(props: Props) {
     const text = generateText();
     if ("share" in navigator) {
       navigator.share({
+        title: "Katla",
         text: text,
+        url: "https://katla.vercel.app",
       });
     } else {
       navigator.clipboard.writeText(text);
