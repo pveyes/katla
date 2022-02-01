@@ -72,6 +72,23 @@ export default function Home(props: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [game.ready, game.hash]);
 
+  useEffect(() => {
+    // bugfix
+    if (game.state.lastCompletedDate && stats.currentStreak === 1) {
+      const lastDate = new Date(game.state.lastCompletedDate);
+      if (
+        (lastDate.getMonth() === 0 && lastDate.getDate() === 31) ||
+        (lastDate.getMonth() === 1 && lastDate.getDate() === 1)
+      ) {
+        setStats({
+          ...stats,
+          currentStreak: stats.maxStreak + 1,
+          maxStreak: stats.maxStreak + 1,
+        });
+      }
+    }
+  }, []);
+
   function showMessage(message: string, cb?: () => void) {
     setMessage(message);
     setTimeout(() => {

@@ -3,7 +3,7 @@ export type AnswerState = "correct" | "exist" | "wrong" | null;
 export interface GameState {
   answers: string[];
   attempt: number;
-  lastCompletedDate: string | null;
+  lastCompletedDate: number | null;
 }
 
 export interface GameStats {

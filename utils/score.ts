@@ -10,7 +10,7 @@ export function getTotalPlay(stats: GameStats) {
   return getTotalWin(stats) + stats.distribution.fail;
 }
 
-export function verifyStreak(lastCompletedDate: string | null): boolean {
+export function verifyStreak(lastCompletedDate: number | null): boolean {
   if (!lastCompletedDate) {
     return true;
   }

@@ -9,7 +9,6 @@ import { getCongratulationMessage } from "../utils/message";
 import { getTotalPlay, verifyStreak } from "../utils/score";
 import { Game } from "../utils/useGame";
 import { trackEvent } from "../utils/tracking";
-import { formatDate } from "../utils/formatter";
 
 interface Props {
   game: Game;
@@ -39,6 +38,7 @@ export default function App(props: Props) {
     }
 
     game.setState({
+      ...game.state,
       answers: game.state.answers.map((answer, i) => {
         if (i === game.state.attempt && answer.length < 5) {
           return answer + char;
@@ -46,8 +46,6 @@ export default function App(props: Props) {
 
         return answer;
       }),
-      attempt: game.state.attempt,
-      lastCompletedDate: game.state.lastCompletedDate,
     });
   }
 
@@ -57,6 +55,7 @@ export default function App(props: Props) {
     }
 
     game.setState({
+      ...game.state,
       answers: game.state.answers.map((answer, i) => {
         if (i === game.state.attempt) {
           return answer.slice(0, -1);
@@ -64,8 +63,6 @@ export default function App(props: Props) {
 
         return answer;
       }),
-      attempt: game.state.attempt,
-      lastCompletedDate: game.state.lastCompletedDate,
     });
   }
 
@@ -128,7 +125,7 @@ export default function App(props: Props) {
             return answer;
           }),
           attempt: game.state.attempt + 1,
-          lastCompletedDate: formatDate(new Date()),
+          lastCompletedDate: new Date().getTime(),
         });
 
         setStats({
