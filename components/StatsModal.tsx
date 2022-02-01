@@ -13,6 +13,7 @@ import useRemainingTime from "../utils/useRemainingTime";
 import { Game } from "../utils/useGame";
 import { pad0 } from "../utils/formatter";
 import getGameNum from "../utils/game";
+import { checkNativeShareSupport } from "../utils/browser";
 
 interface Props {
   isOpen: boolean;
@@ -100,10 +101,14 @@ export default function StatsModal(props: Props) {
 
   function handleShare() {
     const text = generateText();
-    if ("share" in navigator) {
-      navigator.share({
-        text: text,
-      });
+    const shareData: ShareData = { text };
+    const useNativeShare = checkNativeShareSupport();
+    if (
+      "share" in navigator &&
+      navigator.canShare(shareData) &&
+      useNativeShare
+    ) {
+      navigator.share(shareData);
     } else {
       navigator.clipboard.writeText(text);
       onClose();
