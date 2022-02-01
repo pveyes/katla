@@ -11,7 +11,7 @@ export function getTotalPlay(stats: GameStats) {
 }
 
 export function verifyStreak(lastCompletedDate: string | null): boolean {
-  if (lastCompletedDate === null) {
+  if (!lastCompletedDate) {
     return true;
   }
 
