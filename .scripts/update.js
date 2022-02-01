@@ -98,7 +98,7 @@ async function main() {
   }
 
   await insertWord(word);
-  console.log("New word inserted");
+  console.log("New word inserted", word);
 }
 
 main().catch((error) => {
