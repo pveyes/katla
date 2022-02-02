@@ -146,13 +146,6 @@ export default function Home(props: Props) {
   return (
     <Container>
       <Header {...headerProps} />
-      <p id="msg-info" className="-mt-4 mb-4 text-sm">
-        <strong>Penting: </strong>Saat ini Katla sedang dalam proses akuisisi.
-        Baca selengkapnya {/* eslint-disable-next-line */}
-        <a href="/akuisisi" className="text-green-500 hover:text-green-700">
-          di sini
-        </a>
-      </p>
       {message && <Alert>{message}</Alert>}
       <App
         game={game}
