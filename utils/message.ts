@@ -13,19 +13,14 @@ export function getCongratulationMessage(attempt: number, stats: GameStats) {
   const message3 = ["Mantap", "Pintar", "Keren"];
   const message4 = ["Bagus Sekali", "Dikit lagi keren", "4 sehat"];
   const message5 = ["Bagus", "Okelah", "5 sempurna"];
-  const message6 = [
-    "Nyaris!!",
-    "Mepet!",
-    "Dikit lagi",
-    "Mungkin besok lebih baik",
-  ];
+  const message6 = ["Nyaris!!", "Mepet!", "Mungkin besok lebih baik"];
 
   if (stats.distribution[1] > 2 || stats.distribution.fail > 2) {
     message1.push("Mencurigakan");
   }
 
-  if (stats.distribution[6] + stats.distribution.fail > 2) {
-    message6.push("Hobi amat mepet", "Suka angka 6?");
+  if (stats.distribution[6] + stats.distribution.fail > 4) {
+    message6.push("Hobi amat mepet", "Suka angka 6?", "Hampir dideportasi");
   }
 
   switch (attempt) {
