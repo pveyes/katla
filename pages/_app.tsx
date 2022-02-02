@@ -5,7 +5,7 @@ import { ThemeProvider } from "next-themes";
 
 export default function MyApp({ Component, pageProps }) {
   return (
-    <>
+    <ThemeProvider storageKey="katla:theme" attribute="class">
       <Component {...pageProps} />
       <Script id="metrical" strategy="afterInteractive">{`
         window.metrical = {
@@ -26,6 +26,6 @@ export default function MyApp({ Component, pageProps }) {
         src="https://www.googletagmanager.com/gtag/js?id=G-QNLF4HTK6S"
         strategy="afterInteractive"
       />
-    </>
+    </ThemeProvider>
   );
 }

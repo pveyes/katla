@@ -52,9 +52,9 @@ export default function Header(props: Props) {
         <link href="/katla-32x32.png" rel="icon shortcut" sizes="3232" />
         <link href="/katla-192x192.png" rel="apple-touch-icon" />
       </Head>
-      <div className="border-b border-b-gray-700 relative text-gray-500">
+      <div className="border-b border-b-gray-500  relative text-gray-500">
         <h1
-          className="uppercase text-4xl text-gray-200 font-bold w-max mx-auto relative z-10"
+          className="uppercase text-4xl dark:text-gray-200 text-gray-900 font-bold w-max mx-auto relative z-10 mb-2"
           style={{ letterSpacing: 4 }}
         >
           {customHeading ? customHeading : "Katla"}

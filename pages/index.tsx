@@ -117,7 +117,10 @@ export default function Home(props: Props) {
   return (
     <Container>
       <Header {...headerProps} />
-      <p id="msg-info" className="-mt-4 mb-4 text-sm">
+      <p
+        id="msg-info"
+        className="-mt-4 mb-4 text-sm dark:text-gray-200 text-gray-900"
+      >
         <strong>Penting: </strong>Saat ini Katla sedang dalam proses akuisisi.
         Baca selengkapnya {/* eslint-disable-next-line */}
         <a href="/akuisisi" className="text-green-500 hover:text-green-700">

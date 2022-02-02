@@ -20,7 +20,7 @@ export default function Tile(props: Props) {
     props.char === " " ? "border" : props.state === null ? "border-3" : "";
   const borderColor =
     props.char === " "
-      ? "border-gray-700"
+      ? "dark:border-gray-700 border-gray-500"
       : props.state === null
       ? "border-gray-500"
       : "";
@@ -50,13 +50,13 @@ export default function Tile(props: Props) {
     setTimeout(() => {
       switch (props.state) {
         case "correct":
-          setBackground("bg-green-700");
+          setBackground("text-gray-200  bg-green-700");
           break;
         case "exist":
-          setBackground("bg-yellow-600");
+          setBackground("text-gray-200 bg-yellow-600");
           break;
         case "wrong":
-          setBackground("bg-gray-700");
+          setBackground("text-gray-200 bg-gray-700");
           break;
       }
     }, props.delay + FLIP_ANIMATION_DELAY_MS);
@@ -65,7 +65,7 @@ export default function Tile(props: Props) {
   return (
     <div
       style={style}
-      className={`rounded-sm uppercase dark:text-white text-gray-900 text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor}`}
+      className={`rounded-sm uppercase dark:text-gray-200 text-gray-900 text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor}`}
     >
       {props.char}
     </div>
