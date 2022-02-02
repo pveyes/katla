@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 body {
-  @apply bg-gray-900 overflow-hidden;
+  @apply bg-gray-900 min-h-screen max-h-screen;
+  min-height: -webkit-fill-available;
+  max-height: -webkit-fill-available;
 }
 
 .absolute-center {
