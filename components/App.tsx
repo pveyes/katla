@@ -178,7 +178,9 @@ export default function App(props: Props) {
       const height =
         window.innerHeight -
         document.querySelector("#header").getBoundingClientRect().height -
-        document.querySelector("#keyboard").getBoundingClientRect().height;
+        document.querySelector("#keyboard").getBoundingClientRect().height -
+        (document.querySelector("#msg-info")?.getBoundingClientRect()?.height ??
+          0);
       const width = window.innerWidth;
       katla.style.height = Math.min(height, width) + "px";
       katla.style.width = Math.min(height, width) + "px";
