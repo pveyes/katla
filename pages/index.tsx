@@ -74,6 +74,10 @@ export default function Home(props: Props) {
 
   useEffect(() => {
     // bugfix
+    if (window.location.host === "katla.id") {
+      return window.location.replace("https://katla.vercel.app");
+    }
+
     if (game.state.lastCompletedDate && stats.currentStreak === 1) {
       const lastDate = new Date(game.state.lastCompletedDate);
       if (
