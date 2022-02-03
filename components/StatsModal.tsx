@@ -55,7 +55,7 @@ export default function StatsModal(props: Props) {
           case "exist":
             return "🟨";
           case "wrong":
-            return theme === "dark" ? "⬛" : "◻️";
+            return theme === "dark" ? "⬛" : "⬜️";
         }
       });
       text += `${answerEmojis.join("")}\n`;
