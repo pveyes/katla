@@ -5,15 +5,28 @@ export function getCongratulationMessage(attempt: number, stats: GameStats) {
   const totalPlay = getTotalPlay(stats);
 
   if (totalPlay === 0 && attempt === 1) {
-    return randomElement(["Curang bukan?", "Mencurigakan"]);
+    return randomElement([
+      "Curang bukan?",
+      "Mencurigakan",
+      "Browser baru?",
+      "Yakin baru main?",
+    ]);
   }
 
-  const message1 = ["Hoki? Atau kena spoiler", "Serius nih?"];
+  const message1 = [
+    "Hoki? Atau kena spoiler",
+    "Serius nih?",
+    "Jenius",
+    "Ajaib",
+    "Cenayang",
+    "Si Peramal",
+    "Penjelajah Waktu",
+  ];
   const message2 = ["Luar Biasa", "Jagoan", "Kebanggaan negara", "Cerdas"];
-  const message3 = ["Mantap", "Pintar", "Keren", "Salut", "Hebat!!"];
+  const message3 = ["Mantap", "Pintar", "Keren", "Salut", "Hebat!!", "Cermat"];
   const message4 = ["Bagus Sekali", "Selamat!", "Dikit lagi keren", "4 sehat"];
   const message5 = ["Bagus", "Okelah", "5 sempurna", "Tidak buruk"];
-  const message6 = ["Nyaris!!", "Mepet!", "Hampir aja"];
+  const message6 = ["Nyaris!!", "Mepet!", "Hampir saja"];
 
   if (stats.distribution[1] > 2 || stats.distribution.fail > 2) {
     message1.push("Mencurigakan");
