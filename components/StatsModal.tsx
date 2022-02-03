@@ -1,6 +1,7 @@
 import useSWR from "swr";
 import { useEffect } from "react";
 import confetti from "canvas-confetti";
+import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
 
@@ -28,6 +29,7 @@ export default function StatsModal(props: Props) {
   const { isOpen, onClose, game, stats, showMessage } = props;
   const { hours, minutes, seconds } = props.remainingTime;
   const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
+  const { theme } = useTheme();
 
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
@@ -53,7 +55,7 @@ export default function StatsModal(props: Props) {
           case "exist":
             return "🟨";
           case "wrong":
-            return "⬛";
+            return theme === "dark" ? "⬛" : "◻️";
         }
       });
       text += `${answerEmojis.join("")}\n`;
