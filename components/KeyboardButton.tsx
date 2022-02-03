@@ -6,23 +6,23 @@ type Props = {
 } & Omit<ComponentProps<"button">, "className" | "style">;
 
 export default function KeyboardButton(props: Props) {
-  let background = "bg-gray-500";
+  let color = "bg-gray-300 text-gray-900 dark:bg-gray-500 dark:text-gray-200";
   switch (props.state) {
     case "correct":
-      background = "bg-green-700";
+      color = "bg-green-700";
       break;
     case "exist":
-      background = "bg-yellow-600";
+      color = "bg-yellow-600";
       break;
     case "wrong":
-      background = "bg-gray-700";
+      color = "text-white bg-gray-500 dark:text-gray-200 dark:bg-gray-700";
       break;
     default:
   }
 
   return (
     <button
-      className={`rounded-md uppercase font-semibold text-sm flex items-center justify-center ${background}`}
+      className={`rounded-md uppercase font-semibold text-sm flex items-center justify-center ${color}`}
       style={{ minHeight: 48, flex: props.scale ?? 1 }}
       {...props}
     />

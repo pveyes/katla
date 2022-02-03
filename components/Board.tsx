@@ -2,7 +2,7 @@ import { GameState } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getAnswerStates } from "../utils/answer";
 import Tile from "./Tile";
-import { FLIP_ANIMATION_DELAY_MS } from "../utils/animation";
+import { FLIP_ANIMATION_DELAY_MS } from "../utils/constants";
 
 interface Props {
   hash: string;

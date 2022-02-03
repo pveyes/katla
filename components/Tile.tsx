@@ -3,7 +3,7 @@ import {
   FLIP_ANIMATION_DELAY_MS,
   FLIP_ANIMATION_DURATION_MS,
   SHAKE_ANIMATION_DURATION_MS,
-} from "../utils/animation";
+} from "../utils/constants";
 import { AnswerState } from "../utils/types";
 
 interface Props {
@@ -14,7 +14,7 @@ interface Props {
 }
 
 export default function Tile(props: Props) {
-  const [background, setBackground] = useState("");
+  const [background, setBackground] = useState("text-gray-700 dark:text-white");
   const [animate, setAnimationEnabled] = useState(false);
   const border =
     props.char === " " ? "border" : props.state === null ? "border-3" : "";
@@ -50,13 +50,17 @@ export default function Tile(props: Props) {
     setTimeout(() => {
       switch (props.state) {
         case "correct":
-          setBackground("text-gray-200  bg-green-700");
+          setBackground(
+            "text-white dark:text-gray-200 bg-green-600 dark:bg-green-700"
+          );
           break;
         case "exist":
-          setBackground("text-gray-200 bg-yellow-600");
+          setBackground("text-white dark:text-gray-200 bg-yellow-600");
           break;
         case "wrong":
-          setBackground("text-gray-200 bg-gray-700");
+          setBackground(
+            "text-white bg-gray-500 dark:text-gray-200 dark:bg-gray-700"
+          );
           break;
       }
     }, props.delay + FLIP_ANIMATION_DELAY_MS);
@@ -65,7 +69,7 @@ export default function Tile(props: Props) {
   return (
     <div
       style={style}
-      className={`rounded-sm uppercase dark:text-gray-200 text-gray-900 text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor}`}
+      className={`rounded-sm uppercase text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor}`}
     >
       {props.char}
     </div>
