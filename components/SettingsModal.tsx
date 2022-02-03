@@ -56,7 +56,7 @@ export default function SettingsModal(props: Props) {
             theme === "dark" ? "dark:bg-green-600 " : ""
           } w-10 h-6 flex items-center bg-gray-500 rounded-full px-1`}
           onClick={
-            theme === "dark" ? () => setTheme("white") : () => setTheme("dark")
+            theme === "dark" ? () => setTheme("light") : () => setTheme("dark")
           }
         >
           <div
