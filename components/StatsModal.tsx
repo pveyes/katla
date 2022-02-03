@@ -6,14 +6,17 @@ import { useTheme } from "next-themes";
 import Modal from "./Modal";
 
 import { GameStats } from "../utils/types";
-import { getTotalPlay, getTotalWin } from "../utils/score";
-import { getAnswerStates } from "../utils/answer";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
-import useRemainingTime from "../utils/useRemainingTime";
-import { Game } from "../utils/useGame";
 import { pad0 } from "../utils/formatter";
-import getGameNum from "../utils/game";
+import {
+  Game,
+  useRemainingTime,
+  getTotalPlay,
+  getTotalWin,
+  getAnswerStates,
+  getGameNum,
+} from "../utils/game";
 import { checkNativeShareSupport } from "../utils/browser";
 
 interface Props {

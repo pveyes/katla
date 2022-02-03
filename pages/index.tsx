@@ -15,17 +15,17 @@ import Alert from "../components/Alert";
 import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
+import HeadingWithNum from "../components/HeadingWithNum";
 
-import useGame from "../utils/useGame";
+import {
+  useGame,
+  useRemainingTime,
+  getTotalPlay,
+  getGameNum,
+} from "../utils/game";
 import { decode } from "../utils/codec";
-import { getTotalPlay } from "../utils/score";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
-import useRemainingTime from "../utils/useRemainingTime";
-import HeadingWithNum from "../components/HeadingWithNum";
-import getGameNum from "../utils/game";
-
-import { useTheme } from "next-themes";
 
 interface Props {
   hash: string;

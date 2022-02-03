@@ -1,7 +1,8 @@
+import Tile from "./Tile";
+
 import { GameState } from "../utils/types";
 import { decode } from "../utils/codec";
-import { getAnswerStates } from "../utils/answer";
-import Tile from "./Tile";
+import { getAnswerStates } from "../utils/game";
 import { FLIP_ANIMATION_DELAY_MS } from "../utils/constants";
 
 interface Props {

@@ -1,4 +1,4 @@
-import { getTotalPlay } from "./score";
+import { getTotalPlay } from "./game";
 import { AnswerState, GameStats } from "./types";
 
 export function getCongratulationMessage(attempt: number, stats: GameStats) {

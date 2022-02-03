@@ -6,10 +6,8 @@ import Keyboard from "./Keyboard";
 import { GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getCongratulationMessage, getFailureMessage } from "../utils/message";
-import { verifyStreak } from "../utils/score";
-import { Game } from "../utils/useGame";
+import { Game, getAnswerStates, verifyStreak } from "../utils/game";
 import { trackEvent } from "../utils/tracking";
-import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   game: Game;

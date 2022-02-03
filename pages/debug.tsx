@@ -45,6 +45,7 @@ export default function Debug(props: Props) {
         ].join(":")
       )
     );
+    // eslint-disable-next-line
   }, []);
 
   return (

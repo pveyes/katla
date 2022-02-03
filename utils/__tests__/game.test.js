@@ -4,7 +4,7 @@
 import { renderHook } from "@testing-library/react-hooks";
 import MockDate from "mockdate";
 
-import useGame from "../useGame";
+import { useGame } from "../game";
 import { LAST_HASH_KEY } from "../constants";
 
 afterEach(() => {
@@ -19,7 +19,7 @@ test("should update hash when ready", () => {
     useGame({ hash: "yyy", date: "2022-01-01" })
   );
 
-  expect(result.current.currentHash).toEqual("yyy");
+  expect(result.current.hash).toEqual("yyy");
   expect(localStorage.getItem(LAST_HASH_KEY)).toEqual("yyy");
 });
 
@@ -29,7 +29,7 @@ test("should not update hash when not ready", () => {
   const { result } = renderHook(() =>
     useGame({ hash: "yyy", date: "2022-01-02" })
   );
-  expect(result.current.currentHash).toEqual("xxx");
+  expect(result.current.hash).toEqual("xxx");
 });
 
 class LocalStorageMock {

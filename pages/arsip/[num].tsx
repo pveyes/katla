@@ -13,7 +13,7 @@ import HeadingWithNum from "../../components/HeadingWithNum";
 
 import { formatDate } from "../../utils/formatter";
 import { encode } from "../../utils/codec";
-import useGame from "../../utils/useGame";
+import { useGame } from "../../utils/game";
 import { GameStats } from "../../utils/types";
 
 const databaseId = process.env.NOTION_DATABASE_ID;

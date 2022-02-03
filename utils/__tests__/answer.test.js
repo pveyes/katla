@@ -1,4 +1,4 @@
-import { getAnswerStates } from "../answer";
+import { getAnswerStates } from "../game";
 
 test("should mark `correct` characters", () => {
   expect(getAnswerStates("SEMUA", "BENUA")).toEqual([
