@@ -48,7 +48,7 @@ export default function Debug(props: Props) {
   }, []);
 
   return (
-    <div className="text-white max-w-lg mx-auto mt-4">
+    <div className="dark:text-white max-w-lg mx-auto mt-4">
       <h1 className="text-3xl mb-4">Debug</h1>
       {debugCode === "" ? (
         <span>Generating debug code...</span>
