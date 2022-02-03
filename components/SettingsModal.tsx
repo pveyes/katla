@@ -1,3 +1,10 @@
+import {
+  GAME_STATE_KEY,
+  GAME_STATS_KEY,
+  INVALID_WORDS_KEY,
+  LAST_HASH_KEY,
+  LAST_SESSION_RESET_KEY,
+} from "../utils/constants";
 import Link from "./Link";
 import Modal from "./Modal";
 
@@ -9,9 +16,14 @@ interface Props {
 // TODO: feature parity with wordle
 export default function SettingsModal(props: Props) {
   function handleReset() {
-    localStorage.removeItem("katla:gameState");
-    localStorage.removeItem("katla:gameStats");
-    localStorage.removeItem("katla:lastHash");
+    localStorage.removeItem(GAME_STATE_KEY);
+    localStorage.removeItem(GAME_STATS_KEY);
+    localStorage.removeItem(INVALID_WORDS_KEY);
+    localStorage.removeItem(LAST_HASH_KEY);
+    localStorage.setItem(
+      LAST_SESSION_RESET_KEY,
+      new Date().getTime().toString()
+    );
     window.location.reload();
   }
 

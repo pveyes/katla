@@ -5,6 +5,7 @@ import {
   GAME_STATS_KEY,
   INVALID_WORDS_KEY,
   LAST_HASH_KEY,
+  LAST_SESSION_RESET_KEY,
 } from "../utils/constants";
 
 interface Props {
@@ -19,6 +20,7 @@ export default function Debug(props: Props) {
     const gameStats = localStorage.getItem(GAME_STATS_KEY);
     const lastHash = localStorage.getItem(LAST_HASH_KEY);
     const invalidWords = localStorage.getItem(INVALID_WORDS_KEY);
+    const lastSessionReset = localStorage.getItem(LAST_SESSION_RESET_KEY);
     setDebugCode(
       btoa(
         [
@@ -28,6 +30,7 @@ export default function Debug(props: Props) {
           gameState,
           gameStats,
           invalidWords,
+          lastSessionReset,
           new Date().getTime(),
           navigator.userAgent,
           window.location.host,
