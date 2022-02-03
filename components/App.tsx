@@ -6,7 +6,7 @@ import Keyboard from "./Keyboard";
 import { GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getCongratulationMessage } from "../utils/message";
-import { getTotalPlay, verifyStreak } from "../utils/score";
+import { verifyStreak } from "../utils/score";
 import { Game } from "../utils/useGame";
 import { trackEvent } from "../utils/tracking";
 
@@ -109,7 +109,10 @@ export default function App(props: Props) {
       isAnimating.current = false;
 
       if (answer === userAnswer) {
-        trackEvent("succeed", { hash: game.hash });
+        trackEvent("succeed", {
+          hash: game.hash,
+          attempt: game.state.attempt + 1,
+        });
         const isStreak = verifyStreak(game.state.lastCompletedDate);
         let currentStreak = stats.currentStreak + 1;
         if (!isStreak) {
@@ -178,9 +181,7 @@ export default function App(props: Props) {
       const height =
         window.innerHeight -
         document.querySelector("#header").getBoundingClientRect().height -
-        document.querySelector("#keyboard").getBoundingClientRect().height -
-        (document.querySelector("#msg-info")?.getBoundingClientRect()?.height ??
-          0);
+        document.querySelector("#keyboard").getBoundingClientRect().height;
       const width = window.innerWidth;
       katla.style.height = Math.min(height, width) + "px";
       katla.style.width = Math.min(height, width) + "px";

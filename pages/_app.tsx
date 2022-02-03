@@ -7,15 +7,6 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider storageKey="katla:theme" attribute="class">
       <Component {...pageProps} />
-      <Script id="metrical" strategy="afterInteractive">{`
-        window.metrical = {
-          "app": "5bYi95VvH"
-        }
-      `}</Script>
-      <Script
-        src="https://cdn.metrical.xyz/script.js"
-        strategy="afterInteractive"
-      />
       <Script id="track-ga" strategy="afterInteractive">{`
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}

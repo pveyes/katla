@@ -1,4 +1,10 @@
-import React, { ComponentProps, useEffect, useState } from "react";
+import React, {
+  ComponentProps,
+  ComponentRef,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
 import createPersistedState from "use-persisted-state";
 import { GetStaticProps } from "next";
 
@@ -75,21 +81,33 @@ export default function Home(props: Props) {
   }, [game.ready, game.hash]);
 
   useEffect(() => {
-    // bugfix
-    if (game.state.lastCompletedDate && stats.currentStreak === 1) {
-      const lastDate = new Date(game.state.lastCompletedDate);
-      if (
-        (lastDate.getMonth() === 0 && lastDate.getDate() === 31) ||
-        (lastDate.getMonth() === 1 && lastDate.getDate() === 1)
-      ) {
-        setStats({
-          ...stats,
-          currentStreak: stats.maxStreak + 1,
-          maxStreak: stats.maxStreak + 1,
-        });
-      }
+    // disable katla.id temporarily due to premature release
+    // TODO: remove this in 2022-02-04
+    if (window.location.host === "katla.id") {
+      return window.location.replace("https://katla.vercel.app");
     }
   }, []);
+
+  // sync storage
+  const iframeRef = useRef<ComponentRef<"iframe">>(null);
+  const iframeLoaded = useRef(false);
+  useEffect(() => {
+    if (!game.ready) {
+      return;
+    }
+
+    if (iframeLoaded.current) {
+      iframeRef.current?.contentWindow.postMessage(
+        {
+          type: "sync-storage",
+          gameState: game.state,
+          gameStats: stats,
+          lastHash: game.hash,
+        },
+        "*"
+      );
+    }
+  }, [stats, game.state, game.hash, game.ready]);
 
   function showMessage(message: string, cb?: () => void) {
     setMessage(message);
@@ -117,16 +135,6 @@ export default function Home(props: Props) {
   return (
     <Container>
       <Header {...headerProps} />
-      <p
-        id="msg-info"
-        className="-mt-4 mb-4 text-sm dark:text-gray-200 text-gray-900"
-      >
-        <strong>Penting: </strong>Saat ini Katla sedang dalam proses akuisisi.
-        Baca selengkapnya {/* eslint-disable-next-line */}
-        <a href="/akuisisi" className="text-green-500 hover:text-green-700">
-          di sini
-        </a>
-      </p>
       {message && <Alert>{message}</Alert>}
       <App
         game={game}
@@ -147,6 +155,12 @@ export default function Home(props: Props) {
       <SettingsModal
         isOpen={showSettings}
         onClose={() => setShowSettings(false)}
+      />
+      <iframe
+        ref={iframeRef}
+        className="hidden"
+        src="https://katla.id/sync"
+        onLoad={() => (iframeLoaded.current = true)}
       />
     </Container>
   );
