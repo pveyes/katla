@@ -5,16 +5,17 @@ import Keyboard from "./Keyboard";
 
 import { GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
-import { getCongratulationMessage } from "../utils/message";
+import { getCongratulationMessage, getFailureMessage } from "../utils/message";
 import { verifyStreak } from "../utils/score";
 import { Game } from "../utils/useGame";
 import { trackEvent } from "../utils/tracking";
+import { getAnswerStates } from "../utils/answer";
 
 interface Props {
   game: Game;
   stats: GameStats;
   setStats: (stats: GameStats) => void;
-  showMessage: (message: string, cb?: () => void) => void;
+  showMessage: (message: string, cb?: () => void, timeout?: number) => void;
   showStats: () => void;
 }
 
@@ -142,9 +143,13 @@ export default function App(props: Props) {
         });
 
         const message = getCongratulationMessage(game.state.attempt + 1, stats);
-        showMessage(message, () => {
-          showStats();
-        });
+        showMessage(
+          message,
+          () => {
+            showStats();
+          },
+          1250
+        );
       } else if (game.state.attempt === 5) {
         trackEvent("failed", { hash: game.hash });
         setStats({
@@ -156,9 +161,17 @@ export default function App(props: Props) {
           maxStreak: stats.maxStreak,
         });
 
-        showMessage(`Jawaban: ${answer}`, () => {
-          showStats();
-        });
+        const failureMessage = getFailureMessage(
+          stats,
+          getAnswerStates(game.state.answers[game.state.attempt], answer)
+        );
+        showMessage(
+          `${failureMessage}. Jawaban: ${answer}`,
+          () => {
+            showStats();
+          },
+          1250
+        );
       }
     }, 400 * 6);
   }

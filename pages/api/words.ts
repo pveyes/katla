@@ -9,10 +9,7 @@ export default async function handler(
       const [word] = entry.split("/").reverse();
       return word;
     })
-    .filter(
-      (word) =>
-        !word.includes("%20") && !word.includes("-") && word.length === 5
-    );
+    .filter((word) => /^[a-z]+$/.test(word) && word.length === 5);
 
   res.setHeader(
     "Cache-Control",

@@ -14,16 +14,24 @@ interface Props {
 
 export default function Header(props: Props) {
   const {
-    title = "Katla - Permainan Kata | 1 Hari 1 Kata 6 Kesempatan",
+    title = "Katla - Permainan Tebak Kata | 1 Hari 1 Kata 6 Kesempatan",
     description = "Tebak kata rahasia dalam 6 percobaan. Kata baru tersedia setiap hari.",
     keywords = [
       "game",
       "permainan",
+      "main",
       "tebak",
       "kata",
       "rahasia",
+      "sembunyi",
+      "clue",
+      "petunjuk",
       "wordle",
+      "bahasa",
       "indonesia",
+      "karya",
+      "anak",
+      "bangsa",
       "kbbi",
     ],
     ogImage = "https://katla.vercel.app/og.png",

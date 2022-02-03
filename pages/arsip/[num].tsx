@@ -46,12 +46,12 @@ export default function Arsip(props: Props) {
   const [showHelp, setShowHelp] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
 
-  function showMessage(message: string, cb?: () => void) {
+  function showMessage(message: string, cb?: () => void, timeout?: number) {
     setMessage(message);
     setTimeout(() => {
       setMessage(null);
       cb && cb();
-    }, 750);
+    }, timeout ?? 750);
   }
 
   const headerProps: ComponentProps<typeof Header> = {
