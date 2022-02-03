@@ -21,6 +21,12 @@ export default function Debug(props: Props) {
     const lastHash = localStorage.getItem(LAST_HASH_KEY);
     const invalidWords = localStorage.getItem(INVALID_WORDS_KEY);
     const lastSessionReset = localStorage.getItem(LAST_SESSION_RESET_KEY);
+    const now = new Date();
+    let timezone = "Unknown";
+    try {
+      timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    } catch (err) {}
+
     setDebugCode(
       btoa(
         [
@@ -31,7 +37,9 @@ export default function Debug(props: Props) {
           gameStats,
           invalidWords,
           lastSessionReset,
-          new Date().getTime(),
+          now.getTime(),
+          now.getTimezoneOffset(),
+          timezone,
           navigator.userAgent,
           window.location.host,
         ].join(":")
