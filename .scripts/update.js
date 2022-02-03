@@ -2,7 +2,7 @@ const { Client } = require("@notionhq/client");
 const path = require("path");
 const fs = require("fs/promises");
 
-const databaseId = "04dc0ae3bb6c4702b5f99df302b593ec";
+const databaseId = process.env.NOTION_DATABASE_ID;
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
 
 async function getUsedWords(cursor) {

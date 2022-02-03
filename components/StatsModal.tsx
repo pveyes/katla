@@ -1,6 +1,7 @@
 import useSWR from "swr";
 import { useEffect } from "react";
 import confetti from "canvas-confetti";
+import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
 
@@ -28,6 +29,7 @@ export default function StatsModal(props: Props) {
   const { isOpen, onClose, game, stats, showMessage } = props;
   const { hours, minutes, seconds } = props.remainingTime;
   const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
+  const { theme } = useTheme();
 
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
@@ -53,7 +55,7 @@ export default function StatsModal(props: Props) {
           case "exist":
             return "🟨";
           case "wrong":
-            return "⬛";
+            return theme === "dark" ? "⬛" : "⬜️";
         }
       });
       text += `${answerEmojis.join("")}\n`;
@@ -167,7 +169,8 @@ export default function StatsModal(props: Props) {
                     7
                   );
             const alignment = ratio === 7 ? "justify-center" : "justify-end";
-            const background = ratio === 7 ? "bg-gray-700" : "bg-green-600";
+            const background =
+              ratio === 7 ? "dark:bg-gray-700 bg-gray-300" : "bg-green-600";
             return (
               <div className="flex h-5 mb-2" key={i}>
                 <div className="tabular-nums">{i + 1}</div>
@@ -197,7 +200,7 @@ export default function StatsModal(props: Props) {
             <div className="flex flex-col gap-4">
               <button
                 onClick={handleShare}
-                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row gap-2 items-center justify-center"
+                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row gap-2 items-center justify-center text-gray-200"
               >
                 <div>Share</div>
                 <svg
@@ -214,7 +217,7 @@ export default function StatsModal(props: Props) {
               </button>
               <button
                 onClick={handleShareToTwitter}
-                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row gap-2 items-center justify-center"
+                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row gap-2 items-center justify-center text-gray-200"
                 style={{ backgroundColor: "#00acee" }}
               >
                 <div>Share</div>
@@ -242,7 +245,7 @@ function WordDefinition({ answer }) {
   return (
     <div className="w-10/12 mx-auto mb-8">
       <h3 className="uppercase font-semibold">Katla hari ini</h3>
-      <p className="text-xs mb-2 text-gray-400">
+      <p className="text-xs mb-2 dark:text-gray-400 text-gray-600">
         Mohon untuk tetap dirahasiakan, semua orang mendapatkan kata yang sama
         🙏
       </p>

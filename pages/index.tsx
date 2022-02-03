@@ -25,6 +25,8 @@ import useRemainingTime from "../utils/useRemainingTime";
 import HeadingWithNum from "../components/HeadingWithNum";
 import getGameNum from "../utils/game";
 
+import { useTheme } from "next-themes";
+
 interface Props {
   hash: string;
   date: string;

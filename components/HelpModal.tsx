@@ -24,7 +24,7 @@ export default function HelpModal(props: Props) {
           Setelah jawaban dikirimkan, warna kotak akan berubah untuk menunjukkan
           seberapa dekat tebakanmu dari kata rahasia
         </p>
-        <hr className="border-gray-700 mb-4" />
+        <hr className="dark:border-gray-700 border-gray-500 mb-4" />
         <strong className="text-lg mb-4 block">Contoh</strong>
         <div
           className="grid grid-cols-5 grid-rows-1 gap-1.5 w-64 mb-2"
@@ -80,7 +80,7 @@ export default function HelpModal(props: Props) {
         <div className="mb-4">
           Tidak ada huruf <strong>K</strong> di kata rahasia
         </div>
-        <hr className="border-gray-700 mb-4" />
+        <hr className="dark:border-gray-700 border-gray-500 mb-4" />
         <p className="font-semibold">
           Akan ada <strong className="uppercase">Katla</strong> baru setiap
           hari!
