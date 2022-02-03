@@ -6,7 +6,6 @@ import {
   INVALID_WORDS_KEY,
   LAST_HASH_KEY,
 } from "../utils/constants";
-import { formatDate, formatTime } from "../utils/formatter";
 
 interface Props {
   hash: string;
@@ -20,21 +19,18 @@ export default function Debug(props: Props) {
     const gameStats = localStorage.getItem(GAME_STATS_KEY);
     const lastHash = localStorage.getItem(LAST_HASH_KEY);
     const invalidWords = localStorage.getItem(INVALID_WORDS_KEY);
-    const now = new Date();
-    const nowDate = formatDate(now);
-    const nowHours = formatTime(now);
     setDebugCode(
       btoa(
         [
           props.hash,
           props.date,
           lastHash,
-          nowDate,
-          nowHours,
           gameState,
           gameStats,
           invalidWords,
+          new Date().getTime(),
           navigator.userAgent,
+          window.location.host,
         ].join(":")
       )
     );
