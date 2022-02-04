@@ -108,16 +108,41 @@ export default function StatsModal(props: Props) {
     const text = generateText();
     const shareData: ShareData = { text };
     const useNativeShare = checkNativeShareSupport();
-    if (
-      "share" in navigator &&
-      navigator.canShare(shareData) &&
-      useNativeShare
-    ) {
-      navigator.share(shareData);
-    } else {
-      navigator.clipboard.writeText(text);
+    const clipboardSuccessCallback = () => {
       onClose();
       showMessage("Disalin ke clipboard");
+    };
+    const clipboardFailedCallback = (err: Error) => {
+      onClose();
+      showMessage(`Gagal menyalin ke clipboard. Error: ${err.message}`);
+    };
+
+    if ("share" in navigator && useNativeShare) {
+      // native share
+      navigator.share(shareData);
+    } else {
+      if (typeof navigator.clipboard?.writeText === "function") {
+        // async clipboard API
+        navigator.clipboard
+          .writeText(text)
+          .then(clipboardSuccessCallback)
+          .catch(clipboardFailedCallback);
+      } else {
+        // legacy browsers without async clipboard API support
+        const textarea = document.createElement("textarea");
+        textarea.textContent = text;
+        textarea.style.position = "fixed";
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+          document.execCommand("copy");
+          clipboardSuccessCallback();
+        } catch (err) {
+          clipboardFailedCallback(err);
+        } finally {
+          document.body.removeChild(textarea);
+        }
+      }
     }
   }
 
