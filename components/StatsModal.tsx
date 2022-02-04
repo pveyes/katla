@@ -2,6 +2,7 @@ import useSWR from "swr";
 import { useEffect } from "react";
 import confetti from "canvas-confetti";
 import { useTheme } from "next-themes";
+import * as Sentry from "@sentry/nextjs";
 
 import Modal from "./Modal";
 
@@ -117,13 +118,14 @@ export default function StatsModal(props: Props) {
       showMessage("Disalin ke clipboard");
     };
     const clipboardFailedCallback = (err: Error) => {
+      Sentry.captureException(err);
       onClose();
-      showMessage(`Gagal menyalin ke clipboard. Error: ${err.message}`);
+      showMessage(`Gagal menyalin ke clipboard.`);
     };
 
     if ("share" in navigator && useNativeShare) {
       // native share
-      navigator.share(shareData);
+      navigator.share(shareData).catch(Sentry.captureException);
     } else {
       if (typeof navigator.clipboard?.writeText === "function") {
         // async clipboard API

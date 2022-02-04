@@ -158,7 +158,14 @@ export default function Home(props: Props) {
         src="https://katla.id/sync"
         onLoad={() => {
           iframeLoaded.current = true;
-          iframeRef.current?.contentWindow.postMessage(
+          let win;
+          try {
+            win = iframeRef.current?.contentWindow;
+          } catch (err) {
+            win = iframeRef.current?.contentWindow;
+          }
+
+          win.postMessage(
             {
               type: "sync-storage",
               gameState: game.state,

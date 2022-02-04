@@ -1,5 +1,6 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import cheerio from "cheerio";
+import { withSentry } from "@sentry/nextjs";
 
 interface Definition {
   def_text: string;
@@ -11,17 +12,22 @@ interface KategloResponse {
   };
 }
 
-export default async function handler(
-  req: NextApiRequest,
-  res: NextApiResponse
-) {
+async function handler(req: NextApiRequest, res: NextApiResponse) {
   const word = req.query.word as string;
 
   let definitions: String[] | null = null;
   try {
-    const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`).then(
-      (res) => res.text()
-    );
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => {
+      controller.abort();
+    }, 1000);
+
+    const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`, {
+      signal: controller.signal,
+    }).then((res) => {
+      clearTimeout(timeoutId);
+      return res.text();
+    });
     const $ = cheerio.load(html);
 
     definitions = [];
@@ -56,3 +62,5 @@ export default async function handler(
   );
   res.status(200).json(definitions);
 }
+
+export default withSentry(handler);
