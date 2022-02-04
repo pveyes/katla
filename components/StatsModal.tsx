@@ -153,6 +153,9 @@ export default function StatsModal(props: Props) {
     window.open(shareToTwitter, "_blank");
   }
 
+  const { fail: _, ...distribution } = stats.distribution;
+  const maxDistribution = Math.max(...Object.values(distribution));
+
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
       <Modal.Title>Statistik</Modal.Title>
@@ -193,7 +196,7 @@ export default function StatsModal(props: Props) {
               totalWin === 0
                 ? 7
                 : Math.max(
-                    (Number(stats.distribution[i + 1]) / totalWin) * 100,
+                    (Number(stats.distribution[i + 1]) / maxDistribution) * 100,
                     7
                   );
             const alignment = ratio === 7 ? "justify-center" : "justify-end";
