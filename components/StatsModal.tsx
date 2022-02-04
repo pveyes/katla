@@ -154,7 +154,7 @@ export default function StatsModal(props: Props) {
 
   function handleShareToTwitter() {
     const text = generateText();
-    const encodeURI = text.replaceAll("\n", "%0A");
+    const encodeURI = text.replace(/\n/g, "%0A");
     const shareToTwitter = `https://twitter.com/intent/tweet?text=${encodeURI}`;
     window.open(shareToTwitter, "_blank");
   }
