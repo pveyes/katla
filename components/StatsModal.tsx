@@ -125,7 +125,9 @@ export default function StatsModal(props: Props) {
 
     if ("share" in navigator && useNativeShare) {
       // native share
-      navigator.share(shareData);
+      navigator.share(shareData).catch(() => {
+        // TODO: handle non abort error
+      });
     } else {
       if (typeof navigator.clipboard?.writeText === "function") {
         // async clipboard API

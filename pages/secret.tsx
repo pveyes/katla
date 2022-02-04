@@ -11,6 +11,9 @@ export default function SecretPage() {
 
   useEffect(() => {
     const code = router.query.code;
+    if (!code) {
+      return;
+    }
 
     if (code !== encode("katla")) {
       setMessage("Invalid code");
@@ -71,7 +74,7 @@ export default function SecretPage() {
       window.location.replace("https://katla.vercel.app");
     }, 1000);
     // eslint-disable-next-line
-  }, []);
+  }, [router]);
 
   if (message) {
     return <div>{message}</div>;
