@@ -125,7 +125,7 @@ export default function StatsModal(props: Props) {
 
     if ("share" in navigator && useNativeShare) {
       // native share
-      navigator.share(shareData).catch(Sentry.captureException);
+      navigator.share(shareData);
     } else {
       if (typeof navigator.clipboard?.writeText === "function") {
         // async clipboard API
