@@ -92,10 +92,10 @@ export default function Keyboard(props: Props) {
 
   return (
     <div
-      className="max-w-lg w-full mx-auto gap-3 flex flex-col p-4"
+      className="max-w-lg w-full mx-auto space-y-3 flex flex-col p-4"
       id="keyboard"
     >
-      <div className="flex gap-2">
+      <div className="flex space-x-2">
         {"qwertyuiop".split("").map((char) => (
           <KeyboardButton
             key={char}
@@ -106,7 +106,7 @@ export default function Keyboard(props: Props) {
           </KeyboardButton>
         ))}
       </div>
-      <div className="flex gap-2">
+      <div className="flex space-x-2">
         <div style={{ flex: 0.5 }}></div>
         {"asdfghjkl".split("").map((char) => (
           <KeyboardButton
@@ -119,7 +119,7 @@ export default function Keyboard(props: Props) {
         ))}
         <div style={{ flex: 0.5 }}></div>
       </div>
-      <div className="flex gap-2">
+      <div className="flex space-x-2">
         <KeyboardButton state={null} onClick={onSubmit} scale={1.5}>
           Enter
         </KeyboardButton>

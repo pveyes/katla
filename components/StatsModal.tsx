@@ -156,7 +156,7 @@ export default function StatsModal(props: Props) {
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
       <Modal.Title>Statistik</Modal.Title>
-      <div className="grid grid-rows-1 grid-cols-4 text-center w-3/4 gap-1 mx-auto mb-8">
+      <div className="grid grid-rows-1 grid-cols-4 text-center w-3/4 space-x-1 mx-auto mb-8">
         <div>
           <div className="text-md sm:text-xl lg:text-3xl">{totalPlay}</div>
           <div className="text-xs md:text-sm break-word">Dimainkan</div>
@@ -217,7 +217,7 @@ export default function StatsModal(props: Props) {
       {showShare && (
         <>
           <WordDefinition answer={answer} />
-          <div className="flex items-center justify-between w-3/4 m-auto my-8 gap-2">
+          <div className="flex items-center justify-between w-3/4 m-auto my-8 space-x-2">
             <div className="text-center flex flex-1 flex-col">
               <div className="font-semibold uppercase text-xs md:text-md">
                 Katla berikutnya
@@ -225,10 +225,10 @@ export default function StatsModal(props: Props) {
               <div className="text-xl md:text-4xl">{remainingTime}</div>
             </div>
             <div className="bg-gray-400" style={{ width: 1 }}></div>
-            <div className="flex flex-col gap-4">
+            <div className="flex flex-col space-y-4">
               <button
                 onClick={handleShare}
-                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row gap-2 items-center justify-center text-gray-200"
+                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
               >
                 <div>Share</div>
                 <svg
@@ -245,7 +245,7 @@ export default function StatsModal(props: Props) {
               </button>
               <button
                 onClick={handleShareToTwitter}
-                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row gap-2 items-center justify-center text-gray-200"
+                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
                 style={{ backgroundColor: "#00acee" }}
               >
                 <div>Share</div>

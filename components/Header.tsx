@@ -86,7 +86,7 @@ export default function Header(props: Props) {
               ></path>
             </svg>
           </button>
-          <div className="flex gap-2">
+          <div className="flex space-x-2">
             <button
               onClick={onShowStats}
               title="Statistik"
