@@ -156,7 +156,18 @@ export default function Home(props: Props) {
         ref={iframeRef}
         className="hidden"
         src="https://katla.id/sync"
-        onLoad={() => (iframeLoaded.current = true)}
+        onLoad={() => {
+          iframeLoaded.current = true;
+          iframeRef.current?.contentWindow.postMessage(
+            {
+              type: "sync-storage",
+              gameState: game.state,
+              gameStats: stats,
+              lastHash: game.hash,
+            },
+            "*"
+          );
+        }}
       />
     </Container>
   );

@@ -5,8 +5,7 @@ import {
   LAST_HASH_KEY,
 } from "../utils/constants";
 
-const VALID_EVENT_ORIGIN =
-  process.env.NODE_ENV === "production" ? "katla.vercel.app" : "localhost:3000";
+const VALID_EVENT_ORIGIN = "https://katla.vercel.app";
 
 export default function SyncPage() {
   useEffect(() => {
