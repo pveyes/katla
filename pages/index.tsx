@@ -46,6 +46,8 @@ const initialStats: GameStats = {
   maxStreak: 0,
 };
 
+type ModalState = "help" | "stats" | "settings";
+
 const useStats: PersistedState<GameStats> =
   createPersistedState(GAME_STATS_KEY);
 
@@ -56,11 +58,7 @@ export default function Home(props: Props) {
   const [message, setMessage] = useState(null);
 
   // modals
-  const [showHelp, setShowHelp] = useState(false);
-  const [showStats, setShowStats] = useState(false);
-  const [showSettings, setShowSettings] = useState(false);
-
-  // modal effect
+  const [modalState, setModalState] = useState<ModalState | null>(null);
   useEffect(() => {
     if (!game.ready) {
       return;
@@ -68,25 +66,18 @@ export default function Home(props: Props) {
 
     // show help screen for first-time player
     if (getTotalPlay(stats) === 0) {
-      setShowHelp(true);
+      setModalState("help");
     }
     // show stats screen if user already finished playing current session
     else if (
       game.state.attempt === 6 ||
       game.state.answers[game.state.attempt - 1] === decode(game.hash)
     ) {
-      setShowStats(true);
+      setModalState("stats");
     }
+
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [game.ready, game.hash]);
-
-  useEffect(() => {
-    // disable katla.id temporarily due to premature release
-    // TODO: remove this in 2022-02-04
-    if (window.location.host === "katla.id") {
-      return window.location.replace("https://katla.vercel.app");
-    }
-  }, []);
 
   // sync storage
   const iframeRef = useRef<ComponentRef<"iframe">>(null);
@@ -119,10 +110,15 @@ export default function Home(props: Props) {
 
   const headerProps: ComponentProps<typeof Header> = {
     customHeading: <HeadingWithNum num={getGameNum(game.date)} />,
-    onShowStats: () => setShowStats(true),
-    onShowHelp: () => setShowHelp(true),
-    onShowSettings: () => setShowSettings(true),
+    onShowHelp: () => setModalState("help"),
+    onShowStats: () => setModalState("stats"),
+    onShowSettings: () => setModalState("settings"),
   };
+
+  function resetModalState() {
+    (document.activeElement as HTMLElement).blur();
+    setModalState(null);
+  }
 
   if (!game.ready) {
     return (
@@ -140,21 +136,21 @@ export default function Home(props: Props) {
         game={game}
         stats={stats}
         setStats={setStats}
-        showStats={() => setShowStats(true)}
+        showStats={() => setModalState("stats")}
         showMessage={showMessage}
       />
-      <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
+      <HelpModal isOpen={modalState === "help"} onClose={resetModalState} />
       <StatsModal
-        isOpen={showStats}
-        onClose={() => setShowStats(false)}
+        isOpen={modalState === "stats"}
+        onClose={resetModalState}
         game={game}
         stats={stats}
         showMessage={showMessage}
         remainingTime={remainingTime}
       />
       <SettingsModal
-        isOpen={showSettings}
-        onClose={() => setShowSettings(false)}
+        isOpen={modalState === "settings"}
+        onClose={resetModalState}
       />
       <iframe
         ref={iframeRef}

@@ -28,11 +28,15 @@ interface Props {
   remainingTime: ReturnType<typeof useRemainingTime>;
 }
 
+const GRAPH_WIDTH_MIN_RATIO = 10;
+
 export default function StatsModal(props: Props) {
   const { isOpen, onClose, game, stats, showMessage } = props;
   const { hours, minutes, seconds } = props.remainingTime;
   const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
   const { resolvedTheme } = useTheme();
+  const isAnswered =
+    game.state.answers[game.state.attempt - 1] === decode(game.hash);
 
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
@@ -192,22 +196,25 @@ export default function StatsModal(props: Props) {
         {Array(6)
           .fill("")
           .map((_, i) => {
+            const shouldHighlight = isAnswered && i === game.state.attempt - 1;
             const ratio =
               totalWin === 0
-                ? 7
+                ? GRAPH_WIDTH_MIN_RATIO
                 : Math.max(
                     (Number(stats.distribution[i + 1]) / maxDistribution) * 100,
-                    7
+                    GRAPH_WIDTH_MIN_RATIO
                   );
-            const alignment = ratio === 7 ? "justify-center" : "justify-end";
-            const background =
-              ratio === 7 ? "dark:bg-gray-700 bg-gray-300" : "bg-green-600";
+            const alignment =
+              ratio === GRAPH_WIDTH_MIN_RATIO
+                ? "justify-center"
+                : "justify-end";
+            const background = shouldHighlight ? "bg-green-600" : "bg-gray-500";
             return (
               <div className="flex h-5 mb-2" key={i}>
                 <div className="tabular-nums">{i + 1}</div>
                 <div className="w-full h-full pl-1">
                   <div
-                    className={`text-right ${background} flex ${alignment} px-2`}
+                    className={`text-right text-white ${background} flex ${alignment} px-2 font-bold`}
                     style={{ width: ratio + "%" }}
                   >
                     {stats.distribution[i + 1]}
