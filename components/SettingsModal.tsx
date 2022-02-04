@@ -29,7 +29,7 @@ export default function SettingsModal(props: Props) {
   }
 
   const { isOpen, onClose } = props;
-  const { theme, setTheme } = useTheme();
+  const { resolvedTheme, setTheme } = useTheme();
 
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
@@ -53,15 +53,17 @@ export default function SettingsModal(props: Props) {
         <p>Dark Theme</p>
         <div
           className={`${
-            theme === "dark" ? "dark:bg-green-600 " : ""
+            resolvedTheme === "dark" ? "dark:bg-green-600 " : ""
           } w-10 h-6 flex items-center bg-gray-500 rounded-full px-1`}
           onClick={
-            theme === "dark" ? () => setTheme("light") : () => setTheme("dark")
+            resolvedTheme === "dark"
+              ? () => setTheme("light")
+              : () => setTheme("dark")
           }
         >
           <div
             className={`bg-white w-4 h-4 rounded-full shadow-md transform transition ${
-              theme === "dark" ? "translate-x-4" : ""
+              resolvedTheme === "dark" ? "translate-x-4" : ""
             }`}
           ></div>
         </div>

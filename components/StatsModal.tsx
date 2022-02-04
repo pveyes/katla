@@ -32,7 +32,7 @@ export default function StatsModal(props: Props) {
   const { isOpen, onClose, game, stats, showMessage } = props;
   const { hours, minutes, seconds } = props.remainingTime;
   const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
-  const { theme } = useTheme();
+  const { resolvedTheme } = useTheme();
 
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
@@ -58,7 +58,7 @@ export default function StatsModal(props: Props) {
           case "exist":
             return "🟨";
           case "wrong":
-            return theme === "dark" ? "⬛" : "⬜️";
+            return resolvedTheme === "dark" ? "⬛" : "⬜️";
         }
       });
       text += `${answerEmojis.join("")}\n`;
