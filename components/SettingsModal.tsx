@@ -49,7 +49,7 @@ export default function SettingsModal(props: Props) {
           <a className="text-green-600 hover:text-green-700">Arsip</a>
         </Link>
       </p>
-      <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-t border-gray-500">
+      <div className="flex justify-between py-2 my-2 items-center border-b border-t border-gray-500">
         <p>Dark Theme</p>
         <div
           className={`${
