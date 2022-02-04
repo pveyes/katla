@@ -7,6 +7,7 @@ interface Props {
   keywords?: string[];
   ogImage?: string;
   customHeading?: ReactNode;
+  warnStorageDisabled?: boolean;
   onShowStats?: () => void;
   onShowHelp?: () => void;
   onShowSettings?: () => void;
@@ -39,6 +40,7 @@ export default function Header(props: Props) {
     onShowStats,
     onShowHelp,
     onShowSettings,
+    warnStorageDisabled,
   } = props;
   return (
     <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
@@ -60,6 +62,13 @@ export default function Header(props: Props) {
         <link href="/katla-32x32.png" rel="icon shortcut" sizes="3232" />
         <link href="/katla-192x192.png" rel="apple-touch-icon" />
       </Head>
+      {warnStorageDisabled && (
+        <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
+          Browser yang kamu gunakan saat ini tidak dapat menyimpan progres
+          permainan seperti jawaban sementara dan statistik. Silahkan gunakan
+          browser lain untuk pengalaman yang lebih optimal.
+        </div>
+      )}
       <div className="border-b border-b-gray-500  relative text-gray-500">
         <h1
           className="uppercase text-4xl dark:text-gray-200 text-gray-900 font-bold w-max mx-auto relative z-10 mb-2"

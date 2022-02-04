@@ -1,5 +1,6 @@
 import { GetStaticProps } from "next";
 import { useEffect, useState } from "react";
+import LocalStorage from "../utils/browser";
 import {
   GAME_STATE_KEY,
   GAME_STATS_KEY,
@@ -16,11 +17,11 @@ interface Props {
 export default function Debug(props: Props) {
   const [debugCode, setDebugCode] = useState("");
   useEffect(() => {
-    const gameState = localStorage.getItem(GAME_STATE_KEY);
-    const gameStats = localStorage.getItem(GAME_STATS_KEY);
-    const lastHash = localStorage.getItem(LAST_HASH_KEY);
-    const invalidWords = localStorage.getItem(INVALID_WORDS_KEY);
-    const lastSessionReset = localStorage.getItem(LAST_SESSION_RESET_KEY);
+    const gameState = LocalStorage.getItem(GAME_STATE_KEY);
+    const gameStats = LocalStorage.getItem(GAME_STATS_KEY);
+    const lastHash = LocalStorage.getItem(LAST_HASH_KEY);
+    const invalidWords = LocalStorage.getItem(INVALID_WORDS_KEY);
+    const lastSessionReset = LocalStorage.getItem(LAST_SESSION_RESET_KEY);
     const now = new Date();
     let timezone = "Unknown";
     try {

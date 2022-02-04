@@ -1,5 +1,6 @@
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
+import LocalStorage from "../utils/browser";
 import { encode } from "../utils/codec";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { getGameNum } from "../utils/game";
@@ -68,7 +69,7 @@ export default function SecretPage() {
       currentStreak,
       maxStreak,
     };
-    localStorage.setItem(GAME_STATS_KEY, JSON.stringify(gameStats));
+    LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(gameStats));
     setMessage("Success");
     setTimeout(() => {
       window.location.replace("https://katla.vercel.app");

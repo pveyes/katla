@@ -5,6 +5,7 @@ import useSWR from "swr";
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import fetcher from "./fetcher";
 import { AnswerState, GameState, GameStats, PersistedState } from "./types";
+import LocalStorage, { isStorageEnabled } from "./browser";
 
 const initialState: GameState = {
   answers: Array(6).fill(""),
@@ -19,31 +20,40 @@ interface Config {
 
 export interface Game extends Config {
   words: string[];
+  readyState: "init" | "no-storage" | "ready";
   ready: boolean;
   state: GameState;
   setState: (state: GameState) => void;
   trackInvalidWord: (word: string) => void;
 }
 
-const useGamePersistedState: PersistedState<GameState> =
-  createPersistedState(GAME_STATE_KEY);
+const useGamePersistedState: PersistedState<GameState> = createPersistedState(
+  GAME_STATE_KEY,
+  LocalStorage
+);
 
 export function useGame(config: Config, enableStorage: boolean = true): Game {
   const useGameState = enableStorage ? useGamePersistedState : useState;
   const [state, setState] = useGameState<GameState>(initialState);
-  const [gameReady, setGameReady] = useState(false);
+  const [readyState, setGameReadyState] = useState<Game["readyState"]>("init");
   const [currentHash, setCurrentHash] = useState(config.hash);
   const { data: words = [] } = useSWR("/api/words", fetcher);
 
   useEffect(() => {
-    setGameReady(true);
-
-    const lastHash = localStorage.getItem(LAST_HASH_KEY);
-    let currentHash = config.hash;
-
     if (!enableStorage) {
+      setGameReadyState("ready");
       return;
     }
+
+    if (isStorageEnabled()) {
+      setGameReadyState("ready");
+    } else {
+      setGameReadyState("no-storage");
+      return;
+    }
+
+    const lastHash = LocalStorage.getItem(LAST_HASH_KEY);
+    let currentHash = config.hash;
 
     if (lastHash !== currentHash && lastHash !== "") {
       // new game schedule
@@ -57,13 +67,13 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
 
       // ready for a new game
       if (isAfterGameDate) {
-        localStorage.setItem(LAST_HASH_KEY, config.hash);
+        LocalStorage.setItem(LAST_HASH_KEY, config.hash);
         setState({
           answers: Array(6).fill(""),
           attempt: 0,
           lastCompletedDate: state.lastCompletedDate,
         });
-        localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
+        LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
       }
       // not yet ready for a new game
       else {
@@ -86,14 +96,15 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
     }
 
     invalidWords.push(word);
-    localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(invalidWords));
+    LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(invalidWords));
   }
 
   return {
     words,
     hash: currentHash,
     date: config.date,
-    ready: gameReady && words.length > 0,
+    readyState,
+    ready: readyState !== "init" && words.length > 0,
     state,
     setState,
     trackInvalidWord,

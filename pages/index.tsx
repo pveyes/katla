@@ -26,6 +26,7 @@ import {
 import { decode } from "../utils/codec";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
+import LocalStorage from "../utils/browser";
 
 interface Props {
   hash: string;
@@ -48,8 +49,10 @@ const initialStats: GameStats = {
 
 type ModalState = "help" | "stats" | "settings";
 
-const useStats: PersistedState<GameStats> =
-  createPersistedState(GAME_STATS_KEY);
+const useStats: PersistedState<GameStats> = createPersistedState(
+  GAME_STATS_KEY,
+  LocalStorage
+);
 
 export default function Home(props: Props) {
   const remainingTime = useRemainingTime();
@@ -120,7 +123,7 @@ export default function Home(props: Props) {
     setModalState(null);
   }
 
-  if (!game.ready) {
+  if (game.readyState === "init") {
     return (
       <Container>
         <Header {...headerProps} />
@@ -130,7 +133,10 @@ export default function Home(props: Props) {
 
   return (
     <Container>
-      <Header {...headerProps} />
+      <Header
+        {...headerProps}
+        warnStorageDisabled={game.readyState === "no-storage"}
+      />
       {message && <Alert>{message}</Alert>}
       <App
         game={game}

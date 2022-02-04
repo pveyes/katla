@@ -8,6 +8,7 @@ import {
 import Link from "./Link";
 import Modal from "./Modal";
 import { useTheme } from "next-themes";
+import LocalStorage from "../utils/browser";
 
 interface Props {
   isOpen: boolean;
@@ -17,11 +18,11 @@ interface Props {
 // TODO: feature parity with wordle
 export default function SettingsModal(props: Props) {
   function handleReset() {
-    localStorage.removeItem(GAME_STATE_KEY);
-    localStorage.removeItem(GAME_STATS_KEY);
-    localStorage.removeItem(INVALID_WORDS_KEY);
-    localStorage.removeItem(LAST_HASH_KEY);
-    localStorage.setItem(
+    LocalStorage.removeItem(GAME_STATE_KEY);
+    LocalStorage.removeItem(GAME_STATS_KEY);
+    LocalStorage.removeItem(INVALID_WORDS_KEY);
+    LocalStorage.removeItem(LAST_HASH_KEY);
+    LocalStorage.setItem(
       LAST_SESSION_RESET_KEY,
       new Date().getTime().toString()
     );
