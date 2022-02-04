@@ -70,8 +70,13 @@ export default function App(props: Props) {
       return;
     }
 
-    // ignore submission if the answer is already correct
-    if (game.state.answers[game.state.attempt - 1] === answer) {
+    // ignore submission user already know the answer
+    if (
+      // already fail
+      game.state.attempt === 6 ||
+      // already found the answer
+      game.state.answers[game.state.attempt - 1] === answer
+    ) {
       return;
     }
 
