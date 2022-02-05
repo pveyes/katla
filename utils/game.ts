@@ -1,6 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 import createPersistedState from "use-persisted-state";
 import useSWR from "swr";
+import * as Sentry from "@sentry/nextjs";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import fetcher from "./fetcher";
@@ -67,6 +68,11 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
 
       // ready for a new game
       if (isAfterGameDate) {
+        Sentry.setContext("game", {
+          state,
+          hash: currentHash,
+          isNewGame: true,
+        });
         LocalStorage.setItem(LAST_HASH_KEY, config.hash);
         setState({
           answers: Array(6).fill(""),
@@ -77,6 +83,7 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
       }
       // not yet ready for a new game
       else {
+        Sentry.setContext("game", { state, hash: lastHash, isNewGame: false });
         setCurrentHash(lastHash);
       }
     }
