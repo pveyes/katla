@@ -128,28 +128,33 @@ export default function StatsModal(props: Props) {
       navigator.share(shareData).catch(() => {
         // TODO: handle non abort error
       });
+    } else if (
+      "clipboard" in navigator &&
+      typeof navigator.clipboard.writeText === "function"
+    ) {
+      // async clipboard API
+      const promise = navigator.clipboard.writeText(text);
+
+      // https://sentry.io/share/issue/59a42dfd516a439a99f763ee276aff26/
+      if (promise) {
+        promise.then(clipboardSuccessCallback).catch(clipboardFailedCallback);
+      }
     } else {
-      if (typeof navigator.clipboard?.writeText === "function") {
-        // async clipboard API
-        navigator.clipboard
-          .writeText(text)
-          .then(clipboardSuccessCallback)
-          .catch(clipboardFailedCallback);
-      } else {
-        // legacy browsers without async clipboard API support
-        const textarea = document.createElement("textarea");
-        textarea.textContent = text;
-        textarea.style.position = "fixed";
-        document.body.appendChild(textarea);
-        textarea.select();
-        try {
-          document.execCommand("copy");
-          clipboardSuccessCallback();
-        } catch (err) {
-          clipboardFailedCallback(err);
-        } finally {
-          document.body.removeChild(textarea);
-        }
+      // legacy browsers without async clipboard API support
+      const textarea = document.createElement("textarea");
+      textarea.textContent = text;
+      textarea.style.position = "fixed";
+      document.body.appendChild(textarea);
+      // https://sentry.io/share/issue/cb8a0ca8f6fc47858eafe4bc5959debd/
+      textarea.focus();
+      textarea.select();
+      try {
+        document.execCommand("copy");
+        clipboardSuccessCallback();
+      } catch (err) {
+        clipboardFailedCallback(err);
+      } finally {
+        document.body.removeChild(textarea);
       }
     }
   }

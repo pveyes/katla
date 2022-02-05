@@ -90,7 +90,7 @@ export default function Arsip(props: Props) {
   );
 }
 
-export const getStaticPaths: GetStaticPaths = (ctx) => {
+export const getStaticPaths: GetStaticPaths = () => {
   return {
     paths: [],
     fallback: "blocking",
@@ -127,6 +127,14 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
       },
     },
   });
+
+  // https://sentry.io/share/issue/c36f4e3f94ee471cb39e194e82c0bf8a/
+  if (db.results.length === 0) {
+    return {
+      notFound: true,
+      revalidate: 60,
+    };
+  }
 
   const entry = db.results[0] as any;
   return {

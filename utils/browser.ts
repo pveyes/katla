@@ -9,7 +9,8 @@ export function checkNativeShareSupport() {
   const isDesktop =
     window.screenX === 0 &&
     !("ontouchstart" in window) &&
-    screen.orientation.type === "landscape-primary";
+    // https://sentry.io/share/issue/5faab0d5e08a4d02a32cace759e7e3d8/
+    (screen?.orientation?.type ?? "landscape-primary") === "landscape-primary";
 
   if (isDesktop) {
     return false;
