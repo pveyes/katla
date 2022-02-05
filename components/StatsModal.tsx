@@ -130,7 +130,10 @@ export default function StatsModal(props: Props) {
       });
     } else if (
       "clipboard" in navigator &&
-      typeof navigator.clipboard.writeText === "function"
+      typeof navigator.clipboard.writeText === "function" &&
+      // https://sentry.io/share/issue/5074ad1fa6b34a2a9985edc7155967f0/
+      // https://stackoverflow.com/questions/61243646/clipboard-api-call-throws-notallowederror-without-invoking-onpermissionrequest
+      "permissions" in navigator
     ) {
       // async clipboard API
       const promise = navigator.clipboard.writeText(text);
