@@ -162,6 +162,7 @@ export default function Home(props: Props) {
         ref={iframeRef}
         className="hidden"
         src="https://katla.id/sync"
+        sandbox="allow-same-origin allow-scripts"
         onLoad={() => {
           iframeLoaded.current = true;
           let win;
