@@ -15,6 +15,7 @@ export default function SyncPage() {
     }
 
     function handleMessage(event: MessageEvent) {
+      console.log("[katla-sync]", event);
       if (
         event.data.type === "sync-storage" &&
         event.origin === VALID_EVENT_ORIGIN

@@ -15,6 +15,7 @@ import { formatDate } from "../../utils/formatter";
 import { encode } from "../../utils/codec";
 import { useGame } from "../../utils/game";
 import { GameStats } from "../../utils/types";
+import fetcher from "../../utils/fetcher";
 
 const databaseId = process.env.NOTION_DATABASE_ID;
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
@@ -23,6 +24,7 @@ interface Props {
   num: string;
   hash: string;
   date: string;
+  words: string[];
 }
 
 const initialStats: GameStats = {
@@ -80,6 +82,7 @@ export default function Arsip(props: Props) {
         setStats={setStats}
         showMessage={showMessage}
         showStats={() => void 0}
+        words={props.words}
       />
       <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
       <SettingsModal
@@ -117,16 +120,19 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
     };
   }
 
-  const db = await notion.databases.query({
-    database_id: databaseId,
-    filter: {
-      property: "Date",
-      type: "date",
-      date: {
-        equals: formatDate(date),
+  const [db, words] = await Promise.all([
+    notion.databases.query({
+      database_id: databaseId,
+      filter: {
+        property: "Date",
+        type: "date",
+        date: {
+          equals: formatDate(date),
+        },
       },
-    },
-  });
+    }),
+    fetcher("https://katla.vercel.app/api/words"),
+  ]);
 
   // https://sentry.io/share/issue/c36f4e3f94ee471cb39e194e82c0bf8a/
   if (db.results.length === 0) {
@@ -142,6 +148,7 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
       num,
       hash: encode(entry.properties.Word.title[0].plain_text),
       date: entry.properties.Date.date.start,
+      words,
     },
   };
 };

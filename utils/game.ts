@@ -1,6 +1,5 @@
 import { useEffect, useState, useRef } from "react";
 import createPersistedState from "use-persisted-state";
-import useSWR from "swr";
 import * as Sentry from "@sentry/nextjs";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
@@ -20,7 +19,6 @@ interface Config {
 }
 
 export interface Game extends Config {
-  words: string[];
   readyState: "init" | "no-storage" | "ready";
   ready: boolean;
   state: GameState;
@@ -38,7 +36,6 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
   const [state, setState] = useGameState<GameState>(initialState);
   const [readyState, setGameReadyState] = useState<Game["readyState"]>("init");
   const [currentHash, setCurrentHash] = useState(config.hash);
-  const { data: words = [] } = useSWR("/api/words", fetcher);
 
   useEffect(() => {
     if (!enableStorage) {
@@ -107,11 +104,10 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
   }
 
   return {
-    words,
     hash: currentHash,
     date: config.date,
     readyState,
-    ready: readyState !== "init" && words.length > 0,
+    ready: readyState !== "init",
     state,
     setState,
     trackInvalidWord,

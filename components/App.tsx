@@ -12,14 +12,14 @@ import { trackEvent } from "../utils/tracking";
 interface Props {
   game: Game;
   stats: GameStats;
+  words: string[];
   setStats: (stats: GameStats) => void;
   showMessage: (message: string, cb?: () => void, timeout?: number) => void;
   showStats: () => void;
 }
 
 export default function App(props: Props) {
-  const { game, stats, setStats, showMessage, showStats } = props;
-  const words = game.words;
+  const { game, stats, setStats, showMessage, showStats, words } = props;
 
   const [invalidAnswer, setInvalidAnswer] = useState(false);
   const isAnimating = useRef(null);

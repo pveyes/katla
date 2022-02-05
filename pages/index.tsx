@@ -27,10 +27,12 @@ import { decode } from "../utils/codec";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats, PersistedState } from "../utils/types";
 import LocalStorage from "../utils/browser";
+import fetcher from "../utils/fetcher";
 
 interface Props {
   hash: string;
   date: string;
+  words: string[];
 }
 
 const initialStats: GameStats = {
@@ -144,6 +146,7 @@ export default function Home(props: Props) {
         setStats={setStats}
         showStats={() => setModalState("stats")}
         showMessage={showMessage}
+        words={props.words}
       />
       <HelpModal isOpen={modalState === "help"} onClose={resetModalState} />
       <StatsModal
@@ -188,13 +191,16 @@ export default function Home(props: Props) {
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const { hash, date } = await fetch("https://katla.vercel.app/api/hash").then(
-    (res) => res.json()
-  );
+  const [{ hash, date }, words] = await Promise.all([
+    fetcher("https://katla.vercel.app/api/hash"),
+    fetcher("https://katla.vercel.app/api/words"),
+  ]);
+
   return {
     props: {
       hash: hash,
       date: date,
+      words: words,
     },
     revalidate: 60,
   };
