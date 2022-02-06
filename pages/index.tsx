@@ -84,7 +84,7 @@ export default function Home(props: Props) {
   const iframeRef = useRef<ComponentRef<"iframe">>(null);
   const iframeLoaded = useRef(false);
   useEffect(() => {
-    if (!game.ready) {
+    if (game.readyState !== "ready") {
       return;
     }
 
@@ -99,7 +99,7 @@ export default function Home(props: Props) {
         "*"
       );
     }
-  }, [stats, game.state, game.hash, game.ready]);
+  }, [stats, game.state, game.hash, game.readyState]);
 
   function showMessage(message: string, cb?: () => void, timeout?: number) {
     setMessage(message);
@@ -163,6 +163,10 @@ export default function Home(props: Props) {
         src="https://katla.id/sync"
         sandbox="allow-same-origin allow-scripts"
         onLoad={() => {
+          if (game.readyState !== "ready") {
+            return;
+          }
+
           iframeLoaded.current = true;
           let win;
           try {
