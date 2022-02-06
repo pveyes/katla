@@ -19,5 +19,3 @@ export interface GameStats {
   currentStreak: number;
   maxStreak: number;
 }
-
-export type PersistedState<T> = (initialState: T) => [T, (newState: T) => void];

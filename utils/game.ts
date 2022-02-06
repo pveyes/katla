@@ -1,11 +1,10 @@
 import { useEffect, useState, useRef } from "react";
-import createPersistedState from "use-persisted-state";
 import * as Sentry from "@sentry/nextjs";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
-import fetcher from "./fetcher";
-import { AnswerState, GameState, GameStats, PersistedState } from "./types";
+import { AnswerState, GameState, GameStats } from "./types";
 import LocalStorage, { isStorageEnabled } from "./browser";
+import createStoredState from "./useStoredState";
 
 const initialState: GameState = {
   answers: Array(6).fill(""),
@@ -26,10 +25,7 @@ export interface Game extends Config {
   trackInvalidWord: (word: string) => void;
 }
 
-const useGamePersistedState: PersistedState<GameState> = createPersistedState(
-  GAME_STATE_KEY,
-  LocalStorage
-);
+const useGamePersistedState = createStoredState<GameState>(GAME_STATE_KEY);
 
 export function useGame(config: Config, enableStorage: boolean = true): Game {
   const useGameState = enableStorage ? useGamePersistedState : useState;

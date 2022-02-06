@@ -5,7 +5,6 @@ import React, {
   useRef,
   useState,
 } from "react";
-import createPersistedState from "use-persisted-state";
 import { GetStaticProps } from "next";
 
 import Container from "../components/Container";
@@ -25,9 +24,9 @@ import {
 } from "../utils/game";
 import { decode } from "../utils/codec";
 import { GAME_STATS_KEY } from "../utils/constants";
-import { GameStats, PersistedState } from "../utils/types";
-import LocalStorage from "../utils/browser";
+import { GameStats } from "../utils/types";
 import fetcher from "../utils/fetcher";
+import createStoredState from "../utils/useStoredState";
 
 interface Props {
   hash: string;
@@ -51,10 +50,7 @@ const initialStats: GameStats = {
 
 type ModalState = "help" | "stats" | "settings";
 
-const useStats: PersistedState<GameStats> = createPersistedState(
-  GAME_STATS_KEY,
-  LocalStorage
-);
+const useStats = createStoredState<GameStats>(GAME_STATS_KEY);
 
 export default function Home(props: Props) {
   const remainingTime = useRemainingTime();
