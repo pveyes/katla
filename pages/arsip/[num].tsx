@@ -11,8 +11,8 @@ import SettingsModal from "../../components/SettingsModal";
 import HeadingWithNum from "../../components/HeadingWithNum";
 
 import { formatDate } from "../../utils/formatter";
-import { encode } from "../../utils/codec";
 import { useGame, isGameFinished } from "../../utils/game";
+import { encodeHashed } from "../../utils/codec";
 import { GameStats } from "../../utils/types";
 import fetcher from "../../utils/fetcher";
 import StatsModal from "../../components/StatsModal";
@@ -23,8 +23,7 @@ const notion = new Client({ auth: process.env.NOTION_API_KEY });
 
 interface Props {
   num: string;
-  hash: string;
-  date: string;
+  hashed: string;
   words: string[];
 }
 
@@ -43,7 +42,7 @@ const initialStats: GameStats = {
 };
 
 export default function Arsip(props: Props) {
-  const game = useGame(props, false);
+  const game = useGame(props.hashed, false);
   const [stats, setStats] = useState(initialStats);
   const [modalState, setModalState, resetModalState] = useModalState(
     game,
@@ -149,8 +148,12 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
   return {
     props: {
       num,
-      hash: encode(entry.properties.Word.title[0].plain_text),
-      date: entry.properties.Date.date.start,
+      hashed: encodeHashed(
+        entry.properties.Word.title[0].plain_text,
+        entry.properties.Date.date.start,
+        '',
+        ''
+      ),
       words,
     },
   };

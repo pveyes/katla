@@ -1,12 +1,11 @@
 import { useEffect, useState, useRef } from "react";
-import * as Sentry from "@sentry/nextjs";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import { AnswerState, GameState, GameStats } from "./types";
 import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
 import { trackEvent } from "./tracking";
-import { decode } from "./codec";
+import { decode, decodeHashed } from "./codec";
 
 const initialState: GameState = {
   answers: Array(6).fill(""),
@@ -16,12 +15,9 @@ const initialState: GameState = {
   enableHardMode: false,
 };
 
-interface Config {
+export interface Game {
   hash: string;
-  date: string;
-}
-
-export interface Game extends Config {
+  num: number;
   readyState: "init" | "no-storage" | "ready";
   ready: boolean;
   state: GameState;
@@ -31,11 +27,15 @@ export interface Game extends Config {
 
 const useGamePersistedState = createStoredState<GameState>(GAME_STATE_KEY);
 
-export function useGame(config: Config, enableStorage: boolean = true): Game {
+export function useGame(hashed: string, enableStorage: boolean = true): Game {
   const useGameState = enableStorage ? useGamePersistedState : useState;
   const [state, setState] = useGameState<GameState>(initialState);
   const [readyState, setGameReadyState] = useState<Game["readyState"]>("init");
-  const [currentHash, setCurrentHash] = useState(config.hash);
+
+  const [latestHash, latestDate, previousHash, previousDate] =
+    decodeHashed(hashed);
+  const [currentHash, setCurrentHash] = useState(latestHash);
+  const [currentDate, setCurrentDate] = useState(latestDate);
 
   useEffect(() => {
     if (!enableStorage) {
@@ -50,37 +50,44 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
       return;
     }
 
+    // check for new game schedule
+    const now = new Date();
+    const gameDate = new Date(latestDate);
+    gameDate.setHours(0);
+    gameDate.setMinutes(0);
+    gameDate.setSeconds(0);
+    gameDate.setMilliseconds(0);
+    const isAfterGameDate = now.getTime() >= gameDate.getTime();
+
     const lastHash = LocalStorage.getItem(LAST_HASH_KEY);
-    let currentHash = config.hash;
 
-    if (lastHash !== currentHash && lastHash !== "") {
-      // new game schedule
-      const now = new Date();
-      const gameDate = new Date(config.date);
-      gameDate.setHours(0);
-      gameDate.setMinutes(0);
-      gameDate.setSeconds(0);
-      gameDate.setMilliseconds(0);
-      const isAfterGameDate = now.getTime() >= gameDate.getTime();
+    // first time playing
+    if (!lastHash) {
+      if (!isAfterGameDate) {
+        setCurrentHash(previousHash);
+        setCurrentDate(previousDate);
+        LocalStorage.setItem(LAST_HASH_KEY, previousHash);
+        return;
+      }
 
+      LocalStorage.setItem(LAST_HASH_KEY, currentHash);
+      return;
+    }
+
+    // already play
+    if (lastHash !== latestHash) {
       // ready for a new game
       if (isAfterGameDate) {
-        Sentry.setContext("game", {
-          state,
-          hash: currentHash,
-          isNewGame: true,
-        });
-        LocalStorage.setItem(LAST_HASH_KEY, config.hash);
-        setState({
+        LocalStorage.setItem(LAST_HASH_KEY, latestHash);
+        setState(state => ({
           ...state,
           answers: Array(6).fill(""),
           attempt: 0,
-        });
+        }));
         LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
       }
       // not yet ready for a new game
       else {
-        Sentry.setContext("game", { state, hash: lastHash, isNewGame: false });
         setCurrentHash(lastHash);
       }
     }
@@ -118,7 +125,7 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
 
   return {
     hash: currentHash,
-    date: config.date,
+    num: getGameNum(currentDate),
     readyState,
     ready: readyState !== "init",
     state,

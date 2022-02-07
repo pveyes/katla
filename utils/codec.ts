@@ -25,3 +25,25 @@ export function decode(hash: string): string {
       .join("") + padding;
   return Buffer.from(base64, "base64").toString();
 }
+
+const HASHED_SEPARATOR = "::";
+
+export function encodeHashed(
+  latestAnswer: string,
+  latestDate: string,
+  previousAnswer: string,
+  previousDate: string
+) {
+  return encode(
+    [
+      encode(latestAnswer),
+      latestDate,
+      encode(previousAnswer),
+      previousDate,
+    ].join(HASHED_SEPARATOR)
+  );
+}
+
+export function decodeHashed(hashed: string) {
+  return decode(hashed).split(HASHED_SEPARATOR);
+}

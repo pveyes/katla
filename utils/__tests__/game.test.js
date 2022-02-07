@@ -5,32 +5,9 @@ import { renderHook } from "@testing-library/react-hooks";
 import MockDate from "mockdate";
 
 import { useGame } from "../game";
-import { LAST_HASH_KEY } from "../constants";
-
-afterEach(() => {
-  MockDate.reset();
-  localStorage.clear();
-});
-
-test("should update hash when ready", () => {
-  MockDate.set(new Date(2022, 0, 1, 0, 0, 1));
-  localStorage.setItem(LAST_HASH_KEY, "xxx");
-  const { result } = renderHook(() =>
-    useGame({ hash: "yyy", date: "2022-01-01" })
-  );
-
-  expect(result.current.hash).toEqual("yyy");
-  expect(localStorage.getItem(LAST_HASH_KEY)).toEqual("yyy");
-});
-
-test("should not update hash when not ready", () => {
-  MockDate.set(new Date(2022, 0, 1, 23, 59, 59));
-  localStorage.setItem(LAST_HASH_KEY, "xxx");
-  const { result } = renderHook(() =>
-    useGame({ hash: "yyy", date: "2022-01-02" })
-  );
-  expect(result.current.hash).toEqual("xxx");
-});
+import { GAME_STATE_KEY, INVALID_WORDS_KEY, LAST_HASH_KEY } from "../constants";
+import { decode, encode, encodeHashed } from "../codec";
+import LocalStorage from "../browser";
 
 class LocalStorageMock {
   constructor() {
@@ -54,4 +31,92 @@ class LocalStorageMock {
   }
 }
 
-global.localStorage = new LocalStorageMock();
+beforeAll(() => {
+  global.localStorage = new LocalStorageMock();
+})
+
+afterEach(() => {
+  MockDate.reset();
+  localStorage.clear();
+});
+
+const hashed = encodeHashed(
+  'latest',
+  '2022-02-09',
+  'previous',
+  '2022-02-08',
+)
+
+test('first time playing, ready for new game', () => {
+  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+
+  const { result } = renderHook(() => useGame(hashed));  
+  expect(decode(result.current.hash)).toBe('latest');
+  expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
+});
+
+test('first time, not ready for new game', () => {
+  MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
+
+  const { result } = renderHook(() => useGame(hashed));
+  expect(decode(result.current.hash)).toBe('previous');
+  expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
+});
+
+test('already played, ready for new game', () => {
+  const answers = ['ganar', 'pakar', 'syair'];
+  const attempt = 3;
+  const lastCompletedDate = Date.now();
+  const enableHardMode = true;
+  const enableHighContrast = true;
+
+  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  localStorage.setItem(LAST_HASH_KEY, encode('previous'));
+  localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(['fucek']));
+  localStorage.setItem(GAME_STATE_KEY, JSON.stringify({
+    answers,
+    attempt,
+    lastCompletedDate,
+    enableHardMode,
+    enableHighContrast,
+  }));
+
+  const { result } = renderHook(() => useGame(hashed));
+  expect(decode(result.current.hash)).toBe('latest');
+  expect(result.current.state.answers).toEqual(Array(6).fill(''));
+  expect(result.current.state.attempt).toBe(0);
+
+  // keep other state
+  expect(result.current.state.lastCompletedDate).toBe(lastCompletedDate);
+  expect(result.current.state.enableHardMode).toBe(enableHardMode);
+  expect(result.current.state.enableHighContrast).toBe(enableHighContrast);
+
+  // reset invalid word list
+  expect(localStorage.getItem(INVALID_WORDS_KEY)).toBe('[]');
+});
+
+test('already played, not ready for new game', () => {
+  MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
+  localStorage.setItem(LAST_HASH_KEY, encode('previous'));
+
+  const { result } = renderHook(() => useGame(hashed));
+  expect(decode(result.current.hash)).toBe('previous');
+});
+
+test('currently playing, should not reset state', async () => {
+  const answers = ['ganar', 'pakar', 'syair'];
+  const attempt = 3;
+
+  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  localStorage.setItem(LAST_HASH_KEY, encode('latest'));
+  localStorage.setItem(GAME_STATE_KEY, JSON.stringify({
+    answers,
+    attempt,
+  }));
+
+  const { result } = renderHook(() => useGame(hashed));
+  expect(result.current.ready).toBe(true);
+  expect(decode(result.current.hash)).toBe('latest');
+  expect(result.current.state.answers).toEqual(answers);
+  expect(result.current.state.attempt).toBe(attempt);  
+});

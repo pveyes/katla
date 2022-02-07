@@ -1,5 +1,6 @@
 import React, { ComponentProps, ComponentRef, useEffect, useRef } from "react";
 import { GetStaticProps } from "next";
+import { Client } from "@notionhq/client";
 
 import Container from "../components/Container";
 import Header from "../components/Header";
@@ -8,17 +9,20 @@ import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
 import HeadingWithNum from "../components/HeadingWithNum";
+import useModalState from "../components/useModalState";
 
-import { useGame, useRemainingTime, getGameNum } from "../utils/game";
+import {
+  useGame,
+  useRemainingTime,
+} from "../utils/game";
+import { encodeHashed } from "../utils/codec";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats } from "../utils/types";
 import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
-import useModalState from "../components/useModalState";
 
 interface Props {
-  hash: string;
-  date: string;
+  hashed: string;
   words: string[];
 }
 
@@ -40,7 +44,7 @@ const useStats = createStoredState<GameStats>(GAME_STATS_KEY);
 
 export default function Home(props: Props) {
   const remainingTime = useRemainingTime();
-  const game = useGame(props);
+  const game = useGame(props.hashed);
   const [stats, setStats] = useStats(initialStats);
   const [modalState, setModalState, resetModalState] = useModalState(
     game,
@@ -69,7 +73,7 @@ export default function Home(props: Props) {
   }, [stats, game.state, game.hash, game.readyState]);
 
   const headerProps: ComponentProps<typeof Header> = {
-    customHeading: <HeadingWithNum num={getGameNum(game.date)} />,
+    customHeading: <HeadingWithNum num={game.num} />,
     themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
     onShowHelp: () => setModalState("help"),
     onShowStats: () => setModalState("stats"),
@@ -143,16 +147,33 @@ export default function Home(props: Props) {
   );
 }
 
+const databaseId = process.env.NOTION_DATABASE_ID;
+const notion = new Client({ auth: process.env.NOTION_API_KEY });
+
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const [{ hash, date }, words] = await Promise.all([
-    fetcher("https://katla.vercel.app/api/hash"),
+  const [db, words] = await Promise.all([
+    notion.databases.query({
+      database_id: databaseId,
+      sorts: [
+        {
+          property: "Date",
+          direction: "descending",
+        },
+      ],
+    }),
     fetcher("https://katla.vercel.app/api/words"),
   ]);
 
+  const latestEntry = db.results[0] as any;
+  const latestDate = latestEntry.properties.Date.date.start;
+  const latestWord = latestEntry.properties.Word.title[0].plain_text;
+  const previousEntry = db.results[1] as any;
+  const previousDate = previousEntry.properties.Date.date.start;
+  const previousWord = previousEntry.properties.Word.title[0].plain_text;
+
   return {
     props: {
-      hash: hash,
-      date: date,
+      hashed: encodeHashed(latestWord, latestDate, previousWord, previousDate),
       words: words,
     },
     revalidate: 60,

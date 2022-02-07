@@ -46,12 +46,11 @@ export default function StatsModal(props: Props) {
   const totalPlay = getTotalPlay(stats);
 
   function generateText() {
-    const num = getGameNum(game.date);
     const score =
       game.state.answers[game.state.attempt - 1] === answer
         ? game.state.attempt
         : "X";
-    let text = `Katla ${num} ${score}/6\n\n`;
+    let text = `Katla ${game.num} ${score}/6\n\n`;
 
     game.state.answers.filter(Boolean).forEach((userAnswer) => {
       const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
