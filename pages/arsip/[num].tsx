@@ -60,6 +60,7 @@ export default function Arsip(props: Props) {
     title: `Katla | Arsip #${props.num}`,
     customHeading: <HeadingWithNum num={props.num} />,
     ogImage: "https://katla.vercel.app/og-arsip.png",
+    themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
     onShowHelp: () => setShowHelp(true),
     onShowSettings: () => setShowSettings(true),
   };
@@ -88,6 +89,7 @@ export default function Arsip(props: Props) {
       <SettingsModal
         isOpen={showSettings}
         onClose={() => setShowSettings(false)}
+        game={game}
       />
     </Container>
   );

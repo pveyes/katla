@@ -50,12 +50,10 @@ export default function Tile(props: Props) {
     setTimeout(() => {
       switch (props.state) {
         case "correct":
-          setBackground(
-            "text-white dark:text-gray-200 bg-green-600 dark:bg-green-700"
-          );
+          setBackground("text-white dark:text-gray-200 bg-correct");
           break;
         case "exist":
-          setBackground("text-white dark:text-gray-200 bg-yellow-600");
+          setBackground("text-white bg-exist");
           break;
         case "wrong":
           setBackground(

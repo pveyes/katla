@@ -115,6 +115,7 @@ export default function Home(props: Props) {
 
   const headerProps: ComponentProps<typeof Header> = {
     customHeading: <HeadingWithNum num={getGameNum(game.date)} />,
+    themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
     onShowHelp: () => setModalState("help"),
     onShowStats: () => setModalState("stats"),
     onShowSettings: () => setModalState("settings"),
@@ -160,6 +161,7 @@ export default function Home(props: Props) {
       <SettingsModal
         isOpen={modalState === "settings"}
         onClose={resetModalState}
+        game={game}
       />
       <iframe
         ref={iframeRef}

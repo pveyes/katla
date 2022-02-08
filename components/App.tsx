@@ -97,6 +97,7 @@ export default function App(props: Props) {
 
     setInvalidAnswer(false);
     game.setState({
+      ...game.state,
       answers: game.state.answers.map((answer, i) => {
         if (i === game.state.attempt) {
           return userAnswer;
@@ -124,6 +125,7 @@ export default function App(props: Props) {
         }
 
         game.setState({
+          ...game.state,
           answers: game.state.answers.map((answer, i) => {
             if (i === game.state.attempt) {
               return userAnswer;

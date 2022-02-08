@@ -5,7 +5,7 @@ export default function Link(props: ComponentProps<typeof NextLink>) {
   const { children, ...rest } = props;
   return (
     <NextLink {...rest}>
-      <a className="text-green-600 hover:text-green-700">{children}</a>
+      <a className="color-accent">{children}</a>
     </NextLink>
   );
 }

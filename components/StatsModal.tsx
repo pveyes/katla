@@ -59,9 +59,9 @@ export default function StatsModal(props: Props) {
       const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
         switch (state) {
           case "correct":
-            return "🟩";
+            return game.state.enableHighContrast ? "🟧" : "🟩";
           case "exist":
-            return "🟨";
+            return game.state.enableHighContrast ? "🟦" : "🟨";
           case "wrong":
             return resolvedTheme === "dark" ? "⬛" : "⬜️";
         }
@@ -220,7 +220,7 @@ export default function StatsModal(props: Props) {
               ratio === GRAPH_WIDTH_MIN_RATIO
                 ? "justify-center"
                 : "justify-end";
-            const background = shouldHighlight ? "bg-green-600" : "bg-gray-500";
+            const background = shouldHighlight ? "bg-accent" : "bg-gray-500";
             return (
               <div className="flex h-5 mb-2" key={i}>
                 <div className="tabular-nums">{i + 1}</div>
@@ -250,7 +250,7 @@ export default function StatsModal(props: Props) {
             <div className="flex flex-col space-y-4">
               <button
                 onClick={handleShare}
-                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
+                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
               >
                 <div>Share</div>
                 <svg
@@ -267,7 +267,7 @@ export default function StatsModal(props: Props) {
               </button>
               <button
                 onClick={handleShareToTwitter}
-                className="bg-green-700 py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
+                className="py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
                 style={{ backgroundColor: "#00acee" }}
               >
                 <div>Share</div>
@@ -316,7 +316,7 @@ function WordDefinition({ answer }) {
         ) : null}
       </p>
       <a
-        className="text-green-600 text-sm"
+        className="color-accent text-sm"
         href={`https://kbbi.kemdikbud.go.id/entri/${answer}`}
       >
         Lihat di KBBI

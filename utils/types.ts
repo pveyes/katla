@@ -4,6 +4,7 @@ export interface GameState {
   answers: string[];
   attempt: number;
   lastCompletedDate: number | null;
+  enableHighContrast: boolean;
 }
 
 export interface GameStats {

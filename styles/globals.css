@@ -16,6 +16,40 @@ body {
   z-index: 10;
 }
 
+:root {
+  --k-bg-accent: #15803d;
+  --k-bg-accent-hover: #16a34a;
+  --k-bg-correct: #15803d;
+  --k-bg-exist: #ca8a04;
+}
+
+:root[data-katla-hc="true"] {
+  --k-bg-accent: #f5793a;
+  --k-bg-accent-hover: #f6a248;
+  --k-bg-correct: #f5793a;
+  --k-bg-exist: #85c0f9;
+}
+
+.bg-correct {
+  background-color: var(--k-bg-correct);
+}
+
+.bg-exist {
+  background-color: var(--k-bg-exist);
+}
+
+.bg-accent {
+  background-color: var(--k-bg-accent);
+}
+
+.color-accent {
+  color: var(--k-bg-accent);
+}
+
+.color-accent:hover {
+  color: var(--k-bg-accent-hover);
+}
+
 .text-dynamic {
   font-size: clamp(0.5rem, min(3vh, 3vw), 1.5rem);
 }
