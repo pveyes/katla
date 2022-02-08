@@ -160,6 +160,7 @@ export default function Home(props: Props) {
       <SettingsModal
         isOpen={modalState === "settings"}
         onClose={resetModalState}
+        game={game}
       />
       <iframe
         ref={iframeRef}

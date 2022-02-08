@@ -33,10 +33,7 @@ export default function Arsip() {
           Berikut adalah daftar kata telah digunakan sebelumnya. Kamu bisa
           menggunakan <em>link</em> di bawah, atau langsung memasukkan alamat
           pada <em>address bar</em> sesuai angka hari, misal:{" "}
-          <a
-            href="https://katla.vercel.app/arsip/1"
-            className="text-green-600 hover:text-green-700"
-          >
+          <a href="https://katla.vercel.app/arsip/1" className="color-accent">
             https://katla.vercel.app/arsip/1
           </a>
         </p>

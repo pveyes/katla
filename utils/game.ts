@@ -10,6 +10,7 @@ const initialState: GameState = {
   answers: Array(6).fill(""),
   attempt: 0,
   lastCompletedDate: null,
+  enableHighContrast: false,
 };
 
 interface Config {
@@ -71,6 +72,7 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
           answers: Array(6).fill(""),
           attempt: 0,
           lastCompletedDate: state.lastCompletedDate,
+          enableHighContrast: state.enableHighContrast,
         });
         LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
       }
@@ -98,6 +100,14 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
     invalidWords.push(word);
     LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(invalidWords));
   }
+
+  useEffect(() => {
+    if (state.enableHighContrast) {
+      document.documentElement.setAttribute("data-katla-hc", "true");
+    } else {
+      document.documentElement.removeAttribute("data-katla-hc");
+    }
+  }, [state.enableHighContrast]);
 
   return {
     hash: currentHash,

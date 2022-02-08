@@ -9,10 +9,10 @@ export default function KeyboardButton(props: Props) {
   let color = "bg-gray-300 text-gray-900 dark:bg-gray-500 dark:text-gray-200";
   switch (props.state) {
     case "correct":
-      color = "text-white bg-green-700";
+      color = "text-white bg-correct";
       break;
     case "exist":
-      color = "text-white bg-yellow-600";
+      color = "text-white bg-exist";
       break;
     case "wrong":
       color = "text-white bg-gray-500 dark:text-gray-200 dark:bg-gray-700";
