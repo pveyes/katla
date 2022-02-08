@@ -88,6 +88,7 @@ export default function Arsip(props: Props) {
       <SettingsModal
         isOpen={showSettings}
         onClose={() => setShowSettings(false)}
+        game={game}
       />
     </Container>
   );
