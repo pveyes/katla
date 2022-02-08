@@ -59,9 +59,9 @@ export default function StatsModal(props: Props) {
       const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
         switch (state) {
           case "correct":
-            return "🟩";
+            return game.state.enableHighContrast ? "🟧" : "🟩";
           case "exist":
-            return "🟨";
+            return game.state.enableHighContrast ? "🟦" : "🟨";
           case "wrong":
             return resolvedTheme === "dark" ? "⬛" : "⬜️";
         }
