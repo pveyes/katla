@@ -8,6 +8,7 @@ interface Props {
   ogImage?: string;
   customHeading?: ReactNode;
   warnStorageDisabled?: boolean;
+  themeColor?: string;
   onShowStats?: () => void;
   onShowHelp?: () => void;
   onShowSettings?: () => void;
@@ -41,6 +42,7 @@ export default function Header(props: Props) {
     onShowHelp,
     onShowSettings,
     warnStorageDisabled,
+    themeColor = "#15803D",
   } = props;
   return (
     <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
@@ -58,7 +60,7 @@ export default function Header(props: Props) {
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="katla.vercel.app" />
 
-        <meta name="theme-color" content="#15803D" />
+        <meta name="theme-color" content={themeColor} />
         <link href="/katla-32x32.png" rel="icon shortcut" sizes="3232" />
         <link href="/katla-192x192.png" rel="apple-touch-icon" />
       </Head>
