@@ -66,7 +66,11 @@ export default function Home(props: Props) {
     }
 
     // show help screen for first-time player
-    if (getTotalPlay(stats) === 0) {
+    if (
+      getTotalPlay(stats) === 0 &&
+      game.state.attempt === 0 &&
+      game.state.answers[0] !== ""
+    ) {
       setModalState("help");
     }
     // show stats screen if user already finished playing current session
@@ -78,7 +82,7 @@ export default function Home(props: Props) {
     }
 
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [game.ready, game.hash]);
+  }, [game.ready]);
 
   // sync storage
   const iframeRef = useRef<ComponentRef<"iframe">>(null);
