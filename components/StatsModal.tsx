@@ -19,20 +19,20 @@ import {
   getGameNum,
 } from "../utils/game";
 import { checkNativeShareSupport } from "../utils/browser";
+import Alert from "./Alert";
 
 interface Props {
   isOpen: boolean;
   onClose: () => void;
   game: Game;
   stats: GameStats;
-  showMessage: (message: string) => void;
   remainingTime: ReturnType<typeof useRemainingTime>;
 }
 
 const GRAPH_WIDTH_MIN_RATIO = 10;
 
 export default function StatsModal(props: Props) {
-  const { isOpen, onClose, game, stats, showMessage } = props;
+  const { isOpen, onClose, game, stats } = props;
   const { hours, minutes, seconds } = props.remainingTime;
   const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
   const { resolvedTheme } = useTheme();
@@ -115,12 +115,12 @@ export default function StatsModal(props: Props) {
     const useNativeShare = checkNativeShareSupport();
     const clipboardSuccessCallback = () => {
       onClose();
-      showMessage("Disalin ke clipboard");
+      Alert.show("Disalin ke clipboard", { id: "clipboard " });
     };
     const clipboardFailedCallback = (err: Error) => {
       Sentry.captureException(err);
       onClose();
-      showMessage(`Gagal menyalin ke clipboard.`);
+      Alert.show("Gagal menyalin ke clipboard", { id: "clipboard" });
     };
 
     if ("share" in navigator && useNativeShare) {

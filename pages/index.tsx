@@ -10,7 +10,6 @@ import { GetStaticProps } from "next";
 import Container from "../components/Container";
 import Header from "../components/Header";
 import App from "../components/App";
-import Alert from "../components/Alert";
 import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
@@ -56,7 +55,6 @@ export default function Home(props: Props) {
   const remainingTime = useRemainingTime();
   const game = useGame(props);
   const [stats, setStats] = useStats(initialStats);
-  const [message, setMessage] = useState(null);
 
   // modals
   const [modalState, setModalState] = useState<ModalState | null>(null);
@@ -105,14 +103,6 @@ export default function Home(props: Props) {
     }
   }, [stats, game.state, game.hash, game.readyState]);
 
-  function showMessage(message: string, cb?: () => void, timeout?: number) {
-    setMessage(message);
-    setTimeout(() => {
-      setMessage(null);
-      cb && cb();
-    }, timeout ?? 750);
-  }
-
   const headerProps: ComponentProps<typeof Header> = {
     customHeading: <HeadingWithNum num={getGameNum(game.date)} />,
     themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
@@ -140,13 +130,11 @@ export default function Home(props: Props) {
         {...headerProps}
         warnStorageDisabled={game.readyState === "no-storage"}
       />
-      {message && <Alert>{message}</Alert>}
       <App
         game={game}
         stats={stats}
         setStats={setStats}
         showStats={() => setModalState("stats")}
-        showMessage={showMessage}
         words={props.words}
       />
       <HelpModal isOpen={modalState === "help"} onClose={resetModalState} />
@@ -155,7 +143,6 @@ export default function Home(props: Props) {
         onClose={resetModalState}
         game={game}
         stats={stats}
-        showMessage={showMessage}
         remainingTime={remainingTime}
       />
       <SettingsModal

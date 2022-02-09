@@ -2,10 +2,12 @@ import Script from "next/script";
 
 import "../styles/globals.css";
 import { ThemeProvider } from "next-themes";
+import Alert from "../components/Alert";
 
 export default function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider storageKey="katla:theme" attribute="class">
+      <Alert />
       <Component {...pageProps} />
       <Script id="track-ga" strategy="afterInteractive">{`
         window.dataLayer = window.dataLayer || [];

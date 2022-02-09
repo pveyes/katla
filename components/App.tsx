@@ -6,20 +6,25 @@ import Keyboard from "./Keyboard";
 import { GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getCongratulationMessage, getFailureMessage } from "../utils/message";
-import { Game, getAnswerStates, verifyStreak } from "../utils/game";
+import {
+  checkHardModeAnswer,
+  Game,
+  getAnswerStates,
+  verifyStreak,
+} from "../utils/game";
 import { trackEvent } from "../utils/tracking";
+import Alert from "./Alert";
 
 interface Props {
   game: Game;
   stats: GameStats;
   words: string[];
   setStats: (stats: GameStats) => void;
-  showMessage: (message: string, cb?: () => void, timeout?: number) => void;
   showStats: () => void;
 }
 
 export default function App(props: Props) {
-  const { game, stats, setStats, showMessage, showStats, words } = props;
+  const { game, stats, setStats, showStats, words } = props;
 
   const [invalidAnswer, setInvalidAnswer] = useState(false);
   const isAnimating = useRef(null);
@@ -83,16 +88,33 @@ export default function App(props: Props) {
     const userAnswer = game.state.answers[game.state.attempt];
     if (userAnswer.length < 5) {
       markInvalid();
-      showMessage("Tidak cukup huruf");
+      Alert.show("Tidak cukup huruf", { id: "answer" });
       return;
     }
 
     if (!words.includes(userAnswer)) {
       markInvalid();
-      trackEvent("invalid_word", { word: userAnswer });
-      showMessage("Tidak ada dalam KBBI");
+      Alert.show("Tidak ada dalam KBBI", { id: "answer" });
       game.trackInvalidWord(userAnswer);
       return;
+    }
+
+    if (game.state.enableHardMode && game.state.attempt > 0) {
+      const [isInvalid, unusedChar, leterIndex] = checkHardModeAnswer(
+        game.state,
+        answer
+      );
+      if (isInvalid) {
+        markInvalid();
+        if (leterIndex) {
+          Alert.show(`Huruf ke-${leterIndex} harus ${unusedChar}`, {
+            id: "answer",
+          });
+        } else {
+          Alert.show(`Huruf ${unusedChar} harus dipakai`, { id: "answer" });
+        }
+        return;
+      }
     }
 
     setInvalidAnswer(false);
@@ -148,13 +170,11 @@ export default function App(props: Props) {
         });
 
         const message = getCongratulationMessage(game.state.attempt + 1, stats);
-        showMessage(
-          message,
-          () => {
-            showStats();
-          },
-          1250
-        );
+        Alert.show(message, {
+          id: "finish",
+          duration: 1250,
+          cb: showStats,
+        });
       } else if (game.state.attempt === 5) {
         trackEvent("failed", { hash: game.hash });
         setStats({
@@ -170,13 +190,11 @@ export default function App(props: Props) {
           stats,
           getAnswerStates(game.state.answers[game.state.attempt], answer)
         );
-        showMessage(
-          `${failureMessage}. Jawaban: ${answer}`,
-          () => {
-            showStats();
-          },
-          1250
-        );
+        Alert.show(`${failureMessage}. Jawaban: ${answer}`, {
+          id: "finish",
+          duration: 1250,
+          cb: showStats,
+        });
       }
     }, 400 * 6);
   }
