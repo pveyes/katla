@@ -33,57 +33,55 @@ class LocalStorageMock {
 
 beforeAll(() => {
   global.localStorage = new LocalStorageMock();
-})
+});
 
 afterEach(() => {
   MockDate.reset();
   localStorage.clear();
 });
 
-const hashed = encodeHashed(
-  'latest',
-  '2022-02-09',
-  'previous',
-  '2022-02-08',
-)
+const hashed = encodeHashed("latest", "2022-02-09", "previous", "2022-02-08");
 
-test('first time playing, ready for new game', () => {
+test("first time playing, ready for new game", () => {
   MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
 
-  const { result } = renderHook(() => useGame(hashed));  
-  expect(decode(result.current.hash)).toBe('latest');
+  const { result } = renderHook(() => useGame(hashed));
+  expect(decode(result.current.hash)).toBe("latest");
   expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
 });
 
-test('first time, not ready for new game', () => {
+test("first time, not ready for new game", () => {
   MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
 
   const { result } = renderHook(() => useGame(hashed));
-  expect(decode(result.current.hash)).toBe('previous');
+  expect(decode(result.current.hash)).toBe("previous");
   expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
 });
 
-test('already played, ready for new game', () => {
-  const answers = ['ganar', 'pakar', 'syair'];
+test("already played, ready for new game", () => {
+  const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
   const lastCompletedDate = Date.now();
   const enableHardMode = true;
   const enableHighContrast = true;
 
   MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
-  localStorage.setItem(LAST_HASH_KEY, encode('previous'));
-  localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(['fucek']));
-  localStorage.setItem(GAME_STATE_KEY, JSON.stringify({
-    answers,
-    attempt,
-    lastCompletedDate,
-    enableHardMode,
-    enableHighContrast,
-  }));
+  localStorage.setItem(LAST_HASH_KEY, encode("previous"));
+  localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(["fucek"]));
+  localStorage.setItem(
+    GAME_STATE_KEY,
+    JSON.stringify({
+      answers,
+      attempt,
+      lastCompletedDate,
+      enableHardMode,
+      enableHighContrast,
+    })
+  );
 
   const { result } = renderHook(() => useGame(hashed));
-  expect(decode(result.current.hash)).toBe('latest');
-  expect(result.current.state.answers).toEqual(Array(6).fill(''));
+  expect(decode(result.current.hash)).toBe("latest");
+  expect(result.current.state.answers).toEqual(Array(6).fill(""));
   expect(result.current.state.attempt).toBe(0);
 
   // keep other state
@@ -92,31 +90,59 @@ test('already played, ready for new game', () => {
   expect(result.current.state.enableHighContrast).toBe(enableHighContrast);
 
   // reset invalid word list
-  expect(localStorage.getItem(INVALID_WORDS_KEY)).toBe('[]');
+  expect(localStorage.getItem(INVALID_WORDS_KEY)).toBe("[]");
 });
 
-test('already played, not ready for new game', () => {
+test("already played, not ready for new game", () => {
   MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
-  localStorage.setItem(LAST_HASH_KEY, encode('previous'));
+  localStorage.setItem(LAST_HASH_KEY, encode("previous"));
 
   const { result } = renderHook(() => useGame(hashed));
-  expect(decode(result.current.hash)).toBe('previous');
+  expect(decode(result.current.hash)).toBe("previous");
 });
 
-test('currently playing, should not reset state', async () => {
-  const answers = ['ganar', 'pakar', 'syair'];
+test("currently playing, should not reset state", async () => {
+  const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
 
   MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
-  localStorage.setItem(LAST_HASH_KEY, encode('latest'));
-  localStorage.setItem(GAME_STATE_KEY, JSON.stringify({
-    answers,
-    attempt,
-  }));
+  localStorage.setItem(LAST_HASH_KEY, encode("latest"));
+  localStorage.setItem(
+    GAME_STATE_KEY,
+    JSON.stringify({
+      answers,
+      attempt,
+    })
+  );
 
   const { result } = renderHook(() => useGame(hashed));
   expect(result.current.ready).toBe(true);
-  expect(decode(result.current.hash)).toBe('latest');
+  expect(decode(result.current.hash)).toBe("latest");
   expect(result.current.state.answers).toEqual(answers);
-  expect(result.current.state.attempt).toBe(attempt);  
+  expect(result.current.state.attempt).toBe(attempt);
+});
+
+test("already played, refresh event", async () => {
+  const answers = ["ganar", "pakar", "syair"];
+  const attempt = 3;
+
+  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  localStorage.setItem(LAST_HASH_KEY, encode("latest"));
+  localStorage.setItem(
+    GAME_STATE_KEY,
+    JSON.stringify({
+      answers,
+      attempt,
+    })
+  );
+
+  let currentHashed = hashed;
+  const { result, rerender } = renderHook(() => useGame(currentHashed));
+  expect(decode(result.current.hash)).toBe("latest");
+
+  // refresh
+  MockDate.set(new Date(2022, 1, 10, 0, 0, 0));
+  currentHashed = encodeHashed("refresh", "2022-02-10", "latest", "2022-02-09");
+  rerender();
+  expect(decode(result.current.hash)).toBe("refresh");
 });

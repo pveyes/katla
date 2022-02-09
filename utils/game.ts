@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { useRouter } from "next/router";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import { AnswerState, GameState, GameStats } from "./types";
@@ -6,6 +7,7 @@ import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
 import { trackEvent } from "./tracking";
 import { decode, decodeHashed } from "./codec";
+import { unstable_batchedUpdates } from "react-dom";
 
 const initialState: GameState = {
   answers: Array(6).fill(""),
@@ -31,6 +33,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
   const useGameState = enableStorage ? useGamePersistedState : useState;
   const [state, setState] = useGameState<GameState>(initialState);
   const [readyState, setGameReadyState] = useState<Game["readyState"]>("init");
+  const router = useRouter();
 
   const [latestHash, latestDate, previousHash, previousDate] =
     decodeHashed(hashed);
@@ -64,8 +67,10 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     // first time playing
     if (!lastHash) {
       if (!isAfterGameDate) {
-        setCurrentHash(previousHash);
-        setCurrentDate(previousDate);
+        unstable_batchedUpdates(() => {
+          setCurrentHash(previousHash);
+          setCurrentDate(previousDate);
+        });
         LocalStorage.setItem(LAST_HASH_KEY, previousHash);
         return;
       }
@@ -79,11 +84,14 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       // ready for a new game
       if (isAfterGameDate) {
         LocalStorage.setItem(LAST_HASH_KEY, latestHash);
-        setState((state) => ({
-          ...state,
-          answers: Array(6).fill(""),
-          attempt: 0,
-        }));
+        unstable_batchedUpdates(() => {
+          setCurrentHash(latestHash);
+          setState((state) => ({
+            ...state,
+            answers: Array(6).fill(""),
+            attempt: 0,
+          }));
+        });
         LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
       }
       // not yet ready for a new game
@@ -93,7 +101,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     }
     // we want this effect to execute only once on mount
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [hashed]);
 
   function trackInvalidWord(word: string) {
     let invalidWords = [];
@@ -123,6 +131,18 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     }
   }, [state.enableHighContrast]);
 
+  useEffect(() => {
+    function handleVisibilityChange() {
+      if (document.visibilityState === "visible") {
+        router.replace(router.asPath);
+      }
+    }
+
+    window.addEventListener("visibilitychange", handleVisibilityChange);
+    return () =>
+      window.removeEventListener("visibilitychange", handleVisibilityChange);
+  }, [router]);
+
   return {
     hash: currentHash,
     num: getGameNum(currentDate),
@@ -139,6 +159,7 @@ export function useRemainingTime() {
   const hours = 23 - now.getHours();
   const minutes = 59 - now.getMinutes();
   const seconds = 59 - now.getSeconds();
+  const router = useRouter();
 
   const [remainingTime, setRemainingTime] = useState({
     hours,
@@ -154,7 +175,7 @@ export function useRemainingTime() {
       const seconds = 59 - now.getSeconds();
 
       if (hours + minutes + seconds === 0) {
-        window.location.reload();
+        router.replace(router.asPath);
       }
 
       setRemainingTime({ hours, minutes, seconds });
