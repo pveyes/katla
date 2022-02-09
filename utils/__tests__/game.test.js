@@ -47,6 +47,7 @@ test("first time playing, ready for new game", () => {
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("latest");
+  expect(result.current.num).toBe(20);
   expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
 });
 
@@ -55,6 +56,7 @@ test("first time, not ready for new game", () => {
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("previous");
+  expect(result.current.num).toBe(19);
   expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
 });
 
@@ -81,6 +83,7 @@ test("already played, ready for new game", () => {
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("latest");
+  expect(result.current.num).toBe(20);
   expect(result.current.state.answers).toEqual(Array(6).fill(""));
   expect(result.current.state.attempt).toBe(0);
 
@@ -99,6 +102,7 @@ test("already played, not ready for new game", () => {
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("previous");
+  expect(result.current.num).toBe(19);
 });
 
 test("currently playing, should not reset state", async () => {
@@ -118,6 +122,7 @@ test("currently playing, should not reset state", async () => {
   const { result } = renderHook(() => useGame(hashed));
   expect(result.current.ready).toBe(true);
   expect(decode(result.current.hash)).toBe("latest");
+  expect(result.current.num).toBe(20);
   expect(result.current.state.answers).toEqual(answers);
   expect(result.current.state.attempt).toBe(attempt);
 });
@@ -139,10 +144,12 @@ test("already played, refresh event", async () => {
   let currentHashed = hashed;
   const { result, rerender } = renderHook(() => useGame(currentHashed));
   expect(decode(result.current.hash)).toBe("latest");
+  expect(result.current.num).toBe(20);
 
   // refresh
   MockDate.set(new Date(2022, 1, 10, 0, 0, 0));
   currentHashed = encodeHashed("refresh", "2022-02-10", "latest", "2022-02-09");
   rerender();
   expect(decode(result.current.hash)).toBe("refresh");
+  expect(result.current.num).toBe(21);
 });

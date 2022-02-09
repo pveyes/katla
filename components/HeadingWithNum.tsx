@@ -1,10 +1,12 @@
-export default function HeadingWithNum(props: { num: string | number }) {
+export default function HeadingWithNum(props: { num: string | number | null }) {
   return (
     <span>
       Katla
-      <sup className="-top-4 tracking-tight" style={{ fontSize: "45%" }}>
-        #{props.num}
-      </sup>
+      {props.num && (
+        <sup className="-top-4 tracking-tight" style={{ fontSize: "45%" }}>
+          #{props.num}
+        </sup>
+      )}
     </span>
   );
 }

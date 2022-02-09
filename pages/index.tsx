@@ -11,10 +11,7 @@ import SettingsModal from "../components/SettingsModal";
 import HeadingWithNum from "../components/HeadingWithNum";
 import useModalState from "../components/useModalState";
 
-import {
-  useGame,
-  useRemainingTime,
-} from "../utils/game";
+import { useGame, useRemainingTime } from "../utils/game";
 import { encodeHashed } from "../utils/codec";
 import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats } from "../utils/types";
@@ -73,7 +70,7 @@ export default function Home(props: Props) {
   }, [stats, game.state, game.hash, game.readyState]);
 
   const headerProps: ComponentProps<typeof Header> = {
-    customHeading: <HeadingWithNum num={game.num} />,
+    customHeading: <HeadingWithNum num={game.ready ? game.num : null} />,
     themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
     onShowHelp: () => setModalState("help"),
     onShowStats: () => setModalState("stats"),

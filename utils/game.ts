@@ -86,6 +86,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
         LocalStorage.setItem(LAST_HASH_KEY, latestHash);
         unstable_batchedUpdates(() => {
           setCurrentHash(latestHash);
+          setCurrentDate(latestDate);
           setState((state) => ({
             ...state,
             answers: Array(6).fill(""),
@@ -96,7 +97,10 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       }
       // not yet ready for a new game
       else {
-        setCurrentHash(lastHash);
+        unstable_batchedUpdates(() => {
+          setCurrentHash(previousHash);
+          setCurrentDate(previousDate);
+        });
       }
     }
     // we want this effect to execute only once on mount
