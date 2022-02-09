@@ -67,7 +67,7 @@ export default function StatsModal(props: Props) {
       text += `${answerEmojis.join("")}\n`;
     });
 
-    text += "\nhttps://katla.vercel.app";
+    text += "\n" + window.location.href;
     return text;
   }
 
