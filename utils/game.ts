@@ -5,12 +5,14 @@ import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import { AnswerState, GameState, GameStats } from "./types";
 import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
+import { trackEvent } from "./tracking";
 
 const initialState: GameState = {
   answers: Array(6).fill(""),
   attempt: 0,
   lastCompletedDate: null,
   enableHighContrast: false,
+  enableHardMode: false,
 };
 
 interface Config {
@@ -69,10 +71,9 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
         });
         LocalStorage.setItem(LAST_HASH_KEY, config.hash);
         setState({
+          ...state,
           answers: Array(6).fill(""),
           attempt: 0,
-          lastCompletedDate: state.lastCompletedDate,
-          enableHighContrast: state.enableHighContrast,
         });
         LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
       }
@@ -97,8 +98,13 @@ export function useGame(config: Config, enableStorage: boolean = true): Game {
       invalidWords = [];
     }
 
+    if (invalidWords.includes(word)) {
+      return;
+    }
+
     invalidWords.push(word);
     LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(invalidWords));
+    trackEvent("invalid_word", { word });
   }
 
   useEffect(() => {
@@ -232,4 +238,41 @@ export function getAnswerStates(
   }
 
   return states.map((s) => (s === null ? "wrong" : s)) as any;
+}
+
+export function checkHardModeAnswer(
+  state: GameState,
+  answer: string
+): [isInvalid: boolean, unusedChar: string, letterIndex?: number] {
+  const previousAnswer = state.answers[state.attempt - 1];
+  const currentAnswer = state.answers[state.attempt];
+
+  const previousAnswerStates = getAnswerStates(previousAnswer, answer);
+  const currentAnswerStates = getAnswerStates(currentAnswer, answer);
+
+  // first check for unused characters
+  const mustBeUsedChars: string[] = previousAnswerStates.flatMap((state, i) => {
+    if (state === "exist") {
+      return previousAnswer[i];
+    }
+    return [];
+  });
+
+  for (let i = 0; i < mustBeUsedChars.length; i++) {
+    if (!currentAnswer.includes(mustBeUsedChars[i])) {
+      return [true, mustBeUsedChars[i].toUpperCase()];
+    }
+  }
+
+  // then check for matching answer
+  for (let i = 0; i < previousAnswerStates.length; i++) {
+    if (
+      previousAnswerStates[i] === "correct" &&
+      currentAnswerStates[i] !== "correct"
+    ) {
+      return [true, previousAnswer[i].toUpperCase(), i + 1];
+    }
+  }
+
+  return [false, ""];
 }

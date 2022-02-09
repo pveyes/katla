@@ -6,7 +6,6 @@ import { isSameDay, isAfter } from "date-fns";
 import Container from "../../components/Container";
 import Header from "../../components/Header";
 import App from "../../components/App";
-import Alert from "../../components/Alert";
 import HelpModal from "../../components/HelpModal";
 import SettingsModal from "../../components/SettingsModal";
 import HeadingWithNum from "../../components/HeadingWithNum";
@@ -44,17 +43,8 @@ const initialStats: GameStats = {
 export default function Arsip(props: Props) {
   const game = useGame(props, false);
   const [stats, setStats] = useState(initialStats);
-  const [message, setMessage] = useState(null);
   const [showHelp, setShowHelp] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
-
-  function showMessage(message: string, cb?: () => void, timeout?: number) {
-    setMessage(message);
-    setTimeout(() => {
-      setMessage(null);
-      cb && cb();
-    }, timeout ?? 750);
-  }
 
   const headerProps: ComponentProps<typeof Header> = {
     title: `Katla | Arsip #${props.num}`,
@@ -76,12 +66,10 @@ export default function Arsip(props: Props) {
   return (
     <Container>
       <Header {...headerProps} />
-      {message && <Alert>{message}</Alert>}
       <App
         game={game}
         stats={stats}
         setStats={setStats}
-        showMessage={showMessage}
         showStats={() => void 0}
         words={props.words}
       />

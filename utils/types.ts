@@ -5,6 +5,7 @@ export interface GameState {
   attempt: number;
   lastCompletedDate: number | null;
   enableHighContrast: boolean;
+  enableHardMode: boolean;
 }
 
 export interface GameStats {

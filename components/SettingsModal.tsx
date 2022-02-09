@@ -1,8 +1,8 @@
-import { useEffect, useState } from "react";
 import { useTheme } from "next-themes";
 
 import Link from "./Link";
 import Modal from "./Modal";
+import Alert from "./Alert";
 
 import {
   GAME_STATE_KEY,
@@ -20,7 +20,6 @@ interface Props {
   game: Game;
 }
 
-// TODO: feature parity with wordle
 export default function SettingsModal(props: Props) {
   function handleReset() {
     LocalStorage.removeItem(GAME_STATE_KEY);
@@ -41,6 +40,16 @@ export default function SettingsModal(props: Props) {
     <Modal isOpen={isOpen} onClose={onClose}>
       <Modal.Title>Pengaturan</Modal.Title>
       <Switch
+        title="Mode Sulit"
+        subtitle="Semua petunjuk dari jawaban sebelumnya harus digunakan"
+        disabled={game.state.attempt > 0}
+        disabledText={"Mode sulit hanya dapat diganti di awal permainan"}
+        active={game.state.enableHardMode}
+        onChange={(enableHardMode) => {
+          game.setState({ ...game.state, enableHardMode });
+        }}
+      />
+      <Switch
         title="Mode Gelap"
         active={resolvedTheme === "dark"}
         onChange={(active) => {
@@ -51,8 +60,8 @@ export default function SettingsModal(props: Props) {
         title="Mode Buta Warna"
         subtitle="Warna kontras tinggi"
         active={game.state.enableHighContrast}
-        onChange={(active) => {
-          game.setState({ ...game.state, enableHighContrast: active });
+        onChange={(enableHighContrast) => {
+          game.setState({ ...game.state, enableHighContrast });
         }}
       />
       <h4 className="text-center uppercase font-semibold my-4">Informasi</h4>
@@ -87,14 +96,25 @@ interface SwitchProps {
   active: boolean;
   title: string;
   subtitle?: string;
+  disabled?: boolean;
+  disabledText?: string;
   onChange: (active: boolean) => void;
 }
 
 function Switch(props: SwitchProps) {
-  const { title, subtitle, active, onChange } = props;
+  const { title, subtitle, disabled, disabledText, active, onChange } = props;
+
+  function handleClick() {
+    if (disabled) {
+      Alert.show(disabledText, { id: "disabled" });
+      return;
+    }
+
+    onChange(!active);
+  }
 
   return (
-    <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-gray-200 dark:border-gray-700">
+    <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-gray-200 dark:border-gray-700 space-x-2">
       <div className="flex flex-col">
         <p className="mb-0">{title}</p>
         {subtitle && <span className="text-xs text-gray-500">{subtitle}</span>}
@@ -102,8 +122,9 @@ function Switch(props: SwitchProps) {
       <button
         className={`${
           active ? "bg-correct" : "bg-gray-500"
-        } w-10 h-6 flex items-center rounded-full px-1`}
-        onClick={() => onChange(!active)}
+        } w-10 h-6 flex items-center rounded-full px-1 flex-shrink-0`}
+        onClick={handleClick}
+        style={{ cursor: disabled ? "not-allowed" : "pointer" }}
       >
         <div
           className={`bg-white w-4 h-4 rounded-full shadow-md transform transition ${
