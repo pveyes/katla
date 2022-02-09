@@ -83,7 +83,6 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     if (lastHash !== latestHash) {
       // ready for a new game
       if (isAfterGameDate) {
-        LocalStorage.setItem(LAST_HASH_KEY, latestHash);
         unstable_batchedUpdates(() => {
           setCurrentHash(latestHash);
           setCurrentDate(latestDate);
@@ -93,10 +92,22 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
             attempt: 0,
           }));
         });
+        LocalStorage.setItem(LAST_HASH_KEY, latestHash);
         LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
-      }
-      // not yet ready for a new game
-      else {
+      } else if (lastHash !== previousHash) {
+        // last hash is not in hashed
+        unstable_batchedUpdates(() => {
+          setCurrentHash(previousHash);
+          setCurrentDate(previousDate);
+          setState((state) => ({
+            ...state,
+            answers: Array(6).fill(""),
+            attempt: 0,
+          }));
+        });
+        LocalStorage.setItem(LAST_HASH_KEY, previousHash);
+        LocalStorage.setItem(INVALID_WORDS_KEY, JSON.stringify([]));
+      } else {
         unstable_batchedUpdates(() => {
           setCurrentHash(previousHash);
           setCurrentDate(previousDate);

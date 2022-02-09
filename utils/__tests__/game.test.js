@@ -105,6 +105,36 @@ test("already played, not ready for new game", () => {
   expect(result.current.num).toBe(19);
 });
 
+test("already played, but new hash already generated", () => {
+  const answers = ["ganar", "pakar", "syair"];
+  const attempt = 3;
+  const lastCompletedDate = Date.now();
+  const enableHardMode = true;
+  const enableHighContrast = true;
+  MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
+  localStorage.setItem(
+    GAME_STATE_KEY,
+    JSON.stringify({
+      answers,
+      attempt,
+      lastCompletedDate,
+      enableHardMode,
+      enableHighContrast,
+    })
+  );
+
+  // played on date X, now on date Y
+  // but hashed already on date Y and Z
+  localStorage.setItem(LAST_HASH_KEY, encode("before"));
+
+  const { result } = renderHook(() => useGame(hashed));
+  expect(decode(result.current.hash)).toBe("previous");
+  expect(result.current.num).toBe(19);
+  expect(result.current.state.answers).toEqual(Array(6).fill(""));
+
+  expect(localStorage.getItem(LAST_HASH_KEY)).toBe(encode("previous"));
+});
+
 test("currently playing, should not reset state", async () => {
   const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
