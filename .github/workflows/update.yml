@@ -1,8 +1,8 @@
 on:
   schedule:
-    # Update on every 23:58 GMT+7 which means 16:58 UTC
-    # as a 2 minutes buffer to rebuild SSG page
-    - cron: "58 16 * * *"
+    # TODO: use new zealand time?
+    # Update on every 00:00 GMT+9 / WIT which means 15:00 UTC
+    - cron: "00 15 * * *"
 
 jobs:
   update_katla:

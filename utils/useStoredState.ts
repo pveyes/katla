@@ -1,8 +1,8 @@
-import { useEffect, useState } from "react";
+import { Dispatch, SetStateAction, useEffect, useState } from "react";
 import LocalStorage from "./browser";
 
 export default function createStoredState<T>(storageKey: string) {
-  return function useStoredState(initialState: T): [T, (newState: T) => void] {
+  return function useStoredState(initialState: T): [T, Dispatch<SetStateAction<T>>] {
     const [state, setState] = useState<T>(initialState);
 
     function setStoredState(state: T) {
@@ -15,7 +15,8 @@ export default function createStoredState<T>(storageKey: string) {
         try {
           const storedState = LocalStorage.getItem(storageKey);
           if (storedState) {
-            setState(JSON.parse(storedState));
+            const parsedState = JSON.parse(storedState);
+            setState(parsedState);
           }
         } catch (_) {}
       }
