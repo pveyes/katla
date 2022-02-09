@@ -1,4 +1,3 @@
-import { GetStaticProps } from "next";
 import { useEffect, useState } from "react";
 import LocalStorage from "../utils/browser";
 import {
@@ -9,12 +8,7 @@ import {
   LAST_SESSION_RESET_KEY,
 } from "../utils/constants";
 
-interface Props {
-  hash: string;
-  date: string;
-}
-
-export default function Debug(props: Props) {
+export default function Debug(props: { hashed: string }) {
   const [debugCode, setDebugCode] = useState("");
   useEffect(() => {
     const gameState = LocalStorage.getItem(GAME_STATE_KEY);
@@ -31,8 +25,7 @@ export default function Debug(props: Props) {
     setDebugCode(
       btoa(
         [
-          props.hash,
-          props.date,
+          props.hashed,
           lastHash,
           gameState,
           gameStats,
@@ -72,15 +65,4 @@ export default function Debug(props: Props) {
   );
 }
 
-export const getStaticProps: GetStaticProps<Props> = async () => {
-  const { hash, date } = await fetch("https://katla.vercel.app/api/hash").then(
-    (res) => res.json()
-  );
-  return {
-    props: {
-      hash: hash,
-      date: date,
-    },
-    revalidate: 60,
-  };
-};
+export { getStaticProps } from "./index";

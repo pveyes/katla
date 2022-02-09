@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import { AnswerState, GameState, GameStats } from "./types";
@@ -79,7 +79,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       // ready for a new game
       if (isAfterGameDate) {
         LocalStorage.setItem(LAST_HASH_KEY, latestHash);
-        setState(state => ({
+        setState((state) => ({
           ...state,
           answers: Array(6).fill(""),
           attempt: 0,
@@ -137,15 +137,14 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
 export function useRemainingTime() {
   const now = new Date();
   const hours = 23 - now.getHours();
-  const seconds = 59 - now.getSeconds();
   const minutes = 59 - now.getMinutes();
+  const seconds = 59 - now.getSeconds();
 
   const [remainingTime, setRemainingTime] = useState({
     hours,
     minutes,
     seconds,
   });
-  const reloadTimeout = useRef(null);
 
   useEffect(() => {
     const t = setInterval(() => {
@@ -154,19 +153,12 @@ export function useRemainingTime() {
       const minutes = 59 - now.getMinutes();
       const seconds = 59 - now.getSeconds();
 
-      if (
-        !reloadTimeout.current &&
-        hours === 0 &&
-        minutes === 0 &&
-        seconds <= 5
-      ) {
-        reloadTimeout.current = setTimeout(() => {
-          window.location.reload();
-        }, 1000 * Number(seconds));
+      if (hours + minutes + seconds === 0) {
+        window.location.reload();
       }
 
       setRemainingTime({ hours, minutes, seconds });
-    }, 500);
+    }, 100);
     return () => clearInterval(t);
   }, []);
 
