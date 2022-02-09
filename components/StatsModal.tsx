@@ -26,15 +26,13 @@ interface Props {
   onClose: () => void;
   game: Game;
   stats: GameStats;
-  remainingTime: ReturnType<typeof useRemainingTime>;
+  remainingTime?: ReturnType<typeof useRemainingTime>;
 }
 
 const GRAPH_WIDTH_MIN_RATIO = 10;
 
 export default function StatsModal(props: Props) {
   const { isOpen, onClose, game, stats } = props;
-  const { hours, minutes, seconds } = props.remainingTime;
-  const remainingTime = `${hours}:${pad0(minutes)}:${pad0(seconds)}`;
   const { resolvedTheme } = useTheme();
   const isAnswered =
     game.state.answers[game.state.attempt - 1] === decode(game.hash);
@@ -240,12 +238,11 @@ export default function StatsModal(props: Props) {
         <>
           <WordDefinition answer={answer} />
           <div className="flex items-center justify-between w-3/4 m-auto my-8 space-x-2">
-            <div className="text-center flex flex-1 flex-col">
-              <div className="font-semibold uppercase text-xs md:text-md">
-                Katla berikutnya
-              </div>
-              <div className="text-xl md:text-4xl">{remainingTime}</div>
-            </div>
+            {props.remainingTime ? (
+              <TimeCounter time={props.remainingTime} />
+            ) : (
+              <div />
+            )}
             <div className="bg-gray-400" style={{ width: 1 }}></div>
             <div className="flex flex-col space-y-4">
               <button
@@ -321,6 +318,21 @@ function WordDefinition({ answer }) {
       >
         Lihat di KBBI
       </a>
+    </div>
+  );
+}
+
+function TimeCounter({ time }: { time: ReturnType<typeof useRemainingTime> }) {
+  const remainingTime = `${time.hours}:${pad0(time.minutes)}:${pad0(
+    time.seconds
+  )}`;
+
+  return (
+    <div className="text-center flex flex-1 flex-col">
+      <div className="font-semibold uppercase text-xs md:text-md">
+        Katla berikutnya
+      </div>
+      <div className="text-xl md:text-4xl">{remainingTime}</div>
     </div>
   );
 }

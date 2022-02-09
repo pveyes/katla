@@ -12,9 +12,11 @@ import HeadingWithNum from "../../components/HeadingWithNum";
 
 import { formatDate } from "../../utils/formatter";
 import { encode } from "../../utils/codec";
-import { useGame } from "../../utils/game";
+import { useGame, isGameFinished } from "../../utils/game";
 import { GameStats } from "../../utils/types";
 import fetcher from "../../utils/fetcher";
+import StatsModal from "../../components/StatsModal";
+import useModalState from "../../components/useModalState";
 
 const databaseId = process.env.NOTION_DATABASE_ID;
 const notion = new Client({ auth: process.env.NOTION_API_KEY });
@@ -43,16 +45,21 @@ const initialStats: GameStats = {
 export default function Arsip(props: Props) {
   const game = useGame(props, false);
   const [stats, setStats] = useState(initialStats);
-  const [showHelp, setShowHelp] = useState(false);
-  const [showSettings, setShowSettings] = useState(false);
+  const [modalState, setModalState, resetModalState] = useModalState(
+    game,
+    stats
+  );
 
   const headerProps: ComponentProps<typeof Header> = {
     title: `Katla | Arsip #${props.num}`,
     customHeading: <HeadingWithNum num={props.num} />,
     ogImage: "https://katla.vercel.app/og-arsip.png",
     themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
-    onShowHelp: () => setShowHelp(true),
-    onShowSettings: () => setShowSettings(true),
+    onShowHelp: () => setModalState("help"),
+    onShowStats: isGameFinished(game)
+      ? () => setModalState("stats")
+      : undefined,
+    onShowSettings: () => setModalState("settings"),
   };
 
   if (!game.ready) {
@@ -70,13 +77,19 @@ export default function Arsip(props: Props) {
         game={game}
         stats={stats}
         setStats={setStats}
-        showStats={() => void 0}
+        showStats={() => setModalState("stats")}
         words={props.words}
       />
-      <HelpModal isOpen={showHelp} onClose={() => setShowHelp(false)} />
+      <HelpModal isOpen={modalState === "help"} onClose={resetModalState} />
+      <StatsModal
+        game={game}
+        stats={stats}
+        isOpen={modalState === "stats"}
+        onClose={resetModalState}
+      />
       <SettingsModal
-        isOpen={showSettings}
-        onClose={() => setShowSettings(false)}
+        isOpen={modalState === "settings"}
+        onClose={resetModalState}
         game={game}
       />
     </Container>

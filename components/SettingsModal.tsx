@@ -76,18 +76,16 @@ export default function SettingsModal(props: Props) {
       </p>
       <p className="mb-4">
         Kamu bisa melihat daftar kata yang telah digunakan sebelumnya di dalam{" "}
-        <Link href="/arsip">
-          <a className="color-accent">Arsip</a>
-        </Link>
+        <Link href="/arsip">Arsip</Link>
       </p>
-      <p>
+      <div>
         <h2 className="text-xl font-semibold">Terdapat Masalah?</h2>
         <Link href="/debug">Laporkan bug</Link>
         <span> atau </span>
         <button onClick={handleReset} className="color-accent">
           reset sesi sekarang
         </button>
-      </p>
+      </div>
     </Modal>
   );
 }

@@ -6,6 +6,7 @@ import { AnswerState, GameState, GameStats } from "./types";
 import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
 import { trackEvent } from "./tracking";
+import { decode } from "./codec";
 
 const initialState: GameState = {
   answers: Array(6).fill(""),
@@ -172,6 +173,13 @@ export function getGameNum(gameDate: string): number {
       60 /
       60 /
       1000
+  );
+}
+
+export function isGameFinished(game: Game) {
+  return (
+    game.state.attempt === 6 ||
+    game.state.answers[game.state.attempt - 1] === decode(game.hash)
   );
 }
 
