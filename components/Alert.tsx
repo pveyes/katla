@@ -11,7 +11,7 @@ export default function Alert() {
         <div
           role="alert"
           style={{ opacity: t.visible ? 1 : 0 }}
-          className="absolute-center bg-white text-black text-center font-semibold py-2 px-3 rounded-sm"
+          className="absolute-center bg-gray-900 text-white dark:bg-white dark:text-black text-center font-semibold py-2 px-3 rounded-sm"
         >
           {resolveValue(t.message, t)}
         </div>
