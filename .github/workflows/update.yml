@@ -2,6 +2,7 @@ on:
   schedule:
     # TODO: use new zealand time?
     # Update on every 00:00 GMT+9 / WIT which means 15:00 UTC
+    # Also sync timezone change to update.js/TIMEZONE_OFFSET
     - cron: "00 15 * * *"
 
 jobs:

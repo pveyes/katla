@@ -62,11 +62,12 @@ async function insertWord(word) {
   });
 }
 
-// because this actions runs on UTC and previous date (23:58)
-// we have to adjust few things
+// sync with update.yml
+const TIMEZONE_OFFSET = 9;
+
 function getMidnightDate() {
   const now = new Date();
-  now.setHours(now.getHours() + 7);
+  now.setHours(now.getHours() + TIMEZONE_OFFSET);
   const deltaToMidnightMinutes = 60 - now.getMinutes();
   now.setMinutes(now.getMinutes() + deltaToMidnightMinutes);
   return now;
