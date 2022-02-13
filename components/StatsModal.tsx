@@ -166,8 +166,8 @@ export default function StatsModal(props: Props) {
 
     const ctx = canvas.getContext("2d");
 
-    const gap = 5;
-    const paddingH = 25;
+    const gap = 10;
+    const paddingH = 50;
     const paddingT = 150;
     const size = (canvas.width - paddingH * 2 - gap * 4) / 5;
 
@@ -180,7 +180,7 @@ export default function StatsModal(props: Props) {
     ctx.textAlign = "center";
     ctx.fillText(text, canvas.width / 2, 75);
 
-    game.state.answers.forEach((answer, y) => {
+    game.state.answers.slice(0, game.state.attempt - 1).forEach((answer, y) => {
       const states = getAnswerStates(answer, decode(game.hash));
       states.forEach((state, x) => {
         if (state === "correct") {
