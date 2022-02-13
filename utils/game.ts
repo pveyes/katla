@@ -55,8 +55,8 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
 
     // check for new game schedule
     const now = new Date();
-    const gameDate = new Date("2020-01-20");
-    gameDate.setDate(gameDate.getDate() + Number(num));
+    const gameDate = new Date("2022-01-20");
+    gameDate.setDate(gameDate.getDate() + initialCurrentNum);
     gameDate.setHours(0);
     gameDate.setMinutes(0);
     gameDate.setSeconds(0);

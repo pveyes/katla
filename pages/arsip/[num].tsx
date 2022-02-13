@@ -123,9 +123,10 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
     };
   }
 
+  const numInt = Number(num);
   const now = new Date();
   const date = new Date("2022-01-20");
-  date.setDate(date.getDate() + parseInt(num));
+  date.setDate(date.getDate() + numInt);
 
   // archive should only return previous dates
   if (isSameDay(date, now) || isAfter(date, now)) {
@@ -150,7 +151,7 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
   return {
     props: {
       num,
-      hashed: encodeHashed(answers.length, answers[answers.length - 1], ""),
+      hashed: encodeHashed(answers.length, answers[numInt - 1], ""),
       words,
     },
   };
