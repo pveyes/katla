@@ -16,7 +16,7 @@ export function checkNativeShareSupport() {
     return false;
   }
 
-  return true;
+  return "share" in navigator;
 }
 
 /**

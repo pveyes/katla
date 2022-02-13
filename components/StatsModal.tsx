@@ -37,6 +37,7 @@ export default function StatsModal(props: Props) {
   const isAnswered =
     game.state.answers[game.state.attempt - 1] === decode(game.hash);
 
+  const useNativeShare = checkNativeShareSupport();
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
   const showShare =
@@ -109,7 +110,6 @@ export default function StatsModal(props: Props) {
   function handleShare() {
     const text = generateText();
     const shareData: ShareData = { text };
-    const useNativeShare = checkNativeShareSupport();
     const clipboardSuccessCallback = () => {
       onClose();
       Alert.show("Disalin ke clipboard", { id: "clipboard " });
@@ -120,7 +120,7 @@ export default function StatsModal(props: Props) {
       Alert.show("Gagal menyalin ke clipboard", { id: "clipboard" });
     };
 
-    if ("share" in navigator && useNativeShare) {
+    if (useNativeShare) {
       // native share
       navigator.share(shareData).catch(() => {
         // TODO: handle non abort error
@@ -157,6 +157,62 @@ export default function StatsModal(props: Props) {
         document.body.removeChild(textarea);
       }
     }
+  }
+
+  async function handleShareImage() {
+    const canvas = document.createElement("canvas");
+    canvas.height = 800;
+    canvas.width = 450;
+
+    const ctx = canvas.getContext("2d");
+
+    const gap = 5;
+    const paddingH = 25;
+    const paddingT = 100;
+    const size = (canvas.width - paddingH * 2 - gap * 4) / 5;
+
+    const score =
+      game.state.answers[game.state.attempt - 1] === answer
+        ? game.state.attempt
+        : "X";
+    let text = `Katla ${game.num} ${score}/6\n\n`;
+    ctx.textAlign = "center";
+    ctx.fillText(text, 100, 50);
+
+    game.state.answers.forEach((answer, y) => {
+      const states = getAnswerStates(answer, decode(game.hash));
+      states.forEach((state, x) => {
+        if (state === "correct") {
+          ctx.fillStyle = game.state.enableHighContrast ? "#f5793a" : "#15803d";
+        } else if (state === "exist") {
+          ctx.fillStyle = game.state.enableHighContrast ? "#85c0f9" : "#ca8a04";
+        } else {
+          ctx.fillStyle = resolvedTheme === "dark" ? "#374151" : "#6b7280";
+        }
+
+        const marginH = gap * Math.max(x - 1, 0);
+        const marginV = gap * Math.max(y - 1, 0);
+        ctx.rect(
+          paddingH + x * size + marginH,
+          paddingT + y * size + marginV,
+          size,
+          size
+        );
+      });
+    });
+
+    const dataURL = canvas.toDataURL();
+    const blob = await (await fetch(dataURL)).blob();
+    const shareData = {
+      files: [
+        new File([blob], "katla.jpg", {
+          type: "image/jpeg",
+          lastModified: new Date().getTime(),
+        }),
+      ],
+    };
+
+    navigator.share(shareData).catch(() => {});
   }
 
   function handleShareToTwitter() {
@@ -261,6 +317,26 @@ export default function StatsModal(props: Props) {
                   ></path>
                 </svg>
               </button>
+              {useNativeShare && navigator.canShare && (
+                <button
+                  onClick={handleShareImage}
+                  className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
+                >
+                  <div>Share Image (Story)</div>
+                  <div>Share</div>
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    width="24"
+                  >
+                    <path
+                      fill="currentColor"
+                      d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92zM18 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM6 13c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm12 7.02c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z"
+                    ></path>
+                  </svg>
+                </button>
+              )}
               <button
                 onClick={handleShareToTwitter}
                 className="py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
