@@ -151,7 +151,7 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
   return {
     props: {
       num,
-      hashed: encodeHashed(answers.length, answers[numInt - 1], ""),
+      hashed: encodeHashed(numInt, answers[numInt - 1], ""),
       words,
     },
   };
