@@ -1,4 +1,3 @@
-import { useTheme } from "next-themes";
 import { getAnswerStates } from "../utils/game";
 import { GetServerSideProps } from "next";
 
@@ -28,8 +27,16 @@ const imageShare = ({
         backgroundColor: theme === "dark" ? "rgb(17 24 39)" : "white",
       }}
     >
-      <div className="mx-auto text-center">
-        <p className="font-bold text-4xl ">Katla {gameNumber}</p>
+      <div className="mx-auto text-center ">
+        <span
+          className="uppercase text-4xl font-bold"
+          style={{ letterSpacing: 4 }}
+        >
+          KATLA
+          <sup className="-top-4 tracking-tight" style={{ fontSize: "45%" }}>
+            #{gameNumber}
+          </sup>
+        </span>
         <p className="font-medium text-2xl">
           {score}
           /6

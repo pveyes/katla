@@ -182,6 +182,7 @@ export default function StatsModal(props: Props) {
         };
         navigator.share(shareData).catch(() => {});
       } else {
+        // not supported browser download the image
         const url = window.URL.createObjectURL(blob);
         const a = document.createElement("a");
         a.style.display = "none";

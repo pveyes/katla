@@ -2,6 +2,7 @@ import chrome from "chrome-aws-lambda";
 import absoluteUrl from "next-absolute-url";
 import querystring from "querystring";
 import { NextApiRequest, NextApiResponse } from "next";
+import * as Sentry from "@sentry/nextjs";
 
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   let browser = null;
@@ -47,6 +48,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
     res.setHeader("cache-control", "public, max-age=120");
     res.send(screenshot);
   } catch (error) {
+    Sentry.captureException(error);
     res.status(500).json({ error });
   } finally {
     if (browser) {
