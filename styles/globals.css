@@ -42,6 +42,18 @@ body {
   background-color: var(--k-bg-accent);
 }
 
+.bg-ig {
+  background: #f09433;
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+}
+
 .color-accent {
   color: var(--k-bg-accent);
 }

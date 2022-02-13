@@ -323,9 +323,9 @@ export default function StatsModal(props: Props) {
               {useNativeShare && navigator.canShare && (
                 <button
                   onClick={handleShareImage}
-                  className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
+                  className="bg-ig py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
                 >
-                  <div>Share Image (Story)</div>
+                  <div>Image</div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     height="24"
@@ -344,7 +344,7 @@ export default function StatsModal(props: Props) {
                 className="py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
                 style={{ backgroundColor: "#00acee" }}
               >
-                <div>Share</div>
+                <div>Tweet</div>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
