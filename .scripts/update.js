@@ -36,6 +36,7 @@ async function writeCommit(data) {
     owner: "pveyes",
     repo: "katla",
     path: ".scripts/answers.csv",
+    sha: "main",
   };
 
   const octokit = new Octokit({
@@ -51,6 +52,7 @@ async function writeCommit(data) {
     message: "Insert new answer",
     content: Buffer.from(data).toString("base64"),
     sha,
+    branch: "main",
   });
 }
 
