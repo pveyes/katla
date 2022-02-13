@@ -1,8 +1,9 @@
 /**
  * @jest-environment jsdom
  */
+jest.useFakeTimers();
+
 import { renderHook } from "@testing-library/react-hooks";
-import MockDate from "mockdate";
 
 import { useGame } from "../game";
 import { GAME_STATE_KEY, INVALID_WORDS_KEY, LAST_HASH_KEY } from "../constants";
@@ -36,27 +37,27 @@ beforeAll(() => {
 });
 
 afterEach(() => {
-  MockDate.reset();
   localStorage.clear();
 });
 
-const hashed = encodeHashed("latest", "2022-02-09", "previous", "2022-02-08");
+const num = 20;
+const hashed = encodeHashed(num, "latest", "previous");
 
 test("first time playing, ready for new game", () => {
-  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("latest");
-  expect(result.current.num).toBe(20);
+  expect(result.current.num).toBe(num);
   expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
 });
 
 test("first time, not ready for new game", () => {
-  MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
+  jest.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("previous");
-  expect(result.current.num).toBe(19);
+  expect(result.current.num).toBe(num - 1);
   expect(LocalStorage.getItem(LAST_HASH_KEY)).toBe(result.current.hash);
 });
 
@@ -67,7 +68,7 @@ test("already played, ready for new game", () => {
   const enableHardMode = true;
   const enableHighContrast = true;
 
-  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("previous"));
   localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(["fucek"]));
   localStorage.setItem(
@@ -97,12 +98,12 @@ test("already played, ready for new game", () => {
 });
 
 test("already played, not ready for new game", () => {
-  MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
+  jest.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("previous"));
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("previous");
-  expect(result.current.num).toBe(19);
+  expect(result.current.num).toBe(num - 1);
 });
 
 test("already played, but new hash already generated", () => {
@@ -111,7 +112,8 @@ test("already played, but new hash already generated", () => {
   const lastCompletedDate = Date.now();
   const enableHardMode = true;
   const enableHighContrast = true;
-  MockDate.set(new Date(2022, 1, 8, 22, 0, 0));
+
+  jest.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
   localStorage.setItem(
     GAME_STATE_KEY,
     JSON.stringify({
@@ -139,7 +141,7 @@ test("currently playing, should not reset state", async () => {
   const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
 
-  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("latest"));
   localStorage.setItem(
     GAME_STATE_KEY,
@@ -161,7 +163,7 @@ test("already played, refresh event", async () => {
   const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
 
-  MockDate.set(new Date(2022, 1, 9, 0, 0, 0));
+  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("latest"));
   localStorage.setItem(
     GAME_STATE_KEY,
@@ -177,9 +179,10 @@ test("already played, refresh event", async () => {
   expect(result.current.num).toBe(20);
 
   // refresh
-  MockDate.set(new Date(2022, 1, 10, 0, 0, 0));
-  currentHashed = encodeHashed("refresh", "2022-02-10", "latest", "2022-02-09");
+  const newNum = 21;
+  jest.setSystemTime(new Date(2022, 1, 10, 0, 0, 0).getTime());
+  currentHashed = encodeHashed(newNum, "refresh", "latest");
   rerender();
   expect(decode(result.current.hash)).toBe("refresh");
-  expect(result.current.num).toBe(21);
+  expect(result.current.num).toBe(newNum);
 });

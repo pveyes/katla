@@ -29,6 +29,7 @@
     "swr": "^1.1.2"
   },
   "devDependencies": {
+    "@octokit/rest": "^18.12.0",
     "@testing-library/react-hooks": "^7.0.2",
     "@types/react": "^17.0.38",
     "autoprefixer": "^10.4.2",
@@ -37,7 +38,6 @@
     "husky": "^7.0.4",
     "jest": "^27.4.7",
     "lint-staged": "^12.2.2",
-    "mockdate": "^3.0.5",
     "postcss": "^8.4.5",
     "prettier": "^2.5.1",
     "tailwindcss": "^3.0.15",
