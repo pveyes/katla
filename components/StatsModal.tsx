@@ -165,6 +165,8 @@ export default function StatsModal(props: Props) {
     canvas.width = 450;
 
     const ctx = canvas.getContext("2d");
+    ctx.fillStyle = resolvedTheme === "dark" ? "#111827" : "#ffffff";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
 
     const gap = 10;
     const paddingH = 50;
@@ -178,6 +180,7 @@ export default function StatsModal(props: Props) {
     let text = `Katla ${game.num} ${score}/6\n\n`;
     ctx.font = "bold 36px sans-serif";
     ctx.textAlign = "center";
+    ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 75);
 
     game.state.answers.slice(0, game.state.attempt).forEach((answer, y) => {
