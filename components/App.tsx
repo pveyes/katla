@@ -4,7 +4,7 @@ import Board from "./Board";
 import Keyboard from "./Keyboard";
 
 import { GameStats } from "../utils/types";
-import { decode } from "../utils/codec";
+import { decode, encode } from "../utils/codec";
 import { getCongratulationMessage, getFailureMessage } from "../utils/message";
 import {
   checkHardModeAnswer,
@@ -14,6 +14,7 @@ import {
 } from "../utils/game";
 import { trackEvent } from "../utils/tracking";
 import Alert from "./Alert";
+import { rainEmoji } from "./EmojiRain";
 
 interface Props {
   game: Game;
@@ -22,6 +23,19 @@ interface Props {
   setStats: (stats: GameStats) => void;
   showStats: () => void;
 }
+
+const LOVE_HASHES = [
+  "Z1mteFF1",
+  "b1GybVh1",
+  "d1W/bVF1",
+  "dl:sZV51",
+  "bV6jZVh1",
+  "ZmWt[1F1",
+  "clmqZVh1",
+  "blGtbll1",
+  "eGWreWN1",
+  "dlmt[GV1",
+];
 
 export default function App(props: Props) {
   const { game, stats, setStats, showStats, words } = props;
@@ -115,6 +129,12 @@ export default function App(props: Props) {
         }
         return;
       }
+    }
+
+    if (game.num === 25 && LOVE_HASHES.includes(encode(userAnswer))) {
+      const loveEmojis = ["💖", "💗", "💘", "💙", "💚", "💛", "💜", "💝"];
+      const emoji = loveEmojis[Math.floor(Math.random() * loveEmojis.length)];
+      rainEmoji(emoji);
     }
 
     setInvalidAnswer(false);

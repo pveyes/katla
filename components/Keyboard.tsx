@@ -92,7 +92,7 @@ export default function Keyboard(props: Props) {
 
   return (
     <div
-      className="max-w-lg w-full mx-auto space-y-3 flex flex-col p-4"
+      className="max-w-lg w-full mx-auto space-y-3 flex flex-col p-4 relative"
       id="keyboard"
     >
       <div className="flex space-x-2">
