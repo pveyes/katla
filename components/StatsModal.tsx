@@ -180,7 +180,7 @@ export default function StatsModal(props: Props) {
     ctx.textAlign = "center";
     ctx.fillText(text, canvas.width / 2, 75);
 
-    game.state.answers.slice(0, game.state.attempt - 1).forEach((answer, y) => {
+    game.state.answers.slice(0, game.state.attempt).forEach((answer, y) => {
       const states = getAnswerStates(answer, decode(game.hash));
       states.forEach((state, x) => {
         if (state === "correct") {
@@ -302,10 +302,10 @@ export default function StatsModal(props: Props) {
               <div />
             )}
             <div className="bg-gray-400" style={{ width: 1 }}></div>
-            <div className="flex flex-col space-y-4">
+            <div className="flex flex-col space-y-4 text-white">
               <button
                 onClick={handleShare}
-                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
+                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-cente"
               >
                 <div>Share</div>
                 <svg
@@ -323,10 +323,9 @@ export default function StatsModal(props: Props) {
               {useNativeShare && navigator.canShare && (
                 <button
                   onClick={handleShareImage}
-                  className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
+                  className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
                 >
                   <div>Share Image (Story)</div>
-                  <div>Share</div>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     height="24"
@@ -342,7 +341,7 @@ export default function StatsModal(props: Props) {
               )}
               <button
                 onClick={handleShareToTwitter}
-                className="py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center text-gray-200"
+                className="py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
                 style={{ backgroundColor: "#00acee" }}
               >
                 <div>Share</div>
