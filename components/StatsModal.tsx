@@ -161,14 +161,14 @@ export default function StatsModal(props: Props) {
 
   async function handleShareImage() {
     const canvas = document.createElement("canvas");
-    canvas.height = 800;
+    canvas.height = 700;
     canvas.width = 450;
 
     const ctx = canvas.getContext("2d");
 
     const gap = 5;
     const paddingH = 25;
-    const paddingT = 100;
+    const paddingT = 150;
     const size = (canvas.width - paddingH * 2 - gap * 4) / 5;
 
     const score =
@@ -176,8 +176,9 @@ export default function StatsModal(props: Props) {
         ? game.state.attempt
         : "X";
     let text = `Katla ${game.num} ${score}/6\n\n`;
+    ctx.font = "bold 36px sans-serif";
     ctx.textAlign = "center";
-    ctx.fillText(text, 100, 50);
+    ctx.fillText(text, canvas.width / 2, 75);
 
     game.state.answers.forEach((answer, y) => {
       const states = getAnswerStates(answer, decode(game.hash));
@@ -190,14 +191,16 @@ export default function StatsModal(props: Props) {
           ctx.fillStyle = resolvedTheme === "dark" ? "#374151" : "#6b7280";
         }
 
-        const marginH = gap * Math.max(x - 1, 0);
-        const marginV = gap * Math.max(y - 1, 0);
+        const marginH = gap * x;
+        const marginV = gap * y;
+        ctx.beginPath();
         ctx.rect(
           paddingH + x * size + marginH,
           paddingT + y * size + marginV,
           size,
           size
         );
+        ctx.fill();
       });
     });
 
