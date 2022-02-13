@@ -35,10 +35,10 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
   const [readyState, setGameReadyState] = useState<Game["readyState"]>("init");
   const router = useRouter();
 
-  const [latestHash, latestDate, previousHash, previousDate] =
-    decodeHashed(hashed);
+  const [num, latestHash, previousHash] = decodeHashed(hashed);
+  const initialCurrentNum = Number(num);
+  const [currentNum, setCurrentNum] = useState(initialCurrentNum);
   const [currentHash, setCurrentHash] = useState(latestHash);
-  const [currentDate, setCurrentDate] = useState(latestDate);
 
   useEffect(() => {
     if (!enableStorage) {
@@ -55,7 +55,8 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
 
     // check for new game schedule
     const now = new Date();
-    const gameDate = new Date(latestDate);
+    const gameDate = new Date("2020-01-20");
+    gameDate.setDate(gameDate.getDate() + Number(num));
     gameDate.setHours(0);
     gameDate.setMinutes(0);
     gameDate.setSeconds(0);
@@ -69,7 +70,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       if (!isAfterGameDate) {
         unstable_batchedUpdates(() => {
           setCurrentHash(previousHash);
-          setCurrentDate(previousDate);
+          setCurrentNum(initialCurrentNum - 1);
         });
         LocalStorage.setItem(LAST_HASH_KEY, previousHash);
         return;
@@ -85,7 +86,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       if (isAfterGameDate) {
         unstable_batchedUpdates(() => {
           setCurrentHash(latestHash);
-          setCurrentDate(latestDate);
+          setCurrentNum(initialCurrentNum);
           setState((state) => ({
             ...state,
             answers: Array(6).fill(""),
@@ -98,7 +99,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
         // last hash is not in hashed
         unstable_batchedUpdates(() => {
           setCurrentHash(previousHash);
-          setCurrentDate(previousDate);
+          setCurrentNum(initialCurrentNum - 1);
           setState((state) => ({
             ...state,
             answers: Array(6).fill(""),
@@ -110,7 +111,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       } else {
         unstable_batchedUpdates(() => {
           setCurrentHash(previousHash);
-          setCurrentDate(previousDate);
+          setCurrentNum(initialCurrentNum - 1);
         });
       }
     }
@@ -160,7 +161,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
 
   return {
     hash: currentHash,
-    num: getGameNum(currentDate),
+    num: currentNum,
     readyState,
     ready: readyState !== "init",
     state,
@@ -199,16 +200,6 @@ export function useRemainingTime() {
   }, []);
 
   return remainingTime;
-}
-
-export function getGameNum(gameDate: string): number {
-  return Math.ceil(
-    (new Date(gameDate).getTime() - new Date("2022-01-20").getTime()) /
-      24 /
-      60 /
-      60 /
-      1000
-  );
 }
 
 export function isGameFinished(game: Game) {

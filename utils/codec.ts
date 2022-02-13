@@ -29,18 +29,12 @@ export function decode(hash: string): string {
 const HASHED_SEPARATOR = "::";
 
 export function encodeHashed(
+  num: number,
   latestAnswer: string,
-  latestDate: string,
-  previousAnswer: string,
-  previousDate: string
+  previousAnswer: string
 ) {
   return encode(
-    [
-      encode(latestAnswer),
-      latestDate,
-      encode(previousAnswer),
-      previousDate,
-    ].join(HASHED_SEPARATOR)
+    [num, encode(latestAnswer), encode(previousAnswer)].join(HASHED_SEPARATOR)
   );
 }
 

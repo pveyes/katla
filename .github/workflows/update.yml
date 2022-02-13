@@ -21,5 +21,4 @@ jobs:
         env:
           SECRET_DATE: ${{ secrets.SECRET_DATE }}
           SECRET_WORD: ${{ secrets.SECRET_WORD }}
-          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,7 +1,8 @@
 import { ComponentProps, useState } from "react";
 import { GetStaticPaths, GetStaticProps } from "next";
-import { Client } from "@notionhq/client";
 import { isSameDay, isAfter } from "date-fns";
+import fs from "fs/promises";
+import path from "path";
 
 import Container from "../../components/Container";
 import Header from "../../components/Header";
@@ -10,16 +11,12 @@ import HelpModal from "../../components/HelpModal";
 import SettingsModal from "../../components/SettingsModal";
 import HeadingWithNum from "../../components/HeadingWithNum";
 
-import { formatDate } from "../../utils/formatter";
 import { useGame, isGameFinished } from "../../utils/game";
 import { encodeHashed } from "../../utils/codec";
 import { GameStats } from "../../utils/types";
 import fetcher from "../../utils/fetcher";
 import StatsModal from "../../components/StatsModal";
 import useModalState from "../../components/useModalState";
-
-const databaseId = process.env.NOTION_DATABASE_ID;
-const notion = new Client({ auth: process.env.NOTION_API_KEY });
 
 interface Props {
   num: string;
@@ -95,9 +92,25 @@ export default function Arsip(props: Props) {
   );
 }
 
-export const getStaticPaths: GetStaticPaths = () => {
+// generate first and last 5 days
+export const getStaticPaths: GetStaticPaths = async () => {
+  const answers = await fs
+    .readFile(path.join(process.cwd(), "./.scripts/answers.csv"), "utf8")
+    .then((text) =>
+      text
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean)
+    );
+
   return {
-    paths: [],
+    paths: Array.from({ length: 5 }, (_, i) => ({
+      params: { num: `${i + 1}` },
+    })).concat(
+      Array.from({ length: 5 }, (_, i) => ({
+        params: { num: `${answers.length - i + 1}` },
+      }))
+    ),
     fallback: "blocking",
   };
 };
@@ -122,38 +135,22 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
     };
   }
 
-  const [db, words] = await Promise.all([
-    notion.databases.query({
-      database_id: databaseId,
-      filter: {
-        property: "Date",
-        type: "date",
-        date: {
-          equals: formatDate(date),
-        },
-      },
-    }),
+  const [answers, words] = await Promise.all([
+    fs
+      .readFile(path.join(process.cwd(), "./.scripts/answers.csv"), "utf8")
+      .then((text) =>
+        text
+          .split(",")
+          .map((s) => s.trim())
+          .filter(Boolean)
+      ),
     fetcher("https://katla.vercel.app/api/words"),
   ]);
 
-  // https://sentry.io/share/issue/c36f4e3f94ee471cb39e194e82c0bf8a/
-  if (db.results.length === 0) {
-    return {
-      notFound: true,
-      revalidate: 60,
-    };
-  }
-
-  const entry = db.results[0] as any;
   return {
     props: {
       num,
-      hashed: encodeHashed(
-        entry.properties.Word.title[0].plain_text,
-        entry.properties.Date.date.start,
-        '',
-        ''
-      ),
+      hashed: encodeHashed(answers.length, answers[answers.length - 1], ""),
       words,
     },
   };

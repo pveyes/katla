@@ -1,6 +1,7 @@
 import React, { ComponentProps, ComponentRef, useEffect, useRef } from "react";
 import { GetStaticProps } from "next";
-import { Client } from "@notionhq/client";
+import path from "path";
+import fs from "fs/promises";
 
 import Container from "../components/Container";
 import Header from "../components/Header";
@@ -144,33 +145,26 @@ export default function Home(props: Props) {
   );
 }
 
-const databaseId = process.env.NOTION_DATABASE_ID;
-const notion = new Client({ auth: process.env.NOTION_API_KEY });
-
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const [db, words] = await Promise.all([
-    notion.databases.query({
-      database_id: databaseId,
-      sorts: [
-        {
-          property: "Date",
-          direction: "descending",
-        },
-      ],
-    }),
+  const [answers, words] = await Promise.all([
+    fs
+      .readFile(path.join(process.cwd(), "./.scripts/answers.csv"), "utf8")
+      .then((text) =>
+        text
+          .split(",")
+          .map((s) => s.trim())
+          .filter(Boolean)
+      ),
     fetcher("https://katla.vercel.app/api/words"),
   ]);
 
-  const latestEntry = db.results[0] as any;
-  const latestDate = latestEntry.properties.Date.date.start;
-  const latestWord = latestEntry.properties.Word.title[0].plain_text;
-  const previousEntry = db.results[1] as any;
-  const previousDate = previousEntry.properties.Date.date.start;
-  const previousWord = previousEntry.properties.Word.title[0].plain_text;
-
   return {
     props: {
-      hashed: encodeHashed(latestWord, latestDate, previousWord, previousDate),
+      hashed: encodeHashed(
+        answers.length,
+        answers[answers.length - 1],
+        answers[answers.length - 2]
+      ),
       words: words,
     },
     revalidate: 60,

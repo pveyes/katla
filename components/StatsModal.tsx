@@ -16,7 +16,6 @@ import {
   getTotalPlay,
   getTotalWin,
   getAnswerStates,
-  getGameNum,
 } from "../utils/game";
 import { checkNativeShareSupport } from "../utils/browser";
 import Alert from "./Alert";

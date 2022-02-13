@@ -54,3 +54,10 @@ export default function Arsip() {
     </Container>
   );
 }
+
+export const getStaticProps = () => {
+  return {
+    props: {},
+    revalidate: 3600,
+  };
+};

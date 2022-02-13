@@ -1,69 +1,58 @@
-const { Client } = require("@notionhq/client");
 const path = require("path");
 const fs = require("fs/promises");
+const { Octokit } = require("@octokit/rest");
 
-const databaseId = process.env.NOTION_DATABASE_ID;
-const notion = new Client({ auth: process.env.NOTION_API_KEY });
-
-async function getUsedWords(cursor) {
-  const db = await notion.databases.query({
-    database_id: databaseId,
-    start_cursor: cursor,
-  });
-
-  const words = db.results
-    .filter((result) => {
-      return result.properties.Word.title.length > 0;
-    })
-    .map((result) => {
-      return result.properties.Word.title[0].plain_text;
-    });
-
-  if (db.has_more) {
-    const nextWords = await getUsedWords(db.next_cursor);
-    return words.concat(nextWords);
-  }
-
-  return words;
-}
-
-async function insertWord(word) {
-  const now = getMidnightDate();
-  const year = now.getFullYear();
-  const month = (now.getMonth() + 1).toString().padStart(2, "0");
-  const date = now.getDate().toString().padStart(2, "0");
-
-  await notion.pages.create({
-    parent: {
-      database_id: databaseId,
-    },
-    properties: {
-      Date: {
-        type: "date",
-        date: {
-          start: `${year}-${month}-${date}`,
-        },
-      },
-      Word: {
-        title: [
-          {
-            type: "text",
-            text: {
-              content: word,
-              link: null,
-            },
-            annotations: {},
-            plain_text: word,
-            href: null,
-          },
-        ],
-      },
-    },
-  });
-}
+const answerPath = path.join(__dirname, "answers.csv");
+const wordsPath = path.join(__dirname, "whitelist.csv");
 
 // sync with update.yml
 const TIMEZONE_OFFSET = 9;
+
+const readCsv = (filePath) =>
+  fs.readFile(filePath, "utf-8").then((text) =>
+    text
+      .split(",")
+      .map((s) => s.trim())
+      .filter(Boolean)
+  );
+
+async function insertWord(answers, answer) {
+  if (process.env.GITHUB_ACTIONS) {
+    // GH actions
+    await writeCommit(answers.concat(answer).join(",") + "\n");
+  } else {
+    // dev testing
+    await fs.writeFile(answerPath, answers.concat(answer).join(","), "utf-8");
+  }
+}
+
+async function writeCommit(data) {
+  const token = process.env.GITHUB_TOKEN;
+  if (!token) {
+    throw new Error("Missing GitHub token env in `GITHUB_TOKEN`");
+  }
+
+  const FileInfo = {
+    owner: "pveyes",
+    repo: "katla",
+    path: ".scripts/answers.csv",
+  };
+
+  const octokit = new Octokit({
+    baseUrl: "https://api.github.com",
+    auth: `token ${token}`,
+  });
+
+  const response = await octokit.repos.getContent(FileInfo);
+  const { sha } = response.data;
+
+  octokit.repos.createOrUpdateFileContents({
+    ...FileInfo,
+    message: "Insert new answer",
+    content: Buffer.from(data).toString("base64"),
+    sha,
+  });
+}
 
 function getMidnightDate() {
   const now = new Date();
@@ -75,13 +64,8 @@ function getMidnightDate() {
 
 async function main() {
   const [usedWords, allWords] = await Promise.all([
-    getUsedWords(),
-    fs.readFile(path.join(__dirname, "whitelist.csv"), "utf-8").then((text) =>
-      text
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean)
-    ),
+    readCsv(answerPath),
+    readCsv(wordsPath),
   ]);
 
   const validWords = allWords.filter((word) => !usedWords.includes(word));
@@ -98,7 +82,7 @@ async function main() {
     }
   }
 
-  await insertWord(word);
+  await insertWord(usedWords, word);
   console.log("New word inserted", word);
 }
 
