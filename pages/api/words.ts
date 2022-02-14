@@ -43,7 +43,6 @@ const october2021 = [
   "dapuk",
   "datau",
   "datin",
-  "datin",
   "datum",
   "denar",
   "dobra",

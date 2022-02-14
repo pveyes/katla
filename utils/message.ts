@@ -3,45 +3,75 @@ import { AnswerState, GameStats } from "./types";
 
 export function getCongratulationMessage(attempt: number, stats: GameStats) {
   const totalPlay = getTotalPlay(stats);
+  const { fail, ...rest } = stats.distribution;
 
   if (totalPlay === 0 && attempt === 1) {
-    return randomElement([
-      "Curang bukan?",
-      "Mencurigakan",
-      "Browser baru?",
-      "Yakin baru main?",
-    ]);
+    return randomElement(["Browser baru?", "Baru main? 👏👏"]);
   }
 
   const message1 = [
     "Hoki? Atau kena spoiler",
-    "Serius nih?",
+    "Wow",
     "Jenius",
     "Ajaib",
     "Cenayang",
     "Si Peramal",
     "Penjelajah Waktu",
   ];
-  const message2 = ["Luar Biasa", "Jagoan", "Kebanggaan negara", "Cerdas"];
-  const message3 = ["Mantap", "Pintar", "Keren", "Salut", "Hebat!!", "Cermat"];
-  const message4 = ["Bagus Sekali", "Selamat!", "Dikit lagi keren", "4 sehat"];
-  const message5 = ["Bagus", "Okelah", "5 sempurna", "Tidak buruk"];
-  const message6 = ["Nyaris!!", "Mepet!", "Hampir saja"];
+  const message2 = [
+    "Kebanggaan Negara",
+    "Kesayangan Ibu Pertiwi",
+    "Sakti Mandraguna",
+    "Cendekiawan",
+    "Kaum Intelek",
+  ];
+  const message3 = [
+    "Luar Biasa!",
+    "Jagoan!",
+    "Mantap!",
+    "Cerdas!",
+    "Keren!",
+    "Salut!",
+    "Hebat!",
+    "Lantip!",
+    "Brilian!",
+    "Otak Cemerlang",
+  ];
+  const message4 = [
+    "Bagus Sekali",
+    "Cermat",
+    "Pintar",
+    "Teladan",
+    "Idaman",
+    "Cerdik",
+    "Encer",
+  ];
+  const message5 = ["Bagus", "Horee", "Selamat!", "Pandai"];
+  const message6 = ["Nyaris!!!", "Hampir saja", "Lega!!"];
 
-  if (stats.distribution[1] > 2 || stats.distribution.fail > 2) {
-    message1.push("Mencurigakan");
-  }
-
-  if (stats.distribution[6] > 1) {
-    message6.push("Tetap semangat!", "Mungkin besok lebih baik");
-  }
-
-  if (stats.distribution[6] + stats.distribution.fail > 4) {
+  if (stats.distribution[6] + fail > 7) {
     message6.push("Hobi amat mepet", "Suka angka 6?");
   }
 
-  if (stats.distribution.fail > 4) {
+  if (fail > 7) {
     message6.push("Hampir dideportasi");
+  }
+
+  if (totalPlay > 7) {
+    message4.push("4 Sehat", "Dikit lagi Keren!");
+    message5.push("5 sempurna", "Tidak buruk", "Okelah");
+    message6.push("Mepet!");
+
+    if (stats.distribution[6] > 3) {
+      message6.push("Tetap semangat!", "Mungkin besok lebih baik");
+    }
+
+    if (stats.distribution[attempt] === 0) {
+      const bestMove = Object.values(rest).findIndex((value) => value > 0) + 1;
+      if (attempt < bestMove && stats.distribution[bestMove] > 3) {
+        return "Akhirnyaaa 🥳";
+      }
+    }
   }
 
   switch (attempt) {
@@ -67,7 +97,7 @@ export function getFailureMessage(
   const messageFail = ["Sayang sekali"];
 
   if (answerStates.filter((state) => state === "correct").length === 4) {
-    messageFail.push("Sabar ya", "Wkwkwkwk", "Upss");
+    messageFail.push("Sabar ya", "Dikit 👌 lagi", "Upss");
   }
 
   if (stats.distribution.fail > 1) {
