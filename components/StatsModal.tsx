@@ -176,7 +176,7 @@ export default function StatsModal(props: Props) {
       game.state.answers[game.state.attempt - 1] === answer
         ? game.state.attempt
         : "X";
-    let text = `KATLA ${game.num} ${score}/6\n\n`;
+    let text = `Katla ${game.num} ${score}/6\n\n`;
     ctx.font = "bold 42px sans-serif";
     ctx.textAlign = "center";
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
