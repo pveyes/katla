@@ -9,7 +9,7 @@ import { trackEvent } from "./tracking";
 import { decode, decodeHashed } from "./codec";
 import { unstable_batchedUpdates } from "react-dom";
 
-const initialState: GameState = {
+export const initialState: GameState = {
   answers: Array(6).fill(""),
   attempt: 0,
   lastCompletedDate: null,
@@ -27,7 +27,8 @@ export interface Game {
   trackInvalidWord: (word: string) => void;
 }
 
-const useGamePersistedState = createStoredState<GameState>(GAME_STATE_KEY);
+export const useGamePersistedState =
+  createStoredState<GameState>(GAME_STATE_KEY);
 
 export function useGame(hashed: string, enableStorage: boolean = true): Game {
   const useGameState = enableStorage ? useGamePersistedState : useState;

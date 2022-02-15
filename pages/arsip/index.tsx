@@ -1,13 +1,29 @@
+import { useState } from "react";
 import { differenceInDays } from "date-fns";
 
 import Container from "../../components/Container";
 import Header from "../../components/Header";
 import Link from "../../components/Link";
+import HelpModal from "../../components/HelpModal";
+import SettingsModal from "../../components/SettingsModal";
+
+import { initialState, useGamePersistedState } from "../../utils/game";
 
 export default function Arsip() {
   const start = new Date("2022-01-20");
   const now = new Date();
   const diff = differenceInDays(now, start);
+  const [modalState, setModalState] = useState(null);
+  const [gameState, setGameState] = useGamePersistedState(initialState);
+  const game = {
+    hash: "",
+    num: -1,
+    state: gameState,
+    setState: setGameState,
+    ready: true,
+    readyState: "ready" as const,
+    trackInvalidWord: () => {},
+  };
 
   return (
     <Container>
@@ -26,6 +42,8 @@ export default function Arsip() {
           "kbbi",
         ]}
         ogImage="https://katla.vercel.app/og-arsip.png"
+        onShowHelp={() => setModalState("help")}
+        onShowSettings={() => setModalState("settings")}
       />
       <div className="px-4 mx-auto max-w-lg w-full pt-2 pb-4 text-left">
         <h2 className="text-2xl font-semibold mb-4">Arsip</h2>
@@ -51,6 +69,15 @@ export default function Arsip() {
             ))}
         </ol>
       </div>
+      <HelpModal
+        isOpen={modalState === "help"}
+        onClose={() => setModalState(null)}
+      />
+      <SettingsModal
+        game={game}
+        isOpen={modalState === "settings"}
+        onClose={() => setModalState(null)}
+      />
     </Container>
   );
 }
