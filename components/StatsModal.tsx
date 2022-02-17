@@ -46,11 +46,12 @@ export default function StatsModal(props: Props) {
   const totalPlay = getTotalPlay(stats);
 
   function generateText() {
+    const hardModeMarker = game.state.enableHardMode ? "*" : "";
     const score =
       game.state.answers[game.state.attempt - 1] === answer
         ? game.state.attempt
         : "X";
-    let text = `Katla ${game.num} ${score}/6\n\n`;
+    let text = `Katla ${game.num} ${score}/6${hardModeMarker}\n\n`;
 
     game.state.answers.filter(Boolean).forEach((userAnswer) => {
       const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
@@ -176,7 +177,8 @@ export default function StatsModal(props: Props) {
       game.state.answers[game.state.attempt - 1] === answer
         ? game.state.attempt
         : "X";
-    let text = `Katla ${game.num} ${score}/6\n\n`;
+    const hardModeMarker = game.state.enableHardMode ? "*" : "";
+    let text = `Katla ${game.num} ${score}/6${hardModeMarker}\n\n`;
     ctx.font = "bold 42px sans-serif";
     ctx.textAlign = "center";
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
