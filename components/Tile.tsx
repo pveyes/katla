@@ -67,7 +67,7 @@ export default function Tile(props: Props) {
   return (
     <div
       style={style}
-      className={`rounded-sm uppercase text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor}`}
+      className={`rounded-sm uppercase text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor} select-none`}
     >
       {props.char}
     </div>

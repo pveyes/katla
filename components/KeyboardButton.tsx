@@ -22,7 +22,7 @@ export default function KeyboardButton(props: Props) {
 
   return (
     <button
-      className={`rounded-md uppercase font-semibold text-sm flex items-center justify-center ${color}`}
+      className={`rounded-md uppercase font-semibold text-sm flex items-center justify-center ${color} select-none`}
       style={{ minHeight: 48, flex: props.scale ?? 1 }}
       {...props}
     />
