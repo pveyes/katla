@@ -15,8 +15,8 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
-    "@headlessui/react": "^1.4.3",
     "@notionhq/client": "^0.4.12",
+    "@reach/dialog": "^0.16.2",
     "@sentry/nextjs": "^6.17.4",
     "canvas-confetti": "^1.4.0",
     "cheerio": "^1.0.0-rc.10",

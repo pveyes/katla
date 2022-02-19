@@ -34,7 +34,6 @@ export default function useModalState(
   }, [game.ready]);
 
   function resetModalState() {
-    (document.activeElement as HTMLElement).blur();
     setModalState(null);
   }
 
