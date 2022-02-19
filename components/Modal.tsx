@@ -1,13 +1,12 @@
-import { Dialog, DialogOverlay, DialogContent } from "@reach/dialog";
+import { DialogOverlay, DialogContent } from "@reach/dialog";
 
 export default function Modal({ isOpen, onClose, children }) {
   return (
-    <Dialog
+    <DialogOverlay
       isOpen={isOpen}
       onDismiss={onClose}
-      className="fixed z-10 inset-0 overflow-y-auto"
+      className="fixed inset-0 bg-black bg-opacity-50"
     >
-      <DialogOverlay className="fixed inset-0 bg-black opacity-50" />
       <DialogContent>
         <div className="dark:bg-gray-900 bg-white dark:text-gray-200 text-gray-900 w-5/6 max-w-lg absolute top-12 md:top-16 left-6 right-6 mx-auto p-4">
           <button
@@ -31,7 +30,7 @@ export default function Modal({ isOpen, onClose, children }) {
           {children}
         </div>
       </DialogContent>
-    </Dialog>
+    </DialogOverlay>
   );
 }
 

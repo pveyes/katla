@@ -71,6 +71,8 @@ export default function Keyboard(props: Props) {
       if (e.key === "Backspace") {
         onBackspace();
       } else if (e.key === "Enter") {
+        // prevent modal to be opened when pressing enter
+        e.preventDefault();
         onSubmit();
       } else if (/[a-z]/i.test(e.key) && e.key.length === 1) {
         onPressChar(e.key);
