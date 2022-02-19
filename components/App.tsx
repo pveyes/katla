@@ -234,13 +234,16 @@ export default function App(props: Props) {
 
     function handleResize() {
       const katla = document.querySelector("#katla") as HTMLDivElement;
-      const height =
+      const maxTileHeight =
         window.innerHeight -
         document.querySelector("#header").getBoundingClientRect().height -
         document.querySelector("#keyboard").getBoundingClientRect().height;
-      const width = window.innerWidth;
-      katla.style.height = Math.min(height, width) + "px";
-      katla.style.width = Math.min(height, width) + "px";
+      const maxTileSize = Math.min(maxTileHeight, window.innerWidth);
+      const singleTileSize = Math.max(Math.floor((maxTileSize - 30) / 6), 62);
+
+      const tileWidth = 5 * singleTileSize + 42;
+      katla.style.height = maxTileSize + "px";
+      katla.style.width = tileWidth + "px";
     }
 
     handleResize();

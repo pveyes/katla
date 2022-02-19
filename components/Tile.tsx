@@ -20,7 +20,7 @@ export default function Tile(props: Props) {
     props.char === " " ? "border" : props.state === null ? "border-3" : "";
   const borderColor =
     props.char === " "
-      ? "dark:border-gray-700 border-gray-500"
+      ? "dark:border-gray-700 border-gray-400"
       : props.state === null
       ? "border-gray-500"
       : "";
