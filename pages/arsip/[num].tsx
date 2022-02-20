@@ -10,13 +10,13 @@ import App from "../../components/App";
 import HelpModal from "../../components/HelpModal";
 import SettingsModal from "../../components/SettingsModal";
 import HeadingWithNum from "../../components/HeadingWithNum";
+import StatsModal from "../../components/StatsModal";
+import { useModalState } from "../../components/Modal";
 
 import { useGame, isGameFinished } from "../../utils/game";
 import { encodeHashed } from "../../utils/codec";
 import { GameStats } from "../../utils/types";
 import fetcher from "../../utils/fetcher";
-import StatsModal from "../../components/StatsModal";
-import useModalState from "../../components/useModalState";
 
 interface Props {
   num: string;

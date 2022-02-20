@@ -10,7 +10,7 @@ import HelpModal from "../components/HelpModal";
 import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
 import HeadingWithNum from "../components/HeadingWithNum";
-import useModalState from "../components/useModalState";
+import { useModalState } from "../components/Modal";
 
 import { useGame, useRemainingTime } from "../utils/game";
 import { encodeHashed } from "../utils/codec";
