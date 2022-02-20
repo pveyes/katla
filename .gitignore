@@ -30,6 +30,7 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 .scripts/wordle.json
+.scripts/nyt.json
 .scripts/analysis.js
 
 # vercel
