@@ -263,17 +263,13 @@ export default function StatsModal(props: Props) {
           <div className="text-md sm:text-xl lg:text-3xl">
             {stats.currentStreak}
           </div>
-          <div className="text-xs md:text-sm break-word">
-            <em>Streak</em> Saat Ini
-          </div>
+          <div className="text-xs md:text-sm break-word">Runtunan saat ini</div>
         </div>
         <div>
           <div className="text-md sm:text-xl lg:text-3xl">
             {stats.maxStreak}
           </div>
-          <div className="text-xs md:text-sm break-word">
-            <em>Streak</em> Maksimum
-          </div>
+          <div className="text-xs md:text-sm break-word">Runtunan maksimum</div>
         </div>
       </div>
       <div className="w-10/12 mx-auto mb-8">
