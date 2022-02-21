@@ -211,11 +211,12 @@ export default function StatsModal(props: Props) {
 
     const dataURL = canvas.toDataURL();
     const blob = await (await fetch(dataURL)).blob();
-
+    const imageName = `katla-${game.num}.jpg`;
+    
     if (useNativeShare && navigator.canShare) {
       const shareData = {
         files: [
-          new File([blob], "katla.jpg", {
+          new File([blob], imageName, {
             type: "image/jpeg",
             lastModified: new Date().getTime(),
           }),
@@ -228,7 +229,7 @@ export default function StatsModal(props: Props) {
       const a = document.createElement("a");
       a.style.display = "none";
       a.href = url;
-      a.download = "katla.jpg";
+      a.download = imageName;
       document.body.appendChild(a);
       a.click();
       window.URL.revokeObjectURL(url);
