@@ -11,7 +11,7 @@ export default function Modal({ isOpen, onClose, children }) {
       onDismiss={onClose}
       className="fixed inset-0 bg-black bg-opacity-50 overflow-y-auto z-10"
     >
-      <DialogContent>
+      <DialogContent aria-labelledby="dialogTitle">
         <div className="dark:bg-gray-900 bg-white dark:text-gray-200 text-gray-900 w-5/6 max-w-lg absolute top-12 md:top-16 left-6 right-6 mx-auto p-4">
           <button
             onClick={onClose}
@@ -39,7 +39,9 @@ export default function Modal({ isOpen, onClose, children }) {
 }
 
 const Title = ({ children }) => (
-  <h2 className="text-center uppercase font-semibold my-4">{children}</h2>
+  <h2 id="dialogTitle" className="text-center uppercase font-semibold my-4">
+    {children}
+  </h2>
 );
 Modal.Title = Title;
 
