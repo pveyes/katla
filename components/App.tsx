@@ -59,7 +59,7 @@ export default function App(props: Props) {
       ...game.state,
       answers: game.state.answers.map((answer, i) => {
         if (i === game.state.attempt && answer.length < 5) {
-          return answer + char;
+          return answer + char.toLowerCase();
         }
 
         return answer;
@@ -106,7 +106,7 @@ export default function App(props: Props) {
       return;
     }
 
-    if (!words.includes(userAnswer)) {
+    if (!words.includes(userAnswer.toLowerCase())) {
       markInvalid();
       Alert.show("Tidak ada dalam KBBI", { id: "answer" });
       game.trackInvalidWord(userAnswer);
