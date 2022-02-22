@@ -5,7 +5,11 @@ module.exports = {
   ],
   darkMode: "class",
   theme: {
-    extend: {},
+    extend: {
+      gridTemplateColumns: {
+        leaderboard: "90px 1fr",
+      },
+    },
     borderWidth: {
       DEFAULT: "1px",
       0: "0px",

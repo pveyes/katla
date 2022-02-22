@@ -39,7 +39,7 @@ export default function Board(props: Props) {
                 const isInvalid = invalidAnswer && i === gameState.attempt;
                 return (
                   <Tile
-                    key={index}
+                    key={`${index}-${char}`}
                     char={char}
                     state={state}
                     isInvalid={isInvalid}

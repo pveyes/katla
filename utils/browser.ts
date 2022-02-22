@@ -1,3 +1,5 @@
+import Alert from "../components/Alert";
+
 export function checkNativeShareSupport() {
   const isFirefox = navigator.userAgent.toLowerCase().indexOf("firefox") > -1;
   const isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
@@ -83,4 +85,69 @@ export function isStorageEnabled() {
 
   LocalStorage.removeItem(storageKey);
   return stored === randomValue;
+}
+
+interface ShareOptions {
+  cb?: () => void;
+  fallbackText?: string;
+  clipboardSuccessMessage?: string;
+}
+
+export function shareLink(url: string, options: ShareOptions) {
+  share({ url }, { ...options, fallbackText: url });
+}
+
+export function shareText(text: string, options: ShareOptions) {
+  share({ text }, { ...options, fallbackText: text });
+}
+
+export function share(data: ShareData, options: ShareOptions) {
+  const useNativeShare = checkNativeShareSupport();
+  const clipboardSuccessCallback = () => {
+    const message = options.clipboardSuccessMessage ?? "Disalin ke clipboard";
+    options.cb?.();
+    Alert.show(message, { id: "clipboard " });
+  };
+  const clipboardFailedCallback = (_: Error) => {
+    options.cb?.();
+    Alert.show("Gagal menyalin ke clipboard", { id: "clipboard" });
+  };
+
+  if (useNativeShare) {
+    // native share
+    navigator.share(data).catch(() => {
+      // TODO: handle non abort error
+    });
+  } else if (
+    "clipboard" in navigator &&
+    typeof navigator.clipboard.writeText === "function" &&
+    // https://sentry.io/share/issue/5074ad1fa6b34a2a9985edc7155967f0/
+    // https://stackoverflow.com/questions/61243646/clipboard-api-call-throws-notallowederror-without-invoking-onpermissionrequest
+    "permissions" in navigator
+  ) {
+    // async clipboard API
+    const promise = navigator.clipboard.writeText(options.fallbackText);
+
+    // https://sentry.io/share/issue/59a42dfd516a439a99f763ee276aff26/
+    if (promise) {
+      promise.then(clipboardSuccessCallback).catch(clipboardFailedCallback);
+    }
+  } else {
+    // legacy browsers without async clipboard API support
+    const textarea = document.createElement("textarea");
+    textarea.textContent = options.fallbackText;
+    textarea.style.position = "fixed";
+    document.body.appendChild(textarea);
+    // https://sentry.io/share/issue/cb8a0ca8f6fc47858eafe4bc5959debd/
+    textarea.focus();
+    textarea.select();
+    try {
+      document.execCommand("copy");
+      clipboardSuccessCallback();
+    } catch (err) {
+      clipboardFailedCallback(err);
+    } finally {
+      document.body.removeChild(textarea);
+    }
+  }
 }

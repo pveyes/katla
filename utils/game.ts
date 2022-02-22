@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
-import { AnswerState, GameState, GameStats } from "./types";
+import { AnswerState, Game, GameState, GameStats } from "./types";
 import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
 import { trackEvent } from "./tracking";
@@ -16,16 +16,6 @@ export const initialState: GameState = {
   enableHighContrast: false,
   enableHardMode: false,
 };
-
-export interface Game {
-  hash: string;
-  num: number;
-  readyState: "init" | "no-storage" | "ready";
-  ready: boolean;
-  state: GameState;
-  setState: (state: GameState) => void;
-  trackInvalidWord: (word: string) => void;
-}
 
 export const useGamePersistedState =
   createStoredState<GameState>(GAME_STATE_KEY);

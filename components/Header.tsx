@@ -1,5 +1,8 @@
 import Head from "next/head";
-import { ReactNode } from "react";
+import dynamic from "next/dynamic";
+import React, { ReactNode } from "react";
+
+const EmojiSelector = dynamic(() => import("./EmojiSelector"), { ssr: false });
 
 interface Props {
   title?: string;
@@ -8,10 +11,12 @@ interface Props {
   ogImage?: string;
   customHeading?: ReactNode;
   warnStorageDisabled?: boolean;
+  isLiveMode?: boolean;
   themeColor?: string;
   onShowStats?: () => void;
   onShowHelp?: () => void;
   onShowSettings?: () => void;
+  onSendEmoji?: (emoji: string) => void;
 }
 
 export default function Header(props: Props) {
@@ -41,9 +46,12 @@ export default function Header(props: Props) {
     onShowStats,
     onShowHelp,
     onShowSettings,
+    onSendEmoji,
     warnStorageDisabled,
+    isLiveMode,
     themeColor = "#15803D",
   } = props;
+
   return (
     <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
       <Head>
@@ -64,6 +72,11 @@ export default function Header(props: Props) {
         <link href="/katla-32x32.png" rel="icon shortcut" sizes="3232" />
         <link href="/katla-192x192.png" rel="apple-touch-icon" />
       </Head>
+      {isLiveMode && (
+        <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
+          Mode lawan masih dalam tahap uji coba.
+        </div>
+      )}
       {warnStorageDisabled && (
         <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
           Browser yang kamu gunakan saat ini tidak dapat menyimpan progres
@@ -76,29 +89,37 @@ export default function Header(props: Props) {
           className="uppercase text-4xl dark:text-gray-200 text-gray-900 font-bold w-max mx-auto relative z-10 mb-2"
           style={{ letterSpacing: 4 }}
         >
-          {customHeading ? customHeading : "Katla"}
+          {customHeading ?? "Katla"}
         </h1>
         <div className="absolute flex flex-row items-center justify-between inset-0">
-          <button
-            onClick={onShowHelp}
-            title="Bantuan"
-            aria-label="Pengaturan"
-            style={{ visibility: onShowHelp ? "visible" : "hidden" }}
-            tabIndex={-1}
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              height="24"
-              viewBox="0 0 24 24"
-              width="24"
-            >
-              <path
-                fill="currentColor"
-                d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
-              ></path>
-            </svg>
-          </button>
           <div className="flex space-x-2">
+            <button
+              onClick={onShowHelp}
+              title="Bantuan"
+              aria-label="Pengaturan"
+              style={{
+                visibility: onShowHelp ? "visible" : "hidden",
+                height: 24,
+              }}
+              tabIndex={-1}
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                height="24"
+                viewBox="0 0 24 24"
+                width="24"
+              >
+                <path
+                  fill="currentColor"
+                  d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
+                ></path>
+              </svg>
+            </button>
+            <div className="relative flex">
+              {onSendEmoji && <EmojiSelector onSendEmoji={onSendEmoji} />}
+            </div>
+          </div>
+          <div className="flex gap-2">
             <button
               onClick={onShowStats}
               title="Statistik"

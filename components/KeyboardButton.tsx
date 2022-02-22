@@ -1,4 +1,4 @@
-import { ComponentProps } from "react";
+import { ComponentProps, memo } from "react";
 
 type Props = {
   state: "correct" | "exist" | "wrong" | null;
