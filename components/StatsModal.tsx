@@ -135,7 +135,7 @@ export default function StatsModal(props: Props) {
     const dataURL = canvas.toDataURL();
     const blob = await (await fetch(dataURL)).blob();
     const imageName = `katla-${game.num}.jpg`;
-    
+
     if (useNativeShare && navigator.canShare) {
       const shareData = {
         files: [
@@ -301,7 +301,13 @@ export default function StatsModal(props: Props) {
 }
 
 function WordDefinition({ answer }) {
-  const { data = [] } = useSWR(`/api/define/${answer}`, fetcher);
+  const { data = [] } = useSWR(`/api/define/${answer}`, (path) => {
+    return fetcher(path, {
+      headers: {
+        Authorization: `token ${process.env.NEXT_PUBLIC_DEFINE_TOKEN}`,
+      },
+    });
+  });
 
   return (
     <div className="w-10/12 mx-auto mb-8">

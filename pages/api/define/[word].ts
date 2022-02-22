@@ -12,8 +12,23 @@ interface KategloResponse {
   };
 }
 
+const tokens = [
+  process.env.NEXT_PUBLIC_DEFINE_TOKEN,
+  process.env.THIRD_PARTY_DEFINE_TOKEN,
+];
+
 async function handler(req: NextApiRequest, res: NextApiResponse) {
   const word = req.query.word as string;
+  const auth = req.headers.authorization;
+
+  if (!auth || !auth.startsWith("token")) {
+    return res.status(401).json({ error: "Unauthorized" });
+  }
+
+  const [_, token] = auth.split(" ");
+  if (!tokens.includes(token)) {
+    return res.status(401).json({ error: "Unauthorized" });
+  }
 
   let definitions: String[] | null = null;
   try {
