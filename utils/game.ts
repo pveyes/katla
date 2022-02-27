@@ -15,6 +15,7 @@ export const initialState: GameState = {
   lastCompletedDate: null,
   enableHighContrast: false,
   enableHardMode: false,
+  enableFreeEdit: false,
 };
 
 export const useGamePersistedState =

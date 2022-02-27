@@ -13,7 +13,7 @@ import { Game, GameState, LiveConfig, LiveEvent } from "./types";
 import { GAME_LIVE_STATE_KEY } from "./constants";
 import createStoredState from "./useStoredState";
 import LocalStorage, { isStorageEnabled, shareLink } from "./browser";
-import { getAnswerStates } from "./game";
+import { getAnswerStates, initialState as gameInitialState } from "./game";
 import { decode, encode } from "./codec";
 import { rainEmoji } from "../components/EmojiRain";
 import confetti from "./animation";
@@ -28,12 +28,8 @@ export interface LiveGame extends Game<LiveGameState> {
 }
 
 const initialState: LiveGameState = {
-  answers: Array(6).fill(""),
-  attempt: 0,
+  ...gameInitialState,
   winCount: 0,
-  lastCompletedDate: null,
-  enableHardMode: false,
-  enableHighContrast: false,
 };
 
 const useGameState = createStoredState<LiveGameState>(GAME_LIVE_STATE_KEY);
