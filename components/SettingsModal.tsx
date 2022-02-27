@@ -58,7 +58,7 @@ export default function SettingsModal(props: Props) {
       />
       <Switch
         title="Mode Edit Bebas"
-        subtitle="Hapus huruf di kotak manapun dan tombol khusus untuk melewati kotak"
+        subtitle="Hapus huruf di kotak manapun dan lewati kotak dengan karakter '_'"
         isExperimental
         active={game.state.enableFreeEdit}
         onChange={(enableFreeEdit) => {
@@ -238,7 +238,9 @@ function Switch(props: SwitchProps) {
         <p className="mb-0">
           {title}
           {isExperimental && (
-            <span className="text-xs text-yellow-400 ml-2">(Uji coba)</span>
+            <span className="text-xs text-yellow-600 dark:text-yellow-400 ml-2">
+              (Uji coba)
+            </span>
           )}
         </p>
         {subtitle && <span className="text-xs text-gray-500">{subtitle}</span>}
