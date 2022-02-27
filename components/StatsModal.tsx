@@ -146,9 +146,9 @@ export default function StatsModal(props: Props) {
 
     const dataURL = canvas.toDataURL();
     const blob = await (await fetch(dataURL)).blob();
-    const imageName = `katla-${game.num}.jpg`;
 
     if (canShareImage) {
+      const imageName = `katla-${game.num}.jpg`;
       const shareData = {
         files: [
           new File([blob], imageName, {
@@ -160,6 +160,7 @@ export default function StatsModal(props: Props) {
       navigator.share(shareData).catch(() => {});
     } else {
       const { saveAs } = await import("file-saver").then((mod) => mod.default);
+      const imageName = `katla-${game.num}`;
       saveAs(blob, imageName);
     }
   }
