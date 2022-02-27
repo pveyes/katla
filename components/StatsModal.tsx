@@ -37,9 +37,14 @@ export default function StatsModal(props: Props) {
   const [canShareImage, setCanShareImage] = useState(false);
 
   useEffect(() => {
-    setCanShareImage(
-      checkNativeShareSupport() && typeof navigator.canShare === "function"
-    );
+    const canShareImage =
+      checkNativeShareSupport() && typeof navigator.canShare === "function";
+    setCanShareImage(canShareImage);
+
+    if (!canShareImage) {
+      // preload image share logic
+      import("file-saver");
+    }
   }, []);
 
   const useNativeShare = checkNativeShareSupport();
@@ -153,19 +158,8 @@ export default function StatsModal(props: Props) {
         ],
       };
       navigator.share(shareData).catch(() => {});
-    } else if (typeof blob.arrayBuffer === "function") {
-      // not supported browser download the image
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement("a");
-      a.style.display = "none";
-      a.href = url;
-      a.download = imageName;
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
     } else {
-      // other "smart" browsers
-      const { saveAs } = await import("file-saver");
+      const { saveAs } = await import("file-saver").then((mod) => mod.default);
       saveAs(blob, imageName);
     }
   }
