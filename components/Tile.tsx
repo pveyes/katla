@@ -11,7 +11,7 @@ interface Props {
   state: AnswerState;
   isInvalid?: boolean;
   delay: number;
-  onPress: () => void;
+  onPress?: () => void;
 }
 
 export default function Tile(props: Props) {
