@@ -134,6 +134,15 @@ export default function Keyboard(props: Props) {
             {char}
           </KeyboardButton>
         ))}
+        {gameState.enableFreeEdit && (
+          <KeyboardButton
+            state={null}
+            onClick={() => onPressChar("_")}
+            scale={1.5}
+          >
+            _
+          </KeyboardButton>
+        )}
         <KeyboardButton state={null} onClick={onBackspace} scale={1.5}>
           <svg
             xmlns="http://www.w3.org/2000/svg"

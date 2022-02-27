@@ -1,19 +1,33 @@
 import Tile from "./Tile";
 
-import { GameState } from "../utils/types";
+import { Game, GameState } from "../utils/types";
 import { decode } from "../utils/codec";
 import { getAnswerStates } from "../utils/game";
 import { FLIP_ANIMATION_DELAY_MS } from "../utils/constants";
 
 interface Props {
-  hash: string;
-  gameState: GameState;
+  game: Game;
   invalidAnswer: boolean;
 }
 
 export default function Board(props: Props) {
-  const { hash, gameState, invalidAnswer } = props;
-  const answer = decode(hash);
+  const { game, invalidAnswer } = props;
+  const answer = decode(game.hash);
+
+  function handlePress(row: number, index: number) {
+    if (game.state.enableFreeEdit && row === game.state.attempt) {
+      game.setState({
+        ...game.state,
+        answers: game.state.answers.map((answer, i) => {
+          if (i === game.state.attempt) {
+            return answer.slice(0, index) + "_" + answer.slice(index + 1);
+          }
+
+          return answer;
+        }),
+      });
+    }
+  }
 
   return (
     <div
@@ -24,7 +38,7 @@ export default function Board(props: Props) {
       {Array(6)
         .fill("")
         .map((_, i) => {
-          let userAnswer = gameState.answers[i] ?? "";
+          let userAnswer = game.state.answers[i] ?? "";
           userAnswer += " ".repeat(5 - userAnswer.length);
 
           const answerStates = getAnswerStates(userAnswer, answer);
@@ -32,11 +46,11 @@ export default function Board(props: Props) {
             <div className="grid grid-cols-5 gap-1.5 relative" key={i}>
               {userAnswer.split("").map((char, index) => {
                 let state = null;
-                if (i < gameState.attempt) {
+                if (i < game.state.attempt) {
                   state = answerStates[index];
                 }
 
-                const isInvalid = invalidAnswer && i === gameState.attempt;
+                const isInvalid = invalidAnswer && i === game.state.attempt;
                 return (
                   <Tile
                     key={`${index}-${char}`}
@@ -44,6 +58,7 @@ export default function Board(props: Props) {
                     state={state}
                     isInvalid={isInvalid}
                     delay={FLIP_ANIMATION_DELAY_MS * index}
+                    onPress={() => handlePress(i, index)}
                   />
                 );
               })}

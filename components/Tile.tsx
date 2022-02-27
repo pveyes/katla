@@ -11,6 +11,7 @@ interface Props {
   state: AnswerState;
   isInvalid?: boolean;
   delay: number;
+  onPress: () => void;
 }
 
 export default function Tile(props: Props) {
@@ -65,11 +66,13 @@ export default function Tile(props: Props) {
   }, [animate, props.state, props.delay]);
 
   return (
-    <div
+    <button
       style={style}
       className={`rounded-sm uppercase text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor} select-none`}
+      tabIndex={-1}
+      onClick={props.onPress}
     >
-      {props.char}
-    </div>
+      {props.char === "_" ? "" : props.char}
+    </button>
   );
 }

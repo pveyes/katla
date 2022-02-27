@@ -56,6 +56,15 @@ export default function SettingsModal(props: Props) {
           game.setState({ ...game.state, enableHighContrast });
         }}
       />
+      <Switch
+        title="Mode Edit Bebas"
+        subtitle="Hapus huruf di kotak manapun dan tombol khusus untuk melewati kotak"
+        isExperimental
+        active={game.state.enableFreeEdit}
+        onChange={(enableFreeEdit) => {
+          game.setState({ ...game.state, enableFreeEdit });
+        }}
+      />
       {liveConfig ? (
         liveConfig.isHost ? (
           <AdminTools config={liveConfig} game={game} onClose={onClose} />
@@ -199,11 +208,20 @@ interface SwitchProps {
   subtitle?: string;
   disabled?: boolean;
   disabledText?: string;
+  isExperimental?: boolean;
   onChange: (active: boolean) => void;
 }
 
 function Switch(props: SwitchProps) {
-  const { title, subtitle, disabled, disabledText, active, onChange } = props;
+  const {
+    title,
+    subtitle,
+    isExperimental,
+    disabled,
+    disabledText,
+    active,
+    onChange,
+  } = props;
 
   function handleClick() {
     if (disabled) {
@@ -217,7 +235,12 @@ function Switch(props: SwitchProps) {
   return (
     <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-gray-200 dark:border-gray-700 space-x-2">
       <div className="flex flex-col">
-        <p className="mb-0">{title}</p>
+        <p className="mb-0">
+          {title}
+          {isExperimental && (
+            <span className="text-xs text-yellow-400 ml-2">(Uji coba)</span>
+          )}
+        </p>
         {subtitle && <span className="text-xs text-gray-500">{subtitle}</span>}
       </div>
       <button
