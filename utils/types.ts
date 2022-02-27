@@ -8,6 +8,7 @@ export interface GameState {
   lastCompletedDate: number | null;
   enableHighContrast: boolean;
   enableHardMode: boolean;
+  enableFreeEdit: boolean;
 }
 
 export interface GameStats {

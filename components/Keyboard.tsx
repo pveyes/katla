@@ -74,6 +74,8 @@ export default function Keyboard(props: Props) {
         // prevent modal to be opened when pressing enter
         e.preventDefault();
         onSubmit();
+      } else if (gameState.enableFreeEdit && e.key === "_") {
+        onPressChar(e.key);
       } else if (/[a-z]/i.test(e.key) && e.key.length === 1) {
         onPressChar(e.key);
       }
@@ -134,6 +136,15 @@ export default function Keyboard(props: Props) {
             {char}
           </KeyboardButton>
         ))}
+        {gameState.enableFreeEdit && (
+          <KeyboardButton
+            state={null}
+            onClick={() => onPressChar("_")}
+            scale={1.5}
+          >
+            _
+          </KeyboardButton>
+        )}
         <KeyboardButton state={null} onClick={onBackspace} scale={1.5}>
           <svg
             xmlns="http://www.w3.org/2000/svg"

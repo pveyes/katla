@@ -55,10 +55,23 @@ export default function App(props: Props) {
       return;
     }
 
+    if (!game.state.enableFreeEdit && char === "_") {
+      return;
+    }
+
     game.setState({
       ...game.state,
       answers: game.state.answers.map((answer, i) => {
-        if (i === game.state.attempt && answer.length < 5) {
+        if (i === game.state.attempt) {
+          if (answer.length === 5) {
+            if (answer.includes("_")) {
+              return answer.replace("_", char.toLowerCase());
+            }
+
+            // do nothing
+            return answer;
+          }
+
           return answer + char.toLowerCase();
         }
 
@@ -99,7 +112,11 @@ export default function App(props: Props) {
       return;
     }
 
-    const userAnswer = game.state.answers[game.state.attempt];
+    const userAnswer = game.state.answers[game.state.attempt]
+      .split("")
+      .filter((char) => char !== "_")
+      .join("");
+
     if (userAnswer.length < 5) {
       markInvalid();
       Alert.show("Tidak cukup huruf", { id: "answer" });
@@ -292,11 +309,7 @@ export default function App(props: Props) {
   return (
     <>
       <div className="mx-auto max-w-full px-4 flex justify-center items-center grow-0 shrink">
-        <Board
-          hash={game.hash}
-          gameState={game.state}
-          invalidAnswer={invalidAnswer}
-        />
+        <Board game={game} invalidAnswer={invalidAnswer} />
       </div>
       <Keyboard
         gameState={game.state}
