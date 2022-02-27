@@ -119,7 +119,7 @@ export default function StatsModal(props: Props) {
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 300);
     ctx.font = "32px sans-serif";
-    ctx.fillText("katla.vercel.app", canvas.width / 2, canvas.height - 100);
+    ctx.fillText("katla.vercel.app", canvas.width / 2, canvas.height - 150);
     game.state.answers.slice(0, game.state.attempt).forEach((answer, y) => {
       const states = getAnswerStates(answer, decode(game.hash));
       states.forEach((state, x) => {
