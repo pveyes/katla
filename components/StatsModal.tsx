@@ -319,7 +319,7 @@ export default function StatsModal(props: Props) {
                   checked={showAnswersCheckbox}
                   onChange={(e) => setShowAnswersCheckbox(e.target.checked)}
                 />
-                <span>Sertakan Jawaban pada Image</span>
+                <span>Sertakan jawaban pada gambar</span>
               </label>
 
               <button
