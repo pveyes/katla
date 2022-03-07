@@ -261,7 +261,7 @@ export default function StatsModal(props: Props) {
             <div className="flex flex-col space-y-4 text-white">
               <button
                 onClick={handleShare}
-                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-cente"
+                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
               >
                 <div>Share</div>
                 <svg
