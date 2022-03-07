@@ -35,6 +35,7 @@ export default function StatsModal(props: Props) {
   const isAnswered =
     game.state.answers[game.state.attempt - 1] === decode(game.hash);
   const [canShareImage, setCanShareImage] = useState(false);
+  const [showAnswersCheckbox, setShowAnswersCheckbox] = useState(false);
 
   useEffect(() => {
     const canShareImage =
@@ -133,14 +134,22 @@ export default function StatsModal(props: Props) {
 
         const marginH = gap * x;
         const marginV = gap * y;
+        const rectX = paddingH + x * size + marginH;
+        const rectY = paddingT + y * size + marginV;
+
         ctx.beginPath();
-        ctx.rect(
-          paddingH + x * size + marginH,
-          paddingT + y * size + marginV,
-          size,
-          size
-        );
+        ctx.rect(rectX, rectY, size, size);
         ctx.fill();
+
+        if (showAnswersCheckbox) {
+          ctx.font = "bold 54px sans-serif";
+          ctx.fillStyle = "#ffffff";
+          ctx.fillText(
+            answer[x].toUpperCase(),
+            rectX + size / 2,
+            rectY + size / 1.5
+          );
+        }
       });
     });
 
@@ -148,7 +157,9 @@ export default function StatsModal(props: Props) {
     const blob = await (await fetch(dataURL)).blob();
 
     if (canShareImage) {
-      const imageName = `katla-${game.num}.jpg`;
+      const imageName = showAnswersCheckbox
+        ? `katla-${game.num}-with-answers.jpg`
+        : `katla-${game.num}.jpg`;
       const shareData = {
         files: [
           new File([blob], imageName, {
@@ -160,7 +171,9 @@ export default function StatsModal(props: Props) {
       navigator.share(shareData).catch(() => {});
     } else {
       const { saveAs } = await import("file-saver").then((mod) => mod.default);
-      const imageName = `katla-${game.num}`;
+      const imageName = showAnswersCheckbox
+        ? `katla-${game.num}-with-answers`
+        : `katla-${game.num}`;
       saveAs(blob, imageName);
     }
   }
@@ -299,6 +312,15 @@ export default function StatsModal(props: Props) {
                   </svg>
                 )}
               </button>
+
+              <label className="flex items-center gap-2 text-xs dark:text-gray-400 text-gray-600">
+                <input
+                  type="checkbox"
+                  checked={showAnswersCheckbox}
+                  onChange={(e) => setShowAnswersCheckbox(e.target.checked)}
+                />
+                <span>Sertakan Jawaban pada Image</span>
+              </label>
 
               <button
                 onClick={handleShareToTwitter}
