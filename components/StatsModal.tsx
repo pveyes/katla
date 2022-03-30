@@ -48,11 +48,10 @@ export default function StatsModal(props: Props) {
     }
   }, []);
 
-  const useNativeShare = checkNativeShareSupport();
   const answer = decode(game.hash);
   const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
   const showShare =
-    game.state.answers.filter(Boolean).length === 6 ||
+    game.state.attempt === 6 ||
     game.state.answers[game.state.attempt - 1] === answer;
   const totalWin = getTotalWin(stats);
   const totalPlay = getTotalPlay(stats);
