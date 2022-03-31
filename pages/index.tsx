@@ -81,7 +81,7 @@ export default function Home(props: Props) {
     onShowHelp: () => setModalState("help"),
     onShowStats: () => setModalState("stats"),
     onShowSettings: () => setModalState("settings"),
-    showLiarOption: game.num === 71 && !game.state.enableLiarMode,
+    showLiarOption: game.ready && game.num === 71 && !game.state.enableLiarMode,
   };
 
   if (game.readyState === "init") {
