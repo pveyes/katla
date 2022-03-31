@@ -6,7 +6,7 @@ interface Props {
 export default function HeadingWithNum(props: Props) {
   return (
     <span>
-      {props.enableLiarMode ? "KatLie" : "Katla"}
+      {props.enableLiarMode ? "Katlie" : "Katla"}
       {props.num && (
         <sup className="-top-4 tracking-tight" style={{ fontSize: "45%" }}>
           #{props.num}
