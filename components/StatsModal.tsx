@@ -1,10 +1,8 @@
 import useSWR from "swr";
 import { useEffect, useState } from "react";
 import { useTheme } from "next-themes";
-import * as Sentry from "@sentry/nextjs";
 
 import Modal from "./Modal";
-import Alert from "./Alert";
 
 import { Game, GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
@@ -55,6 +53,7 @@ export default function StatsModal(props: Props) {
     game.state.answers[game.state.attempt - 1] === answer;
   const totalWin = getTotalWin(stats);
   const totalPlay = getTotalPlay(stats);
+  const title = game.state.enableLiarMode ? "Katlie" : "Katla";
 
   function generateText() {
     const hardModeMarker = game.state.enableHardMode ? "*" : "";
@@ -62,16 +61,16 @@ export default function StatsModal(props: Props) {
       game.state.answers[game.state.attempt - 1] === answer
         ? game.state.attempt
         : "X";
-    let text = `Katla ${game.num} ${score}/6${hardModeMarker}\n\n`;
+    let text = `${title} ${game.num} ${score}/6${hardModeMarker}\n\n`;
 
     game.state.answers.filter(Boolean).forEach((userAnswer) => {
       const answerEmojis = getAnswerStates(userAnswer, answer).map((state) => {
         switch (state) {
-          case "correct":
+          case "c":
             return game.state.enableHighContrast ? "🟧" : "🟩";
-          case "exist":
+          case "e":
             return game.state.enableHighContrast ? "🟦" : "🟨";
-          case "wrong":
+          case "w":
             return resolvedTheme === "dark" ? "⬛" : "⬜️";
         }
       });
@@ -113,7 +112,7 @@ export default function StatsModal(props: Props) {
         ? game.state.attempt
         : "X";
     const hardModeMarker = game.state.enableHardMode ? "*" : "";
-    let text = `Katla ${game.num} ${score}/6${hardModeMarker}\n\n`;
+    let text = `${title} ${game.num} ${score}/6${hardModeMarker}\n\n`;
     ctx.font = "bold 42px sans-serif";
     ctx.textAlign = "center";
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
@@ -123,9 +122,9 @@ export default function StatsModal(props: Props) {
     game.state.answers.slice(0, game.state.attempt).forEach((answer, y) => {
       const states = getAnswerStates(answer, decode(game.hash));
       states.forEach((state, x) => {
-        if (state === "correct") {
+        if (state === "c") {
           ctx.fillStyle = game.state.enableHighContrast ? "#f5793a" : "#15803d";
-        } else if (state === "exist") {
+        } else if (state === "e") {
           ctx.fillStyle = game.state.enableHighContrast ? "#85c0f9" : "#ca8a04";
         } else {
           ctx.fillStyle = resolvedTheme === "dark" ? "#374151" : "#6b7280";

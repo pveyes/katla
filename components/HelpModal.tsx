@@ -46,7 +46,7 @@ function HelpModal(props: Props) {
               <Tile
                 key={i}
                 char={char}
-                state={char === "s" ? "correct" : null}
+                state={char === "s" ? "c" : null}
                 delay={0}
               />
             );
@@ -64,7 +64,7 @@ function HelpModal(props: Props) {
               <Tile
                 key={i}
                 char={char}
-                state={char === "a" ? "exist" : null}
+                state={char === "a" ? "e" : null}
                 delay={0}
               />
             );
@@ -82,7 +82,7 @@ function HelpModal(props: Props) {
               <Tile
                 key={i}
                 char={char}
-                state={char === "k" ? "wrong" : null}
+                state={char === "k" ? "w" : null}
                 delay={0}
               />
             );

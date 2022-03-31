@@ -1,20 +1,21 @@
 import { ComponentProps, memo } from "react";
+import { AnswerState } from "../utils/types";
 
 type Props = {
-  state: "correct" | "exist" | "wrong" | null;
+  state: AnswerState;
   scale?: number;
 } & Omit<ComponentProps<"button">, "className" | "style">;
 
 export default function KeyboardButton(props: Props) {
   let color = "bg-gray-300 text-gray-900 dark:bg-gray-500 dark:text-gray-200";
   switch (props.state) {
-    case "correct":
+    case "c":
       color = "text-white bg-correct";
       break;
-    case "exist":
+    case "e":
       color = "text-white bg-exist";
       break;
-    case "wrong":
+    case "w":
       color = "text-white bg-gray-500 dark:text-gray-200 dark:bg-gray-700";
       break;
     default:

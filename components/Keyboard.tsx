@@ -1,7 +1,7 @@
 import { MutableRefObject, useEffect, useRef } from "react";
 
 import KeyboardButton from "./KeyboardButton";
-import { GameState } from "../utils/types";
+import { AnswerState, GameState } from "../utils/types";
 import { decode } from "../utils/codec";
 
 interface Props {
@@ -35,17 +35,17 @@ export default function Keyboard(props: Props) {
     }
   });
 
-  function getKeyboardState(char: string) {
+  function getKeyboardState(char: string): AnswerState {
     let state = null;
     if (correctChars.has(char)) {
-      state = "correct";
+      state = "c";
     } else if (usedChars.has(char) && answer.includes(char)) {
-      state = "exist";
+      state = "e";
     } else if (usedChars.has(char)) {
-      state = "wrong";
+      state = "w";
     }
 
-    return state;
+    return gameState.enableLiarMode ? null : state;
   }
 
   const pressed = useRef(null);

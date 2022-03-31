@@ -42,15 +42,30 @@ export default function Board(props: Props) {
           userAnswer += " ".repeat(5 - userAnswer.length);
 
           const answerStates = getAnswerStates(userAnswer, answer);
+          const lieBoxes = game.state.lieBoxes[i];
+          const isTheAnswer = answerStates.every((answer) => answer === "c");
+
           return (
             <div className="grid grid-cols-5 gap-1.5 relative" key={i}>
               {userAnswer.split("").map((char, index) => {
                 let state = null;
                 if (i < game.state.attempt) {
                   state = answerStates[index];
+                  const [forcedColumn, forcedState] = lieBoxes ?? [];
+                  if (
+                    // only replace the box if liar mode is enabled
+                    game.state.enableLiarMode &&
+                    // and the column matches
+                    forcedColumn === index &&
+                    // and it's not the answer
+                    !isTheAnswer
+                  ) {
+                    state = forcedState;
+                  }
                 }
 
                 const isInvalid = invalidAnswer && i === game.state.attempt;
+
                 return (
                   <Tile
                     key={`${index}-${char}`}

@@ -71,11 +71,17 @@ export default function Home(props: Props) {
   }, [stats, game.state, game.hash, game.readyState]);
 
   const headerProps: ComponentProps<typeof Header> = {
-    customHeading: <HeadingWithNum num={game.ready ? game.num : null} />,
+    customHeading: (
+      <HeadingWithNum
+        num={game.ready ? game.num : null}
+        enableLiarMode={game.state.enableLiarMode}
+      />
+    ),
     themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
     onShowHelp: () => setModalState("help"),
     onShowStats: () => setModalState("stats"),
     onShowSettings: () => setModalState("settings"),
+    showLiarOption: game.num === 71 && !game.state.enableLiarMode,
   };
 
   if (game.readyState === "init") {
