@@ -80,9 +80,11 @@ export default function Header(props: Props) {
         </div>
       )}
       {showLiarOption && (
-        <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
+        <div className="text-xs mb-2">
           Kurang menantang? Gunakan{" "}
-          <button onClick={onShowSettings}>mode bohong</button>
+          <button onClick={onShowSettings} className="color-accent">
+            mode bohong
+          </button>
         </div>
       )}
       {warnStorageDisabled && (
