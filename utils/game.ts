@@ -77,7 +77,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     // already play
     if (lastHash !== latestHash) {
       // ready for a new game
-      if (true) {
+      if (isAfterGameDate) {
         unstable_batchedUpdates(() => {
           setCurrentHash(latestHash);
           setCurrentNum(initialCurrentNum);
