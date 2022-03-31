@@ -13,6 +13,7 @@ interface Props {
   warnStorageDisabled?: boolean;
   isLiveMode?: boolean;
   themeColor?: string;
+  showLiarOption?: boolean;
   onShowStats?: () => void;
   onShowHelp?: () => void;
   onShowSettings?: () => void;
@@ -50,6 +51,7 @@ export default function Header(props: Props) {
     warnStorageDisabled,
     isLiveMode,
     themeColor = "#15803D",
+    showLiarOption,
   } = props;
 
   return (
@@ -75,6 +77,12 @@ export default function Header(props: Props) {
       {isLiveMode && (
         <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
           Mode lawan masih dalam tahap uji coba.
+        </div>
+      )}
+      {showLiarOption && (
+        <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
+          Kurang menantang? Gunakan{" "}
+          <button onClick={onShowSettings}>mode bohong</button>
         </div>
       )}
       {warnStorageDisabled && (

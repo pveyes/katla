@@ -16,6 +16,8 @@ export const initialState: GameState = {
   enableHighContrast: false,
   enableHardMode: false,
   enableFreeEdit: false,
+  enableLiarMode: false,
+  lieBoxes: [],
 };
 
 export const useGamePersistedState =
@@ -75,7 +77,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     // already play
     if (lastHash !== latestHash) {
       // ready for a new game
-      if (isAfterGameDate) {
+      if (true) {
         unstable_batchedUpdates(() => {
           setCurrentHash(latestHash);
           setCurrentNum(initialCurrentNum);
@@ -83,6 +85,9 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
             ...state,
             answers: Array(6).fill(""),
             attempt: 0,
+            // always reset liar mode
+            enableLiarMode: false,
+            lieBoxes: [],
           }));
         });
         LocalStorage.setItem(LAST_HASH_KEY, latestHash);
@@ -96,6 +101,9 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
             ...state,
             answers: Array(6).fill(""),
             attempt: 0,
+            // always reset liar mode
+            enableLiarMode: false,
+            lieBoxes: [],
           }));
         });
         LocalStorage.setItem(LAST_HASH_KEY, previousHash);
@@ -244,7 +252,7 @@ export function getAnswerStates(
   const userAnswerChars = userAnswer.split("");
   for (let i = 0; i < answerChars.length; i++) {
     if (userAnswer[i] === answerChars[i]) {
-      states[i] = "correct";
+      states[i] = "c";
       answerChars[i] = null;
       userAnswerChars[i] = null;
     }
@@ -257,13 +265,13 @@ export function getAnswerStates(
 
     const answerIndex = answerChars.indexOf(userAnswer[i]);
     if (answerIndex !== -1) {
-      states[i] = "exist";
+      states[i] = "e";
       answerChars[answerIndex] = null;
       userAnswerChars[i] = null;
     }
   }
 
-  return states.map((s) => (s === null ? "wrong" : s)) as any;
+  return states.map((s) => (s === null ? "w" : s)) as any;
 }
 
 export function checkHardModeAnswer(
@@ -278,7 +286,7 @@ export function checkHardModeAnswer(
 
   // first check for unused characters
   const mustBeUsedChars: string[] = previousAnswerStates.flatMap((state, i) => {
-    if (state === "exist") {
+    if (state === "e") {
       return previousAnswer[i];
     }
     return [];
@@ -292,10 +300,7 @@ export function checkHardModeAnswer(
 
   // then check for matching answer
   for (let i = 0; i < previousAnswerStates.length; i++) {
-    if (
-      previousAnswerStates[i] === "correct" &&
-      currentAnswerStates[i] !== "correct"
-    ) {
+    if (previousAnswerStates[i] === "c" && currentAnswerStates[i] !== "c") {
       return [true, previousAnswer[i].toUpperCase(), i + 1];
     }
   }

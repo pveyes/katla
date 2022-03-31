@@ -12,7 +12,7 @@ import {
   LAST_SESSION_RESET_KEY,
 } from "../utils/constants";
 import LocalStorage from "../utils/browser";
-import { Game, LiveConfig } from "../utils/types";
+import { ForcedResult, Game, LiveConfig } from "../utils/types";
 import { shareInviteLink } from "../utils/liveGame";
 
 interface Props {
@@ -25,6 +25,9 @@ interface Props {
 export default function SettingsModal(props: Props) {
   const { game, isOpen, onClose, liveConfig } = props;
   const { resolvedTheme, setTheme } = useTheme();
+  const showLiarMode = game.num === 71;
+  const correctColor = game.state.enableHighContrast ? "biru" : "hijau";
+  const incorrectColor = game.state.enableHighContrast ? "oranye" : "kuning";
 
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
@@ -33,8 +36,8 @@ export default function SettingsModal(props: Props) {
         <Switch
           title="Mode Sulit"
           subtitle="Semua petunjuk dari jawaban sebelumnya harus digunakan"
-          disabled={game.state.attempt > 0}
-          disabledText={"Mode sulit hanya dapat diganti di awal permainan"}
+          onlyEnableOnFirstAttempt
+          attempt={game.state.attempt}
           active={game.state.enableHardMode}
           onChange={(enableHardMode) => {
             game.setState({ ...game.state, enableHardMode });
@@ -65,6 +68,22 @@ export default function SettingsModal(props: Props) {
           game.setState({ ...game.state, enableFreeEdit });
         }}
       />
+      {showLiarMode && (
+        <Switch
+          title="Mode Bohong"
+          subtitle={`Setiap baris terdapat 1 kotak acak yang belum tentu mencerminkan petunjuk seharusnya (misal ${correctColor} menjadi ${incorrectColor})`}
+          onlyEnableOnFirstAttempt
+          attempt={game.state.attempt}
+          active={game.state.enableLiarMode}
+          onChange={(enableLiarMode) => {
+            game.setState({
+              ...game.state,
+              enableLiarMode,
+              lieBoxes: generateLieBoxes(),
+            });
+          }}
+        />
+      )}
       {liveConfig ? (
         liveConfig.isHost ? (
           <AdminTools config={liveConfig} game={game} onClose={onClose} />
@@ -206,8 +225,8 @@ interface SwitchProps {
   active: boolean;
   title: string;
   subtitle?: string;
-  disabled?: boolean;
-  disabledText?: string;
+  onlyEnableOnFirstAttempt?: boolean;
+  attempt?: number;
   isExperimental?: boolean;
   onChange: (active: boolean) => void;
 }
@@ -217,11 +236,19 @@ function Switch(props: SwitchProps) {
     title,
     subtitle,
     isExperimental,
-    disabled,
-    disabledText,
     active,
     onChange,
+    onlyEnableOnFirstAttempt,
+    attempt,
   } = props;
+
+  const disabled = onlyEnableOnFirstAttempt && attempt > 0;
+  const disabledText = `${title} hanya dapat diganti di awal permainan`;
+  const warningText = onlyEnableOnFirstAttempt
+    ? `Hanya dapat diganti di awal permainan`
+    : isExperimental
+    ? "Masih dalam tahap uji coba"
+    : "";
 
   function handleClick() {
     if (disabled) {
@@ -236,10 +263,10 @@ function Switch(props: SwitchProps) {
     <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-gray-200 dark:border-gray-700 space-x-2">
       <div className="flex flex-col">
         <p className="mb-0">
-          {title}
-          {isExperimental && (
-            <span className="text-xs text-yellow-600 dark:text-yellow-400 ml-2">
-              (Uji coba)
+          {title}{" "}
+          {warningText && (
+            <span className="text-xs text-yellow-600 dark:text-yellow-400 inline-block">
+              {"(" + warningText + ")"}
             </span>
           )}
         </p>
@@ -260,4 +287,16 @@ function Switch(props: SwitchProps) {
       </button>
     </div>
   );
+}
+
+function generateLieBoxes(): ForcedResult[] {
+  // only 5 because we want the last one to show the real answer
+  return Array(5)
+    .fill(0)
+    .map(() => {
+      const isExist = Math.random() > 0.35;
+      const isCorrect = Math.random() > 0.5;
+      const col = Math.floor(Math.random() * 5);
+      return isExist ? (isCorrect ? [col, "c"] : [col, "e"]) : [col, "w"];
+    });
 }

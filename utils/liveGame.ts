@@ -232,11 +232,11 @@ type Scores = Array<number>;
 function getUserScores(answer: string, hash: string): Scores {
   return getAnswerStates(answer, decode(hash)).map((state) => {
     switch (state) {
-      case "correct":
+      case "c":
         return 1;
-      case "exist":
+      case "e":
         return 0.5;
-      case "wrong":
+      case "w":
         return 0;
     }
   });

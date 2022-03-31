@@ -1,6 +1,7 @@
 import { Dispatch, SetStateAction } from "react";
 
-export type AnswerState = "correct" | "exist" | "wrong" | null;
+export type AnswerState = "c" | "e" | "w";
+export type ForcedResult = [column: number, state: AnswerState];
 
 export interface GameState {
   answers: string[];
@@ -9,6 +10,8 @@ export interface GameState {
   enableHighContrast: boolean;
   enableHardMode: boolean;
   enableFreeEdit: boolean;
+  enableLiarMode: boolean;
+  lieBoxes: ForcedResult[];
 }
 
 export interface GameStats {

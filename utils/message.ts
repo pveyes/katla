@@ -96,8 +96,8 @@ export function getFailureMessage(
 ) {
   const messageFail = ["Sayang sekali"];
 
-  if (answerStates.filter((state) => state === "correct").length === 4) {
-    messageFail.push("Sabar ya", "Dikit 👌 lagi", "Upss");
+  if (answerStates.filter((state) => state === "c").length === 4) {
+    messageFail.push("Sabar ya", "Dikiit lagi 🤏", "Upss");
   }
 
   if (stats.distribution.fail > 1) {
