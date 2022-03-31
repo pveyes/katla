@@ -42,7 +42,7 @@ export default function Board(props: Props) {
           userAnswer += " ".repeat(5 - userAnswer.length);
 
           const answerStates = getAnswerStates(userAnswer, answer);
-          const lieBoxes = game.state.lieBoxes[i];
+          const lieBoxes = game.state.lieBoxes?.[i];
           const isTheAnswer = answerStates.every((answer) => answer === "c");
 
           return (
