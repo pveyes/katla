@@ -32,27 +32,18 @@ async function handler(req: NextApiRequest, res: NextApiResponse) {
 
   let definitions: String[] | null = null;
   try {
-    const controller = new AbortController();
-    const timeoutId = setTimeout(() => {
-      controller.abort();
-    }, 1000);
-
-    const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`, {
-      signal: controller.signal,
-    }).then((res) => {
-      clearTimeout(timeoutId);
-      return res.text();
-    });
-    const $ = cheerio.load(html);
-
-    definitions = [];
-    $("ol li, ul.adjusted-par li").each((i, el) => {
-      $(el).find("font").remove();
-      definitions.push($(el).text());
-    });
+    try {
+      definitions = await fetchFromMakna(word);
+    } catch (err) {
+      console.log(`Failed to fetch from makna, using KBBI for word ${word}`, {
+        err,
+      });
+      definitions = await fetchFromKbbi(word);
+    }
   } catch (err) {
     console.warn(
-      `Failed to fetch definitions from KBBI, using kateglo.com for word ${word}`
+      `Failed to fetch definitions from KBBI, using kateglo.com for word ${word}`,
+      { err }
     );
     try {
       const kateglo: KategloResponse = await fetch(
@@ -79,3 +70,27 @@ async function handler(req: NextApiRequest, res: NextApiResponse) {
 }
 
 export default withSentry(handler);
+
+async function fetchFromMakna(word: string): Promise<string[]> {
+  const json = await fetch(
+    `https://cdn.statically.io/gh/pveyes/makna/main/data/${word}.json`
+  ).then((res) => res.json());
+  return json.flatMap((entry) => {
+    return entry.makna.map((makna) => makna.definisi);
+  });
+}
+
+async function fetchFromKbbi(word: string): Promise<string[]> {
+  const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`).then(
+    (res) => res.text()
+  );
+  const $ = cheerio.load(html);
+
+  const definitions = [];
+  $("ol li, ul.adjusted-par li").each((i, el) => {
+    $(el).find("font").remove();
+    definitions.push($(el).text());
+  });
+
+  return definitions;
+}
