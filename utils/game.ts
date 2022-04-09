@@ -154,9 +154,9 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
       }
     }
 
-    window.addEventListener("visibilitychange", handleVisibilityChange);
+    document.addEventListener("visibilitychange", handleVisibilityChange);
     return () =>
-      window.removeEventListener("visibilitychange", handleVisibilityChange);
+      document.removeEventListener("visibilitychange", handleVisibilityChange);
   }, [router]);
 
   return {
