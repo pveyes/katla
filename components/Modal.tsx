@@ -80,6 +80,11 @@ export function useModalState(game: Game, stats: GameStats): ModalStateReturn {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [game.ready]);
 
+  useEffect(() => {
+    // reset modal every new game
+    setModalState(null);
+  }, [game.num]);
+
   const resetModalState = useCallback(() => {
     setModalState(null);
   }, []);

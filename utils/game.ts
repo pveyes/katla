@@ -172,9 +172,9 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
 
 export function useRemainingTime() {
   const now = new Date();
-  const hours = 23 - now.getHours();
-  const minutes = 59 - now.getMinutes();
-  const seconds = 59 - now.getSeconds();
+  const hours = getHoursDiff(now);
+  const minutes = getMinutesDiff(now);
+  const seconds = getSecondsDiff(now);
   const router = useRouter();
 
   const [remainingTime, setRemainingTime] = useState({
@@ -186,9 +186,9 @@ export function useRemainingTime() {
   useEffect(() => {
     const t = setInterval(() => {
       const now = new Date();
-      const hours = 23 - now.getHours();
-      const minutes = 59 - now.getMinutes();
-      const seconds = 59 - now.getSeconds();
+      const hours = getHoursDiff(now);
+      const minutes = getMinutesDiff(now);
+      const seconds = getSecondsDiff(now);
 
       if (hours + minutes + seconds === 0) {
         router.replace(router.asPath);
@@ -197,9 +197,27 @@ export function useRemainingTime() {
       setRemainingTime({ hours, minutes, seconds });
     }, 100);
     return () => clearInterval(t);
-  }, []);
+  }, [router]);
 
   return remainingTime;
+}
+
+function getHoursDiff(date: Date) {
+  return date.getHours() === 0 &&
+    date.getMinutes() === 0 &&
+    date.getSeconds() === 0
+    ? 0
+    : 23 - date.getHours();
+}
+
+function getMinutesDiff(date: Date) {
+  return date.getMinutes() === 0
+    ? 0
+    : (date.getSeconds() === 0 ? 60 : 59) - date.getMinutes();
+}
+
+function getSecondsDiff(date: Date) {
+  return date.getSeconds() === 0 ? 0 : 60 - date.getSeconds();
 }
 
 export function isGameFinished(game: Game) {
