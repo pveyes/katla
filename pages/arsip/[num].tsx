@@ -17,6 +17,7 @@ import { useGame, isGameFinished } from "../../utils/game";
 import { encodeHashed } from "../../utils/codec";
 import { GameStats } from "../../utils/types";
 import fetcher from "../../utils/fetcher";
+import { handleGameComplete, handleSubmitWord } from "../../utils/message";
 
 interface Props {
   num: string;
@@ -75,6 +76,8 @@ export default function Arsip(props: Props) {
         setStats={setStats}
         showStats={() => setModalState("stats")}
         words={props.words}
+        onSubmit={handleSubmitWord}
+        onComplete={handleGameComplete}
       />
       <HelpModal isOpen={modalState === "help"} onClose={resetModalState} />
       <StatsModal

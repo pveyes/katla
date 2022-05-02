@@ -1,5 +1,9 @@
 import { getTotalPlay } from "./game";
-import { AnswerState, GameStats } from "./types";
+import { Game, AnswerState, GameStats } from "./types";
+import confetti from "./animation";
+import { encode } from "./codec";
+import { rainEmoji } from "../components/EmojiRain";
+import Alert from "../components/Alert";
 
 export function getCongratulationMessage(attempt: number, stats: GameStats) {
   const totalPlay = getTotalPlay(stats);
@@ -49,11 +53,11 @@ export function getCongratulationMessage(attempt: number, stats: GameStats) {
   const message5 = ["Bagus", "Horee", "Selamat!", "Pandai"];
   const message6 = ["Nyaris!!!", "Hampir saja", "Lega!!"];
 
-  if (stats.distribution[6] + fail > 7) {
+  if (stats.distribution[6] + fail > totalPlay / 3) {
     message6.push("Hobi amat mepet", "Suka angka 6?");
   }
 
-  if (fail > 7) {
+  if (totalPlay > 7 && fail > totalPlay / 3) {
     message6.push("Hampir dideportasi");
   }
 
@@ -118,4 +122,69 @@ export function getFailureMessage(
 function randomElement<T>(array: T[]): T {
   const index = Math.floor(Math.random() * array.length);
   return array[index];
+}
+
+const LOVE_HASHES = [
+  "Z1mteFF1",
+  "b1GybVh1",
+  "d1W/bVF1",
+  "dl:sZV51",
+  "bV6jZVh1",
+  "ZmWt[1F1",
+  "clmqZVh1",
+  "blGtbll1",
+  "eGWreWN1",
+  "dlmt[GV1",
+];
+
+const EID_HASHES = [
+  "cV:nc151",
+  "cFGnbWJ1",
+  "ZlG/bV51",
+  "[lm/dll1",
+  "dGWgd1F1",
+  "d1GrZWR1",
+  "flGqZWR1",
+  "[V2ud1l1",
+  "bFmrZVx1",
+  "bV6yZVZ1",
+  "d1GhZWJ1",
+  "eGWreWN1",
+];
+
+export function handleSubmitWord(game: Game, userAnswer: string) {
+  if (game.num === 25 && LOVE_HASHES.includes(encode(userAnswer))) {
+    const loveEmojis = ["💖", "💗", "💘", "💙", "💚", "💛", "💜", "💝"];
+    const emoji = loveEmojis[Math.floor(Math.random() * loveEmojis.length)];
+    return rainEmoji(emoji);
+  }
+
+  if (game.num === 102 && EID_HASHES.includes(encode(userAnswer))) {
+    return rainEmoji("🙏");
+  }
+}
+
+interface GameCompleteOptions {
+  hash: string;
+  attempt: number;
+  stats: GameStats;
+  cb?: () => void;
+}
+
+export function handleGameComplete(options: GameCompleteOptions) {
+  const { hash, attempt, stats, cb } = options;
+  const message = getCongratulationMessage(attempt, stats);
+  Alert.show(message, {
+    id: "finish",
+    duration: 1250,
+    cb,
+  });
+
+  if (hash === "eVy/ZVh1") {
+    return confetti();
+  }
+
+  if (hash === "ZlWxZVt1" && attempt === 1) {
+    return rainEmoji("💩");
+  }
 }

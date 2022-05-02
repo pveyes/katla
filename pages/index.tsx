@@ -18,6 +18,7 @@ import { GAME_STATS_KEY } from "../utils/constants";
 import { GameStats } from "../utils/types";
 import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
+import { handleGameComplete, handleSubmitWord } from "../utils/message";
 
 interface Props {
   hashed: string;
@@ -104,6 +105,8 @@ export default function Home(props: Props) {
         setStats={setStats}
         showStats={() => setModalState("stats")}
         words={props.words}
+        onSubmit={handleSubmitWord}
+        onComplete={handleGameComplete}
       />
       <HelpModal isOpen={modalState === "help"} onClose={resetModalState} />
       <StatsModal

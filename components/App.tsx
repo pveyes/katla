@@ -4,8 +4,8 @@ import Board from "./Board";
 import Keyboard from "./Keyboard";
 
 import { GameStats } from "../utils/types";
-import { decode, encode } from "../utils/codec";
-import { getCongratulationMessage, getFailureMessage } from "../utils/message";
+import { decode } from "../utils/codec";
+import { handleGameComplete, getFailureMessage } from "../utils/message";
 import {
   checkHardModeAnswer,
   getAnswerStates,
@@ -14,28 +14,17 @@ import {
 import { Game } from "../utils/types";
 import { trackEvent } from "../utils/tracking";
 import Alert from "./Alert";
-import { rainEmoji } from "./EmojiRain";
 
 interface Props {
-  game: Game<any>;
+  game: Game;
   stats: GameStats;
   words: string[];
   setStats: (stats: GameStats) => void;
   showStats: () => void;
+  // optional event handlers for different game modes
+  onSubmit?: (game: Game, userAnswer: string) => void;
+  onComplete?: typeof handleGameComplete;
 }
-
-const LOVE_HASHES = [
-  "Z1mteFF1",
-  "b1GybVh1",
-  "d1W/bVF1",
-  "dl:sZV51",
-  "bV6jZVh1",
-  "ZmWt[1F1",
-  "clmqZVh1",
-  "blGtbll1",
-  "eGWreWN1",
-  "dlmt[GV1",
-];
 
 export default function App(props: Props) {
   const { game, stats, setStats, showStats, words } = props;
@@ -148,11 +137,7 @@ export default function App(props: Props) {
       }
     }
 
-    if (game.num === 25 && LOVE_HASHES.includes(encode(userAnswer))) {
-      const loveEmojis = ["💖", "💗", "💘", "💙", "💚", "💛", "💜", "💝"];
-      const emoji = loveEmojis[Math.floor(Math.random() * loveEmojis.length)];
-      rainEmoji(emoji);
-    }
+    props.onSubmit?.(game, userAnswer);
 
     setInvalidAnswer(false);
     game.submitAnswer?.(userAnswer, game.state.attempt + 1);
@@ -191,6 +176,13 @@ export default function App(props: Props) {
           return;
         }
 
+        props.onComplete?.({
+          hash: game.hash,
+          attempt: game.state.attempt + 1,
+          stats: stats,
+          cb: showStats,
+        });
+
         trackEvent("succeed", {
           hash: game.hash,
           attempt: game.state.attempt + 1,
@@ -222,14 +214,6 @@ export default function App(props: Props) {
           },
           currentStreak,
           maxStreak: Math.max(stats.maxStreak, currentStreak),
-        });
-
-        // TODO: move to game.submitAnswer
-        const message = getCongratulationMessage(game.state.attempt + 1, stats);
-        Alert.show(message, {
-          id: "finish",
-          duration: 1250,
-          cb: showStats,
         });
       } else if (game.state.attempt === 5) {
         if (typeof game.submitAnswer === "function") {

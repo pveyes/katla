@@ -14,7 +14,6 @@ import {
   getTotalWin,
   getAnswerStates,
 } from "../utils/game";
-import confetti from "../utils/animation";
 import { checkNativeShareSupport, shareText } from "../utils/browser";
 
 interface Props {
@@ -47,7 +46,6 @@ export default function StatsModal(props: Props) {
   }, []);
 
   const answer = decode(game.hash);
-  const secretHash = process.env.NEXT_PUBLIC_SECRET_HASH;
   const showShare =
     game.state.attempt === 6 ||
     game.state.answers[game.state.attempt - 1] === answer;
@@ -80,14 +78,6 @@ export default function StatsModal(props: Props) {
     text += "\n" + window.location.href;
     return text;
   }
-
-  useEffect(() => {
-    if (!isOpen || !showShare || secretHash !== game.hash) {
-      return;
-    }
-
-    return confetti();
-  }, [isOpen, showShare, secretHash, game.hash]);
 
   function handleShare() {
     shareText(generateText(), { cb: onClose });
