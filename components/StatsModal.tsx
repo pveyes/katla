@@ -4,7 +4,7 @@ import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
 
-import { Game, GameStats } from "../utils/types";
+import { AnswerState, Game, GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
 import { pad0 } from "../utils/formatter";
@@ -15,6 +15,7 @@ import {
   getAnswerStates,
 } from "../utils/game";
 import { checkNativeShareSupport, shareText } from "../utils/browser";
+import { isEidMessage } from "../utils/message";
 
 interface Props {
   isOpen: boolean;
@@ -75,6 +76,20 @@ export default function StatsModal(props: Props) {
       text += `${answerEmojis.join("")}\n`;
     });
 
+    if (
+      game.num === 102 &&
+      isEidMessage(game.state.answers[game.state.attempt - 1])
+    ) {
+      text = `🙏🙏🙏🙏🙏\n\n`;
+      text += `⬛⬛🟩⬛⬛\n`;
+      text += `⬛🟩🟨🟩⬛\n`;
+      text += `🟩🟨🟩🟨🟩\n`;
+      text += `⬛🟩🟨🟩⬛\n`;
+      text += `⬛⬛🟩⬛⬛\n`;
+      text += "\n" + window.location.href;
+      return text;
+    }
+
     text += "\n" + window.location.href;
     return text;
   }
@@ -102,15 +117,37 @@ export default function StatsModal(props: Props) {
         ? game.state.attempt
         : "X";
     const hardModeMarker = game.state.enableHardMode ? "*" : "";
+
+    let answers = game.state.answers.slice(0, game.state.attempt);
+    let answerStates: AnswerState[][] = answers.map((answer) => {
+      return getAnswerStates(answer, decode(game.hash));
+    });
     let text = `${title} ${game.num} ${score}/6${hardModeMarker}\n\n`;
+
+    if (
+      game.num === 102 &&
+      isEidMessage(game.state.answers[game.state.attempt - 1])
+    ) {
+      text = `🙏🙏🙏🙏🙏🙏`;
+      answers = ["mohon", "maaf", "lahir", "dan", "batin"];
+      answerStates = [
+        ["w", "w", "c", "w", "w"],
+        ["w", "c", "e", "c", "w"],
+        ["c", "e", "c", "e", "c"],
+        ["w", "c", "e", "c", "w"],
+        ["w", "w", "c", "w", "w"],
+      ];
+    }
+
     ctx.font = "bold 42px sans-serif";
     ctx.textAlign = "center";
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 300);
     ctx.font = "32px sans-serif";
     ctx.fillText("katla.vercel.app", canvas.width / 2, canvas.height - 150);
-    game.state.answers.slice(0, game.state.attempt).forEach((answer, y) => {
-      const states = getAnswerStates(answer, decode(game.hash));
+
+    answerStates.forEach((states, y) => {
+      const answer = answers[y];
       states.forEach((state, x) => {
         if (state === "c") {
           ctx.fillStyle = game.state.enableHighContrast ? "#f5793a" : "#15803d";
@@ -133,7 +170,7 @@ export default function StatsModal(props: Props) {
           ctx.font = "bold 54px sans-serif";
           ctx.fillStyle = "#ffffff";
           ctx.fillText(
-            answer[x].toUpperCase(),
+            answer[x]?.toUpperCase() ?? "",
             rectX + size / 2,
             rectY + size / 1.5
           );

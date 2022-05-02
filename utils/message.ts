@@ -188,3 +188,7 @@ export function handleGameComplete(options: GameCompleteOptions) {
     return rainEmoji("💩");
   }
 }
+
+export function isEidMessage(answer: string) {
+  return EID_HASHES.includes(encode(answer));
+}
