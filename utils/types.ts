@@ -13,7 +13,7 @@ export interface GameState {
   enableFreeEdit: boolean;
   enableLiarMode: boolean;
   lieBoxes: ForcedResult[];
-  startedAt: number;
+  startedAt: number | null;
 }
 
 export interface GameStats {
