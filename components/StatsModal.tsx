@@ -91,6 +91,11 @@ export default function StatsModal(props: Props) {
       return text;
     }
 
+    text +=
+      "\nDurasi: " +
+      `${stats.duration.hours}:${pad0(stats.duration.minutes)}:${pad0(
+        stats.duration.seconds
+      )}`;
     text += "\n" + window.location.href;
     return text;
   }
@@ -145,6 +150,14 @@ export default function StatsModal(props: Props) {
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 300);
     ctx.font = "32px sans-serif";
+    ctx.fillText(
+      "Durasi: " +
+        `${stats.duration.hours}:${pad0(stats.duration.minutes)}:${pad0(
+          stats.duration.seconds
+        )}`,
+      canvas.width / 2,
+      canvas.height - 300
+    );
     ctx.fillText("katla.vercel.app", canvas.width / 2, canvas.height - 150);
 
     answerStates.forEach((states, y) => {
