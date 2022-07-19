@@ -169,6 +169,7 @@ const initialStats: GameStats = {
   },
   currentStreak: 0,
   maxStreak: 0,
+  duration: null,
 };
 
 interface MainProps {
