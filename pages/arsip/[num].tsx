@@ -148,7 +148,7 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
           .map((s) => s.trim())
           .filter(Boolean)
       ),
-    fetcher("https://katla.vercel.app/api/words"),
+    fetcher("https://cdn.statically.io/gh/pveyes/makna/main/words.json"),
   ]);
 
   return {

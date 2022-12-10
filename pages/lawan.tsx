@@ -149,7 +149,7 @@ export default function Lawan({ words }: Props) {
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const words = await fetcher("https://katla.vercel.app/api/words");
+  const words = await fetcher("https://cdn.statically.io/gh/pveyes/makna/main/words.json");
   return {
     props: {
       words,
