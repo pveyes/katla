@@ -271,12 +271,14 @@ export default function App(props: Props) {
 
     function handleResize() {
       const katla = document.querySelector("#katla") as HTMLDivElement;
+      const footerHeight =
+        document.querySelector("footer")?.getBoundingClientRect()?.height ?? 0;
       const maxTileHeight =
         window.innerHeight -
         document.querySelector("#header").getBoundingClientRect().height -
         document.querySelector("#keyboard").getBoundingClientRect().height -
-        (document.querySelector("#game-bar")?.getBoundingClientRect()?.height ??
-          0);
+        footerHeight;
+      document.querySelector("#game-bar")?.getBoundingClientRect()?.height ?? 0;
       const maxTileSize = Math.min(maxTileHeight, window.innerWidth);
       const singleTileSize = Math.max(Math.floor((maxTileSize - 30) / 6), 62);
 

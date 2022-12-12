@@ -11,6 +11,7 @@ import StatsModal from "../components/StatsModal";
 import SettingsModal from "../components/SettingsModal";
 import HeadingWithNum from "../components/HeadingWithNum";
 import { useModalState } from "../components/Modal";
+import SponsorshipFooter from "../components/SponsorshipFooter";
 
 import { useGame, useRemainingTime } from "../utils/game";
 import { encodeHashed } from "../utils/codec";
@@ -121,6 +122,7 @@ export default function Home(props: Props) {
         onClose={resetModalState}
         game={game}
       />
+      <SponsorshipFooter />
       <iframe
         ref={iframeRef}
         className="hidden"
