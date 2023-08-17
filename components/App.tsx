@@ -187,11 +187,7 @@ export default function App(props: Props) {
           hash: game.hash,
           attempt: game.state.attempt + 1,
         });
-        const isStreak = verifyStreak(game.state.lastCompletedDate);
-        let currentStreak = stats.currentStreak + 1;
-        if (!isStreak) {
-          currentStreak = 1;
-        }
+        const currentStreak = stats.currentStreak + 1;
 
         game.setState({
           ...game.state,
