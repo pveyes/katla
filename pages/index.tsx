@@ -51,27 +51,6 @@ export default function Home(props: Props) {
     stats
   );
 
-  // sync storage
-  const iframeRef = useRef<ComponentRef<"iframe">>(null);
-  const iframeLoaded = useRef(false);
-  useEffect(() => {
-    if (game.readyState !== "ready") {
-      return;
-    }
-
-    if (iframeLoaded.current) {
-      iframeRef.current?.contentWindow.postMessage(
-        {
-          type: "sync-storage",
-          gameState: game.state,
-          gameStats: stats,
-          lastHash: game.hash,
-        },
-        "*"
-      );
-    }
-  }, [stats, game.state, game.hash, game.readyState]);
-
   const headerProps: ComponentProps<typeof Header> = {
     customHeading: (
       <HeadingWithNum
@@ -123,35 +102,6 @@ export default function Home(props: Props) {
         game={game}
       />
       <SponsorshipFooter />
-      <iframe
-        ref={iframeRef}
-        className="hidden"
-        src="https://katla.id/sync"
-        sandbox="allow-same-origin allow-scripts"
-        onLoad={() => {
-          if (game.readyState !== "ready") {
-            return;
-          }
-
-          iframeLoaded.current = true;
-          let win;
-          try {
-            win = iframeRef.current?.contentWindow;
-          } catch (err) {
-            win = iframeRef.current?.contentWindow;
-          }
-
-          win.postMessage(
-            {
-              type: "sync-storage",
-              gameState: game.state,
-              gameStats: stats,
-              lastHash: game.hash,
-            },
-            "*"
-          );
-        }}
-      />
     </Container>
   );
 }
