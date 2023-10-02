@@ -2,6 +2,7 @@ import React, { ComponentProps, ComponentRef, useEffect, useRef } from "react";
 import { GetStaticProps } from "next";
 import path from "path";
 import fs from "fs/promises";
+import { useRouter } from "next/router";
 
 import Container from "../components/Container";
 import Header from "../components/Header";
@@ -15,11 +16,17 @@ import SponsorshipFooter from "../components/SponsorshipFooter";
 
 import { useGame, useRemainingTime } from "../utils/game";
 import { encodeHashed } from "../utils/codec";
-import { GAME_STATS_KEY } from "../utils/constants";
-import { GameStats } from "../utils/types";
+import {
+  GAME_STATE_KEY,
+  GAME_STATS_KEY,
+  LAST_HASH_KEY,
+} from "../utils/constants";
+import { GameStats, MigrationData } from "../utils/types";
 import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
 import { handleGameComplete, handleSubmitWord } from "../utils/message";
+import LocalStorage from "../utils/browser";
+import { trackEvent } from "../utils/tracking";
 
 interface Props {
   hashed: string;
@@ -42,6 +49,8 @@ const initialStats: GameStats = {
 
 const useStats = createStoredState<GameStats>(GAME_STATS_KEY);
 
+const VALID_STATS_DELAY_MS = 5000;
+
 export default function Home(props: Props) {
   const remainingTime = useRemainingTime();
   const game = useGame(props.hashed);
@@ -50,6 +59,32 @@ export default function Home(props: Props) {
     game,
     stats
   );
+
+  const router = useRouter();
+
+  useEffect(() => {
+    const migrationData = router.query.migrate;
+    if (!migrationData) {
+      return;
+    }
+
+    const data: MigrationData = JSON.parse(
+      decodeURIComponent(migrationData as string)
+    );
+
+    const timeDiff = Date.now() - data.time;
+    if (timeDiff > VALID_STATS_DELAY_MS) {
+      trackEvent("invalidMigrationTime", { timeDiff });
+      router.replace("/");
+      return;
+    }
+
+    LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(data.stats));
+    LocalStorage.setItem(GAME_STATE_KEY, JSON.stringify(data.state));
+    LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
+    router.replace("/");
+    router.reload();
+  }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {
     customHeading: (
