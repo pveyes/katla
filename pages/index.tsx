@@ -26,6 +26,7 @@ import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
 import { handleGameComplete, handleSubmitWord } from "../utils/message";
 import LocalStorage from "../utils/browser";
+import { trackEvent } from "../utils/tracking";
 
 interface Props {
   hashed: string;
@@ -63,24 +64,26 @@ export default function Home(props: Props) {
 
   useEffect(() => {
     const migrationData = router.query.migrate;
-
-    if (migrationData) {
-      const data: MigrationData = JSON.parse(
-        decodeURIComponent(migrationData as string)
-      );
-
-      if (Date.now() - data.time > VALID_STATS_DELAY_MS) {
-        console.warn("Invalid stats");
-        router.replace("/");
-        return;
-      }
-
-      LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(data.stats));
-      LocalStorage.setItem(GAME_STATE_KEY, JSON.stringify(data.state));
-      LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
-      router.replace("/");
-      router.reload();
+    if (!migrationData) {
+      return;
     }
+
+    const data: MigrationData = JSON.parse(
+      decodeURIComponent(migrationData as string)
+    );
+
+    const timeDiff = Date.now() - data.time;
+    if (timeDiff > VALID_STATS_DELAY_MS) {
+      trackEvent("invalidMigrationTime", { timeDiff });
+      router.replace("/");
+      return;
+    }
+
+    LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(data.stats));
+    LocalStorage.setItem(GAME_STATE_KEY, JSON.stringify(data.state));
+    LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
+    router.replace("/");
+    router.reload();
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {

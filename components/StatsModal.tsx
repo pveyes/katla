@@ -213,19 +213,28 @@ export default function StatsModal(props: Props) {
   const { fail: _, ...distribution } = stats.distribution;
   const maxDistribution = Math.max(...Object.values(distribution));
 
-  const migrationData: MigrationData = {
-    stats,
-    lastHash: game.hash,
-    state: game.state,
-    time: Date.now(),
+  const generateMigrationLink = (): string => {
+    const migrationData: MigrationData = {
+      stats,
+      lastHash: game.hash,
+      state: game.state,
+      time: Date.now(),
+    };
+    const encodedMigrationData = encodeURIComponent(
+      JSON.stringify(migrationData)
+    );
+
+    return `https://katla.id/?migrate=${encodedMigrationData}`;
   };
-  const encodedMigrationData = encodeURIComponent(
-    JSON.stringify(migrationData)
-  );
-  const statsMigrationLink = `https://katla.id/?migrate=${encodedMigrationData}`;
+
   const isOnLegacyDomain = location.host !== "katla.id";
   const showMigrationWarning =
     isOnLegacyDomain && location.search.includes("showMigrationWarning");
+
+  const migrate = (e: React.MouseEvent) => {
+    e.preventDefault();
+    window.location.assign(generateMigrationLink());
+  };
 
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
@@ -266,7 +275,12 @@ export default function StatsModal(props: Props) {
           </p>
           <p>
             Klik{" "}
-            <a href={statsMigrationLink} className="underline">
+            <a
+              href={generateMigrationLink()}
+              // use onClick so the time field is fresh
+              onClick={migrate}
+              className="underline"
+            >
               di sini
             </a>{" "}
             untuk mencoba memindahkan data anda secara manual.
