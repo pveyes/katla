@@ -2,7 +2,13 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
-import { AnswerState, Game, GameState, GameStats } from "./types";
+import {
+  AnswerState,
+  Game,
+  GameState,
+  GameStats,
+  MigrationData,
+} from "./types";
 import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
 import { trackEvent } from "./tracking";
@@ -332,4 +338,18 @@ export function checkHardModeAnswer(
   }
 
   return [false, ""];
+}
+
+export function generateMigrationLink(game: Game, stats: GameStats): string {
+  const migrationData: MigrationData = {
+    stats,
+    lastHash: game.hash,
+    state: game.state,
+    time: Date.now(),
+  };
+  const encodedMigrationData = encodeURIComponent(
+    JSON.stringify(migrationData)
+  );
+
+  return `https://katla.id/?migrate=${encodedMigrationData}`;
 }
