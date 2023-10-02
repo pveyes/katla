@@ -208,6 +208,7 @@ export function useLiveGame(words: string[]): LiveGame {
   return {
     hash,
     num,
+    migrate: () => {},
     ready: readyState === "ready" && !!hashes,
     readyState,
     state,

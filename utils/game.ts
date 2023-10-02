@@ -119,6 +119,13 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [hashed]);
 
+  function migrate(hash: string, state: GameState) {
+    unstable_batchedUpdates(() => {
+      setCurrentHash(hash);
+      setState(state);
+    });
+  }
+
   function trackInvalidWord(word: string) {
     let invalidWords = [];
     try {
@@ -162,6 +169,7 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
   return {
     hash: currentHash,
     num: currentNum,
+    migrate,
     readyState,
     ready: readyState !== "init",
     state,

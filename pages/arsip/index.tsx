@@ -8,6 +8,7 @@ import HelpModal from "../../components/HelpModal";
 import SettingsModal from "../../components/SettingsModal";
 
 import { initialState, useGamePersistedState } from "../../utils/game";
+import { Game } from "../../utils/types";
 
 export default function Arsip() {
   const start = new Date("2022-01-20");
@@ -15,9 +16,10 @@ export default function Arsip() {
   const diff = differenceInDays(now, start);
   const [modalState, setModalState] = useState(null);
   const [gameState, setGameState] = useGamePersistedState(initialState);
-  const game = {
+  const game: Game = {
     hash: "",
     num: -1,
+    migrate: () => {},
     state: gameState,
     setState: setGameState,
     ready: true,

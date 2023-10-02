@@ -34,6 +34,7 @@ export interface Game<T = GameState> {
   readyState: "init" | "no-storage" | "ready";
   ready: boolean;
   state: T;
+  migrate: (lastHash: string, state: T) => void;
   setState: Dispatch<SetStateAction<T>>;
   trackInvalidWord?: (word: string) => void;
   submitAnswer?: (answer: string, attempt: number) => void;

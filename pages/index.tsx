@@ -15,7 +15,7 @@ import { useModalState } from "../components/Modal";
 import SponsorshipFooter from "../components/SponsorshipFooter";
 
 import { useGame, useRemainingTime } from "../utils/game";
-import { encodeHashed } from "../utils/codec";
+import { decodeHashed, encodeHashed } from "../utils/codec";
 import {
   GAME_STATE_KEY,
   GAME_STATS_KEY,
@@ -82,8 +82,9 @@ export default function Home(props: Props) {
     LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(data.stats));
     LocalStorage.setItem(GAME_STATE_KEY, JSON.stringify(data.state));
     LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
+    game.migrate(data.lastHash, data.state);
+    setStats(data.stats);
     router.replace("/");
-    router.reload();
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {
