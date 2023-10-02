@@ -4,7 +4,7 @@ import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
 
-import { AnswerState, Game, GameStats } from "../utils/types";
+import { AnswerState, Game, GameStats, MigrationData } from "../utils/types";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
 import { pad0 } from "../utils/formatter";
@@ -213,6 +213,20 @@ export default function StatsModal(props: Props) {
   const { fail: _, ...distribution } = stats.distribution;
   const maxDistribution = Math.max(...Object.values(distribution));
 
+  const migrationData: MigrationData = {
+    stats,
+    lastHash: game.hash,
+    state: game.state,
+    time: Date.now(),
+  };
+  const encodedMigrationData = encodeURIComponent(
+    JSON.stringify(migrationData)
+  );
+  const statsMigrationLink = `https://katla.id/?migrate=${encodedMigrationData}`;
+  const isOnLegacyDomain = location.host !== "katla.id";
+  const showMigrationWarning =
+    isOnLegacyDomain && location.search.includes("showMigrationWarning");
+
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
       <Modal.Title>Statistik</Modal.Title>
@@ -240,6 +254,25 @@ export default function StatsModal(props: Props) {
           <div className="text-xs md:text-sm break-word">Runtunan maksimum</div>
         </div>
       </div>
+      {showMigrationWarning && (
+        <div className="mx-auto w-10/12 text-sm mb-8 p-3 bg-yellow-100 text-black rounded-sm overflow-hidden">
+          <p className="mb-2">
+            Katla akan melakukan perubahan domain website ke{" "}
+            <a href="https://katla.id" className="underline">
+              katla.id
+            </a>{" "}
+            pada 4 Oktober 2023. Statistik permainan anda akan dipindahkan
+            secara otomatis.
+          </p>
+          <p>
+            Klik{" "}
+            <a href={statsMigrationLink} className="underline">
+              di sini
+            </a>{" "}
+            untuk mencoba memindahkan data anda secara manual.
+          </p>
+        </div>
+      )}
       <div className="w-10/12 mx-auto mb-8">
         <h3 className="uppercase font-semibold mb-4">Distribusi Tebakan</h3>
         {Array(6)

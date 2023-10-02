@@ -40,6 +40,13 @@ export interface Game<T = GameState> {
   resetState?: () => void;
 }
 
+export interface MigrationData {
+  state: GameState;
+  stats: GameStats;
+  lastHash: string;
+  time: number;
+}
+
 export interface LiveConfig {
   isHost: boolean;
   roomId: string;
