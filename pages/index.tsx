@@ -75,8 +75,8 @@ export default function Home(props: Props) {
     const timeDiff = Date.now() - data.time;
     if (timeDiff > VALID_STATS_DELAY_MS) {
       trackEvent("invalidMigrationTime", { timeDiff });
-      alert("Data gagal dipindahkan");
       router.replace("/");
+      alert("Data gagal dipindahkan");
       return;
     }
 
@@ -86,8 +86,8 @@ export default function Home(props: Props) {
     game.migrate(data.lastHash, data.state);
     setStats(data.stats);
     setModalState("stats");
-    alert("Data berhasil dipindahkan");
     router.replace("/");
+    alert("Data berhasil dipindahkan");
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {
