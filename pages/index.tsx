@@ -16,6 +16,7 @@ import SponsorshipFooter from "../components/SponsorshipFooter";
 
 import {
   generateMigrationLink,
+  getTotalPlay,
   useGame,
   useRemainingTime,
 } from "../utils/game";
@@ -94,13 +95,11 @@ export default function Home(props: Props) {
     const timeDiff = Date.now() - data.time;
     if (timeDiff > VALID_STATS_DELAY_MS) {
       trackEvent("invalidMigrationTime", { timeDiff });
-      router.replace("/")
+      router.replace("/");
       return;
     }
 
-    const hasExistingData =
-      !!LocalStorage.getItem(GAME_STATE_KEY) ||
-      !!LocalStorage.getItem(GAME_STATS_KEY);
+    const hasExistingData = checkExistingData();
 
     let shouldContinue = true;
     if (hasExistingData) {
@@ -124,7 +123,7 @@ export default function Home(props: Props) {
     setStats(data.stats);
     setModalState("stats");
     trackEvent("migrationSuccess", {});
-    router.replace("/")
+    router.replace("/");
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {
@@ -206,4 +205,20 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
     },
     revalidate: 60,
   };
+};
+
+const checkExistingData = () => {
+  if (!LocalStorage.getItem(GAME_STATS_KEY)) {
+    return false;
+  }
+
+  try {
+    const stats: GameStats = JSON.parse(
+      LocalStorage.getItem(GAME_STATS_KEY) as string
+    );
+    const totalPlay = getTotalPlay(stats);
+    return totalPlay > 0;
+  } catch (err) {
+    return false;
+  }
 };
