@@ -68,6 +68,8 @@ export default function Home(props: Props) {
   const router = useRouter();
 
   useLayoutEffect(() => {
+    if (window.location.search.includes("delayMigration")) return;
+
     const isOnLegacyRoute = location.hostname !== "katla.id";
     if (isOnLegacyRoute) {
       try {
