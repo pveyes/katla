@@ -42,25 +42,48 @@ export default function Debug(props: { hashed: string }) {
     // eslint-disable-next-line
   }, []);
 
+  const messagePrefix = `Halo, saya ingin melaporkan masalah tentang ...`;
+  const mailToLink = `mailto:help@katla.id?subject=Problem katla&body=${messagePrefix}%0D%0A%0D%0AKode: ${debugCode}`;
+  const twitterIntentLink = `https://twitter.com/messages/compose?recipient_id=82924400&text=${messagePrefix}\n\nKode: ${debugCode}`;
+
   return (
-    <div className="dark:text-white max-w-lg mx-auto mt-4">
-      <h1 className="text-3xl mb-4">Debug</h1>
+    <div className="dark:text-white max-w-lg mx-auto mt-4 px-3">
+      <NewSiteWarning />
+      <h1 className="text-3xl mb-4">Bantuan</h1>
       {debugCode === "" ? (
         <span>Generating debug code...</span>
       ) : (
         <>
           <p className="mb-4">
-            Kirimkan keluhan dan sertakan kode ini ke{" "}
-            <a className="text-blue-400" href="https://twitter.com/pveyes">
-              @pveyes
+            Klik{" "}
+            <a className="underline text-blue-400" href={mailToLink}>
+              tautan berikut
             </a>{" "}
-            on Twitter
+            untuk mengirim email, atau kirim pesan{" "}
+            <a href={twitterIntentLink} className="underline text-blue-400">
+              melalui Twitter/X
+            </a>
           </p>
+          <strong>Kode bantuan</strong>
           <pre className="border border-gray-300 p-3 whitespace-pre-wrap break-all ">
             {debugCode}
           </pre>
         </>
       )}
+    </div>
+  );
+}
+
+function NewSiteWarning() {
+  return (
+    <div className="mx-auto text-sm mb-4 p-3 bg-yellow-100 text-black rounded-sm overflow-hidden">
+      <p className="mb-2">
+        Mulai 4 Oktober 2023, Katla akan menggunakan domain baru di{" "}
+        <a href="https://katla.id" className="underline">
+          katla.id
+        </a>
+        . Statistik permainan anda akan dipindahkan secara otomatis.
+      </p>
     </div>
   );
 }

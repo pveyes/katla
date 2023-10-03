@@ -182,7 +182,7 @@ function AdditionalInformation() {
       </p>
       <div>
         <h2 className="text-xl font-semibold">Terdapat Masalah?</h2>
-        <Link href="/debug">Laporkan bug</Link>
+        <Link href="/bantuan">Bantuan</Link>
         <span> atau </span>
         <button onClick={handleReset} className="color-accent">
           reset sesi sekarang
