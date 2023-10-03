@@ -1,4 +1,4 @@
-import React, { ComponentProps, ComponentRef, useEffect, useRef } from "react";
+import React, { ComponentProps, useEffect } from "react";
 import { GetStaticProps } from "next";
 import path from "path";
 import fs from "fs/promises";
@@ -15,7 +15,7 @@ import { useModalState } from "../components/Modal";
 import SponsorshipFooter from "../components/SponsorshipFooter";
 
 import { useGame, useRemainingTime } from "../utils/game";
-import { decodeHashed, encodeHashed } from "../utils/codec";
+import { encodeHashed } from "../utils/codec";
 import {
   GAME_STATE_KEY,
   GAME_STATS_KEY,
@@ -75,6 +75,7 @@ export default function Home(props: Props) {
     const timeDiff = Date.now() - data.time;
     if (timeDiff > VALID_STATS_DELAY_MS) {
       trackEvent("invalidMigrationTime", { timeDiff });
+      alert("Data gagal dipindahkan");
       router.replace("/");
       return;
     }
@@ -84,6 +85,8 @@ export default function Home(props: Props) {
     LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
     game.migrate(data.lastHash, data.state);
     setStats(data.stats);
+    setModalState("stats");
+    alert("Data berhasil dipindahkan");
     router.replace("/");
   }, [router]);
 

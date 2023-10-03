@@ -4,7 +4,7 @@ import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
 
-import { AnswerState, Game, GameStats, MigrationData } from "../utils/types";
+import { AnswerState, Game, GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
 import { pad0 } from "../utils/formatter";
@@ -13,6 +13,7 @@ import {
   getTotalPlay,
   getTotalWin,
   getAnswerStates,
+  generateMigrationLink,
 } from "../utils/game";
 import { checkNativeShareSupport, shareText } from "../utils/browser";
 import { isEidMessage } from "../utils/message";
@@ -213,27 +214,14 @@ export default function StatsModal(props: Props) {
   const { fail: _, ...distribution } = stats.distribution;
   const maxDistribution = Math.max(...Object.values(distribution));
 
-  const generateMigrationLink = (): string => {
-    const migrationData: MigrationData = {
-      stats,
-      lastHash: game.hash,
-      state: game.state,
-      time: Date.now(),
-    };
-    const encodedMigrationData = encodeURIComponent(
-      JSON.stringify(migrationData)
-    );
-
-    return `https://katla.id/?migrate=${encodedMigrationData}`;
-  };
-
   const isOnLegacyDomain = location.host !== "katla.id";
   const showMigrationWarning =
-    isOnLegacyDomain && location.search.includes("showMigrationWarning");
+    isOnLegacyDomain &&
+    (totalPlay > 100 || location.search.includes("showMigrationWarning"));
 
   const migrate = (e: React.MouseEvent) => {
     e.preventDefault();
-    window.location.assign(generateMigrationLink());
+    window.location.replace(generateMigrationLink(game, stats));
   };
 
   return (
@@ -276,14 +264,14 @@ export default function StatsModal(props: Props) {
           <p>
             Klik{" "}
             <a
-              href={generateMigrationLink()}
+              href={generateMigrationLink(game, stats)}
               // use onClick so the time field is fresh
               onClick={migrate}
               className="underline"
             >
               di sini
             </a>{" "}
-            untuk mencoba memindahkan data anda secara manual.
+            untuk mencoba memindahkan data anda terlebih dahulu secara manual.
           </p>
         </div>
       )}
