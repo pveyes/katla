@@ -68,15 +68,39 @@ export default function Home(props: Props) {
       return;
     }
 
-    const data: MigrationData = JSON.parse(
-      decodeURIComponent(migrationData as string)
-    );
+    let data: MigrationData;
+    try {
+      data = JSON.parse(decodeURIComponent(migrationData as string));
+    } catch (err) {
+      trackEvent("invalidMigrationData", { err });
+      return;
+    }
 
     const timeDiff = Date.now() - data.time;
     if (timeDiff > VALID_STATS_DELAY_MS) {
       trackEvent("invalidMigrationTime", { timeDiff });
+      router.replace("/").then(() => {
+        alert("Data gagal dipindahkan");
+      });
+      return;
+    }
+
+    const hasExistingData =
+      !!LocalStorage.getItem(GAME_STATE_KEY) ||
+      !!LocalStorage.getItem(GAME_STATS_KEY);
+
+    let shouldContinue = true;
+    if (hasExistingData) {
+      shouldContinue = window.confirm(
+        `Kamu sudah memiliki statistik yang tersimpan di katla.id, apakah kamu ingin menggantinya dengan statistik terakhir dari katla.vercel.app?`
+      );
+    }
+
+    if (!shouldContinue) {
+      trackEvent("migrationCancelled", {
+        hasExistingData: hasExistingData.toString(),
+      });
       router.replace("/");
-      alert("Data gagal dipindahkan");
       return;
     }
 
@@ -86,8 +110,10 @@ export default function Home(props: Props) {
     game.migrate(data.lastHash, data.state);
     setStats(data.stats);
     setModalState("stats");
-    router.replace("/");
-    alert("Data berhasil dipindahkan");
+    trackEvent("migrationSuccess", {});
+    router.replace("/").then(() => {
+      alert("Data berhasil dipindahkan");
+    });
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {

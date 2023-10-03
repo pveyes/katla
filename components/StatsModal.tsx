@@ -215,9 +215,7 @@ export default function StatsModal(props: Props) {
   const maxDistribution = Math.max(...Object.values(distribution));
 
   const isOnLegacyDomain = location.host !== "katla.id";
-  const showMigrationWarning =
-    isOnLegacyDomain &&
-    (totalPlay > 10 || location.search.includes("showMigrationWarning"));
+  const showMigrationWarning = isOnLegacyDomain;
 
   const migrate = (e: React.MouseEvent) => {
     e.preventDefault();
