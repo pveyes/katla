@@ -249,30 +249,6 @@ export default function StatsModal(props: Props) {
           <div className="text-xs md:text-sm break-word">Runtunan maksimum</div>
         </div>
       </div>
-      {showMigrationWarning && (
-        <div className="mx-auto w-10/12 text-sm mb-8 p-3 bg-yellow-100 text-black rounded-sm overflow-hidden">
-          <p className="mb-2">
-            Katla akan melakukan perubahan domain website ke{" "}
-            <a href="https://katla.id" className="underline">
-              katla.id
-            </a>{" "}
-            pada 4 Oktober 2023. Statistik permainan anda akan dipindahkan
-            secara otomatis.
-          </p>
-          <p>
-            Klik{" "}
-            <a
-              href={generateMigrationLink(game, stats)}
-              // use onClick so the time field is fresh
-              onClick={migrate}
-              className="underline"
-            >
-              di sini
-            </a>{" "}
-            untuk mencoba memindahkan data anda terlebih dahulu secara manual.
-          </p>
-        </div>
-      )}
       <div className="w-10/12 mx-auto mb-8">
         <h3 className="uppercase font-semibold mb-4">Distribusi Tebakan</h3>
         {Array(6)

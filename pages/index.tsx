@@ -1,4 +1,4 @@
-import React, { ComponentProps, useEffect } from "react";
+import React, { ComponentProps, useEffect, useLayoutEffect } from "react";
 import { GetStaticProps } from "next";
 import path from "path";
 import fs from "fs/promises";
@@ -14,7 +14,11 @@ import HeadingWithNum from "../components/HeadingWithNum";
 import { useModalState } from "../components/Modal";
 import SponsorshipFooter from "../components/SponsorshipFooter";
 
-import { useGame, useRemainingTime } from "../utils/game";
+import {
+  generateMigrationLink,
+  useGame,
+  useRemainingTime,
+} from "../utils/game";
 import { encodeHashed } from "../utils/codec";
 import {
   GAME_STATE_KEY,
@@ -62,6 +66,17 @@ export default function Home(props: Props) {
 
   const router = useRouter();
 
+  useLayoutEffect(() => {
+    const isOnLegacyRoute = location.hostname !== "katla.id";
+    if (isOnLegacyRoute) {
+      const migrationLink = generateMigrationLink(game, stats);
+      window.location.replace(migrationLink);
+    }
+
+    // only run once
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   useEffect(() => {
     const migrationData = router.query.migrate;
     if (!migrationData) {
@@ -79,9 +94,7 @@ export default function Home(props: Props) {
     const timeDiff = Date.now() - data.time;
     if (timeDiff > VALID_STATS_DELAY_MS) {
       trackEvent("invalidMigrationTime", { timeDiff });
-      router.replace("/").then(() => {
-        alert("Data gagal dipindahkan");
-      });
+      router.replace("/")
       return;
     }
 
@@ -111,9 +124,7 @@ export default function Home(props: Props) {
     setStats(data.stats);
     setModalState("stats");
     trackEvent("migrationSuccess", {});
-    router.replace("/").then(() => {
-      alert("Data berhasil dipindahkan");
-    });
+    router.replace("/")
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {
