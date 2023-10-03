@@ -78,7 +78,7 @@ export default function Home(props: Props) {
           LocalStorage.getItem(GAME_STATE_KEY) || "{}"
         );
         const stats: GameStats = JSON.parse(
-          LocalStorage.getItem(GAME_STATS_KEY) || "{}"
+          LocalStorage.getItem(GAME_STATS_KEY) || JSON.stringify(initialStats)
         );
         const migrationLink = generateMigrationLink(hash, state, stats);
         window.location.replace(migrationLink);
