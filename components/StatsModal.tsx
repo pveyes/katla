@@ -13,7 +13,6 @@ import {
   getTotalPlay,
   getTotalWin,
   getAnswerStates,
-  generateMigrationLink,
 } from "../utils/game";
 import { checkNativeShareSupport, shareText } from "../utils/browser";
 import { isEidMessage } from "../utils/message";
@@ -213,14 +212,6 @@ export default function StatsModal(props: Props) {
 
   const { fail: _, ...distribution } = stats.distribution;
   const maxDistribution = Math.max(...Object.values(distribution));
-
-  const isOnLegacyDomain = location.host !== "katla.id";
-  const showMigrationWarning = isOnLegacyDomain;
-
-  const migrate = (e: React.MouseEvent) => {
-    e.preventDefault();
-    window.location.replace(generateMigrationLink(game, stats));
-  };
 
   return (
     <Modal isOpen={isOpen} onClose={onClose}>

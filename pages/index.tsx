@@ -26,7 +26,7 @@ import {
   GAME_STATS_KEY,
   LAST_HASH_KEY,
 } from "../utils/constants";
-import { GameStats, MigrationData } from "../utils/types";
+import { Game, GameState, GameStats, MigrationData } from "../utils/types";
 import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
 import { handleGameComplete, handleSubmitWord } from "../utils/message";
@@ -70,12 +70,20 @@ export default function Home(props: Props) {
   useLayoutEffect(() => {
     const isOnLegacyRoute = location.hostname !== "katla.id";
     if (isOnLegacyRoute) {
-      const migrationLink = generateMigrationLink(game, stats);
-      window.location.replace(migrationLink);
+      try {
+        const hash = LocalStorage.getItem(LAST_HASH_KEY) || "";
+        const state: GameState = JSON.parse(
+          LocalStorage.getItem(GAME_STATE_KEY) || "{}"
+        );
+        const stats: GameStats = JSON.parse(
+          LocalStorage.getItem(GAME_STATS_KEY) || "{}"
+        );
+        const migrationLink = generateMigrationLink(hash, state, stats);
+        window.location.replace(migrationLink);
+      } catch (err) {
+        trackEvent("invalidLegacyData", { err });
+      }
     }
-
-    // only run once
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
