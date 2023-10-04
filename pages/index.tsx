@@ -17,6 +17,7 @@ import SponsorshipFooter from "../components/SponsorshipFooter";
 import {
   generateMigrationLink,
   getTotalPlay,
+  initialState,
   useGame,
   useRemainingTime,
 } from "../utils/game";
@@ -75,7 +76,7 @@ export default function Home(props: Props) {
       try {
         const hash = LocalStorage.getItem(LAST_HASH_KEY) || "";
         const state: GameState = JSON.parse(
-          LocalStorage.getItem(GAME_STATE_KEY) || "{}"
+          LocalStorage.getItem(GAME_STATE_KEY) || JSON.stringify(initialState)
         );
         const stats: GameStats = JSON.parse(
           LocalStorage.getItem(GAME_STATS_KEY) || JSON.stringify(initialStats)
