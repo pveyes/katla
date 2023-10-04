@@ -1,7 +1,14 @@
+declare global {
+  interface Window {
+    gtag: (...args: any[]) => void;
+  }
+}
+
 export function trackEvent(
   eventName: string,
   args: Record<string, string | number>
 ) {
-  // @ts-ignore
-  window.gtag("event", eventName, args);
+  if ("gtag" in window && typeof window.gtag === "function") {
+    window.gtag("event", eventName, args);
+  }
 }
