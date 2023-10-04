@@ -340,11 +340,15 @@ export function checkHardModeAnswer(
   return [false, ""];
 }
 
-export function generateMigrationLink(game: Game, stats: GameStats): string {
+export function generateMigrationLink(
+  hash: string,
+  state: Game["state"],
+  stats: GameStats
+): string {
   const migrationData: MigrationData = {
     stats,
-    lastHash: game.hash,
-    state: game.state,
+    lastHash: hash,
+    state: state,
     time: Date.now(),
   };
   const encodedMigrationData = encodeURIComponent(

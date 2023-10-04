@@ -1,4 +1,4 @@
-import React, { ComponentProps, useEffect } from "react";
+import React, { ComponentProps, useEffect, useLayoutEffect } from "react";
 import { GetStaticProps } from "next";
 import path from "path";
 import fs from "fs/promises";
@@ -14,14 +14,20 @@ import HeadingWithNum from "../components/HeadingWithNum";
 import { useModalState } from "../components/Modal";
 import SponsorshipFooter from "../components/SponsorshipFooter";
 
-import { useGame, useRemainingTime } from "../utils/game";
+import {
+  generateMigrationLink,
+  getTotalPlay,
+  initialState,
+  useGame,
+  useRemainingTime,
+} from "../utils/game";
 import { encodeHashed } from "../utils/codec";
 import {
   GAME_STATE_KEY,
   GAME_STATS_KEY,
   LAST_HASH_KEY,
 } from "../utils/constants";
-import { GameStats, MigrationData } from "../utils/types";
+import { Game, GameState, GameStats, MigrationData } from "../utils/types";
 import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
 import { handleGameComplete, handleSubmitWord } from "../utils/message";
@@ -62,6 +68,27 @@ export default function Home(props: Props) {
 
   const router = useRouter();
 
+  useLayoutEffect(() => {
+    if (window.location.search.includes("delayMigration")) return;
+
+    const isOnLegacyRoute = location.hostname !== "katla.id";
+    if (isOnLegacyRoute) {
+      try {
+        const hash = LocalStorage.getItem(LAST_HASH_KEY) || "";
+        const state: GameState = JSON.parse(
+          LocalStorage.getItem(GAME_STATE_KEY) || JSON.stringify(initialState)
+        );
+        const stats: GameStats = JSON.parse(
+          LocalStorage.getItem(GAME_STATS_KEY) || JSON.stringify(initialStats)
+        );
+        const migrationLink = generateMigrationLink(hash, state, stats);
+        window.location.replace(migrationLink);
+      } catch (err) {
+        trackEvent("invalidLegacyData", { err });
+      }
+    }
+  }, []);
+
   useEffect(() => {
     const migrationData = router.query.migrate;
     if (!migrationData) {
@@ -79,15 +106,11 @@ export default function Home(props: Props) {
     const timeDiff = Date.now() - data.time;
     if (timeDiff > VALID_STATS_DELAY_MS) {
       trackEvent("invalidMigrationTime", { timeDiff });
-      router.replace("/").then(() => {
-        alert("Data gagal dipindahkan");
-      });
+      router.replace("/");
       return;
     }
 
-    const hasExistingData =
-      !!LocalStorage.getItem(GAME_STATE_KEY) ||
-      !!LocalStorage.getItem(GAME_STATS_KEY);
+    const hasExistingData = checkExistingData();
 
     let shouldContinue = true;
     if (hasExistingData) {
@@ -111,9 +134,7 @@ export default function Home(props: Props) {
     setStats(data.stats);
     setModalState("stats");
     trackEvent("migrationSuccess", {});
-    router.replace("/").then(() => {
-      alert("Data berhasil dipindahkan");
-    });
+    router.replace("/");
   }, [router]);
 
   const headerProps: ComponentProps<typeof Header> = {
@@ -195,4 +216,20 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
     },
     revalidate: 60,
   };
+};
+
+const checkExistingData = () => {
+  if (!LocalStorage.getItem(GAME_STATS_KEY)) {
+    return false;
+  }
+
+  try {
+    const stats: GameStats = JSON.parse(
+      LocalStorage.getItem(GAME_STATS_KEY) as string
+    );
+    const totalPlay = getTotalPlay(stats);
+    return totalPlay > 0;
+  } catch (err) {
+    return false;
+  }
 };
