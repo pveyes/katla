@@ -107,7 +107,7 @@ export default function Home(props: Props) {
       return;
     }
 
-    const hasExistingData = checkExistingData();
+    const hasExistingData = checkExistingData(data.stats);
 
     let shouldContinue = true;
     if (hasExistingData) {
@@ -216,17 +216,36 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
   };
 };
 
-const checkExistingData = () => {
+const checkExistingData = (newStats: GameStats) => {
   if (!LocalStorage.getItem(GAME_STATS_KEY)) {
     return false;
   }
 
   try {
-    const stats: GameStats = JSON.parse(
+    const currentStats: GameStats = JSON.parse(
       LocalStorage.getItem(GAME_STATS_KEY) as string
     );
-    const totalPlay = getTotalPlay(stats);
-    return totalPlay > 0;
+    const totalPlay = getTotalPlay(currentStats);
+    const newTotalPlay = getTotalPlay(newStats);
+    if (totalPlay !== newTotalPlay) {
+      return true;
+    }
+
+    if (currentStats.maxStreak !== newStats.maxStreak) {
+      return true;
+    }
+
+    if (currentStats.currentStreak !== newStats.currentStreak) {
+      return true;
+    }
+
+    for (const v in currentStats.distribution) {
+      if (currentStats.distribution[v] !== newStats.distribution[v]) {
+        return true;
+      }
+    }
+
+    return false;
   } catch (err) {
     return false;
   }
