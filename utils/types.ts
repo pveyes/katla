@@ -42,7 +42,6 @@ export interface Game<T = GameState> {
 }
 
 export interface MigrationData {
-  state: GameState;
   stats: GameStats;
   lastHash: string;
   time: number;

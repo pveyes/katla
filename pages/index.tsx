@@ -18,17 +18,12 @@ import SponsorshipFooter from "../components/SponsorshipFooter";
 import {
   generateMigrationLink,
   getTotalPlay,
-  initialState,
   useGame,
   useRemainingTime,
 } from "../utils/game";
 import { encodeHashed } from "../utils/codec";
-import {
-  GAME_STATE_KEY,
-  GAME_STATS_KEY,
-  LAST_HASH_KEY,
-} from "../utils/constants";
-import { Game, GameState, GameStats, MigrationData } from "../utils/types";
+import { GAME_STATS_KEY, LAST_HASH_KEY } from "../utils/constants";
+import { GameStats, MigrationData } from "../utils/types";
 import fetcher from "../utils/fetcher";
 import createStoredState from "../utils/useStoredState";
 import { handleGameComplete, handleSubmitWord } from "../utils/message";
@@ -76,18 +71,14 @@ export default function Home(props: Props) {
     if (isOnLegacyRoute) {
       try {
         const hash = LocalStorage.getItem(LAST_HASH_KEY) || "";
-        const state: GameState = JSON.parse(
-          LocalStorage.getItem(GAME_STATE_KEY) || JSON.stringify(initialState)
-        );
         const stats: GameStats = JSON.parse(
           LocalStorage.getItem(GAME_STATS_KEY) || JSON.stringify(initialStats)
         );
-        const migrationLink = generateMigrationLink(hash, state, stats);
+        const migrationLink = generateMigrationLink(hash, stats);
         window.location.replace(migrationLink);
       } catch (err) {
         Sentry.captureException(err, {
           extra: {
-            state: LocalStorage.getItem(GAME_STATE_KEY),
             stats: LocalStorage.getItem(GAME_STATS_KEY),
           },
         });
@@ -134,13 +125,11 @@ export default function Home(props: Props) {
     }
 
     LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(data.stats));
-    LocalStorage.setItem(GAME_STATE_KEY, JSON.stringify(data.state));
     LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
     if (data.lastHash === game.hash) {
       setModalState("stats");
     }
 
-    game.migrate(data.lastHash, data.state);
     setStats(data.stats);
     trackEvent("migrationSuccess", {});
     router.replace("/");
