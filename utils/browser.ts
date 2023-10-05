@@ -29,7 +29,11 @@ export function checkNativeShareSupport() {
 const LocalStorage: typeof window.localStorage = {
   getItem(key: string): string | null {
     try {
-      return window.localStorage.getItem(key);
+      const value = window.localStorage.getItem(key);
+      if (value === "undefined" || !value) {
+        return null;
+      }
+      return value;
     } catch (err) {
       return null;
     }
