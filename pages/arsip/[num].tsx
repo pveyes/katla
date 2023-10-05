@@ -50,6 +50,7 @@ export default function Arsip(props: Props) {
   const headerProps: ComponentProps<typeof Header> = {
     title: `Katla | Arsip #${props.num}`,
     customHeading: <HeadingWithNum num={props.num} />,
+    path: `/arsip/${props.num}`,
     ogImage: "https://katla.vercel.app/og-arsip.png",
     themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
     onShowHelp: () => setModalState("help"),

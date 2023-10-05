@@ -30,6 +30,7 @@ export default function Arsip() {
   return (
     <Container>
       <Header
+        path="/arsip"
         title="Katla | Arsip"
         keywords={[
           "arsip",

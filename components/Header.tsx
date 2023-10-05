@@ -18,6 +18,7 @@ interface Props {
   onShowHelp?: () => void;
   onShowSettings?: () => void;
   onSendEmoji?: (emoji: string) => void;
+  path?: string;
 }
 
 export default function Header(props: Props) {
@@ -52,6 +53,7 @@ export default function Header(props: Props) {
     isLiveMode,
     themeColor = "#15803D",
     showLiarOption,
+    path = "/",
   } = props;
 
   return (
@@ -66,6 +68,7 @@ export default function Header(props: Props) {
         <meta property="og:description" content={description} />
         <meta property="og:keywords" content={keywords.join(", ")} />
         <meta property="og:image" content={ogImage} />
+        <link rel="canonical" href={"https://katla.id" + path} />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="katla.vercel.app" />

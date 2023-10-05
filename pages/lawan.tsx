@@ -149,7 +149,9 @@ export default function Lawan({ words }: Props) {
 }
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
-  const words = await fetcher("https://cdn.statically.io/gh/pveyes/makna/main/words.json");
+  const words = await fetcher(
+    "https://cdn.statically.io/gh/pveyes/makna/main/words.json"
+  );
   return {
     props: {
       words,
@@ -195,6 +197,7 @@ function Main({ words, config }: MainProps) {
   );
 
   const headerProps: ComponentProps<typeof Header> = {
+    path: "/lawan",
     onSendEmoji: others.count > 0 ? handleSendEmoji : undefined,
     customHeading: (
       <div className="dark:text-gray-300 text-gray-700 flex relative">
