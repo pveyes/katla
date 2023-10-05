@@ -3,6 +3,7 @@ import { GetStaticProps } from "next";
 import path from "path";
 import fs from "fs/promises";
 import { useRouter } from "next/router";
+import * as Sentry from "@sentry/nextjs";
 
 import Container from "../components/Container";
 import Header from "../components/Header";
@@ -84,7 +85,12 @@ export default function Home(props: Props) {
         const migrationLink = generateMigrationLink(hash, state, stats);
         window.location.replace(migrationLink);
       } catch (err) {
-        trackEvent("invalidLegacyData", { err });
+        Sentry.captureException(err, {
+          extra: {
+            state: LocalStorage.getItem(GAME_STATE_KEY),
+            stats: LocalStorage.getItem(GAME_STATS_KEY),
+          },
+        });
       }
     }
   }, []);
@@ -99,7 +105,7 @@ export default function Home(props: Props) {
     try {
       data = JSON.parse(decodeURIComponent(migrationData as string));
     } catch (err) {
-      trackEvent("invalidMigrationData", { err });
+      Sentry.captureException(err, { extra: { migrationData } });
       return;
     }
 
