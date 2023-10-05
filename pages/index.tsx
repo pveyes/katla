@@ -126,10 +126,6 @@ export default function Home(props: Props) {
 
     LocalStorage.setItem(GAME_STATS_KEY, JSON.stringify(data.stats));
     LocalStorage.setItem(LAST_HASH_KEY, data.lastHash);
-    if (data.lastHash === game.hash) {
-      setModalState("stats");
-    }
-
     setStats(data.stats);
     trackEvent("migrationSuccess", {});
     router.replace("/");
