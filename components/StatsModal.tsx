@@ -1,5 +1,12 @@
 import useSWR from "swr";
-import { useEffect, useState } from "react";
+import {
+  LegacyRef,
+  MutableRefObject,
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+} from "react";
 import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
@@ -23,6 +30,12 @@ interface Props {
   game: Game;
   stats: GameStats;
   remainingTime?: ReturnType<typeof useRemainingTime>;
+}
+
+declare global {
+  interface Window {
+    adsbygoogle: { loaded: boolean; push: (v: unknown) => void };
+  }
 }
 
 const GRAPH_WIDTH_MIN_RATIO = 10;
@@ -213,6 +226,32 @@ export default function StatsModal(props: Props) {
   const { fail: _, ...distribution } = stats.distribution;
   const maxDistribution = Math.max(...Object.values(distribution));
 
+  const [isAdUnitRendered, setIsAdUnitRendered] = useState(false);
+  const adUnitRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!isOpen || !isAdUnitRendered) return;
+
+    const adUnit = adUnitRef.current;
+    adUnit.innerHTML = `<!-- stats-ads -->
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-3081263972680635"
+      data-ad-slot="2576511153"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>`;
+    try {
+      // @ts-ignore
+      window.adsbygoogle = (window.adsbygoogle || []).push({});
+    } catch (err) {
+      // ignore
+    }
+  }, [isOpen, isAdUnitRendered]);
+
+  const adUnitRefCallback: LegacyRef<HTMLDivElement> = (element) => {
+    adUnitRef.current = element;
+    setIsAdUnitRendered(!!element);
+  };
+
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
       <Modal.Title>Statistik</Modal.Title>
@@ -273,14 +312,7 @@ export default function StatsModal(props: Props) {
             );
           })}
       </div>
-      <ins
-        className="adsbygoogle"
-        style={{ display: "block" }}
-        data-ad-client="ca-pub-3081263972680635"
-        data-ad-slot="2576511153"
-        data-ad-format="auto"
-        data-full-width-responsive="true"
-      />
+      <div className="w-10/12 mx-auto mb-2" ref={adUnitRefCallback} />
       {showShare && (
         <>
           <WordDefinition answer={answer} />
