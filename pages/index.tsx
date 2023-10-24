@@ -1,4 +1,4 @@
-import React, { ComponentProps, useEffect, useLayoutEffect } from "react";
+import React, { ComponentProps, useEffect } from "react";
 import { GetStaticProps } from "next";
 import path from "path";
 import fs from "fs/promises";
@@ -15,12 +15,7 @@ import HeadingWithNum from "../components/HeadingWithNum";
 import { useModalState } from "../components/Modal";
 import SponsorshipFooter from "../components/SponsorshipFooter";
 
-import {
-  generateMigrationLink,
-  getTotalPlay,
-  useGame,
-  useRemainingTime,
-} from "../utils/game";
+import { getTotalPlay, useGame, useRemainingTime } from "../utils/game";
 import { encodeHashed } from "../utils/codec";
 import { GAME_STATS_KEY, LAST_HASH_KEY } from "../utils/constants";
 import { GameStats, MigrationData } from "../utils/types";
@@ -63,28 +58,6 @@ export default function Home(props: Props) {
   );
 
   const router = useRouter();
-
-  useLayoutEffect(() => {
-    if (window.location.search.includes("delayMigration")) return;
-
-    const isOnLegacyRoute = location.hostname !== "katla.id";
-    if (isOnLegacyRoute) {
-      try {
-        const hash = LocalStorage.getItem(LAST_HASH_KEY) || "";
-        const stats: GameStats = JSON.parse(
-          LocalStorage.getItem(GAME_STATS_KEY) || JSON.stringify(initialStats)
-        );
-        const migrationLink = generateMigrationLink(hash, stats);
-        window.location.replace(migrationLink);
-      } catch (err) {
-        Sentry.captureException(err, {
-          extra: {
-            stats: LocalStorage.getItem(GAME_STATS_KEY),
-          },
-        });
-      }
-    }
-  }, []);
 
   useEffect(() => {
     const migrationData = router.query.migrate;

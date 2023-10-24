@@ -273,6 +273,14 @@ export default function StatsModal(props: Props) {
             );
           })}
       </div>
+      <ins
+        className="adsbygoogle"
+        style={{ display: "block" }}
+        data-ad-client="ca-pub-3081263972680635"
+        data-ad-slot="2576511153"
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      />
       {showShare && (
         <>
           <WordDefinition answer={answer} />
