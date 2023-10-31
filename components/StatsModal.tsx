@@ -1,12 +1,5 @@
 import useSWR from "swr";
-import {
-  LegacyRef,
-  MutableRefObject,
-  useCallback,
-  useEffect,
-  useRef,
-  useState,
-} from "react";
+import { LegacyRef, useEffect, useRef, useState } from "react";
 import { useTheme } from "next-themes";
 
 import Modal from "./Modal";
@@ -227,9 +220,11 @@ export default function StatsModal(props: Props) {
   const maxDistribution = Math.max(...Object.values(distribution));
 
   const [isAdUnitRendered, setIsAdUnitRendered] = useState(false);
+  const adsByGooglePushedRef = useRef(false);
   const adUnitRef = useRef<HTMLDivElement>(null);
+
   useEffect(() => {
-    if (!isOpen || !isAdUnitRendered) return;
+    if (!isOpen || !isAdUnitRendered || adsByGooglePushedRef.current) return;
 
     const adUnit = adUnitRef.current;
     adUnit.innerHTML = `<!-- stats-ads -->
@@ -239,9 +234,11 @@ export default function StatsModal(props: Props) {
       data-ad-slot="2576511153"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>`;
+
     try {
       // @ts-ignore
       window.adsbygoogle = (window.adsbygoogle || []).push({});
+      adsByGooglePushedRef.current = true;
     } catch (err) {
       // ignore
     }
