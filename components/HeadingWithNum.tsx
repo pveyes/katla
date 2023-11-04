@@ -13,7 +13,7 @@ export default function HeadingWithNum(props: Props) {
 
   return (
     <span>
-      {props.enableLiarMode ? "Katlie" : "Katla"}
+      {props.enableLiarMode ? "Katlie" : <><span style={{ color: "#EE2A35"}}>K</span>at<span style={{ color: "#009736"}}>la</span></>}
       {props.num && (
         <sup
           className={`-top-4 tracking-tight ${customNumClass}`}
