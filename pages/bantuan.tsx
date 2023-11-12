@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 import LocalStorage from "../utils/browser";
 import {
   GAME_STATE_KEY,
@@ -46,6 +46,37 @@ export default function Debug(props: { hashed: string }) {
   const mailToLink = `mailto:help@katla.id?subject=Problem katla&body=${messagePrefix}%0D%0A%0D%0AKode: ${debugCode}`;
   const twitterIntentLink = `https://twitter.com/messages/compose?recipient_id=82924400&text=${messagePrefix}\n\nKode: ${debugCode}`;
 
+  const confirmImport = (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    // @ts-ignore
+    const newDebugCode = e.target.debugCode.value;
+    let confirmed: boolean;
+    if (newDebugCode === debugCode) {
+      confirmed = window.confirm(
+        "Kode yang anda masukkan sama dengan kode di perangkat ini. Apakah anda yakin ingin mengimpor?"
+      );
+    } else {
+      confirmed = window.confirm(
+        "Statistik yang ada di perangkat ini akan diganti dari statistik dari kode. Apakah anda yakin?"
+      );
+    }
+
+    if (!confirmed) return;
+
+    try {
+      const decoded = atob(newDebugCode);
+      const st0 = decoded.indexOf('{"distribution');
+      const ste = decoded.indexOf("}:");
+      const stats = decoded.slice(st0, ste + 1);
+      LocalStorage.setItem(GAME_STATS_KEY, stats);
+      alert("Statistik berhasil diimpor");
+      window.location.replace("/");
+    } catch (err) {
+      console.error(err);
+      alert("Kode yang anda masukkan tidak valid");
+    }
+  };
+
   return (
     <div className="dark:text-white max-w-lg mx-auto mt-4 px-3">
       <NewSiteWarning />
@@ -63,6 +94,14 @@ export default function Debug(props: { hashed: string }) {
             <a href={twitterIntentLink} className="underline text-blue-400">
               melalui Twitter/X
             </a>
+            .
+          </p>
+          <p className="mb-4">
+            Klik {/* eslint-disable-next-line */}
+            <a href="/" className="underline text-blue-400">
+              tautan berikut
+            </a>{" "}
+            untuk kembali ke beranda
           </p>
           <strong>Kode bantuan</strong>
           <pre className="border border-gray-300 p-3 whitespace-pre-wrap break-all ">
@@ -70,6 +109,24 @@ export default function Debug(props: { hashed: string }) {
           </pre>
         </>
       )}
+      <h2 className="text-2xl mt-4 mb-4">Impor Statistik</h2>
+      <p className="mb-4">
+        Masukkan debug code yang anda dapat dari halaman ini di perangkat lain
+        untuk mengimpor statistik dari perangkat tersebut
+      </p>
+      <form onSubmit={confirmImport}>
+        <textarea
+          name="debugCode"
+          className="w-full h-64 border border-gray-300 p-2 rounded-r overflow-hidden"
+          placeholder="Salin kode di sini"
+        />
+        <button
+          type="submit"
+          className="border-none px-3 py-1 bg-accent text-white rounded-sm overflow-hidden mb-4"
+        >
+          Impor
+        </button>
+      </form>
     </div>
   );
 }
