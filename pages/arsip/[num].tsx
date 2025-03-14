@@ -1,23 +1,23 @@
-import { ComponentProps, useState } from "react";
-import { GetStaticPaths, GetStaticProps } from "next";
-import { isSameDay, isAfter } from "date-fns";
+import { isAfter, isSameDay } from "date-fns";
 import fs from "fs/promises";
+import { GetStaticPaths, GetStaticProps } from "next";
 import path from "path";
+import { ComponentProps, useState } from "react";
 
+import App from "../../components/App";
 import Container from "../../components/Container";
 import Header from "../../components/Header";
-import App from "../../components/App";
-import HelpModal from "../../components/HelpModal";
-import SettingsModal from "../../components/SettingsModal";
 import HeadingWithNum from "../../components/HeadingWithNum";
-import StatsModal from "../../components/StatsModal";
+import HelpModal from "../../components/HelpModal";
 import { useModalState } from "../../components/Modal";
+import SettingsModal from "../../components/SettingsModal";
+import StatsModal from "../../components/StatsModal";
 
-import { useGame, isGameFinished } from "../../utils/game";
 import { encodeHashed } from "../../utils/codec";
-import { GameStats } from "../../utils/types";
 import fetcher from "../../utils/fetcher";
+import { isGameFinished, useGame } from "../../utils/game";
 import { handleGameComplete, handleSubmitWord } from "../../utils/message";
+import { GameStats } from "../../utils/types";
 
 interface Props {
   num: string;
@@ -149,7 +149,7 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
           .map((s) => s.trim())
           .filter(Boolean)
       ),
-    fetcher("https://cdn.statically.io/gh/pveyes/makna/main/words.json"),
+    fetcher("https://makna.fatihkalifa.workers.dev/words.json"),
   ]);
 
   return {

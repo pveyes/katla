@@ -1,29 +1,29 @@
-import React, { ComponentProps, useEffect } from "react";
-import { GetStaticProps } from "next";
-import path from "path";
-import fs from "fs/promises";
-import { useRouter } from "next/router";
 import * as Sentry from "@sentry/nextjs";
+import fs from "fs/promises";
+import { GetStaticProps } from "next";
+import { useRouter } from "next/router";
+import path from "path";
+import { ComponentProps, useEffect } from "react";
 
+import App from "../components/App";
 import Container from "../components/Container";
 import Header from "../components/Header";
-import App from "../components/App";
-import HelpModal from "../components/HelpModal";
-import StatsModal from "../components/StatsModal";
-import SettingsModal from "../components/SettingsModal";
 import HeadingWithNum from "../components/HeadingWithNum";
+import HelpModal from "../components/HelpModal";
 import { useModalState } from "../components/Modal";
+import SettingsModal from "../components/SettingsModal";
 import SponsorshipFooter from "../components/SponsorshipFooter";
+import StatsModal from "../components/StatsModal";
 
-import { getTotalPlay, useGame, useRemainingTime } from "../utils/game";
+import LocalStorage from "../utils/browser";
 import { encodeHashed } from "../utils/codec";
 import { GAME_STATS_KEY, LAST_HASH_KEY } from "../utils/constants";
-import { GameStats, MigrationData } from "../utils/types";
 import fetcher from "../utils/fetcher";
-import createStoredState from "../utils/useStoredState";
+import { getTotalPlay, useGame, useRemainingTime } from "../utils/game";
 import { handleGameComplete, handleSubmitWord } from "../utils/message";
-import LocalStorage from "../utils/browser";
 import { trackEvent } from "../utils/tracking";
+import { GameStats, MigrationData } from "../utils/types";
+import createStoredState from "../utils/useStoredState";
 
 interface Props {
   hashed: string;
@@ -169,7 +169,7 @@ export const getStaticProps: GetStaticProps<Props> = async () => {
           .map((s) => s.trim())
           .filter(Boolean)
       ),
-    fetcher("https://cdn.statically.io/gh/pveyes/makna/main/words.json"),
+    fetcher("https://makna.fatihkalifa.workers.dev/words.json"),
   ]);
 
   return {

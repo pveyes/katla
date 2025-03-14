@@ -1,3 +1,12 @@
+import { createClient } from "@liveblocks/client";
+import {
+  LiveblocksProvider,
+  RoomProvider,
+  useBroadcastEvent,
+  useOthers,
+  useSelf,
+} from "@liveblocks/react";
+import { GetStaticProps } from "next";
 import {
   ComponentProps,
   FormEvent,
@@ -6,37 +15,28 @@ import {
   useRef,
   useState,
 } from "react";
-import { createClient } from "@liveblocks/client";
-import { GetStaticProps } from "next";
-import {
-  LiveblocksProvider,
-  RoomProvider,
-  useBroadcastEvent,
-  useOthers,
-  useSelf,
-} from "@liveblocks/react";
 
 import App from "../components/App";
 import Container from "../components/Container";
 import Header from "../components/Header";
 import Modal, { useModalState } from "../components/Modal";
 
-import {
-  LiveGame,
-  useLiveGame,
-  generateRoomId,
-  getEmojiFromScore,
-  getTotalScore,
-  defaultScore,
-  shareInviteLink,
-} from "../utils/liveGame";
-import fetcher from "../utils/fetcher";
-import { decode, encode } from "../utils/codec";
-import { GameStats, LiveConfig, LiveEvent } from "../utils/types";
 import { useTheme } from "next-themes";
 import HelpModal from "../components/HelpModal";
 import LiveStatsModal from "../components/LiveStatsModal";
 import SettingsModal from "../components/SettingsModal";
+import { decode, encode } from "../utils/codec";
+import fetcher from "../utils/fetcher";
+import {
+  defaultScore,
+  generateRoomId,
+  getEmojiFromScore,
+  getTotalScore,
+  LiveGame,
+  shareInviteLink,
+  useLiveGame,
+} from "../utils/liveGame";
+import { GameStats, LiveConfig } from "../utils/types";
 
 interface Props {
   words: string[];
@@ -150,7 +150,7 @@ export default function Lawan({ words }: Props) {
 
 export const getStaticProps: GetStaticProps<Props> = async () => {
   const words = await fetcher(
-    "https://cdn.statically.io/gh/pveyes/makna/main/words.json"
+    "https://makna.fatihkalifa.workers.dev/words.json"
   );
   return {
     props: {

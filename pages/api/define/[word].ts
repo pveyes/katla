@@ -1,6 +1,6 @@
-import { NextApiRequest, NextApiResponse } from "next";
-import cheerio from "cheerio";
 import { withSentry } from "@sentry/nextjs";
+import cheerio from "cheerio";
+import { NextApiRequest, NextApiResponse } from "next";
 
 interface Definition {
   def_text: string;
@@ -73,7 +73,7 @@ export default withSentry(handler);
 
 async function fetchFromMakna(word: string): Promise<string[]> {
   const json = await fetch(
-    `https://cdn.statically.io/gh/pveyes/makna/main/data/${word}.json`
+    `https://makna.fatihkalifa.workers.dev/${word}.json`
   ).then((res) => res.json());
   return json.flatMap((entry) => {
     return entry.makna.map((makna) => makna.definisi);
