@@ -1,19 +1,16 @@
 import { useState } from "react";
-import { differenceInDays } from "date-fns";
 
 import Container from "../../components/Container";
 import Header from "../../components/Header";
-import Link from "../../components/Link";
 import HelpModal from "../../components/HelpModal";
+import Link from "../../components/Link";
 import SettingsModal from "../../components/SettingsModal";
 
+import { getAllAnswers } from "../../utils/answers";
 import { initialState, useGamePersistedState } from "../../utils/game";
 import { Game } from "../../utils/types";
 
-export default function Arsip() {
-  const start = new Date("2022-01-20");
-  const now = new Date();
-  const diff = differenceInDays(now, start);
+export default function Arsip({ nums }) {
   const [modalState, setModalState] = useState(null);
   const [gameState, setGameState] = useGamePersistedState(initialState);
   const game: Game = {
@@ -63,7 +60,7 @@ export default function Arsip() {
           untuk melihat masa depan 😌
         </p>
         <ol className="mx-8 list-disc">
-          {Array(diff - 1)
+          {Array(nums)
             .fill("")
             .map((_, i) => (
               <li key={i}>
@@ -85,9 +82,12 @@ export default function Arsip() {
   );
 }
 
-export const getStaticProps = () => {
+export const getStaticProps = async () => {
+  const answers = await getAllAnswers();
   return {
-    props: {},
+    props: {
+      nums: answers.length - 1,
+    },
     revalidate: 3600,
   };
 };

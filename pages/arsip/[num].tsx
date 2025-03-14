@@ -1,4 +1,3 @@
-import { isAfter, isSameDay } from "date-fns";
 import fs from "fs/promises";
 import { GetStaticPaths, GetStaticProps } from "next";
 import path from "path";
@@ -13,6 +12,7 @@ import { useModalState } from "../../components/Modal";
 import SettingsModal from "../../components/SettingsModal";
 import StatsModal from "../../components/StatsModal";
 
+import { getAllAnswers } from "../../utils/answers";
 import { encodeHashed } from "../../utils/codec";
 import fetcher from "../../utils/fetcher";
 import { isGameFinished, useGame } from "../../utils/game";
@@ -128,29 +128,19 @@ export const getStaticProps: GetStaticProps<Props> = async (ctx) => {
   }
 
   const numInt = Number(num);
-  const now = new Date();
-  const date = new Date("2022-01-20");
-  date.setDate(date.getDate() + numInt);
+
+  const [answers, words] = await Promise.all([
+    getAllAnswers(),
+    fetcher("https://makna.fatihkalifa.workers.dev/words.json"),
+  ]);
 
   // archive should only return previous dates
-  if (isSameDay(date, now) || isAfter(date, now)) {
+  if (numInt > answers.length) {
     return {
       notFound: true,
       revalidate: 60,
     };
   }
-
-  const [answers, words] = await Promise.all([
-    fs
-      .readFile(path.join(process.cwd(), "./.scripts/answers.csv"), "utf8")
-      .then((text) =>
-        text
-          .split(",")
-          .map((s) => s.trim())
-          .filter(Boolean)
-      ),
-    fetcher("https://makna.fatihkalifa.workers.dev/words.json"),
-  ]);
 
   return {
     props: {
