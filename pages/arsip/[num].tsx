@@ -37,6 +37,7 @@ const initialStats: GameStats = {
   },
   currentStreak: 0,
   maxStreak: 0,
+  duration: null,
 };
 
 export default function Arsip(props: Props) {
