@@ -44,7 +44,6 @@ export default function Debug(props: { hashed: string }) {
 
   const messagePrefix = `Halo, saya ingin melaporkan masalah tentang ...`;
   const mailToLink = `mailto:help@katla.id?subject=Problem katla&body=${messagePrefix}%0D%0A%0D%0AKode: ${debugCode}`;
-  const twitterIntentLink = `https://twitter.com/messages/compose?recipient_id=82924400&text=${messagePrefix}\n\nKode: ${debugCode}`;
 
   const confirmImport = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -90,11 +89,7 @@ export default function Debug(props: { hashed: string }) {
             <a className="underline text-blue-400" href={mailToLink}>
               tautan berikut
             </a>{" "}
-            untuk mengirim email, atau kirim pesan{" "}
-            <a href={twitterIntentLink} className="underline text-blue-400">
-              melalui Twitter/X
-            </a>
-            .
+            untuk mengirim email.
           </p>
           <p className="mb-4">
             Klik {/* eslint-disable-next-line */}

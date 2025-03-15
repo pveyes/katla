@@ -1,6 +1,4 @@
-import fs from "fs/promises";
 import { GetStaticPaths, GetStaticProps } from "next";
-import path from "path";
 import { ComponentProps, useState } from "react";
 
 import App from "../../components/App";
@@ -98,14 +96,7 @@ export default function Arsip(props: Props) {
 
 // generate first and last 5 days
 export const getStaticPaths: GetStaticPaths = async () => {
-  const answers = await fs
-    .readFile(path.join(process.cwd(), "./.scripts/answers.csv"), "utf8")
-    .then((text) =>
-      text
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean)
-    );
+  const answers = await getAllAnswers();
 
   return {
     paths: Array.from({ length: 5 }, (_, i) => ({
