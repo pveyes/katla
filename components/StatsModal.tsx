@@ -1,6 +1,7 @@
 import useSWR from "swr";
 import { LegacyRef, useEffect, useRef, useState } from "react";
 import { useTheme } from "next-themes";
+import { Duration } from "date-fns";
 
 import Modal from "./Modal";
 
@@ -96,6 +97,9 @@ export default function StatsModal(props: Props) {
       return text;
     }
 
+    text += `\nDurasi: ${stats.duration.hours}:${pad0(
+      stats.duration.minutes
+    )}:${pad0(stats.duration.seconds)}`;
     text += "\n" + window.location.href;
     return text;
   }
@@ -150,6 +154,13 @@ export default function StatsModal(props: Props) {
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 300);
     ctx.font = "32px sans-serif";
+    ctx.fillText(
+      `Durasi: ${stats.duration.hours}:${pad0(stats.duration.minutes)}:${pad0(
+        stats.duration.seconds
+      )}`,
+      canvas.width / 2,
+      canvas.height - 300
+    );
     ctx.fillText("katla.vercel.app", canvas.width / 2, canvas.height - 150);
 
     answerStates.forEach((states, y) => {
@@ -315,7 +326,10 @@ export default function StatsModal(props: Props) {
           <WordDefinition answer={answer} />
           <div className="flex items-center justify-between w-3/4 m-auto my-8 space-x-2">
             {props.remainingTime ? (
-              <TimeCounter time={props.remainingTime} />
+              <TimeCounter
+                time={props.remainingTime}
+                duration={props.stats.duration}
+              />
             ) : (
               <div />
             )}
@@ -450,17 +464,33 @@ function WordDefinition({ answer }) {
   );
 }
 
-function TimeCounter({ time }: { time: ReturnType<typeof useRemainingTime> }) {
+function TimeCounter({
+  time,
+  duration,
+}: {
+  time: ReturnType<typeof useRemainingTime>;
+  duration: Duration;
+}) {
   const remainingTime = `${time.hours}:${pad0(time.minutes)}:${pad0(
     time.seconds
   )}`;
 
+  const finishedTime = `${duration.hours}:${pad0(duration.minutes)}:${pad0(
+    duration.seconds
+  )}`;
+
   return (
-    <div className="text-center flex flex-1 flex-col">
-      <div className="font-semibold uppercase text-xs md:text-md">
-        Katla berikutnya
+    <div>
+      <div className="text-center flex flex-1 flex-col mb-6">
+        <div className="font-semibold uppercase text-xs md:text-md">Durasi</div>
+        <div className="text-xl md:text-4xl">{finishedTime}</div>
       </div>
-      <div className="text-xl md:text-4xl">{remainingTime}</div>
+      <div className="text-center flex flex-1 flex-col">
+        <div className="font-semibold uppercase text-xs md:text-md">
+          Katla berikutnya
+        </div>
+        <div className="text-xl md:text-4xl">{remainingTime}</div>
+      </div>
     </div>
   );
 }
