@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from "react";
+import { intervalToDuration } from "date-fns";
 
 import Board from "./Board";
 import Keyboard from "./Keyboard";
@@ -48,6 +49,7 @@ export default function App(props: Props) {
       return;
     }
 
+    game.state.startedAt = game.state.startedAt ?? new Date().getTime();
     game.setState({
       ...game.state,
       answers: game.state.answers.map((answer, i) => {
@@ -210,6 +212,10 @@ export default function App(props: Props) {
           },
           currentStreak,
           maxStreak: Math.max(stats.maxStreak, currentStreak),
+          duration: intervalToDuration({
+            start: new Date(game.state.startedAt),
+            end: new Date(game.state.lastCompletedDate || new Date().getTime()),
+          }),
         });
       } else if (game.state.attempt === 5) {
         if (typeof game.submitAnswer === "function") {
@@ -237,6 +243,10 @@ export default function App(props: Props) {
           },
           currentStreak: 0,
           maxStreak: stats.maxStreak,
+          duration: intervalToDuration({
+            start: new Date(game.state.startedAt),
+            end: new Date(game.state.lastCompletedDate || new Date().getTime()),
+          }),
         });
 
         const failureMessage = getFailureMessage(
