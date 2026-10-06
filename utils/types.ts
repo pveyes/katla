@@ -9,7 +9,6 @@ export interface GameState {
   lastCompletedDate: number | null;
   enableHighContrast: boolean;
   enableHardMode: boolean;
-  enableFreeEdit: boolean;
   enableLiarMode: boolean;
   lieBoxes: ForcedResult[];
 }

@@ -57,15 +57,6 @@ export default function SettingsModal(props: Props) {
           game.setState({ ...game.state, enableHighContrast });
         }}
       />
-      <Switch
-        title="Mode Edit Bebas"
-        subtitle="Hapus huruf di kotak manapun dan lewati kotak dengan karakter '_'"
-        isExperimental
-        active={game.state.enableFreeEdit}
-        onChange={(enableFreeEdit) => {
-          game.setState({ ...game.state, enableFreeEdit });
-        }}
-      />
       {showLiarMode && (
         <Switch
           title="Mode Bohong"

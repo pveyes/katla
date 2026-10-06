@@ -22,7 +22,6 @@ export const initialState: GameState = {
   lastCompletedDate: null,
   enableHighContrast: false,
   enableHardMode: false,
-  enableFreeEdit: false,
   enableLiarMode: false,
   lieBoxes: [],
 };

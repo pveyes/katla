@@ -44,10 +44,6 @@ export default function App(props: Props) {
       return;
     }
 
-    if (!game.state.enableFreeEdit && char === "_") {
-      return;
-    }
-
     game.setState({
       ...game.state,
       answers: game.state.answers.map((answer, i) => {

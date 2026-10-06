@@ -15,7 +15,7 @@ export default function Board(props: Props) {
   const answer = decode(game.hash);
 
   function handlePress(row: number, index: number) {
-    if (game.state.enableFreeEdit && row === game.state.attempt) {
+    if (row === game.state.attempt) {
       game.setState({
         ...game.state,
         answers: game.state.answers.map((answer, i) => {
