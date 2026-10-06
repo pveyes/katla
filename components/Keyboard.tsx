@@ -1,4 +1,4 @@
-import { MutableRefObject, useEffect, useRef } from "react";
+import { MutableRefObject, useEffect, useRef, useState } from "react";
 
 import KeyboardButton from "./KeyboardButton";
 import { AnswerState, GameState } from "../utils/types";
@@ -13,9 +13,83 @@ interface Props {
   isAnimating: MutableRefObject<boolean>;
 }
 
+// a quick tap is shorter than a frame, keep the key down long enough to be seen
+const MIN_PRESS_MS = 90;
+
+function toKeyId(e: KeyboardEvent): string | null {
+  if (e.key === "Enter") return "enter";
+  if (e.key === "Backspace") return "backspace";
+  if (e.key === "_") return "_";
+  if (e.key.length === 1 && /[a-z]/i.test(e.key)) return e.key.toLowerCase();
+  return null;
+}
+
+// which on-screen keys should look pressed because a physical key is held
+function useHeldKeys() {
+  const [held, setHeld] = useState<string[]>([]);
+
+  useEffect(() => {
+    const downAt = new Map<string, number>();
+    const releaseTimers = new Map<string, number>();
+
+    function release(key: string) {
+      downAt.delete(key);
+      releaseTimers.delete(key);
+      setHeld((keys) => keys.filter((k) => k !== key));
+    }
+
+    function handleKeydown(e: KeyboardEvent) {
+      // shortcuts like Cmd+R are not typing
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+
+      const key = toKeyId(e);
+      if (!key) return;
+
+      window.clearTimeout(releaseTimers.get(key));
+      releaseTimers.delete(key);
+      if (!downAt.has(key)) {
+        downAt.set(key, Date.now());
+      }
+      setHeld((keys) => (keys.includes(key) ? keys : [...keys, key]));
+    }
+
+    function handleKeyup(e: KeyboardEvent) {
+      const key = toKeyId(e);
+      if (!key || !downAt.has(key)) return;
+
+      const wait = Math.max(0, MIN_PRESS_MS - (Date.now() - downAt.get(key)!));
+      releaseTimers.set(
+        key,
+        window.setTimeout(() => release(key), wait)
+      );
+    }
+
+    // the keyup never arrives when the window loses focus while a key is held
+    function handleBlur() {
+      releaseTimers.forEach((timer) => window.clearTimeout(timer));
+      downAt.clear();
+      releaseTimers.clear();
+      setHeld([]);
+    }
+
+    document.addEventListener("keydown", handleKeydown);
+    document.addEventListener("keyup", handleKeyup);
+    window.addEventListener("blur", handleBlur);
+    return () => {
+      document.removeEventListener("keydown", handleKeydown);
+      document.removeEventListener("keyup", handleKeyup);
+      window.removeEventListener("blur", handleBlur);
+      releaseTimers.forEach((timer) => window.clearTimeout(timer));
+    };
+  }, []);
+
+  return held;
+}
+
 export default function Keyboard(props: Props) {
   const { onPressChar, onBackspace, onSubmit, gameState, hash, isAnimating } =
     props;
+  const heldKeys = useHeldKeys();
   const answer = decode(hash);
   const usedChars = new Set(
     gameState.answers
@@ -104,6 +178,7 @@ export default function Keyboard(props: Props) {
           <KeyboardButton
             key={char}
             state={getKeyboardState(char)}
+            pressed={heldKeys.includes(char)}
             onClick={() => onPressChar(char)}
           >
             {char}
@@ -116,6 +191,7 @@ export default function Keyboard(props: Props) {
           <KeyboardButton
             key={char}
             state={getKeyboardState(char)}
+            pressed={heldKeys.includes(char)}
             onClick={() => onPressChar(char)}
           >
             {char}
@@ -124,13 +200,19 @@ export default function Keyboard(props: Props) {
         <div style={{ flex: 0.5 }}></div>
       </div>
       <div className="flex space-x-2">
-        <KeyboardButton state={null} onClick={onSubmit} scale={1.5}>
+        <KeyboardButton
+          state={null}
+          pressed={heldKeys.includes("enter")}
+          onClick={onSubmit}
+          scale={1.5}
+        >
           Enter
         </KeyboardButton>
         {"zxcvbnm".split("").map((char) => (
           <KeyboardButton
             key={char}
             state={getKeyboardState(char)}
+            pressed={heldKeys.includes(char)}
             onClick={() => onPressChar(char)}
           >
             {char}
@@ -138,12 +220,18 @@ export default function Keyboard(props: Props) {
         ))}
         <KeyboardButton
           state={null}
+          pressed={heldKeys.includes("_")}
           onClick={() => onPressChar("_")}
           scale={1.5}
         >
           _
         </KeyboardButton>
-        <KeyboardButton state={null} onClick={onBackspace} scale={1.5}>
+        <KeyboardButton
+          state={null}
+          pressed={heldKeys.includes("backspace")}
+          onClick={onBackspace}
+          scale={1.5}
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24"
