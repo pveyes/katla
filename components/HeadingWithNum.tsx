@@ -6,21 +6,19 @@ interface Props {
 export default function HeadingWithNum(props: Props) {
   const [_, mm, dd] = new Date().toISOString().split("T")[0].split("-");
   const isIndonesiaIndependenceDay = mm === "08" && dd === "17";
-  let customNumClass = "";
-  if (isIndonesiaIndependenceDay) {
-    customNumClass = "text-white bg-red-500 p-1";
-  }
+  const numClass = isIndonesiaIndependenceDay
+    ? "bg-red-500 text-white"
+    : "bg-line text-muted";
 
   return (
-    <span>
+    <span className="inline-flex items-center gap-2">
       {props.enableLiarMode ? "Katlie" : "Katla"}
       {props.num && (
-        <sup
-          className={`-top-4 tracking-tight ${customNumClass}`}
-          style={{ fontSize: "45%" }}
+        <span
+          className={`rounded-full px-2 py-0.5 text-xs font-semibold tracking-normal tabular-nums ${numClass}`}
         >
           #{props.num}
-        </sup>
+        </span>
       )}
     </span>
   );

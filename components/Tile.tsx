@@ -15,16 +15,15 @@ interface Props {
 }
 
 export default function Tile(props: Props) {
-  const [background, setBackground] = useState("text-gray-700 dark:text-white");
+  const [background, setBackground] = useState("text-ink");
   const [animate, setAnimationEnabled] = useState(false);
-  const border =
-    props.char === " " ? "border" : props.state === null ? "border-3" : "";
-  const borderColor =
+  // empty tiles are quiet outlines, typed tiles get a stronger outline
+  const surface =
     props.char === " "
-      ? "dark:border-gray-700 border-gray-400"
+      ? "border-2 border-line bg-surface/40"
       : props.state === null
-      ? "border-gray-500"
-      : "";
+      ? "border-2 border-line-strong bg-surface"
+      : "border-2 border-transparent";
 
   useEffect(() => {
     if (props.state === null) {
@@ -41,6 +40,11 @@ export default function Tile(props: Props) {
     style.animationDuration = `${SHAKE_ANIMATION_DURATION_MS}ms`;
   }
 
+  if (props.state === null && props.char !== " ") {
+    style.animationName = "pop";
+    style.animationDuration = "120ms";
+  }
+
   if (animate) {
     style.animationName = "flip";
     style.animationDuration = `${FLIP_ANIMATION_DURATION_MS}ms`;
@@ -51,15 +55,13 @@ export default function Tile(props: Props) {
     setTimeout(() => {
       switch (props.state) {
         case "c":
-          setBackground("text-white dark:text-gray-200 bg-correct");
+          setBackground("bg-correct");
           break;
         case "e":
-          setBackground("text-white bg-exist");
+          setBackground("bg-exist");
           break;
         case "w":
-          setBackground(
-            "text-white bg-gray-500 dark:text-gray-200 dark:bg-gray-700"
-          );
+          setBackground("bg-absent");
           break;
       }
     }, props.delay + FLIP_ANIMATION_DELAY_MS);
@@ -68,7 +70,7 @@ export default function Tile(props: Props) {
   return (
     <button
       style={style}
-      className={`rounded-sm uppercase text-center h-full w-full text-dynamic font-bold ${background} flex justify-center items-center ${border} ${borderColor} select-none`}
+      className={`rounded-lg uppercase text-center h-full w-full text-dynamic font-extrabold ${background} flex justify-center items-center ${surface} select-none`}
       tabIndex={-1}
       onClick={props.onPress}
     >

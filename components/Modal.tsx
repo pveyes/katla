@@ -16,15 +16,15 @@ export default function Modal(props: Props) {
     <DialogOverlay
       isOpen={isOpen}
       onDismiss={onClose}
-      className="fixed inset-0 bg-black bg-opacity-50 overflow-y-auto z-10"
+      className="fixed inset-0 bg-black bg-opacity-40 backdrop-blur-sm overflow-y-auto z-10"
     >
       <DialogContent aria-labelledby="dialogTitle">
-        <div className="dark:bg-gray-900 bg-white dark:text-gray-200 text-gray-900 w-5/6 max-w-lg absolute top-12 md:top-16 left-6 right-6 mx-auto p-4">
+        <div className="bg-surface text-ink border border-line shadow-2xl rounded-2xl w-5/6 max-w-lg absolute top-12 md:top-16 left-6 right-6 mx-auto p-5">
           <button
             onClick={onClose}
             title="close"
             aria-label="close"
-            className="absolute right-4 top-4 text-gray-500"
+            className="icon-btn absolute right-3 top-3"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -46,7 +46,7 @@ export default function Modal(props: Props) {
 }
 
 const Title = ({ children }) => (
-  <h2 id="dialogTitle" className="text-center uppercase font-semibold my-4">
+  <h2 id="dialogTitle" className="text-center text-xl font-extrabold my-4">
     {children}
   </h2>
 );

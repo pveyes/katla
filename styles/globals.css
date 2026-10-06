@@ -1,11 +1,86 @@
+@import "@fontsource-variable/bricolage-grotesque";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/*
+ * Design tokens. Neutrals carry a faint green tint in both themes, the accent
+ * is emerald, and tile and key states share the same three colors.
+ */
+:root {
+  --k-bg: #f1f7f3;
+  --k-surface: #ffffff;
+  --k-ink: #12281f;
+  --k-muted: #4d6b5d;
+  --k-line: #cfe1d6;
+  --k-line-strong: #7fa593;
+  --k-warn: #a05a00;
+
+  --k-bg-accent: #0f7a43;
+  --k-bg-accent-hover: #138f50;
+  --k-accent-ink: #0f7a43;
+  --k-accent-ink-hover: #138f50;
+  --k-bg-correct: #0d8f5f;
+  --k-bg-exist: #f0a81c;
+  --k-bg-absent: #73897e;
+  --k-on-correct: #ffffff;
+  --k-on-exist: #2a1c00;
+  --k-on-absent: #ffffff;
+
+  --k-radius: 0.75rem;
+  --k-key-edge: 3px;
+}
+
+:root.dark {
+  --k-bg: #101a16;
+  --k-surface: #17241e;
+  --k-ink: #e4f0e9;
+  --k-muted: #9db5a8;
+  --k-line: #28392f;
+  --k-line-strong: #4f6c5d;
+  --k-warn: #f5c05a;
+
+  --k-bg-accent: #178a4b;
+  --k-bg-accent-hover: #1da35a;
+  --k-accent-ink: #5fd391;
+  --k-accent-ink-hover: #86e2ae;
+  --k-bg-absent: #2c403a;
+  --k-on-absent: #b7cbc1;
+}
+
+:root[data-katla-hc="true"] {
+  --k-bg-accent: #f5793a;
+  --k-bg-accent-hover: #f6a248;
+  --k-accent-ink: #f5793a;
+  --k-accent-ink-hover: #f6a248;
+  --k-bg-correct: #f5793a;
+  --k-bg-exist: #85c0f9;
+  --k-on-correct: #2a1200;
+}
+
+html {
+  font-family: "Bricolage Grotesque Variable", system-ui, sans-serif;
+  font-optical-sizing: auto;
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
 body {
-  @apply dark:bg-gray-900 bg-white min-h-screen max-h-screen;
+  background-color: var(--k-bg);
+  color: var(--k-ink);
+  min-height: 100vh;
+  max-height: 100vh;
   min-height: -webkit-fill-available;
   max-height: -webkit-fill-available;
+}
+
+:focus-visible {
+  outline: 2px solid var(--k-bg-accent);
+  outline-offset: 2px;
 }
 
 .absolute-center {
@@ -24,30 +99,27 @@ body {
   margin-right: auto;
 }
 
-:root {
-  --k-bg-accent: #15803d;
-  --k-bg-accent-hover: #16a34a;
-  --k-bg-correct: #15803d;
-  --k-bg-exist: #ca8a04;
-}
-
-:root[data-katla-hc="true"] {
-  --k-bg-accent: #f5793a;
-  --k-bg-accent-hover: #f6a248;
-  --k-bg-correct: #f5793a;
-  --k-bg-exist: #85c0f9;
-}
-
 .bg-correct {
   background-color: var(--k-bg-correct);
+  color: var(--k-on-correct);
 }
 
 .bg-exist {
   background-color: var(--k-bg-exist);
+  color: var(--k-on-exist);
+}
+
+.bg-absent {
+  background-color: var(--k-bg-absent);
+  color: var(--k-on-absent);
 }
 
 .bg-accent {
   background-color: var(--k-bg-accent);
+}
+
+.bg-accent:hover {
+  background-color: var(--k-bg-accent-hover);
 }
 
 .bg-ig {
@@ -63,11 +135,38 @@ body {
 }
 
 .color-accent {
-  color: var(--k-bg-accent);
+  color: var(--k-accent-ink);
 }
 
 .color-accent:hover {
-  color: var(--k-bg-accent-hover);
+  color: var(--k-accent-ink-hover);
+}
+
+/* the keycap: a solid bottom edge that presses down on tap */
+.keycap {
+  box-shadow: 0 var(--k-key-edge) 0 0 rgb(0 0 0 / 0.18);
+  transition: transform 80ms ease, box-shadow 80ms ease;
+}
+
+.keycap:active {
+  transform: translateY(2px);
+  box-shadow: 0 1px 0 0 rgb(0 0 0 / 0.18);
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 9999px;
+  color: var(--k-muted);
+  transition: background-color 120ms ease, color 120ms ease;
+}
+
+.icon-btn:hover {
+  background-color: var(--k-line);
+  color: var(--k-ink);
 }
 
 .text-dynamic {
@@ -77,6 +176,28 @@ body {
 @media (min-height: 550px) {
   .text-dynamic {
     font-size: clamp(1rem, min(5vh, 5vw), 2.25rem);
+  }
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-delay: 0ms !important;
+    transition-duration: 1ms !important;
   }
 }
 

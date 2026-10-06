@@ -14,7 +14,7 @@ export default function Alert() {
 Alert.options = {
   duration: 750,
   className:
-    "bg-gray-900 text-white dark:bg-white dark:text-black text-center font-semibold py-2 px-3 rounded-sm",
+    "bg-ink text-surface text-center font-semibold py-2 px-4 rounded-full shadow-lg",
 };
 
 interface AlertOptions {

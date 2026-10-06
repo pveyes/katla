@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import { Link } from "react-router-dom";
 
 interface Props {
   title?: string;
@@ -43,13 +44,13 @@ export default function Header(props: Props) {
     onShowHelp,
     onShowSettings,
     warnStorageDisabled,
-    themeColor = "#15803D",
+    themeColor = "#0F7A43",
     showLiarOption,
     path = "/",
   } = props;
 
   return (
-    <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
+    <header className="px-4 mx-auto max-w-lg w-full pt-3 pb-4" id="header">
       <>
         <title>{title}</title>
         <meta name="description" content={description} />
@@ -78,29 +79,29 @@ export default function Header(props: Props) {
         </div>
       )}
       {warnStorageDisabled && (
-        <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
+        <div className="text-xs mb-2 text-warn font-semibold">
           Browser yang kamu gunakan saat ini tidak dapat menyimpan progres
           permainan seperti jawaban sementara dan statistik. Silahkan gunakan
           browser lain untuk pengalaman yang lebih optimal.
         </div>
       )}
-      <div className="border-b border-b-gray-500  relative text-gray-500">
+      <div className="border-b border-line relative pb-2">
         <h1
-          className="uppercase text-4xl dark:text-gray-200 text-gray-900 font-bold w-max mx-auto relative z-10 mb-2"
-          style={{ letterSpacing: 4 }}
+          className="text-4xl text-ink font-extrabold lowercase w-max mx-auto relative z-10"
+          style={{ letterSpacing: "-0.04em" }}
         >
-          {customHeading ?? "Katla"}
+          <Link to="/" aria-label="Katla, ke beranda" title="Ke beranda">
+            {customHeading ?? "Katla"}
+          </Link>
         </h1>
         <div className="absolute flex flex-row items-center justify-between inset-0">
-          <div className="flex space-x-2">
+          <div className="flex space-x-1">
             <button
               onClick={onShowHelp}
               title="Bantuan"
-              aria-label="Pengaturan"
-              style={{
-                visibility: onShowHelp ? "visible" : "hidden",
-                height: 24,
-              }}
+              aria-label="Bantuan"
+              className="icon-btn"
+              style={{ visibility: onShowHelp ? "visible" : "hidden" }}
               tabIndex={-1}
             >
               <svg
@@ -116,11 +117,12 @@ export default function Header(props: Props) {
               </svg>
             </button>
           </div>
-          <div className="flex gap-2">
+          <div className="flex gap-1">
             <button
               onClick={onShowStats}
               title="Statistik"
               aria-label="Statistik"
+              className="icon-btn"
               style={{ visibility: onShowStats ? "visible" : "hidden" }}
               tabIndex={-1}
             >
@@ -140,6 +142,7 @@ export default function Header(props: Props) {
               onClick={onShowSettings}
               title="Pengaturan"
               aria-label="Pengaturan"
+              className="icon-btn"
               style={{ visibility: onShowSettings ? "visible" : "hidden" }}
               tabIndex={-1}
             >

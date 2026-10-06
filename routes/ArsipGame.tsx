@@ -69,7 +69,7 @@ function Archive(props: Props) {
     customHeading: <HeadingWithNum num={props.num} />,
     path: `/arsip/${props.num}`,
     ogImage: "https://katla.id/og-arsip.png",
-    themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
+    themeColor: game.state.enableHighContrast ? "#f5793a" : "#0F7A43",
     onShowHelp: () => setModalState("help"),
     onShowStats: isGameFinished(game)
       ? () => setModalState("stats")

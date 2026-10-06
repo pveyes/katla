@@ -158,21 +158,21 @@ function Switch(props: SwitchProps) {
   }
 
   return (
-    <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-gray-200 dark:border-gray-700 space-x-2">
+    <div className="flex justify-between py-2 my-2 text-lg items-center border-b border-line space-x-2">
       <div className="flex flex-col">
         <p className="mb-0">
           {title}{" "}
           {warningText && (
-            <span className="text-xs text-yellow-600 dark:text-yellow-400 inline-block">
+            <span className="text-xs text-warn font-semibold inline-block">
               {"(" + warningText + ")"}
             </span>
           )}
         </p>
-        {subtitle && <span className="text-xs text-gray-500">{subtitle}</span>}
+        {subtitle && <span className="text-xs text-muted">{subtitle}</span>}
       </div>
       <button
         className={`${
-          active ? "bg-correct" : "bg-gray-500"
+          active ? "bg-accent" : "bg-line-strong"
         } w-10 h-6 flex items-center rounded-full px-1 flex-shrink-0`}
         onClick={handleClick}
         style={{ cursor: disabled ? "not-allowed" : "pointer" }}

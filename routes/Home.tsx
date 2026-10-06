@@ -124,7 +124,7 @@ function Game(props: Props) {
         enableLiarMode={game.state.enableLiarMode}
       />
     ),
-    themeColor: game.state.enableHighContrast ? "#f5793a" : "#15803D",
+    themeColor: game.state.enableHighContrast ? "#f5793a" : "#0F7A43",
     onShowHelp: () => setModalState("help"),
     onShowStats: () => setModalState("stats"),
     onShowSettings: () => setModalState("settings"),

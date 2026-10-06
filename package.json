@@ -16,6 +16,7 @@
     "**/*": "prettier --write --ignore-unknown"
   },
   "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
     "@reach/dialog": "^0.18.0",
     "@sentry/cloudflare": "^11.4.0",
     "@sentry/react": "^11.4.0",

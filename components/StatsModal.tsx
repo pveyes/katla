@@ -293,7 +293,7 @@ export default function StatsModal(props: Props) {
               ratio === GRAPH_WIDTH_MIN_RATIO
                 ? "justify-center"
                 : "justify-end";
-            const background = shouldHighlight ? "bg-accent" : "bg-gray-500";
+            const background = shouldHighlight ? "bg-accent" : "bg-line-strong";
             return (
               <div className="flex h-5 mb-2" key={i}>
                 <div className="tabular-nums">{i + 1}</div>
@@ -319,11 +319,11 @@ export default function StatsModal(props: Props) {
             ) : (
               <div />
             )}
-            <div className="bg-gray-400" style={{ width: 1 }}></div>
+            <div className="bg-line" style={{ width: 1 }}></div>
             <div className="flex flex-col space-y-4 text-white">
               <button
                 onClick={handleShare}
-                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
+                className="bg-accent py-1 md:py-3 px-3 md:px-6 rounded-xl font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
               >
                 <div>Share</div>
                 <svg
@@ -341,7 +341,7 @@ export default function StatsModal(props: Props) {
 
               <button
                 onClick={handleShareImage}
-                className="bg-ig py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
+                className="bg-ig py-1 md:py-3 px-3 md:px-6 rounded-xl font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
               >
                 <div>Image</div>
                 {canShareImage ? (
@@ -375,7 +375,7 @@ export default function StatsModal(props: Props) {
                 )}
               </button>
 
-              <label className="flex items-center gap-2 text-xs dark:text-gray-400 text-gray-600">
+              <label className="flex items-center gap-2 text-xs text-muted">
                 <input
                   type="checkbox"
                   checked={showAnswersCheckbox}
@@ -386,7 +386,7 @@ export default function StatsModal(props: Props) {
 
               <button
                 onClick={handleShareToTwitter}
-                className="py-1 md:py-3 px-3 md:px-6 rounded-md font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
+                className="py-1 md:py-3 px-3 md:px-6 rounded-xl font-semibold uppercase text-xl flex flex-1 flex-row space-x-2 items-center justify-center"
                 style={{ backgroundColor: "#00acee" }}
               >
                 <div>Tweet</div>
@@ -420,7 +420,7 @@ function WordDefinition({ answer }) {
   return (
     <div className="w-10/12 mx-auto mb-8">
       <h3 className="uppercase font-semibold">Katla hari ini</h3>
-      <p className="text-xs mb-2 dark:text-gray-400 text-gray-600">
+      <p className="text-xs mb-2 text-muted">
         Mohon untuk tetap dirahasiakan, semua orang mendapatkan kata yang sama
         🙏
       </p>

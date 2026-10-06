@@ -79,7 +79,7 @@ export default function Debug() {
   };
 
   return (
-    <div className="dark:text-white max-w-lg mx-auto mt-4 px-3">
+    <div className="max-w-lg mx-auto mt-4 px-3">
       <NewSiteWarning />
       <h1 className="text-3xl mb-4">Bantuan</h1>
       {debugCode === "" ? (
@@ -88,20 +88,20 @@ export default function Debug() {
         <>
           <p className="mb-4">
             Klik{" "}
-            <a className="underline text-blue-400" href={mailToLink}>
+            <a className="underline color-accent" href={mailToLink}>
               tautan berikut
             </a>{" "}
             untuk mengirim email.
           </p>
           <p className="mb-4">
             Klik{" "}
-            <Link to="/" className="underline text-blue-400">
+            <Link to="/" className="underline color-accent">
               tautan berikut
             </Link>{" "}
             untuk kembali ke beranda
           </p>
           <strong>Kode bantuan</strong>
-          <pre className="border border-gray-300 p-3 whitespace-pre-wrap break-all ">
+          <pre className="border border-line bg-surface rounded-xl p-3 whitespace-pre-wrap break-all ">
             {debugCode}
           </pre>
         </>
@@ -114,12 +114,12 @@ export default function Debug() {
       <form onSubmit={confirmImport}>
         <textarea
           name="debugCode"
-          className="w-full h-64 border border-gray-300 p-2 rounded-r overflow-hidden"
+          className="w-full h-64 border border-line bg-surface rounded-xl p-3 overflow-hidden"
           placeholder="Salin kode di sini"
         />
         <button
           type="submit"
-          className="border-none px-3 py-1 bg-accent text-white rounded-sm overflow-hidden mb-4"
+          className="border-none px-4 py-2 bg-accent text-white rounded-xl overflow-hidden mb-4"
         >
           Impor
         </button>

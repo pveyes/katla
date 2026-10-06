@@ -116,11 +116,11 @@ function ArchiveNavigator({ nums }: { nums: number }) {
               setError(false);
             }}
             placeholder={`1 - ${nums}`}
-            className="flex-1 min-w-0 border border-gray-400 dark:border-gray-600 rounded-sm px-3 py-2 bg-transparent"
+            className="flex-1 min-w-0 border border-line-strong rounded-xl px-3 py-2 bg-surface"
           />
           <button
             type="submit"
-            className="bg-accent text-white rounded-sm px-4 py-2"
+            className="bg-accent text-white rounded-xl px-4 py-2"
           >
             Buka
           </button>
@@ -149,10 +149,10 @@ function ArchiveNavigator({ nums }: { nums: number }) {
               key={i}
               onClick={() => setPage(i)}
               aria-pressed={i === page}
-              className={`text-sm rounded-sm px-2 py-1 border ${
+              className={`text-sm rounded-lg px-2 py-1 border ${
                 i === page
                   ? "bg-accent text-white border-transparent"
-                  : "border-gray-400 dark:border-gray-600"
+                  : "border-line-strong"
               }`}
             >
               {from}-{to}
@@ -160,7 +160,7 @@ function ArchiveNavigator({ nums }: { nums: number }) {
           );
         })}
       </div>
-      <p className="text-sm mb-2 text-gray-500">
+      <p className="text-sm mb-2 text-muted">
         Hari ke-{start} sampai {end}
       </p>
       <div className="grid grid-cols-5 sm:grid-cols-10 gap-2">
@@ -176,7 +176,7 @@ function NumLink({ num, compact }: { num: number; compact?: boolean }) {
   return (
     <Link
       to={`/arsip/${num}`}
-      className={`block text-center border border-gray-400 dark:border-gray-600 rounded-sm color-accent ${
+      className={`block text-center border border-line-strong bg-surface rounded-lg color-accent ${
         compact ? "py-1 text-sm" : "px-3 py-1"
       }`}
     >
