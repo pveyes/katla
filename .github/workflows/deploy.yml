@@ -16,6 +16,10 @@ jobs:
   deploy:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
+    # shows up under "Deployments" on the repo page and as a status on the commit
+    environment:
+      name: production
+      url: https://katla.id
     steps:
       - uses: actions/checkout@v4
         with:
