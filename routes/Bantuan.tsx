@@ -1,5 +1,7 @@
-import { FormEvent, useEffect, useState } from "react";
+import { FormEvent, useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
+import Container from "../components/Container";
+import Header from "../components/Header";
 import LocalStorage from "../utils/browser";
 import {
   GAME_STATE_KEY,
@@ -13,6 +15,31 @@ import { useTodayHashed } from "../utils/today";
 export default function Debug() {
   const hashed = useTodayHashed();
   const [debugCode, setDebugCode] = useState("");
+  const [copied, setCopied] = useState(false);
+  const codeRef = useRef<HTMLPreElement>(null);
+
+  function selectCode() {
+    const node = codeRef.current;
+    if (!node) {
+      return;
+    }
+    const range = document.createRange();
+    range.selectNodeContents(node);
+    const selection = window.getSelection();
+    selection.removeAllRanges();
+    selection.addRange(range);
+  }
+
+  async function copyCode() {
+    selectCode();
+    try {
+      await navigator.clipboard.writeText(debugCode);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    } catch (err) {
+      // clipboard is unavailable, the code stays selected so it can be copied by hand
+    }
+  }
   useEffect(() => {
     const gameState = LocalStorage.getItem(GAME_STATE_KEY);
     const gameStats = LocalStorage.getItem(GAME_STATS_KEY);
@@ -79,65 +106,80 @@ export default function Debug() {
   };
 
   return (
-    <div className="max-w-lg mx-auto mt-4 px-3">
-      <NewSiteWarning />
-      <h1 className="text-3xl mb-4">Bantuan</h1>
-      {debugCode === "" ? (
-        <span>Generating debug code...</span>
-      ) : (
-        <>
-          <p className="mb-4">
-            Klik{" "}
-            <a className="underline color-accent" href={mailToLink}>
-              tautan berikut
-            </a>{" "}
-            untuk mengirim email.
-          </p>
-          <p className="mb-4">
-            Klik{" "}
-            <Link to="/" className="underline color-accent">
-              tautan berikut
-            </Link>{" "}
-            untuk kembali ke beranda
-          </p>
-          <strong>Kode bantuan</strong>
-          <pre className="border border-line bg-surface rounded-xl p-3 whitespace-pre-wrap break-all ">
-            {debugCode}
-          </pre>
-        </>
-      )}
-      <h2 className="text-2xl mt-4 mb-4">Impor Statistik</h2>
-      <p className="mb-4">
-        Masukkan debug code yang anda dapat dari halaman ini di perangkat lain
-        untuk mengimpor statistik dari perangkat tersebut
-      </p>
-      <form onSubmit={confirmImport}>
-        <textarea
-          name="debugCode"
-          className="w-full h-64 border border-line bg-surface rounded-xl p-3 overflow-hidden"
-          placeholder="Salin kode di sini"
-        />
-        <button
-          type="submit"
-          className="border-none px-4 py-2 bg-accent text-white rounded-xl overflow-hidden mb-4"
+    <Container>
+      <Header title="Katla | Bantuan" path="/bantuan" />
+      <div className="max-w-lg w-full mx-auto px-4 pb-8 text-left">
+        <Link
+          to="/"
+          className="inline-flex items-center gap-1 color-accent font-semibold mb-4"
         >
-          Impor
-        </button>
-      </form>
-    </div>
-  );
-}
-
-function NewSiteWarning() {
-  return (
-    <div className="mx-auto text-sm mb-4 p-3 bg-yellow-100 text-black rounded-sm overflow-hidden">
-      <p className="mb-2">
-        Mulai 4 Oktober 2023, Katla akan menggunakan domain baru di{" "}
-        <a href="https://katla.id" className="underline">
-          katla.id
-        </a>
-        . Statistik permainan anda akan dipindahkan secara otomatis.
-      </p>
-    </div>
+          <span aria-hidden="true">&larr;</span> Kembali ke beranda
+        </Link>
+        <h1 className="text-3xl mb-4">Bantuan</h1>
+        {debugCode === "" ? (
+          <span>Membuat kode bantuan...</span>
+        ) : (
+          <>
+            <p className="mb-4">
+              Klik{" "}
+              <a className="underline color-accent" href={mailToLink}>
+                tautan berikut
+              </a>{" "}
+              untuk mengirim email.
+            </p>
+            <strong>Kode bantuan</strong>
+            <pre
+              ref={codeRef}
+              onClick={selectCode}
+              title="Klik untuk memilih seluruh kode"
+              className="border border-line bg-surface rounded-xl p-3 whitespace-pre-wrap break-all cursor-pointer select-all mb-2"
+            >
+              {debugCode}
+            </pre>
+            <button
+              type="button"
+              onClick={copyCode}
+              className="bg-accent text-white rounded-xl px-4 py-2 mb-4"
+            >
+              {copied ? "Kode tersalin" : "Salin kode"}
+            </button>
+          </>
+        )}
+        <h2 className="text-2xl mt-4 mb-4">Impor Statistik</h2>
+        <p className="mb-4">
+          Masukkan{" "}
+          <button
+            type="button"
+            onClick={() => {
+              codeRef.current?.scrollIntoView({
+                behavior: "smooth",
+                block: "center",
+              });
+              copyCode();
+            }}
+            disabled={debugCode === ""}
+            title="Klik untuk memilih dan menyalin kode bantuan"
+            className="underline color-accent"
+          >
+            kode bantuan
+          </button>{" "}
+          yang anda dapat dari halaman ini di perangkat lain untuk mengimpor
+          statistik dari perangkat tersebut
+        </p>
+        <form onSubmit={confirmImport}>
+          <textarea
+            name="debugCode"
+            className="w-full h-64 border border-line bg-surface rounded-xl p-3 overflow-hidden"
+            placeholder="Salin kode di sini"
+          />
+          <button
+            type="submit"
+            className="border-none px-4 py-2 bg-accent text-white rounded-xl overflow-hidden mb-4"
+          >
+            Impor
+          </button>
+        </form>
+      </div>
+    </Container>
   );
 }
