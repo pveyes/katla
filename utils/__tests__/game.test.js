@@ -1,14 +1,12 @@
-/**
- * @jest-environment jsdom
- */
-jest.useFakeTimers();
-
-import { renderHook } from "@testing-library/react-hooks";
+import { renderHook } from "@testing-library/react";
+import { afterEach, beforeAll, expect, test, vi } from "vitest";
 
 import { useGame } from "../game";
 import { GAME_STATE_KEY, INVALID_WORDS_KEY, LAST_HASH_KEY } from "../constants";
 import { decode, encode, encodeHashed } from "../codec";
 import LocalStorage from "../browser";
+
+vi.useFakeTimers();
 
 class LocalStorageMock {
   constructor() {
@@ -33,7 +31,7 @@ class LocalStorageMock {
 }
 
 beforeAll(() => {
-  global.localStorage = new LocalStorageMock();
+  vi.stubGlobal("localStorage", new LocalStorageMock());
 });
 
 afterEach(() => {
@@ -44,7 +42,7 @@ const num = 20;
 const hashed = encodeHashed(num, "latest", "previous");
 
 test("first time playing, ready for new game", () => {
-  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("latest");
@@ -53,7 +51,7 @@ test("first time playing, ready for new game", () => {
 });
 
 test("first time, not ready for new game", () => {
-  jest.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
 
   const { result } = renderHook(() => useGame(hashed));
   expect(decode(result.current.hash)).toBe("previous");
@@ -68,7 +66,7 @@ test("already played, ready for new game", () => {
   const enableHardMode = true;
   const enableHighContrast = true;
 
-  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("previous"));
   localStorage.setItem(INVALID_WORDS_KEY, JSON.stringify(["fucek"]));
   localStorage.setItem(
@@ -98,7 +96,7 @@ test("already played, ready for new game", () => {
 });
 
 test("already played, not ready for new game", () => {
-  jest.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("previous"));
 
   const { result } = renderHook(() => useGame(hashed));
@@ -113,7 +111,7 @@ test("already played, but new hash already generated", () => {
   const enableHardMode = true;
   const enableHighContrast = true;
 
-  jest.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
   localStorage.setItem(
     GAME_STATE_KEY,
     JSON.stringify({
@@ -141,7 +139,7 @@ test("currently playing, should not reset state", async () => {
   const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
 
-  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("latest"));
   localStorage.setItem(
     GAME_STATE_KEY,
@@ -163,7 +161,7 @@ test("already played, refresh event", async () => {
   const answers = ["ganar", "pakar", "syair"];
   const attempt = 3;
 
-  jest.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 9, 0, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("latest"));
   localStorage.setItem(
     GAME_STATE_KEY,
@@ -180,7 +178,7 @@ test("already played, refresh event", async () => {
 
   // refresh
   const newNum = 21;
-  jest.setSystemTime(new Date(2022, 1, 10, 0, 0, 0).getTime());
+  vi.setSystemTime(new Date(2022, 1, 10, 0, 0, 0).getTime());
   currentHashed = encodeHashed(newNum, "refresh", "latest");
   rerender();
   expect(decode(result.current.hash)).toBe("refresh");

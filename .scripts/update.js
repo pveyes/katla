@@ -32,11 +32,15 @@ async function writeCommit(data) {
     throw new Error("Missing GitHub token env in `GITHUB_TOKEN`");
   }
 
+  const [owner, repo] = (process.env.GITHUB_REPOSITORY || "").split("/");
+  if (!owner || !repo) {
+    throw new Error("Missing repository env in `GITHUB_REPOSITORY`");
+  }
+
   const FileInfo = {
-    owner: "pveyes",
-    repo: "katla",
+    owner,
+    repo,
     path: ".scripts/answers.csv",
-    sha: "main",
   };
 
   const octokit = new Octokit({
@@ -44,10 +48,15 @@ async function writeCommit(data) {
     auth: `token ${token}`,
   });
 
-  const response = await octokit.repos.getContent(FileInfo);
+  const response = await octokit.repos.getContent({
+    ...FileInfo,
+    ref: "main",
+  });
   const { sha } = response.data;
 
-  octokit.repos.createOrUpdateFileContents({
+  // must be awaited, otherwise the process may exit before the commit lands
+  // and failures (e.g. stale sha, missing permission) go unnoticed
+  await octokit.repos.createOrUpdateFileContents({
     ...FileInfo,
     message: "Insert new answer",
     content: Buffer.from(data).toString("base64"),

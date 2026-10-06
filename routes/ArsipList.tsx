@@ -1,16 +1,19 @@
 import { useState } from "react";
 
-import Container from "../../components/Container";
-import Header from "../../components/Header";
-import HelpModal from "../../components/HelpModal";
-import Link from "../../components/Link";
-import SettingsModal from "../../components/SettingsModal";
+import Container from "../components/Container";
+import Header from "../components/Header";
+import HelpModal from "../components/HelpModal";
+import Link from "../components/Link";
+import SettingsModal from "../components/SettingsModal";
 
-import { getAllAnswers } from "../../utils/answers";
-import { initialState, useGamePersistedState } from "../../utils/game";
-import { Game } from "../../utils/types";
+import useSWR from "swr";
+import fetcher from "../utils/fetcher";
+import { initialState, useGamePersistedState } from "../utils/game";
+import { Game } from "../utils/types";
 
-export default function Arsip({ nums }) {
+export default function ArsipList() {
+  const { data } = useSWR<{ nums: number }>("/api/archive", fetcher);
+  const nums = data?.nums ?? 0;
   const [modalState, setModalState] = useState(null);
   const [gameState, setGameState] = useGamePersistedState(initialState);
   const game: Game = {
@@ -41,7 +44,7 @@ export default function Arsip({ nums }) {
           "indonesia",
           "kbbi",
         ]}
-        ogImage="https://katla.vercel.app/og-arsip.png"
+        ogImage="https://katla.id/og-arsip.png"
         onShowHelp={() => setModalState("help")}
         onShowSettings={() => setModalState("settings")}
       />
@@ -51,8 +54,8 @@ export default function Arsip({ nums }) {
           Berikut adalah daftar kata telah digunakan sebelumnya. Kamu bisa
           menggunakan <em>link</em> di bawah, atau langsung memasukkan alamat
           pada <em>address bar</em> sesuai angka hari, misal:{" "}
-          <a href="https://katla.vercel.app/arsip/1" className="color-accent">
-            https://katla.vercel.app/arsip/1
+          <a href="https://katla.id/arsip/1" className="color-accent">
+            https://katla.id/arsip/1
           </a>
         </p>
         <p className="mb-2">
@@ -81,13 +84,3 @@ export default function Arsip({ nums }) {
     </Container>
   );
 }
-
-export const getStaticProps = async () => {
-  const answers = await getAllAnswers();
-  return {
-    props: {
-      nums: answers.length - 1,
-    },
-    revalidate: 3600,
-  };
-};

@@ -5,27 +5,19 @@ import Tile from "./Tile";
 interface Props {
   isOpen: boolean;
   onClose: () => void;
-  isLiveMode?: boolean;
 }
 
 export default memo(HelpModal);
 
 function HelpModal(props: Props) {
-  const { isOpen, onClose, isLiveMode = false } = props;
+  const { isOpen, onClose } = props;
   return (
     <Modal isOpen={isOpen} onClose={onClose}>
       <Modal.Title>Cara Bermain</Modal.Title>
       <div className="text-sm">
         <p className="mb-2">
           Tebak <strong className="uppercase">Katla</strong> dalam 6 kesempatan.
-          {isLiveMode ? (
-            <p className="my-2">
-              Mainkan bersama teman-temanmu (maksimum 10 orang). Setelah
-              permainan selesai, babak baru akan otomatis dimulai dalam 5 detik.
-            </p>
-          ) : (
-            <span>1 hari ada 1 kata rahasia.</span>
-          )}
+          <span>1 hari ada 1 kata rahasia.</span>
         </p>
         <p className="mb-2">
           Setiap tebakan harus merupakan kata valid 5 huruf sesuai KBBI. Tekan
@@ -92,12 +84,10 @@ function HelpModal(props: Props) {
           Tidak ada huruf <strong>K</strong> di kata rahasia
         </div>
         <hr className="dark:border-gray-700 border-gray-500 mb-4" />
-        {isLiveMode ? null : (
-          <p className="font-semibold">
-            Akan ada <strong className="uppercase">Katla</strong> baru setiap
-            hari!
-          </p>
-        )}
+        <p className="font-semibold">
+          Akan ada <strong className="uppercase">Katla</strong> baru setiap
+          hari!
+        </p>
       </div>
     </Modal>
   );

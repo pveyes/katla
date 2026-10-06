@@ -8,9 +8,10 @@
 # testing
 /coverage
 
-# next.js
-/.next/
-/out/
+# build
+/dist/
+.wrangler/
+.dev.vars
 
 # production
 /build
@@ -32,9 +33,6 @@ yarn-error.log*
 .scripts/wordle.json
 .scripts/nyt.json
 .scripts/analysis.js
-
-# vercel
-.vercel
 
 # Sentry
 .sentryclirc

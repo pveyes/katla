@@ -1,8 +1,4 @@
-import Head from "next/head";
-import dynamic from "next/dynamic";
-import React, { ReactNode } from "react";
-
-const EmojiSelector = dynamic(() => import("./EmojiSelector"), { ssr: false });
+import { ReactNode } from "react";
 
 interface Props {
   title?: string;
@@ -11,13 +7,11 @@ interface Props {
   ogImage?: string;
   customHeading?: ReactNode;
   warnStorageDisabled?: boolean;
-  isLiveMode?: boolean;
   themeColor?: string;
   showLiarOption?: boolean;
   onShowStats?: () => void;
   onShowHelp?: () => void;
   onShowSettings?: () => void;
-  onSendEmoji?: (emoji: string) => void;
   path?: string;
 }
 
@@ -43,14 +37,12 @@ export default function Header(props: Props) {
       "bangsa",
       "kbbi",
     ],
-    ogImage = "https://katla.vercel.app/og.png",
+    ogImage = "https://katla.id/og.png",
     customHeading,
     onShowStats,
     onShowHelp,
     onShowSettings,
-    onSendEmoji,
     warnStorageDisabled,
-    isLiveMode,
     themeColor = "#15803D",
     showLiarOption,
     path = "/",
@@ -58,11 +50,11 @@ export default function Header(props: Props) {
 
   return (
     <header className="px-4 mx-auto max-w-lg w-full pt-2 pb-4" id="header">
-      <Head>
+      <>
         <title>{title}</title>
         <meta name="description" content={description} />
         <meta name="keywords" content={keywords.join(", ")} />
-        <meta property="og:url" content="https://katla.vercel.app/" />
+        <meta property="og:url" content="https://katla.id/" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
@@ -71,17 +63,12 @@ export default function Header(props: Props) {
         <link rel="canonical" href={"https://katla.id" + path} />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:domain" content="katla.vercel.app" />
+        <meta property="twitter:domain" content="katla.id" />
 
         <meta name="theme-color" content={themeColor} />
         <link href="/katla-32x32.png" rel="icon shortcut" sizes="3232" />
         <link href="/katla-192x192.png" rel="apple-touch-icon" />
-      </Head>
-      {isLiveMode && (
-        <div className="text-xs mb-2 text-yellow-800 dark:text-yellow-200">
-          Mode lawan masih dalam tahap uji coba.
-        </div>
-      )}
+      </>
       {showLiarOption && (
         <div className="text-xs mb-2">
           Kurang menantang? Gunakan{" "}
@@ -128,9 +115,6 @@ export default function Header(props: Props) {
                 ></path>
               </svg>
             </button>
-            <div className="relative flex">
-              {onSendEmoji && <EmojiSelector onSendEmoji={onSendEmoji} />}
-            </div>
           </div>
           <div className="flex gap-2">
             <button

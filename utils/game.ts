@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useRouter } from "next/router";
+import { mutate } from "swr";
 
 import { LAST_HASH_KEY, GAME_STATE_KEY, INVALID_WORDS_KEY } from "./constants";
 import {
@@ -13,6 +13,7 @@ import LocalStorage, { isStorageEnabled } from "./browser";
 import createStoredState from "./useStoredState";
 import { trackEvent } from "./tracking";
 import { decode, decodeHashed } from "./codec";
+import { TODAY_KEY } from "./today";
 import { unstable_batchedUpdates } from "react-dom";
 
 export const initialState: GameState = {
@@ -33,8 +34,6 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
   const useGameState = enableStorage ? useGamePersistedState : useState;
   const [state, setState] = useGameState<GameState>(initialState);
   const [readyState, setGameReadyState] = useState<Game["readyState"]>("init");
-  const router = useRouter();
-
   const [num, latestHash, previousHash] = decodeHashed(hashed);
   const initialCurrentNum = Number(num);
   const [currentNum, setCurrentNum] = useState(initialCurrentNum);
@@ -160,18 +159,6 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
     }
   }, [state.enableHighContrast]);
 
-  useEffect(() => {
-    function handleVisibilityChange() {
-      if (document.visibilityState === "visible") {
-        router.replace(router.asPath);
-      }
-    }
-
-    document.addEventListener("visibilitychange", handleVisibilityChange);
-    return () =>
-      document.removeEventListener("visibilitychange", handleVisibilityChange);
-  }, [router]);
-
   return {
     hash: currentHash,
     num: currentNum,
@@ -189,7 +176,6 @@ export function useRemainingTime() {
   const hours = getHoursDiff(now);
   const minutes = getMinutesDiff(now);
   const seconds = getSecondsDiff(now);
-  const router = useRouter();
 
   const [remainingTime, setRemainingTime] = useState({
     hours,
@@ -205,13 +191,14 @@ export function useRemainingTime() {
       const seconds = getSecondsDiff(now);
 
       if (hours + minutes + seconds === 0) {
-        router.replace(router.asPath);
+        // fetch the new daily word
+        mutate(TODAY_KEY);
       }
 
       setRemainingTime({ hours, minutes, seconds });
     }, 100);
     return () => clearInterval(t);
-  }, [router]);
+  }, []);
 
   return remainingTime;
 }

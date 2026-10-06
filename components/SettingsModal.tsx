@@ -1,4 +1,4 @@
-import { useTheme } from "next-themes";
+import { useTheme } from "../utils/theme";
 
 import Link from "./Link";
 import Modal from "./Modal";
@@ -12,18 +12,16 @@ import {
   LAST_SESSION_RESET_KEY,
 } from "../utils/constants";
 import LocalStorage from "../utils/browser";
-import { ForcedResult, Game, LiveConfig } from "../utils/types";
-import { shareInviteLink } from "../utils/liveGame";
+import { ForcedResult, Game } from "../utils/types";
 
 interface Props {
   isOpen: boolean;
   onClose: () => void;
   game: Game;
-  liveConfig?: LiveConfig;
 }
 
 export default function SettingsModal(props: Props) {
-  const { game, isOpen, onClose, liveConfig } = props;
+  const { game, isOpen, onClose } = props;
   const { resolvedTheme, setTheme } = useTheme();
   const showLiarMode = game.num === 71;
   const correctColor = game.state.enableHighContrast ? "biru" : "hijau";
@@ -84,70 +82,8 @@ export default function SettingsModal(props: Props) {
           }}
         />
       )}
-      {liveConfig ? (
-        liveConfig.isHost ? (
-          <AdminTools config={liveConfig} game={game} onClose={onClose} />
-        ) : (
-          <PlayerTools config={liveConfig} />
-        )
-      ) : (
-        <AdditionalInformation />
-      )}
+      <AdditionalInformation />
     </Modal>
-  );
-}
-
-interface AdminToolsProps {
-  game: Game;
-  onClose: () => void;
-  config: LiveConfig;
-}
-
-function AdminTools(props: AdminToolsProps) {
-  const { game, onClose, config } = props;
-
-  function handleReset() {
-    game.resetState();
-    onClose();
-  }
-
-  function handleInvite() {
-    shareInviteLink(config, onClose);
-  }
-
-  return (
-    <div>
-      <h4 className="text-center uppercase font-semibold my-4">Mode Lawan</h4>
-      <button className="color-accent block mb-2" onClick={handleInvite}>
-        Ajak pemain
-      </button>
-      <button className="color-accent block mb-2" onClick={handleReset}>
-        Mulai dari awal
-      </button>
-    </div>
-  );
-}
-
-interface PlayerToolsProps {
-  config: LiveConfig;
-}
-
-function PlayerTools(props: PlayerToolsProps) {
-  const { config } = props;
-
-  function handleInvite() {
-    shareInviteLink(config);
-  }
-
-  return (
-    <div>
-      <h4 className="text-center uppercase font-semibold my-4">
-        Pengaturan Mode Lawan
-      </h4>
-      <button className="color-accent" onClick={handleInvite}>
-        Ajak pemain
-      </button>
-    </div>
   );
 }
 

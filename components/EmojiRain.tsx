@@ -5,7 +5,7 @@ const CUSTOM_EVENT_NAME = "emoji-rain";
 export default function EmojiRain() {
   const canvasRef = useRef<ComponentRef<"canvas">>(null);
   const [emoji, setEmoji] = useState(null);
-  const timeoutRef = useRef<any>();
+  const timeoutRef = useRef<any>(undefined);
 
   useEffect(() => {
     if (!emoji) {

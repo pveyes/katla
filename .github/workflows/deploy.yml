@@ -1,0 +1,42 @@
+name: deploy
+
+on:
+  push:
+    branches: [main]
+  # called by update-word after it commits a new answer. Pushes made with
+  # GITHUB_TOKEN don't trigger the `push` event above, so it must be explicit.
+  workflow_call:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22.x"
+          cache: yarn
+      - run: yarn install --frozen-lockfile
+      - run: yarn test
+      - name: build
+        run: yarn build
+        env:
+          VITE_DEFINE_TOKEN: ${{ secrets.DEFINE_TOKEN }}
+      - name: deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          # the worker reads this at runtime
+          secrets: |
+            DEFINE_TOKEN
+        env:
+          DEFINE_TOKEN: ${{ secrets.DEFINE_TOKEN }}

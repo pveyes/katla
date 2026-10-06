@@ -46,33 +46,3 @@ export interface MigrationData {
   lastHash: string;
   time: number;
 }
-
-export interface LiveConfig {
-  isHost: boolean;
-  roomId: string;
-  inviteKey: string;
-}
-
-interface StartEvent {
-  type: "start";
-  hash: string;
-  num: number;
-}
-
-interface EmojiEvent {
-  type: "emoji";
-  emoji: string;
-  username: string;
-}
-
-interface WinEvent {
-  type: "win";
-  username: string;
-}
-
-interface LoseEvent {
-  type: "lose";
-  answer: string;
-}
-
-export type LiveEvent = StartEvent | EmojiEvent | WinEvent | LoseEvent;

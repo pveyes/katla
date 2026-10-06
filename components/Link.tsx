@@ -1,11 +1,12 @@
-import NextLink from "next/link";
 import { ComponentProps } from "react";
+import { Link as RouterLink } from "react-router-dom";
 
-export default function Link(props: ComponentProps<typeof NextLink>) {
-  const { children, ...rest } = props;
+type Props = Omit<ComponentProps<typeof RouterLink>, "to"> & { href: string };
+
+export default function Link({ href, children, ...rest }: Props) {
   return (
-    <NextLink {...rest}>
-      <a className="color-accent">{children}</a>
-    </NextLink>
+    <RouterLink to={href} className="color-accent" {...rest}>
+      {children}
+    </RouterLink>
   );
 }

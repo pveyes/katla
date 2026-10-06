@@ -1,4 +1,5 @@
 import { FormEvent, useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import LocalStorage from "../utils/browser";
 import {
   GAME_STATE_KEY,
@@ -7,8 +8,10 @@ import {
   LAST_HASH_KEY,
   LAST_SESSION_RESET_KEY,
 } from "../utils/constants";
+import { useTodayHashed } from "../utils/today";
 
-export default function Debug(props: { hashed: string }) {
+export default function Debug() {
+  const hashed = useTodayHashed();
   const [debugCode, setDebugCode] = useState("");
   useEffect(() => {
     const gameState = LocalStorage.getItem(GAME_STATE_KEY);
@@ -25,7 +28,7 @@ export default function Debug(props: { hashed: string }) {
     setDebugCode(
       btoa(
         [
-          props.hashed,
+          hashed,
           lastHash,
           gameState,
           gameStats,
@@ -39,8 +42,7 @@ export default function Debug(props: { hashed: string }) {
         ].join(":")
       )
     );
-    // eslint-disable-next-line
-  }, []);
+  }, [hashed]);
 
   const messagePrefix = `Halo, saya ingin melaporkan masalah tentang ...`;
   const mailToLink = `mailto:help@katla.id?subject=Problem katla&body=${messagePrefix}%0D%0A%0D%0AKode: ${debugCode}`;
@@ -92,10 +94,10 @@ export default function Debug(props: { hashed: string }) {
             untuk mengirim email.
           </p>
           <p className="mb-4">
-            Klik {/* eslint-disable-next-line */}
-            <a href="/" className="underline text-blue-400">
+            Klik{" "}
+            <Link to="/" className="underline text-blue-400">
               tautan berikut
-            </a>{" "}
+            </Link>{" "}
             untuk kembali ke beranda
           </p>
           <strong>Kode bantuan</strong>
@@ -139,5 +141,3 @@ function NewSiteWarning() {
     </div>
   );
 }
-
-export { getStaticProps } from "./index";

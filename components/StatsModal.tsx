@@ -1,6 +1,6 @@
 import useSWR from "swr";
 import { LegacyRef, useEffect, useRef, useState } from "react";
-import { useTheme } from "next-themes";
+import { useTheme } from "../utils/theme";
 
 import Modal from "./Modal";
 
@@ -150,7 +150,7 @@ export default function StatsModal(props: Props) {
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 300);
     ctx.font = "32px sans-serif";
-    ctx.fillText("katla.vercel.app", canvas.width / 2, canvas.height - 150);
+    ctx.fillText("katla.id", canvas.width / 2, canvas.height - 150);
 
     answerStates.forEach((states, y) => {
       const answer = answers[y];
@@ -412,7 +412,7 @@ function WordDefinition({ answer }) {
   const { data = [] } = useSWR(`/api/define/${answer}`, (path) => {
     return fetcher(path, {
       headers: {
-        Authorization: `token ${process.env.NEXT_PUBLIC_DEFINE_TOKEN}`,
+        Authorization: `token ${import.meta.env.VITE_DEFINE_TOKEN}`,
       },
     });
   });

@@ -1,5 +1,20 @@
+function toBase64(text: string): string {
+  let binary = "";
+  new TextEncoder().encode(text).forEach((byte) => {
+    binary += String.fromCharCode(byte);
+  });
+  return btoa(binary);
+}
+
+function fromBase64(base64: string): string {
+  const binary = atob(base64);
+  return new TextDecoder().decode(
+    Uint8Array.from(binary, (c) => c.charCodeAt(0))
+  );
+}
+
 export function encode(word: string): string {
-  const base64 = Buffer.from(word).toString("base64");
+  const base64 = toBase64(word);
   const equalSigns = base64.split("").filter((char) => char === "=").length;
   const withoutEq = base64.replace(/=/g, "");
   let newStr = "";
@@ -23,7 +38,7 @@ export function decode(hash: string): string {
         return String.fromCharCode(charCode);
       })
       .join("") + padding;
-  return Buffer.from(base64, "base64").toString();
+  return fromBase64(base64);
 }
 
 const HASHED_SEPARATOR = "::";
