@@ -5,6 +5,10 @@ export default defineConfig({
   test: {
     environment: "happy-dom",
     clearMocks: true,
-    include: ["utils/**/*.test.{js,ts}", "worker/**/*.test.ts"],
+    include: [
+      "utils/**/*.test.{js,ts,tsx}",
+      "worker/**/*.test.ts",
+      "routes/**/*.test.tsx",
+    ],
   },
 });

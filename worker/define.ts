@@ -48,7 +48,7 @@ interface Makna {
 
 // Root words that only exist with affixes (e.g. "apung" -> "mengapung") have no
 // definition in KBBI, only a note and the derived forms.
-export function describeMakna(makna: Makna): string | null {
+function describeMakna(makna: Makna): string | null {
   if (makna.definisi) {
     return makna.definisi;
   }
@@ -68,8 +68,8 @@ async function fetchFromMakna(
   word: string
 ): Promise<string[]> {
   const res = await assets.fetch(`${origin}/makna/${word}.json`);
-  // unknown words fall back to the SPA shell, which is html
-  if (!res.ok || !res.headers.get("Content-Type")?.includes("json")) {
+  // unknown words fall back to the SPA shell, which fails to parse as json
+  if (!res.ok) {
     throw new Error(`no stored definition for ${word}`);
   }
   const json: { makna: Makna[] }[] = await res.json();

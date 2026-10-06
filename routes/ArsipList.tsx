@@ -99,7 +99,7 @@ function ArchiveNavigator({ nums }: { nums: number }) {
 
   return (
     <>
-      <form onSubmit={handleSubmit} className="mb-6">
+      <form onSubmit={handleSubmit} className="mb-6" noValidate>
         <label htmlFor="arsip-num" className="block font-semibold mb-1">
           Lompat ke hari
         </label>

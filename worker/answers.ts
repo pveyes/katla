@@ -24,7 +24,7 @@ export function getArchiveCount() {
 
 export function getArchiveHashed(num: number) {
   // archive should only return previous days
-  if (!Number.isInteger(num) || num < 1 || num > answers.length) {
+  if (num < 1 || num > answers.length) {
     return null;
   }
   return encodeHashed(num, answers[num - 1], "");
