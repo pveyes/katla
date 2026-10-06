@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- keycap: solid bottom edge under a jade face, with a lowercase k -->
+  <rect x="4" y="8" width="56" height="52" rx="14" fill="#086b47"/>
+  <rect x="4" y="4" width="56" height="52" rx="14" fill="#0d8f5f"/>
+  <g fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M22 15V45"/>
+    <path d="M42 20L22 33"/>
+    <path d="M29 30L43 45"/>
+  </g>
+</svg>

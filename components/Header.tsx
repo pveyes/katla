@@ -67,8 +67,6 @@ export default function Header(props: Props) {
         <meta property="twitter:domain" content="katla.id" />
 
         <meta name="theme-color" content={themeColor} />
-        <link href="/katla-32x32.png" rel="icon shortcut" sizes="3232" />
-        <link href="/katla-192x192.png" rel="apple-touch-icon" />
       </>
       {showLiarOption && (
         <div className="text-xs mb-2">
