@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "su.lap",
+    "akarKata": null,
+    "ejaan": "sulap",
+    "baku": true,
+    "alt": "sunglap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertunjukan berbuat sesuatu yang menakjubkan (seperti saputangan diubah menjadi burung merpati)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "silap mata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.lap",
+    "akarKata": null,
+    "ejaan": "sulap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "salah cara menenun (tentang kain tenun)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

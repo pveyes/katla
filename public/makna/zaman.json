@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "za.man",
+    "akarKata": null,
+    "ejaan": "zaman",
+    "baku": true,
+    "alt": "jaman",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jangka waktu yang panjang atau pendek yang menandai sesuatu; masa",
+        "contoh": "-- kekuasaan Nazi di Jerman",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kala; waktu",
+        "contoh": "akhir --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

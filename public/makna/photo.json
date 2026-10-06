@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "pho.to",
+    "akarKata": null,
+    "ejaan": "photo",
+    "baku": false,
+    "alt": "foto",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potret",
+        "contoh": "--nya dimuat di dalam surat kabar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambaran; bayangan; pantulan",
+        "contoh": "ragam ilmiah seakan-akan -- kegiatan pikiran",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

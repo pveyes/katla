@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "ad libitum",
+    "akarKata": null,
+    "ejaan": "ad libitum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "menurut keinginan (digunakan dalam tempo musik)",
+        "contoh": "improvisasi dan ornamentasi -- sering didengar pada musik non-Eropa",
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "konsumsi pakan dan air minum yang tidak terbatas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "peternakan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

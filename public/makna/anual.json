@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "anu.al",
+    "akarKata": null,
+    "ejaan": "anual",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahunan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku, majalah, atau laporan yang diterbitkan setahun sekali; buku tahunan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

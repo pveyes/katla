@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "su.ngu",
+    "akarKata": null,
+    "ejaan": "sungu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanduk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.ngu",
+    "akarKata": null,
+    "ejaan": "sungu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jungur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

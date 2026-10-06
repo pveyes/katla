@@ -1,0 +1,120 @@
+[
+  {
+    "sukuKata": "pas",
+    "akarKata": null,
+    "ejaan": "pas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat keterangan yang menyatakan boleh berjalan (masuk) ke daerah lain atau ke tempat terlarang, misalnya pelabuhan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pas",
+    "akarKata": null,
+    "ejaan": "pas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kena benar; tepat",
+        "contoh": "tembakannya -- benar",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lebih tidak kurang (tentang jumlah)",
+        "contoh": "bayarlah dengan uang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cocok; tidak longgar; tidak sempit (tentang pakaian)",
+        "contoh": "-- benar baju itu di badanmu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pas",
+    "akarKata": null,
+    "ejaan": "pas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "opas; sapaan kepada opas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pas",
+    "akarKata": null,
+    "ejaan": "pas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan pintas sempit di daerah pegunungan",
+        "contoh": "Puncak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pas",
+    "akarKata": null,
+    "ejaan": "pas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lulus (dalam ujian)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu malaysia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

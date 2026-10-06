@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.ngu",
+    "akarKata": null,
+    "ejaan": "têngu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tungau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

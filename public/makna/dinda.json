@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "din.da",
+    "akarKata": null,
+    "ejaan": "dinda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adinda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

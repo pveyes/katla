@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "rol",
+    "akarKata": null,
+    "ejaan": "rol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peranan",
+        "contoh": "yang memegang -- dalam peristiwa pembunuhan itu ternyata tetangganya sendiri",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "rol",
+    "akarKata": null,
+    "ejaan": "rol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gulungan (film)",
+        "contoh": "ia telah menghabiskan tiga -- untuk mengabadikan peristiwa itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu, besi, dan sebagainya yang bulat torak bangunnya untuk pelindis, penggaris, pengimpit",
+        "contoh": "-- mesin tulis",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggulung rambut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengecat tembok dengan cara menggelindingkannya supaya catnya rata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

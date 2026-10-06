@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.yut",
+    "akarKata": null,
+    "ejaan": "sayut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sajen penolak bala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

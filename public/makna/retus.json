@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "re.tus",
+    "akarKata": null,
+    "ejaan": "rétus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghalusan sebuah alat sehingga permukaannya yang tidak teratur berkurang atau yang tajam dihaluskan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembetulan gambar negatif atau foto untuk proses pengopian atau pemotretan reproduksi yang dilakukan dengan menggunakan pensil, kapur cat, zat warna, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

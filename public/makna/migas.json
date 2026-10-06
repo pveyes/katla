@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mi.gas",
+    "akarKata": null,
+    "ejaan": "migas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minyak dan gas bumi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

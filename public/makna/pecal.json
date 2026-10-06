@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pe.cal",
+    "akarKata": null,
+    "ejaan": "pêcal",
+    "baku": false,
+    "alt": "pecel",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan yang terdiri atas sayuran rebus, seperti kacang panjang, bayam, taoge yang disiram dengan kuah sambal kacang dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.cal",
+    "akarKata": null,
+    "ejaan": "pêcal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memecal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

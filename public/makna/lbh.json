@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LBH",
+    "akarKata": null,
+    "ejaan": "LBH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaga bantuan hukum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

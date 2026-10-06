@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ko.lak",
+    "akarKata": null,
+    "ejaan": "kolak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan yang dibuat dari pisang, ubi, dan sebagainya yang direbus dengan gula dan santan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.lak",
+    "akarKata": null,
+    "ejaan": "kolak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepotong kayu yang bengkok dan bulat pada ujungnya, dipakai untuk menggiling lada atau rempah-rempah pada cobek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.lak",
+    "akarKata": null,
+    "ejaan": "kolak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takaran beras sebanyak empat gantang atau dua puluh kati (= ± 125 ons = ± 12,5 kg)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "bar",
+    "akarKata": null,
+    "ejaan": "bar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat minum-minum (biasanya minuman keras, seperti anggur, bir, wiski)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bar",
+    "akarKata": null,
+    "ejaan": "bar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran tekanan udara sama dengan 106 dyne per cm² = 0,987 atmosfer = 14,5 pon per inci",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan tekanan yang besarnya sama dengan 105 Pascal (Pa) atau 105 Newton (N) per meter persegi atau kira-kira sama dengan 0,987 atmosfer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

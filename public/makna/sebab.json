@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.bab",
+    "akarKata": null,
+    "ejaan": "sêbab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal yang menjadikan timbulnya sesuatu; lantaran; karena; (asal) mula",
+        "contoh": "segala akibat ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "oleh karena; terjadi karena; sebagai akibat",
+        "contoh": "ia sakit perut -- makan gado-gado yang sangat pedas",
+        "info": []
+      }
+    ]
+  }
+]

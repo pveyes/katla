@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "PDA",
+    "akarKata": null,
+    "ejaan": "PDA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perpanjangan dinas aktif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

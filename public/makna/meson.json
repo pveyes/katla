@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "me.son",
+    "akarKata": null,
+    "ejaan": "mèson",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partikel keunsuran yang mempunyai interaksi nuklir yang kuat dan angka barionnya nol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

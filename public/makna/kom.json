@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "KOM",
+    "akarKata": null,
+    "ejaan": "KOM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keputusan otorisasi menteri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kom",
+    "akarKata": null,
+    "ejaan": "kom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baskom",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kom",
+    "akarKata": null,
+    "ejaan": "kom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat ko-",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kom",
+    "akarKata": null,
+    "ejaan": "kom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telur ayam yang tidak bisa menetas lagi walaupun sudah dieram lebih lama daripada biasanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

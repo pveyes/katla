@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pi.lus",
+    "akarKata": null,
+    "ejaan": "pilus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang digoreng, dibuat dari tepung beras dan gula, berbentuk bulat panjang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.lus",
+    "akarKata": null,
+    "ejaan": "pilus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awan tambahan berbentuk tudung, biasanya terdapat di puncak awan kumulus atau kumulonimbus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

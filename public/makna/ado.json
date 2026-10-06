@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ADO",
+    "akarKata": null,
+    "ejaan": "ADO",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "analisis daerah operasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

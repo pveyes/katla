@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ima.ji",
+    "akarKata": null,
+    "ejaan": "imaji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dibayangkan dalam pikiran; bayangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "imajinasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

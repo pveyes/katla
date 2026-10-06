@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "be.ton",
+    "akarKata": null,
+    "ejaan": "bêton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran semen, kerikil, dan pasir yang diaduk dengan air untuk tiang rumah, pilar, dinding, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.ton",
+    "akarKata": null,
+    "ejaan": "bêton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji buah nangka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

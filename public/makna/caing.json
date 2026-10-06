@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ca.ing",
+    "akarKata": null,
+    "ejaan": "caing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cabik; koyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.ing",
+    "akarKata": null,
+    "ejaan": "caing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran yang jumlahnya sama dengan 200 ikat (tentang padi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

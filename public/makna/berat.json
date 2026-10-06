@@ -1,0 +1,108 @@
+[
+  {
+    "sukuKata": "be.rat",
+    "akarKata": null,
+    "ejaan": "bêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar ukurannya (di antara jenisnya atau benda-benda yang serupa)",
+        "contoh": "alat-alat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar tekanannya (timbangannya)",
+        "contoh": "peti -- itu tidak dapat diangkat oleh tiga orang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "payah; parah (tentang luka penyakit dan sebagainya)",
+        "contoh": "akibat kecelakaan itu dia menderita luka --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sulit (susah, sukar) melakukannya; melebihi ukuran (kekuatan, kemampuan, kesanggupan, dan sebagainya)",
+        "contoh": "kematian ibunya merupakan cobaan -- bagi gadis itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar digerakkan, seakan-akan ditindih atau ditekan (tentang anggota badan dan sebagainya)",
+        "contoh": "kepala terasa -- dan pusing",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat merangsang saraf; keras (tentang rokok, obat, dan sebagainya)",
+        "contoh": "ia suka rokok yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "memihak; cenderung",
+        "contoh": "hatinya lebih -- kepada kekasihnya daripada kepada orang tuanya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hamil",
+        "contoh": "istrinya sedang dalam --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat keras (perkiraan, dugaan, dan sebagainya)",
+        "contoh": "-- dugaanku bahwa dia yang salah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besarnya tekanan suatu benda apabila diangkat, ditimbang, dan sebagainya; bobot; timbangan",
+        "contoh": "akibat sakit, --nya berkurang 7 kg",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaya tarikan yang diderita suatu benda karena massanya dan keberadaannya di dalam, di sekitar, ataupun pada suatu sistem massa; bobot",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah; celaka",
+        "contoh": "wah, kalau ketahuan, -- kita",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

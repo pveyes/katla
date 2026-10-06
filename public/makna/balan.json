@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.lan",
+    "akarKata": null,
+    "ejaan": "balan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu dan sebagainya yang menghalang aliran air dalam sungai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lan",
+    "akarKata": null,
+    "ejaan": "balan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "janda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

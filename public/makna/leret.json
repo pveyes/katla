@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "le.ret",
+    "akarKata": null,
+    "ejaan": "lèrèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "banjar; jajar",
+        "contoh": "dua -- pohon kelapa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deret; saf; baris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ret",
+    "akarKata": null,
+    "ejaan": "lèrèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meleret"
+        ]
+      }
+    ]
+  }
+]

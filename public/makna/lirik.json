@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "li.rik",
+    "akarKata": null,
+    "ejaan": "lirik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melirik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.rik",
+    "akarKata": null,
+    "ejaan": "lirik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "melirik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.rik",
+    "akarKata": null,
+    "ejaan": "lirik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karya sastra (puisi) yang berisi curahan perasaan pribadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susunan kata sebuah nyanyian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

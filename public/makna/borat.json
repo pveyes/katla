@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.rat",
+    "akarKata": null,
+    "ejaan": "borat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "istilah generik untuk garam atau ester asam borat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "bi.das",
+    "akarKata": null,
+    "ejaan": "bidas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran lingkaran yang terbentuk dengan mempertemukan ibu jari kiri dan jari tengah kiri dengan ibu jari kanan dan jari tengah kanan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.das",
+    "akarKata": null,
+    "ejaan": "bidas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "ukuran lingkaran yang terbentuk dengan mempertemukan ibu jari kiri dan jari tengah kiri dengan ibu jari kanan dan jari tengah kanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

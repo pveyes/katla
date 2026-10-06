@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ma.cam",
+    "akarKata": null,
+    "ejaan": "macam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis; rupa",
+        "contoh": "barang yang seperti ini ada dua --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara",
+        "contoh": "bagaimana --nya jika ia mengajar anak-anak?",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "(se-)bagai; seperti",
+        "contoh": "-- orang mengantuk disorongkan bantal",
+        "info": []
+      }
+    ]
+  }
+]

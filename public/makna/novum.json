@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "no.vum",
+    "akarKata": null,
+    "ejaan": "novum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peristiwa atau bukti baru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alasan untuk naik banding dengan ditemukannya bukti baru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

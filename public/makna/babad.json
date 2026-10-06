@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ba.bad",
+    "akarKata": null,
+    "ejaan": "babad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kisahan berbahasa Jawa, Sunda, Bali, Sasak, dan Madura yang berisi peristiwa sejarah; cerita sejarah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "riwayat; sejarah; tambo; hikayat",
+        "contoh": "-- Tanah Jawa",
+        "info": []
+      }
+    ]
+  }
+]

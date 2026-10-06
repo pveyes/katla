@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.nus",
+    "akarKata": null,
+    "ejaan": "abnus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu arang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.cau",
+    "akarKata": null,
+    "ejaan": "kacau",
+    "baku": true,
+    "alt": "kaco",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "campur aduk (sehingga tidak terbeda-bedakan lagi); bancuh",
+        "contoh": "kelompokkan surat-surat itu berdasarkan tanggal dan nomornya, jangan sampai --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusut (kalut) tidak keruan",
+        "contoh": "pikirannya bertambah -- mendengar berita itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusuh; tidak aman; tidak tenteram",
+        "contoh": "keadaan di negeri itu makin --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bercampur aduk dengan (tidak dibeda-bedakan dengan); bertukar-tukar dengan",
+        "contoh": "pemakaian kata teras /téras/ kerap kali -- dengan kata teras",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.dut",
+    "akarKata": null,
+    "ejaan": "badut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelawak (dalam pertunjukan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dut",
+    "akarKata": null,
+    "ejaan": "badut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "poleng2",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

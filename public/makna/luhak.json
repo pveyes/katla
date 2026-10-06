@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lu.hak",
+    "akarKata": null,
+    "ejaan": "luhak",
+    "baku": false,
+    "alt": "luak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah; distrik; luhak",
+        "contoh": "-- Agam",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

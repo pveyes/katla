@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ga.lak",
+    "akarKata": null,
+    "ejaan": "galak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buas dan suka melawan (menyerang, menggigit, menanduk, dan sebagainya tentang binatang); ganas; garang",
+        "contoh": "anjingnya -- sekali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka marah, mencaci maki, dan sebagainya",
+        "contoh": "orang yang -- harus dihadapi dengan lemah lembut",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.lak",
+    "akarKata": null,
+    "ejaan": "galak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "penggalak"
+        ]
+      }
+    ]
+  }
+]

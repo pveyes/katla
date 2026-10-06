@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ab.ras",
+    "akarKata": null,
+    "ejaan": "abras",
+    "baku": true,
+    "alt": "baras",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kusta",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengidap penyakit kusta",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

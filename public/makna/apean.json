@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ape.an",
+    "akarKata": null,
+    "ejaan": "apéan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumput (alang-alang) yang telah kering",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun-daun yang tergantung layu di batangnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

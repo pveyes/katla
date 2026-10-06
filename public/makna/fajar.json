@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fa.jar",
+    "akarKata": null,
+    "ejaan": "fajar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cahaya kemerah-merahan di langit sebelah timur pada menjelang matahari terbit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu sebelum matahari terbit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

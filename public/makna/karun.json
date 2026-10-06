@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "ka.run",
+    "akarKata": null,
+    "ejaan": "karun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang kaya raya pada zaman Nabi Musa a.s., yang akibat kesombongannya ia dan harta bendanya tertimbun tanah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tidak diketahui asal-usulnya (tentang harta temuan dan sebagainya)",
+        "contoh": "salah seorang penduduk menemukan harta -- dalam ladangnya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tidak sah (tentang pemerolehan atau pendapatan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

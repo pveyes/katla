@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "pa.jak",
+    "akarKata": null,
+    "ejaan": "pajak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pungutan wajib, biasanya berupa uang yang harus dibayar oleh penduduk sebagai sumbangan wajib kepada negara atau pemerintah sehubungan dengan pendapatan, pemilikan, harga beli barang, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mempunyai pajak",
+        "contoh": "baliho tak dibayar --nya akan dicopot",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak untuk mengusahakan sesuatu dengan membayar sewa kepada negara; pak3",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.jak",
+    "akarKata": null,
+    "ejaan": "pajak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak untuk mengusahakan sesuatu dengan membayar sewa kepada negara; pak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.jak",
+    "akarKata": null,
+    "ejaan": "pajak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedai; lepau",
+        "contoh": "-- nasi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "los tempat berjualan (di Madura)",
+        "contoh": "-- ikan",
+        "info": []
+      }
+    ]
+  }
+]

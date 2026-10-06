@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Tuhan",
+    "akarKata": null,
+    "ejaan": "Tuhan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang diyakini, dipuja, dan disembah oleh manusia sebagai yang Mahakuasa, Mahaperkasa, dan sebagainya",
+        "contoh": "-- Yang Maha Esa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dianggap sebagai Tuhan",
+        "contoh": "pada orang-orang tertentu uanglah sebagai --nya",
+        "info": []
+      }
+    ]
+  }
+]

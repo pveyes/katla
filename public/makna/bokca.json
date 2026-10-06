@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bok.ca",
+    "akarKata": null,
+    "ejaan": "bokca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantong untuk membawa bekal (makanan dan sebagainya); uncang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

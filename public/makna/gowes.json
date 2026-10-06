@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.wes",
+    "akarKata": null,
+    "ejaan": "gowês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersepeda; menggowes",
+        "contoh": "komunitas itu -- di Yogyakarta",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

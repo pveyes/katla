@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ak.mil",
+    "akarKata": null,
+    "ejaan": "Akmil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Akademi Militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

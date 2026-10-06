@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.lad",
+    "akarKata": null,
+    "ejaan": "tulad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salinan pada prasasti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "filologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

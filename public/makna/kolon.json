@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.lon",
+    "akarKata": null,
+    "ejaan": "kolon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian usus antara usus buntu dan poros usus; usus besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

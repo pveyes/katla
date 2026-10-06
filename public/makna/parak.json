@@ -1,0 +1,106 @@
+[
+  {
+    "sukuKata": "pa.rak",
+    "akarKata": null,
+    "ejaan": "parak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perpisahan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beda",
+        "contoh": "kelakuanmu tidak berapa --nya dengan kelakuan ayahmu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.rak",
+    "akarKata": null,
+    "ejaan": "parak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebun; ladang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.rak",
+    "akarKata": null,
+    "ejaan": "parak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir; dekat",
+        "contoh": "-- siang",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.rak",
+    "akarKata": null,
+    "ejaan": "parak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "antara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sela-sela antara tempat duduk perempuan dan laki-laki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.rak",
+    "akarKata": null,
+    "ejaan": "parak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hukuman adat berupa pengasingan diri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

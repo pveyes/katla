@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "ma.nah",
+    "akarKata": null,
+    "ejaan": "manah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "amanah; amanat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.nah",
+    "akarKata": null,
+    "ejaan": "manah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hati; perhatian; perasaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.nah",
+    "akarKata": null,
+    "ejaan": "manah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harta benda (dari nenek moyang)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.i.lu",
+    "akarKata": null,
+    "ejaan": "kuilu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terwelu; kelinci",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

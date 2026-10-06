@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "syekh",
+    "akarKata": null,
+    "ejaan": "syèkh",
+    "baku": true,
+    "alt": "seh, sekh, syaikh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada orang Arab (terutama orang Arab keturunan sahabat Nabi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada orang Arab yang berasal dari Hadramaut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ulama besar",
+        "contoh": "-- Ibrahim Musa Parabek",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "deh",
+    "akarKata": null,
+    "ejaan": "dèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata yang digunakan untuk mengukuhkan kata-kata atau maksud kawan bicara",
+        "contoh": "biar saja --, jangan ambil pusing",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

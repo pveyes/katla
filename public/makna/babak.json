@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "ba.bak",
+    "akarKata": null,
+    "ejaan": "babak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian besar dalam suatu drama atau lakon (terdiri atas beberapa adegan)",
+        "contoh": "pertunjukan drama tiga --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari suatu keseluruhan proses, kejadian, atau peristiwa",
+        "contoh": "-- permulaan perundingan kedua negara yang bersengketa itu akan diadakan di negara ketiga",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian permainan yang waktunya tertentu; ronde",
+        "contoh": "pada -- pertama, kedua kesebelasan masih bermain sama kuat",
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bak",
+    "akarKata": null,
+    "ejaan": "babak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lecet (tentang kulit)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bak",
+    "akarKata": null,
+    "ejaan": "babak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "membabak"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bak",
+    "akarKata": null,
+    "ejaan": "babak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "babakan"
+        ]
+      }
+    ]
+  }
+]

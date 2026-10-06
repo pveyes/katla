@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "pit",
+    "akarKata": null,
+    "ejaan": "pit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepeda",
+        "contoh": "-- motor",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pit",
+    "akarKata": null,
+    "ejaan": "pit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pensil (potlot) cina; mopit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pit",
+    "akarKata": null,
+    "ejaan": "pit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat berhenti untuk memperbaiki kerusakan mobil atau motor (dalam arena balap)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

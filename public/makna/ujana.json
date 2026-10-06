@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "uja.na",
+    "akarKata": null,
+    "ejaan": "ujana",
+    "baku": false,
+    "alt": "yojana",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran panjang, sama dengan 9 mil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak",
+        "contoh": "se-- mata",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "uja.na",
+    "akarKata": null,
+    "ejaan": "ujana",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pun",
+    "akarKata": null,
+    "ejaan": "pun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "juga atau demikian juga",
+        "contoh": "jika Anda pergi, saya -- hendak pergi",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "meski; biar; kendati",
+        "contoh": "mahal -- dibelinya juga",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "saja ...",
+        "contoh": "berdiri -- tidak dapat, apalagi berjalan",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "(...pun ...lah) untuk menyatakan aspek bahwa perbuatan mulai terjadi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untuk menguatkan dan menyatakan pokok kalimat",
+        "contoh": "maka baginda -- bertanya pula",
+        "info": []
+      }
+    ]
+  }
+]

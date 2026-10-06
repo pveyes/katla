@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "but",
+    "akarKata": null,
+    "ejaan": "but",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses memuat sistem operasi ke dalam memori utama komputer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "BUT",
+    "akarKata": null,
+    "ejaan": "BUT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk usaha tetap (bentuk usaha milik orang pribadi yang tidak bertempat tinggal di Indonesia atau berada di Indonesia tidak lebih dari 183 hari dalam jangka waktu 12 bulan, atau badan yang tidak didirikan dan tidak berkedudukan di Indonesia, tetapi menjalankan usaha atau melakukan kegiatan di Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

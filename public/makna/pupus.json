@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pu.pus",
+    "akarKata": null,
+    "ejaan": "pupus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "habis sama sekali; hilang lenyap; punah",
+        "contoh": "harta bendanya telah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.pus",
+    "akarKata": null,
+    "ejaan": "pupus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pucuk yang masih muda; daun muda",
+        "contoh": "-- daun pisang",
+        "info": []
+      }
+    ]
+  }
+]

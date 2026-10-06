@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "adat diisi, lembaga dituang",
+    "akarKata": "adat",
+    "ejaan": "adat diisi, lembaga dituang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "melakukan sesuatu menurut adat kebiasaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "adat diisi, lembaga dituang",
+    "akarKata": "lembaga",
+    "ejaan": "adat diisi, lembaga dituang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "hendaklah segala sesuatu dilakukan menurut kebiasaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

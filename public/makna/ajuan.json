@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "aju.an",
+    "akarKata": "aju",
+    "ejaan": "ajuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil mengajukan; hasil pengajuan",
+        "contoh": "tidak kurang dari tiga ~ proposal yang diterima oleh panitia untuk seminar pada bulan Desember yang akan datang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usul; anjuran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

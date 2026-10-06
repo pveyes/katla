@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "lu.rah",
+    "akarKata": null,
+    "ejaan": "lurah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala pemerintahan tingkat terendah; kepala desa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala atau pimpinan suatu bagian pekerjaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.rah",
+    "akarKata": null,
+    "ejaan": "lurah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembah; jurang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alur (lekuk memanjang) di tepi papan",
+        "contoh": "-- papan ini tidak dalam",
+        "info": []
+      }
+    ]
+  }
+]

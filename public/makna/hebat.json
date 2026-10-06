@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "he.bat",
+    "akarKata": null,
+    "ejaan": "hèbat",
+    "baku": true,
+    "alt": "heban",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlampau, amat sangat (dahsyat, ramai, kuat, seru, bagus, menakutkan, dan sebagainya)",
+        "contoh": "pertempuran itu -- sekali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "takut; segan; gerun",
+        "contoh": "maka setelah kedengaran kabar itu, sang raja -- mendengarnya dan bermusyawarah dengan segala menteri",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

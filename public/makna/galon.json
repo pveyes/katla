@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ga.lon",
+    "akarKata": null,
+    "ejaan": "galon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan takaran barang cair (bensin dan sebagainya), sama dengan 3,785 liter (AS) atau 4,546 liter (Ing)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "botol besar yang biasa digunakan sebagai tempat untuk menyimpan air mineral isi ulang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

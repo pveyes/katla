@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "su.tan",
+    "akarKata": null,
+    "ejaan": "sutan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan adat kepada kaum bangsawan",
+        "contoh": "orang tuanya keturunan --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(nama salah satu) gelar kebangsawanan",
+        "contoh": "Azis gelar -- Sati",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

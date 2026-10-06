@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "den.ma",
+    "akarKata": null,
+    "ejaan": "dènma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "detasemen markas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

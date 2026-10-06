@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ga.bah",
+    "akarKata": null,
+    "ejaan": "gabah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "butir padi yang sudah lepas dari tangkainya dan masih berkulit; antah",
+        "contoh": "merpati itu diberi pakan jagung dicampur --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.bah",
+    "akarKata": null,
+    "ejaan": "gabah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kubah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.bah",
+    "akarKata": null,
+    "ejaan": "gabah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gegabah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ja.ras",
+    "akarKata": null,
+    "ejaan": "jaras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sejaras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.ras",
+    "akarKata": null,
+    "ejaan": "jaras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keranjang yang terbuat dari tali bambu yang jarang anyamannya, digunakan untuk menjinjing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

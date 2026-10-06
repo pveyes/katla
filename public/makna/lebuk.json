@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.buk",
+    "akarKata": null,
+    "ejaan": "lêbuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi batu jatuh di tanah; debuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.buk",
+    "akarKata": null,
+    "ejaan": "lêbuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gembur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

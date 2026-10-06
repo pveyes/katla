@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "ce.rah",
+    "akarKata": null,
+    "ejaan": "cêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang (tentang hari, bulan, warna); jernih (tentang kaca)",
+        "contoh": "langit --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berseri (tentang muka)",
+        "contoh": "wajahnya -- sekali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik; bahagia",
+        "contoh": "ia tidak melihat hari depan yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.rah",
+    "akarKata": null,
+    "ejaan": "cêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "retak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.rah",
+    "akarKata": null,
+    "ejaan": "cêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan atmosfer yang sangat bening dan hampir tak berawan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hidrometeorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

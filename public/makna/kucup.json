@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ku.cup",
+    "akarKata": null,
+    "ejaan": "kucup",
+    "baku": false,
+    "alt": "kecup",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi bibir yang dimoncongkan lalu ditarik kembali (sehingga berbunyi “cup”)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengecup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.cup",
+    "akarKata": null,
+    "ejaan": "kucup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengucup"
+        ]
+      }
+    ]
+  }
+]

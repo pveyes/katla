@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pra.ka",
+    "akarKata": null,
+    "ejaan": "praka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "prajurit kepala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

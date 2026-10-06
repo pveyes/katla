@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "afi.an",
+    "akarKata": null,
+    "ejaan": "afian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang membuat pernyataan di bawah sumpah dalam bentuk afidavit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

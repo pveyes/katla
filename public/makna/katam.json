@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ka.tam",
+    "akarKata": null,
+    "ejaan": "katam",
+    "baku": false,
+    "alt": "khatam",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tamat; selesai; habis",
+        "contoh": "Alquran telah dibacanya sampai --",
+        "info": []
+      }
+    ]
+  }
+]

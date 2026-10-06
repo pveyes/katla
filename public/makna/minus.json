@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "mi.nus",
+    "akarKata": null,
+    "ejaan": "minus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang; dikurangi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah yang kurang dari 0: -- sepuluh derajat celcius (-10°C)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak dengan; tanpa",
+        "contoh": "ia mengenakan pakaian daerahnya -- ikat kepala",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "yang kurang; yang kekurangan (dalam hal menghasilkan bahan pangan)",
+        "contoh": "permukiman yang gersang itu merupakan daerah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang dari yang diperlukan (untuk mencukupi keperluan hidup dan sebagainya)",
+        "contoh": "gajinya selalu --",
+        "info": []
+      }
+    ]
+  }
+]

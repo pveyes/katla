@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.bab",
+    "akarKata": null,
+    "ejaan": "kêbab",
+    "baku": true,
+    "alt": "kabab",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging cincang panggang yang diberi sayuran (dipanggang seperti satai)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan cepat saji terdiri atas daging sapi yang dipanggang kemudian diiris-iris ditambah dengan sayuran segar dan mayones, lalu dibalut dengan kulit tortila",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

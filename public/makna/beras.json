@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "be.ras",
+    "akarKata": null,
+    "ejaan": "bêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padi yang telah terkelupas kulitnya (yang menjadi nasi setelah ditanak)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji-bijian; butir-butiran (seperti jagung, kopi)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

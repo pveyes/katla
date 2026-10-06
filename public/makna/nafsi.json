@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "naf.si",
+    "akarKata": null,
+    "ejaan": "nafsi",
+    "baku": true,
+    "alt": "napsi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diri sendiri; orang seorang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat mementingkan diri sendiri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "naf.si",
+    "akarKata": null,
+    "ejaan": "nafsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemarahan; panas hati; nafsu",
+        "contoh": "sambil berkacak pinggang, mukanya merah penuh --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

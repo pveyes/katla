@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.sal",
+    "akarKata": null,
+    "ejaan": "misal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menggambarkan sebagian dari suatu keseluruhan; contoh; perumpamaan",
+        "contoh": "banyak binatang yang harus dilindungi, sebagai --, banteng, orang utan, burung cenderawasih",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dianggap bukan sungguh-sungguh (tentang peristiwa dan sebagainya)",
+        "contoh": "jangan marah, itu hanya sebagai --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "je.las",
+    "akarKata": null,
+    "ejaan": "jêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang; nyata; gamblang",
+        "contoh": "mintalah yang -- tentang hal itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tegas; tidak ragu-ragu atau bimbang (tentang sikap)",
+        "contoh": "ia tidak mempunyai pendirian yang -- dalam persoalan itu",
+        "info": []
+      }
+    ]
+  }
+]

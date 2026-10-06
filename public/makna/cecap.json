@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.cap",
+    "akarKata": null,
+    "ejaan": "cêcap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cicip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.cap",
+    "akarKata": null,
+    "ejaan": "cêcap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung kecil yang biasa mengisap sari bunga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

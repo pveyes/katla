@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UMP",
+    "akarKata": null,
+    "ejaan": "UMP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upah minimum provinsi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

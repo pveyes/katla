@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "strip",
+    "akarKata": null,
+    "ejaan": "strip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit tumbuhan yang ditandai dengan gejala perubahan warna berbentuk garis panjang-panjang tidak menentu, yang umumnya menyerang batang atau daun yang penulangannya sejajar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "strip",
+    "akarKata": null,
+    "ejaan": "strip",
+    "baku": false,
+    "alt": "setrip",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis (sebagai tanda perhiasan pada mobil dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis skala (pada pengukur suhu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "carik kain dan sebagainya yang dipasang pada bahu atau pada lengan baju (sebagai tanda pangkat dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

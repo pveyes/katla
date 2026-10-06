@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ce.meh",
+    "akarKata": null,
+    "ejaan": "cèmèh",
+    "baku": true,
+    "alt": "cemek",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buta mata sebelah; celek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buta dengan mata melek seperti orang normal (tidak pejam matanya); cemer",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.meh",
+    "akarKata": null,
+    "ejaan": "cèmèh",
+    "baku": true,
+    "alt": "cemek",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak penting; tidak berharga; remeh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.meh",
+    "akarKata": null,
+    "ejaan": "cèmèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan judi dengan kartu kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

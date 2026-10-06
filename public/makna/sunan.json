@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "su.nan",
+    "akarKata": null,
+    "ejaan": "sunan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan raja untuk keraton Surakarta (di Jawa)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyebutan nama untuk para wali",
+        "contoh": "-- Kalijaga",
+        "info": []
+      }
+    ]
+  }
+]

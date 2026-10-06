@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ah.san",
+    "akarKata": null,
+    "ejaan": "ahsan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebih baik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

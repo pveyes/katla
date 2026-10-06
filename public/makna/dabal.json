@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.bal",
+    "akarKata": null,
+    "ejaan": "dabal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pundi-pundi yang digantungkan pada ikat pinggang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

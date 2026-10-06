@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ma.pur",
+    "akarKata": null,
+    "ejaan": "Mapur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lom",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ameng Sewang; Sekak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

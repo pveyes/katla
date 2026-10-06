@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.tuk",
+    "akarKata": null,
+    "ejaan": "gutuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berfaedah; berguna; bermanfaat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

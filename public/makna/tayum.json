@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.yum",
+    "akarKata": null,
+    "ejaan": "tayum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tayum-temayum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

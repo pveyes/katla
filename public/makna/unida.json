@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Uni.da",
+    "akarKata": null,
+    "ejaan": "Unida",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Iskandar Muda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

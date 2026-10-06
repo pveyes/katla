@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ma.lam",
+    "akarKata": null,
+    "ejaan": "malam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu setelah matahari terbenam hingga matahari terbit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.lam",
+    "akarKata": null,
+    "ejaan": "malam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lilin (dipakai untuk membatik)",
+        "contoh": "pedagang itu menjual --, nila, dan benang",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.lam",
+    "akarKata": null,
+    "ejaan": "malam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "massa plastis amorf yang berasal dari mineral, tumbuhan, dan hewan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

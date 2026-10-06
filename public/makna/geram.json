@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.ram",
+    "akarKata": null,
+    "ejaan": "gêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "marah sekali; gemas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.ram",
+    "akarKata": null,
+    "ejaan": "gêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berbunyi seperti menderum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

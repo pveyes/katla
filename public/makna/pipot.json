@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pi.pot",
+    "akarKata": null,
+    "ejaan": "pipot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mematahkan bagian demi bagian atau sedikit demi sedikit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

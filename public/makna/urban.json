@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ur.ban",
+    "akarKata": null,
+    "ejaan": "urban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan kota; bersifat kekotaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berpindah dari desa ke kota",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

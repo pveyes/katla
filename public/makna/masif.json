@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ma.sif",
+    "akarKata": null,
+    "ejaan": "masif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "utuh dan padat, di dalamnya tidak berongga (tentang batu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat; kukuh",
+        "contoh": "gedung itu tampak sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "murni (tentang logam mulia)",
+        "contoh": "ia memakai cincin emas -- di jari manisnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat luas",
+        "contoh": "korupsi dapat terjadi secara -- karena masyarakat permisif terhadap praktik koruptif",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.wit",
+    "akarKata": null,
+    "ejaan": "sawit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang menyerupai kelapa, bunganya berupa tandan bercabang dengan buah kecil-kecil dan banyak, berwarna merah kehitam-hitaman, daging dan kulit buahnya mengandung minyak, digunakan sebagai bahan pembuat minyak, mentega, atau sabun; kelapa bali",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.wit",
+    "akarKata": null,
+    "ejaan": "sawit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sawitan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

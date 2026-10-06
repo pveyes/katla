@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.rut",
+    "akarKata": null,
+    "ejaan": "sêrut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk melicinkan kayu; ketam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyerut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

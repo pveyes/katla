@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ru.mus",
+    "akarKata": null,
+    "ejaan": "rumus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ringkasan (hukum, patokan, dan sebagainya dalam ilmu kimia, matematika, dan sebagainya) yang dilambangkan oleh huruf, angka, atau tanda",
+        "contoh": "-- kimia untuk air ialah H₂O",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan atau simpulan tentang asas, pendirian, ketetapan, dan sebagainya yang disebutkan dengan kalimat yang ringkas dan tepat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

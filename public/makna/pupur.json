@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pu.pur",
+    "akarKata": null,
+    "ejaan": "pupur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bedak",
+        "contoh": "kulitnya yang kuning langsat tidak membutuhkan polesan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.pur",
+    "akarKata": null,
+    "ejaan": "pupur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berguling-guling dan berkepak-kepak di atas tanah atau pasir (tentang ayam, puyuh, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

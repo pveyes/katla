@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "se.pet",
+    "akarKata": null,
+    "ejaan": "sépét",
+    "baku": false,
+    "alt": "sipit",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lebar atau bulat (tentang mata)",
+        "contoh": "orang Jepang pada umumnya bermata --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pet",
+    "akarKata": null,
+    "ejaan": "sêpêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa kelat seperti rasa buah salak yang masih mentah; sepat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa seperti melekat atau tidak enak (tentang mata)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

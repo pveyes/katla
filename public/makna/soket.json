@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "so.ket",
+    "akarKata": null,
+    "ejaan": "sokèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang pada suatu bagian alat tempat melekat sesuatu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyambung pipa yang berulir dari dalamnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.mus",
+    "akarKata": null,
+    "ejaan": "timus",
+    "baku": true,
+    "alt": "ketimus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan dibuat dari singkong parut yang dikukus, dicampur gula merah, dibungkus daun pisang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

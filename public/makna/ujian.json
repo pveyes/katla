@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "uji.an",
+    "akarKata": "uji",
+    "ejaan": "ujian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil menguji; hasil memeriksa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dipakai untuk menguji mutu sesuatu (kepandaian, kemampuan, hasil belajar, dan sebagainya)",
+        "contoh": "~ kenaikan kelas diselenggarakan di sekolah masing-masing",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cobaan",
+        "contoh": "musibah ini adalah ~ dari Tuhan",
+        "info": []
+      }
+    ]
+  }
+]

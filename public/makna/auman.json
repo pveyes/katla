@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "aum.an",
+    "akarKata": "aum",
+    "ejaan": "auman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi aum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

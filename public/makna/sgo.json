@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SGO",
+    "akarKata": null,
+    "ejaan": "SGO",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekolah guru olahraga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

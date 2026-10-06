@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ku.bik",
+    "akarKata": null,
+    "ejaan": "kubik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kupas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.bik",
+    "akarKata": null,
+    "ejaan": "kubik",
+    "baku": true,
+    "alt": "kibik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran volume (isi), dihitung dengan mengalikan panjang, lebar, dan tinggi, serta diberi tanda pangkat tiga; pangkat tiga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

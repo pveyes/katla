@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "se.mut",
+    "akarKata": null,
+    "ejaan": "sêmut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serangga kecil yang berjalan merayap, hidup secara bergerombol, termasuk suku Formicidae, terdiri atas bermacam jenis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang tidak berarti",
+        "contoh": "walaupun pukulannya keras, lawannya menganggap seperti -- saja",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

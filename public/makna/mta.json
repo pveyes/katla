@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MTA",
+    "akarKata": null,
+    "ejaan": "MTA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mode transfer asinkron (teknologi jaringan berdasarkan transfer data dalam bentuk sel atau paket berukuran tetap)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

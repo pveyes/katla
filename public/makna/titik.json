@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ti.tik",
+    "akarKata": null,
+    "ejaan": "titik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "noktah (pada huruf, tanda, tanda baca, dan sebagainya)",
+        "contoh": "setiap kalimat berita diakhiri dengan tanda --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran tipografi sebesar 1/72 inci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.tik",
+    "akarKata": null,
+    "ejaan": "titik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "butiran kecil yang jatuh (tentang air, embun, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh menetes (tentang air, embun, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AAL",
+    "akarKata": null,
+    "ejaan": "AAL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Akademi Angkatan Laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

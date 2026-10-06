@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bel.du",
+    "akarKata": null,
+    "ejaan": "bêldu",
+    "baku": false,
+    "alt": "beledu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beludru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

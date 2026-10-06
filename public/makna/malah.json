@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ma.lah",
+    "akarKata": null,
+    "ejaan": "malah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "bahkan; makin (bertambah)",
+        "contoh": "setelah minum obat itu, ia tidak menjadi baik -- bertambah sakitnya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "bahkan sebaliknya",
+        "contoh": "disuruh duduk, -- berdiri",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "justru",
+        "contoh": "-- kamu yang harus datang, bukan orang tuamu",
+        "info": []
+      }
+    ]
+  }
+]

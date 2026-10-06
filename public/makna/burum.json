@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.rum",
+    "akarKata": null,
+    "ejaan": "burum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarum dari tulang untuk menjahit dan membuat keranjang dari kulit kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mo.gok",
+    "akarKata": null,
+    "ejaan": "mogok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak dapat berjalan (bekerja) sebagaimana biasanya (tentang kendaraan)",
+        "contoh": "mobil yang -- di tengah jalan akan diderek",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak mau bekerja (berbuat) sebagaimana biasanya (tentang orang)",
+        "contoh": "pekerja pelabuhan serentak --",
+        "info": []
+      }
+    ]
+  }
+]

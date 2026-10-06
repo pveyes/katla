@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "cu.las",
+    "akarKata": null,
+    "ejaan": "culas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "malas sekali; tidak tangkas; lamban",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.las",
+    "akarKata": null,
+    "ejaan": "culas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "curang; tidak jujur; tidak lurus hati",
+        "contoh": "lakumu keji, hatimu --",
+        "info": []
+      }
+    ]
+  }
+]

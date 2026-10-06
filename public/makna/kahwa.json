@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kah.wa",
+    "akarKata": null,
+    "ejaan": "kahwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kopi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "gin",
+    "akarKata": null,
+    "ejaan": "gin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesin untuk memisahkan serat kapas dari bijinya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gin",
+    "akarKata": null,
+    "ejaan": "gin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman beralkohol yang dibuat dengan cara menyuling ekstrak fermentasi bijian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

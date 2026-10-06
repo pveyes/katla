@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ap.ron",
+    "akarKata": null,
+    "ejaan": "apron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat parkir pesawat udara",
+        "contoh": "untuk praktik disediakan 70 pesawat yang terpusat pada empat -- untuk memarkirnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ap.ron",
+    "akarKata": null,
+    "ejaan": "apron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian panggung yang berada di depan prosenium",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ap.ron",
+    "akarKata": null,
+    "ejaan": "apron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celemek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghalang yang dipasang pada sisi kiri kanan ujung ban berjalan, terbuat dari pelat logam, papan, atau karet untuk mencegah agar material tidak berceceran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "metalurgi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

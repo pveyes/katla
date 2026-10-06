@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.lot",
+    "akarKata": null,
+    "ejaan": "kulot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celana berpotongan lebar, panjangnya sebatas lutut atau sebatas betis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "prancis",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

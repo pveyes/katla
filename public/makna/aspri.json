@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "as.pri",
+    "akarKata": null,
+    "ejaan": "aspri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asisten pribadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

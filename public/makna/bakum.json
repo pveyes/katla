@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.kum",
+    "akarKata": null,
+    "ejaan": "bakum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nyanyian yang dilantunkan untuk mengiringi pemasakan daging babi liar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pa.dam",
+    "akarKata": null,
+    "ejaan": "padam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mati (tentang api); tidak menyala atau tidak berkobar lagi",
+        "contoh": "api kebakaran itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "reda (tentang kemarahan); tenang kembali (tentang hawa nafsu, berahi, dan sebagainya)",
+        "contoh": "seketika itu juga --lah murka baginda",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "aman kembali (tentang huru-hara, kerusuhan, dan sebagainya)",
+        "contoh": "pergolakan di negara itu belum juga --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi lemah (tentang semangat)",
+        "contoh": "semangat juang mereka tidak pernah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.dam",
+    "akarKata": null,
+    "ejaan": "padam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat merah1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

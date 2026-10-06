@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "un.dur",
+    "akarKata": null,
+    "ejaan": "undur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mundur; surut; (berjalan) ke belakang",
+        "contoh": "marahnya tidak -- sedikit pun ketika itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjauhkan diri (dari); pergi (dari)",
+        "contoh": "-- dari gelanggang",
+        "info": []
+      }
+    ]
+  }
+]

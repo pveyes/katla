@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.dui",
+    "akarKata": null,
+    "ejaan": "rudui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh terkulai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

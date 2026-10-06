@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.gab",
+    "akarKata": null,
+    "ejaan": "kogab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando gabungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

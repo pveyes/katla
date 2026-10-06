@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ca.kup",
+    "akarKata": null,
+    "ejaan": "cakup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencakup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.kup",
+    "akarKata": null,
+    "ejaan": "cakup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "mencakup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

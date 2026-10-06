@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ori.on",
+    "akarKata": null,
+    "ejaan": "orion",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasi bintang yang mudah terlihat karena bintang-bintangnya terletak pada ekuator langit sehingga memungkinkan untuk dilihat dari seluruh dunia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ori.on",
+    "akarKata": null,
+    "ejaan": "Orion",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gugusan bintang yang bercahaya sangat terang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

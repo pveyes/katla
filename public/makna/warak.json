@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "wa.rak",
+    "akarKata": null,
+    "ejaan": "warak",
+    "baku": true,
+    "alt": "warik",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat menjauhi perkara yang belum jelas status hukum halal dan haramnya karena takut khawatir pada keharamannya",
+        "contoh": "kita harus -- dalam mencari rezeki",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "wa.rak",
+    "akarKata": null,
+    "ejaan": "warak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

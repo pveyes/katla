@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "li.ang",
+    "akarKata": null,
+    "ejaan": "liang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.ang",
+    "akarKata": null,
+    "ejaan": "liang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran berat sama dengan 37,5 g",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.ang",
+    "akarKata": null,
+    "ejaan": "liang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "satuan ukuran berat sama dengan 37,5 g",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

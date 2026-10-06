@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.lep",
+    "akarKata": null,
+    "ejaan": "salêp",
+    "baku": true,
+    "alt": "salap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat luar yang terbuat dari campuran obat dengan zat yang berkonsistensi, seperti mentega, untuk dioleskan pada kulit (untuk kudis, luka, borok, dan sebagainya)",
+        "contoh": "untuk mengobati lukamu itu pakailah -- ini",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minyak kental atau vaselin untuk campuran bahan obat luar, pomade, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

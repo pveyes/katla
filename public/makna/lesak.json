@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "le.sak",
+    "akarKata": null,
+    "ejaan": "lêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi desau; desar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sak",
+    "akarKata": null,
+    "ejaan": "lêsak",
+    "baku": false,
+    "alt": "lasak",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu dipakai (digunakan) sehari-hari; lasah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sak",
+    "akarKata": null,
+    "ejaan": "lêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berhenti",
+        "contoh": "hujan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sak",
+    "akarKata": null,
+    "ejaan": "lêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tidak berhenti",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

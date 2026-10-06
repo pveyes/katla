@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "li.did",
+    "akarKata": null,
+    "ejaan": "lidid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peledak yang diramu dengan asam pikrat, nitrobenzena, dan vaselin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

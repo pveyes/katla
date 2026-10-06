@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kro.ma",
+    "akarKata": null,
+    "ejaan": "kroma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "derajat kejenuhan suatu warna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

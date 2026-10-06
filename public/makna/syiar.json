@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "syi.ar",
+    "akarKata": null,
+    "ejaan": "syiar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemuliaan; kebesaran",
+        "contoh": "suara azan pada tiap-tiap waktu salat menandakan -- Islam",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda kebesaran atau simbol agama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

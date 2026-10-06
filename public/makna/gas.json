@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "gas",
+    "akarKata": null,
+    "ejaan": "gas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat ringan yang sifatnya seperti udara (dalam suhu biasa tidak menjadi cair)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uap dari bensin (bensol dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkat wujud zat yang molekul-molekulnya bergerak bebas sehingga seluruh massa cenderung mengembang dan menempati seluruh volume wadahnya; gas lamban; gas mulia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "GAS",
+    "akarKata": null,
+    "ejaan": "GAS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "reaksi jangka pendek dan panjang tubuh terhadap stres; dari  general adaptation syndrome",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.zan",
+    "akarKata": null,
+    "ejaan": "mizan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Libra; Tula",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "neraca; timbangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.muk",
+    "akarKata": null,
+    "ejaan": "timuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memukul dengan kepalan tangan mengarah ke ulu hati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

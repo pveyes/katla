@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ke.lak",
+    "akarKata": null,
+    "ejaan": "kêlak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang akan datang; kemudian hari",
+        "contoh": "diharapkan agar anak ini -- menjadi orang yang berguna bagi nusa dan bangsa",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lak",
+    "akarKata": null,
+    "ejaan": "kêlak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis tekukur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lak",
+    "akarKata": null,
+    "ejaan": "kêlak",
+    "baku": false,
+    "alt": "kelah",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "piknik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

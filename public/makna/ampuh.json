@@ -1,0 +1,84 @@
+[
+  {
+    "sukuKata": "am.puh",
+    "akarKata": null,
+    "ejaan": "ampuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai kekuatan gaib yang luar biasa: bertuah; sakti",
+        "contoh": "keris pusaka yang --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "manjur; mujarab",
+        "contoh": "obat ini sangat -- untuk menyembuhkan penyakit malaria",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai daya pengaruh yang luar biasa",
+        "contoh": "agama merupakan senjata yang -- untuk membina mental",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.puh",
+    "akarKata": null,
+    "ejaan": "ampuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "banjir; bah; sebak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.puh",
+    "akarKata": null,
+    "ejaan": "ampuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pengampuh"
+        ]
+      }
+    ]
+  }
+]

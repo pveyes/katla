@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ki.kir",
+    "akarKata": null,
+    "ejaan": "kikir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat dari besi baja yang bergerigi, dipakai untuk meratakan (menajamkan dan sebagainya) sesuatu",
+        "contoh": "Ayah mengambil -- untuk menajamkan mata gergaji",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.kir",
+    "akarKata": null,
+    "ejaan": "kikir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlampau hemat memakai harta bendanya; pelit; lokek; kedekut",
+        "contoh": "orang yang -- tidak banyak sahabat",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "igo.ra",
+    "akarKata": null,
+    "ejaan": "igora",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung kakaktua yang berwarna biru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

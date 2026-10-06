@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LSF",
+    "akarKata": null,
+    "ejaan": "LSF",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lembaga Sensor Film (lembaga yang bertugas melakukan penyensoran film, menetapkan penggolongan usia penonton, dan menentukan kelayakan suatu film diedarkan di Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

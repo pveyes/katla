@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "se.bau",
+    "akarKata": "bau",
+    "ejaan": "sebau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sama baunya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "termasuk dalam satu jenis; hampir sama; cocok",
+        "contoh": "seragam ~",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ja.pin",
+    "akarKata": null,
+    "ejaan": "japin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "joget",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

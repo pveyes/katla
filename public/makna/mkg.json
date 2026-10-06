@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MKG",
+    "akarKata": null,
+    "ejaan": "MKG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa kerja golongan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

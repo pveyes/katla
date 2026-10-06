@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "as.rot",
+    "akarKata": null,
+    "ejaan": "asrot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asisten sorot (orang yang membantu menayangkan dan mengoperasikan bahan presentasi atau bahan rapat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

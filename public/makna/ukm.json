@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UKM",
+    "akarKata": null,
+    "ejaan": "UKM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Usaha Kecil dan Menengah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

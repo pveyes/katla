@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ha.pal",
+    "akarKata": null,
+    "ejaan": "hapal",
+    "baku": false,
+    "alt": "hafal",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "telah masuk dalam ingatan (tentang pelajaran)",
+        "contoh": "saya sudah mempelajari dan juga -- isinya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dapat mengucapkan di luar kepala (tanpa melihat buku atau catatan lain)",
+        "contoh": "banyak orang yang -- nomor telepon barisan pemadam kebakaran",
+        "info": []
+      }
+    ]
+  }
+]

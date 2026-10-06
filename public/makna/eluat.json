@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "elu.at",
+    "akarKata": null,
+    "ejaan": "éluat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "larutan yang dihasilkan pada elusi; hasil elusi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

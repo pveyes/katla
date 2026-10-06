@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "po.lis",
+    "akarKata": null,
+    "ejaan": "polis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat perjanjian antara orang yang ikut asuransi dan perusahaan asuransi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.lis",
+    "akarKata": null,
+    "ejaan": "polis",
+    "baku": false,
+    "alt": "poles",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan untuk melicinkan dan menggilapkan berupa tepung atau minyak (cat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

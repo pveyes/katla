@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "sa.lak",
+    "akarKata": null,
+    "ejaan": "salak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman termasuk suku Palmae, batangnya tertutup rapat oleh pelepah daun, berduri pada pelepah dan tangkai daunnya, buahnya berdaging putih, berbiji keras berwarna cokelat kehitam-hitaman, kulit buah berwarna cokelat bersisik agak tajam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah salak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.lak",
+    "akarKata": null,
+    "ejaan": "salak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi gonggongan anjing",
+        "contoh": "kadang-kadang terdengar -- anjing pada malam hari",
+        "info": []
+      }
+    ]
+  }
+]

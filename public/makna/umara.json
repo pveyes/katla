@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "uma.ra",
+    "akarKata": null,
+    "ejaan": "umara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin pemerintahan",
+        "contoh": "kerja sama ulama dan -- mutlak diperlukan dalam pembangunan bangsa",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

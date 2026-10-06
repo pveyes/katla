@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DPT",
+    "akarKata": null,
+    "ejaan": "DPT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "difteri, pertusis, tetanus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

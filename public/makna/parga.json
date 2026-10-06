@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "par.ga",
+    "akarKata": null,
+    "ejaan": "parga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah yang tertutup kapur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

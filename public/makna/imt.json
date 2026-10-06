@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "IMT",
+    "akarKata": null,
+    "ejaan": "IMT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "indeks massa tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sa.min",
+    "akarKata": null,
+    "ejaan": "samin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat minyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.min",
+    "akarKata": null,
+    "ejaan": "Samin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komunitas para pengikut Samin Suresentiko di Blora, Jawa Tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

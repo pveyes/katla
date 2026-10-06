@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ga.rai",
+    "akarKata": null,
+    "ejaan": "garai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sorgum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.rai",
+    "akarKata": null,
+    "ejaan": "garai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang badannya terkena penyakit kulit seperti kadas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jayapura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

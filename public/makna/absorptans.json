@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.sorp.tans",
+    "akarKata": null,
+    "ejaan": "absorptans",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nisbah antara fluks partikel yang terserap total dan fluks partikel total yang masuk menimpa permukaan benda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

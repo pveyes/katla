@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "bo.doh",
+    "akarKata": null,
+    "ejaan": "bodoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lekas mengerti; tidak mudah tahu atau tidak dapat (mengerjakan dan sebagainya)",
+        "contoh": "anak ini -- benar, masak menghitung lima tambah lima saja tidak bisa?",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak memiliki pengetahuan (pendidikan, pengalaman)",
+        "contoh": "penjajah sengaja membiarkan rakyat -- agar mudah diperintah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terserah (kepadamu)",
+        "contoh": "kalau tidak menurut nasihatku, --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

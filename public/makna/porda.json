@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Por.da",
+    "akarKata": null,
+    "ejaan": "Porda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekan olahraga daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

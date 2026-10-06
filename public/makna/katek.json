@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.tek",
+    "akarKata": null,
+    "ejaan": "katék",
+    "baku": false,
+    "alt": "katai",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil atau kerdil pertumbuhannya",
+        "contoh": "ayam --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tek",
+    "akarKata": null,
+    "ejaan": "katèk",
+    "baku": false,
+    "alt": "ketek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketiak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

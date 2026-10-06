@@ -1,0 +1,86 @@
+[
+  {
+    "sukuKata": "ke.ton",
+    "akarKata": null,
+    "ejaan": "kèton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan senyawa organik yang sifatnya dinyatakan oleh gugus karbonil (C=O) yang mengikat dua senyawa C lain yang bervalensi satu seperti CH3",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asam yang terbentuk dalam darah dan muncul dalam urin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ton",
+    "akarKata": null,
+    "ejaan": "kêton",
+    "baku": false,
+    "alt": "ketun",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang ringgit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang emas yang nilainya Rp5,80; dukat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ton",
+    "akarKata": null,
+    "ejaan": "kêton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang menghasilkan jenis kayu yang baik, dijadikan tripleks, peti, dan sebagainya, daunnya dikeringkan lalu ditumbuk halus, digunakan sebagai pengganti candu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun keton",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

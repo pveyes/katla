@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aba.di.at",
+    "akarKata": null,
+    "ejaan": "abadiat",
+    "baku": false,
+    "alt": "abadiah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekekalan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

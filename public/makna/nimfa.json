@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "nim.fa",
+    "akarKata": null,
+    "ejaan": "nimfa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "stadium serangga tertentu yang keluar dari telur mirip bentuk dewasanya tetapi tidak bersayap dan organ kelaminnya tak sempurna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

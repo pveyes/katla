@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "se.kat",
+    "akarKata": null,
+    "ejaan": "sêkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu seperti dinding, kerai untuk membatasi atau memisahkan ruang (menjadi berpetak-petak)",
+        "contoh": "kamar itu tampak makin sempit karena diberi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembatas yang memisahkan dua rongga atau massa jaringan, seperti pada buah, rumah kerang, jantung, dan hidung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rintangan; alangan; sekatan",
+        "contoh": "mereka masih harus melintasi beberapa --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kat",
+    "akarKata": null,
+    "ejaan": "sêkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "henti; kandas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kat",
+    "akarKata": null,
+    "ejaan": "sêkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepatu berpisau pada sol untuk meluncur di atas es",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bermain meluncur di atas es dengan sekat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

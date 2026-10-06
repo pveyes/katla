@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.pur",
+    "akarKata": null,
+    "ejaan": "lipur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; lenyap; hapus",
+        "contoh": "lama-kelamaan nama itu -- dari ingatannya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang sedihnya; terhibur hatinya",
+        "contoh": "sampai sekarang hatinya belum -- juga",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "be.bas",
+    "akarKata": null,
+    "ejaan": "bèbas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lepas sama sekali (tidak terhalang, terganggu, dan sebagainya sehingga dapat bergerak, berbicara, berbuat, dan sebagainya dengan leluasa)",
+        "contoh": "tiap anggota -- mengemukakan pendapat",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lepas dari (kewajiban, tuntutan, perasaan takut, dan sebagainya)",
+        "contoh": "hari ini ia -- dari kewajiban mengajar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dikenakan (pajak, hukuman, dan sebagainya)",
+        "contoh": "surat dinas ini -- bea",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terikat atau terbatas oleh aturan dan sebagainya",
+        "contoh": "obat itu dijual -- dan terdapat di setiap apotek",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merdeka (tidak dijajah, diperintah, atau tidak dipengaruhi oleh negara lain atau kekuasaan asing)",
+        "contoh": "sehabis Perang Dunia II banyak negara yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terdapat (didapati) lagi",
+        "contoh": "negara kita belum -- buta huruf",
+        "info": []
+      }
+    ]
+  }
+]

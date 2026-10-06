@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mis.ri",
+    "akarKata": null,
+    "ejaan": "misri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisau dari kayu atau bambu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

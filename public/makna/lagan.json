@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "la.gan",
+    "akarKata": null,
+    "ejaan": "lagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keladan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.gan",
+    "akarKata": null,
+    "ejaan": "lagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkakas makan di kapal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang hilang dari kapal, tenggelam ke dasar laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

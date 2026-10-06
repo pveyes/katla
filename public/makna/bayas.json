@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.yas",
+    "akarKata": null,
+    "ejaan": "bayas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama pohon palem, umbutnya dianggap orang enak dimakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.yas",
+    "akarKata": null,
+    "ejaan": "bayas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kepiting",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

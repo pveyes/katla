@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "ke.tuk",
+    "akarKata": null,
+    "ejaan": "kêtuk",
+    "baku": true,
+    "alt": "ketrok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi seperti bunyi pukulan pada pintu, meja, dan sebagainya yang dibuat dari kayu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tuk",
+    "akarKata": null,
+    "ejaan": "kêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kotek ayam betina sesudah bertelur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tuk",
+    "akarKata": null,
+    "ejaan": "kêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik gamelan Jawa, berbentuk seperti bonang, tetapi lebih pipih dan berdinding lebih rendah daripada kenong, berfungsi sebagai pemberi tekanan dalam musik gamelan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tuk",
+    "akarKata": null,
+    "ejaan": "kêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beduk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

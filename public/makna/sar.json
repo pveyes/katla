@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sar",
+    "akarKata": null,
+    "ejaan": "sar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi angin kencang dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "SAR",
+    "akarKata": null,
+    "ejaan": "SAR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pencarian dan penyelamatan (usaha pencarian dan penyelamatan atau pemberian bantuan kepada orang yang berada dalam bahaya); dari search and rescue",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

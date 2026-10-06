@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "alo",
+    "akarKata": null,
+    "ejaan": "alo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berjalan dengan mendaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jayawijaya",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "alo",
+    "akarKata": null,
+    "ejaan": "alo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pagar kebun yang dibuat dari kayu baik yang dibelah maupun tidak, berfungsi melidungi kebun dari serangan hewan liar",
+        "contoh": "ayah membuat -- di kebun",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "alo",
+    "akarKata": null,
+    "ejaan": "alo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan kesayangan untuk anak laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minahasa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "dng",
+    "akarKata": null,
+    "ejaan": "dng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dengan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

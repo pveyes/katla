@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ju.jur",
+    "akarKata": null,
+    "ejaan": "jujur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lurus hati; tidak berbohong (misalnya dengan berkata apa adanya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak curang (misalnya dalam permainan, dengan mengikuti aturan yang berlaku)",
+        "contoh": "mereka itulah orang-orang yang -- dan disegani",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tulus; ikhlas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.jur",
+    "akarKata": null,
+    "ejaan": "jujur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang diberikan oleh pengantin laki-laki kepada calon mertuanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

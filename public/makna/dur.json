@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "dur",
+    "akarKata": null,
+    "ejaan": "dur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mutiara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

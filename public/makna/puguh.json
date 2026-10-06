@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "pu.guh",
+    "akarKata": null,
+    "ejaan": "puguh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tentu; pasti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tetap pada pendiriannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

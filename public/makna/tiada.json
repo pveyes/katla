@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ti.a.da",
+    "akarKata": null,
+    "ejaan": "tiada",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tak ada; tidak ada",
+        "contoh": "pengabdian yang -- hentinya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak",
+        "contoh": "nasionalisme yang -- tergoyahkan",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "jab",
+    "akarKata": null,
+    "ejaan": "jab",
+    "baku": true,
+    "alt": "jap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis pukulan dalam tinju, lurus, dan pendek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "jab",
+    "akarKata": null,
+    "ejaan": "jab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "leher bubu, terdiri atas corong bambu yang dianyam melintang dan terbuka ke mulut bubu, tertutup rapat pada ujungnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

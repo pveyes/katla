@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "uma.mi",
+    "akarKata": null,
+    "ejaan": "umami",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa gurih yang berasal dari monosodium glutamat, asam amino, protein, serta ribonukleotida",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gurih, lezat, dan nikmat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

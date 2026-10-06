@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HIV",
+    "akarKata": null,
+    "ejaan": "HIV",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "virus yang melemahkan sistem kekebalan tubuh; dari human immunodeficiency virus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

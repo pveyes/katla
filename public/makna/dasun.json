@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "da.sun",
+    "akarKata": null,
+    "ejaan": "dasun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bawang putih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menyerupai bentuk bawang putih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

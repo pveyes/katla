@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "dak.wa",
+    "akarKata": null,
+    "ejaan": "dakwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuduhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengaduan atau tuntutan yang diajukan kepada hakim",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuntutan atau gugatan yang diajukan oleh seseorang terhadap orang lain karena haknya telah dilanggar, dirugikan, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

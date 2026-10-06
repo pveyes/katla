@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bo.rek",
+    "akarKata": null,
+    "ejaan": "borék",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burik; bopeng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bo.rek",
+    "akarKata": null,
+    "ejaan": "borék",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rajin dan gesit dalam bekerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

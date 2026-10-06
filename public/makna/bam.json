@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bam",
+    "akarKata": null,
+    "ejaan": "bam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu (papan, balok) tumpuan kemudi atau tiang pada kapal atau perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bam",
+    "akarKata": null,
+    "ejaan": "bam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi yang berat dan lembut pada gendang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

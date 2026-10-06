@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Bu.nak",
+    "akarKata": null,
+    "ejaan": "Bunak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah perbatasan antara Timor Leste dan Provinsi Nusa Tenggara Timur di Pulau Timor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Bunak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

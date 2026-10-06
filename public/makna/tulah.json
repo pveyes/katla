@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tu.lah",
+    "akarKata": null,
+    "ejaan": "tulah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemalangan yang disebabkan oleh kutuk, karena perbuatan yang kurang baik terhadap orang tua (orang suci dan sebagainya), atau karena perbuatan melanggar larangan; kualat",
+        "contoh": "ia menerima -- karena perbuatannya yang tidak baik kepada orang tuanya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.lah",
+    "akarKata": null,
+    "ejaan": "tulah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambahan (gaji dan sebagainya)",
+        "contoh": "gaji lima ratus ribu dan --nya lima ribu rupiah",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

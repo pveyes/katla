@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ma.soi",
+    "akarKata": null,
+    "ejaan": "masoi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesiu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.soi",
+    "akarKata": null,
+    "ejaan": "masoi",
+    "baku": true,
+    "alt": "masoyi, mesui",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, kulitnya untuk obat bermacam-macam penyakit, misalnya keputihan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

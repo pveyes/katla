@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KPR",
+    "akarKata": null,
+    "ejaan": "KPR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kredit pemilikan rumah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

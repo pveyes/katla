@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "pe.nuh",
+    "akarKata": null,
+    "ejaan": "pênuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah berisi seluruhnya (tidak ada yang terluang lagi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak memuat",
+        "contoh": "pidato sambutan -- nasihat bagi kaum tua dan remaja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak sekali",
+        "contoh": "di lapangan Monas pagi-pagi sudah -- anak berolahraga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak kurang dari jumlah yang seharusnya",
+        "contoh": "gajinya sudah dibayar --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lengkap; sempurna",
+        "contoh": "kita telah memperoleh kemerdekaan yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

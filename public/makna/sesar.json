@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "se.sar",
+    "akarKata": null,
+    "ejaan": "sêsar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "geser",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.sar",
+    "akarKata": null,
+    "ejaan": "sêsar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bersesaran"
+        ]
+      }
+    ]
+  }
+]

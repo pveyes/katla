@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ri.rit",
+    "akarKata": null,
+    "ejaan": "ririt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "leret; deret",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

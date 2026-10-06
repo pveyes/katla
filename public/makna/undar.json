@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "un.dar",
+    "akarKata": null,
+    "ejaan": "undar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembentang benang yang sudah diberi air rebusan beras supaya kuat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

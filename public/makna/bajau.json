@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "ba.jau",
+    "akarKata": null,
+    "ejaan": "bajau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok masyarakat yang hidup di perahu, berdiam di perairan laut atau selat sekitar pantai timur Sumatra, Kalimantan, Sulawesi, dan Flores",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rakyat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.jau",
+    "akarKata": null,
+    "ejaan": "bajau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bajo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.jau",
+    "akarKata": null,
+    "ejaan": "Bajau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "Bajo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.jau",
+    "akarKata": null,
+    "ejaan": "bajau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintara peninjau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

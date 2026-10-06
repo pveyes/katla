@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "sa.wab",
+    "akarKata": null,
+    "ejaan": "sawab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang benar; kebenaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.wab",
+    "akarKata": null,
+    "ejaan": "sawab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ganjaran (di akhirat); pahala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

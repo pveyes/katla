@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pa.car",
+    "akarKata": null,
+    "ejaan": "pacar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teman lawan jenis yang tetap dan mempunyai hubungan berdasarkan cinta kasih yang belum terikat perkawinan; kekasih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.car",
+    "akarKata": null,
+    "ejaan": "pacar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun inai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

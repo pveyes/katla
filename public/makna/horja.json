@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hor.ja",
+    "akarKata": null,
+    "ejaan": "horja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan huta yang berdekatan dengan marga berbeda, tetapi mempunyai pertalian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

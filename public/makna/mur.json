@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "mur",
+    "akarKata": null,
+    "ejaan": "mur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "damar yang harum baunya, dipakai untuk dupa dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mur",
+    "akarKata": null,
+    "ejaan": "mur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelat logam dari bermacam bentuk, biasanya segi enam atau segi empat, mempunyai lubang berulir sekrup untuk menguatkan baut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

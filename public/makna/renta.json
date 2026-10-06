@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ren.ta",
+    "akarKata": null,
+    "ejaan": "rènta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tua; lanjut usia",
+        "contoh": "walaupun sudah -- dan cacat, ia masih juga bekerja keras",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ren.ta",
+    "akarKata": null,
+    "ejaan": "rênta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "merenta-renta"
+        ]
+      }
+    ]
+  }
+]

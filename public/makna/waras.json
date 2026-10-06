@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "wa.ras",
+    "akarKata": null,
+    "ejaan": "waras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sembuh jasmani; sehat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sehat rohani (mental, ingatan)",
+        "contoh": "kematian anaknyalah yang menyebabkan ibu itu menjadi kurang --",
+        "info": []
+      }
+    ]
+  }
+]

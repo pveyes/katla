@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BBG",
+    "akarKata": null,
+    "ejaan": "BBG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan bakar gas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

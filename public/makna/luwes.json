@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "lu.wes",
+    "akarKata": null,
+    "ejaan": "luwês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pantas dan menarik; elok",
+        "contoh": "dengan gayanya yang -- para penari mampu memukau penonton",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak kaku; tidak canggung; mudah disesuaikan",
+        "contoh": "para pejabat harus mempunyai sikap yang -- terhadap bawahannya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

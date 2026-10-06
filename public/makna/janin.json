@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.nin",
+    "akarKata": null,
+    "ejaan": "janin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakal bayi (masih dalam kandungan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "embrio setelah melebihi umur dua bulan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

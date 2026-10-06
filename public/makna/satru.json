@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sat.ru",
+    "akarKata": null,
+    "ejaan": "satru",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue satu; koyah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ong.ji",
+    "akarKata": null,
+    "ejaan": "ongji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "izin; lisensi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

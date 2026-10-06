@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ohm",
+    "akarKata": null,
+    "ejaan": "ohm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan hambatan listrik sebagai tahanan antara dua ujung yang dilalui arus listrik, jika padanya diberikan tegangan satu volt dan menimbulkan arus listrik satu ampere",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

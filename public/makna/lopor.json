@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "lo.por",
+    "akarKata": null,
+    "ejaan": "lopor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian rantai antara jangkar dan segel pertama yang panjangnya kira-kira sama dengan panjang ulup jangkar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lo.por",
+    "akarKata": null,
+    "ejaan": "lopor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bekerja untuk mendampingi dan menghentikan kuda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "AC",
+    "akarKata": null,
+    "ejaan": "AC",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengondisi udara; penyejuk udara; dari air conditioning; air conditioner",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arus bolak-balik; dari alternating current",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "AC",
+    "akarKata": null,
+    "ejaan": "AC",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebelum masehi; SM; ante Christum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "hid.ro",
+    "akarKata": null,
+    "ejaan": "hidro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembangkit listrik yang menggunakan tekanan air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daya yang dihasilkan dengan menggunakan tekanan air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hidroelektrik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ga.bus",
+    "akarKata": null,
+    "ejaan": "gabus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang lunak, biasanya dari pohon Alstonia scholaris (biasa dipakai untuk mengasah pisau, taji, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.bus",
+    "akarKata": null,
+    "ejaan": "gabus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu atau hati kayu yang lunak untuk sumbat botol dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.bus",
+    "akarKata": null,
+    "ejaan": "gabus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan berukuran mencapai 100 cm dan berat 3 kg, bersifat bentopelagis, hidup di sungai dan perairan tergenang, berlumpur dengan kedalaman mencapai 10 m, tersebar di perairan Asia; rating; aruan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

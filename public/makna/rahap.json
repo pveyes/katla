@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.hap",
+    "akarKata": null,
+    "ejaan": "rahap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(kain) penutup mayat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.hap",
+    "akarKata": null,
+    "ejaan": "rahap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "turun (hinggap)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

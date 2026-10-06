@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UNS",
+    "akarKata": null,
+    "ejaan": "UNS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Sebelas Maret",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

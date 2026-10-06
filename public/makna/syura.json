@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "syu.ra",
+    "akarKata": null,
+    "ejaan": "syura",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nasihat",
+        "contoh": "majelis --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

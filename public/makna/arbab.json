@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ar.bab",
+    "akarKata": null,
+    "ejaan": "arbab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rebab",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

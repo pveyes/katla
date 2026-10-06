@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "acah",
+    "akarKata": null,
+    "ejaan": "acah",
+    "baku": true,
+    "alt": "acan",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "beracah-acah",
+          "mengacah"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "acah",
+    "akarKata": null,
+    "ejaan": "acah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengacah"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pa.tut",
+    "akarKata": null,
+    "ejaan": "patut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik; layak; pantas; senonoh",
+        "contoh": "perbuatan baik itu -- dipuji",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sesuai benar (dengan); sepadan (dengan); seimbang (dengan)",
+        "contoh": "rumahnya kurang -- dengan jabatannya yang tinggi itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masuk akal; wajar",
+        "contoh": "pada hemat saya tuntutan mereka itu tidak boleh dikatakan tidak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah seharusnya (sepantasnya, selayaknya)",
+        "contoh": "orang yang berjasa kepada negara -- diberi penghargaan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tentu saja; sebenarnya",
+        "contoh": "-- ia tidak sanggup membayar utang karena uangnya sudah habis",
+        "info": []
+      }
+    ]
+  }
+]

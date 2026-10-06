@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wa.nua",
+    "akarKata": null,
+    "ejaan": "wanua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah teritorial adat dalam suku Bugis, terdiri atas beberapa kampung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bugis",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

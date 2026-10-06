@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.dak",
+    "akarKata": null,
+    "ejaan": "sadak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "miring; condong (tentang tiang dan sebagainya)",
+        "contoh": "pemancangan tiang listrik itu agak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.dak",
+    "akarKata": null,
+    "ejaan": "sadak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segulung sirih (yang akan dikunyah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

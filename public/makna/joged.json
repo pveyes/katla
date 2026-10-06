@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "jo.ged",
+    "akarKata": null,
+    "ejaan": "jogèd",
+    "baku": false,
+    "alt": "joget",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tari (sebarang tarian)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian dan lagu Melayu yang agak rancak iramanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "andak; ronggeng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

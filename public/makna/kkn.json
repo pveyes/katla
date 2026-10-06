@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KKN",
+    "akarKata": null,
+    "ejaan": "KKN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuliah kerja nyata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

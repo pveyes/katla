@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "me.sik",
+    "akarKata": null,
+    "ejaan": "mésik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat tidak basah, tetapi juga tidak kering (tentang lingkungan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sifat atau ciri tumbuhan yang hanya dapat beradaptasi pada suhu dan kelembapan rata-rata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

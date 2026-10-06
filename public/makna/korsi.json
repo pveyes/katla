@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "kor.si",
+    "akarKata": null,
+    "ejaan": "korsi",
+    "baku": false,
+    "alt": "kursi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk yang berkaki dan bersandaran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan, jabatan (dalam parlemen, kabinet, pengurus, dan sebagainya)",
+        "contoh": "ia terpilih menduduki -- ketua",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

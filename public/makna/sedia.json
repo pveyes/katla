@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "se.dia",
+    "akarKata": null,
+    "ejaan": "sêdia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "(yang) semula; (yang) asal; (yang) sudah-sudah; (yang) dahulu; selalu demikian halnya; memang",
+        "contoh": "pulang seperti --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.dia",
+    "akarKata": null,
+    "ejaan": "sêdia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah selesai dibuat (disiapkan, diatur, dan sebagainya); sudah jadi",
+        "contoh": "rumah itu sudah -- untuk ditempati",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "siap (untuk ...); mustaid",
+        "contoh": "polisi selalu -- menghadapi segala kerusuhan dalam masyarakat",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sanggup (akan); sudi dan rela; mau",
+        "contoh": "ia -- untuk menjadi guru di kota terpencil itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ada (disiapkan untuk dipakai, dijual, dan sebagainya); sudah ada",
+        "contoh": "makanan dan minuman sudah -- di meja",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah; telah",
+        "contoh": "Tuan -- maklum juga, bukan?",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.dia",
+    "akarKata": null,
+    "ejaan": "sêdia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "sedianya"
+        ]
+      }
+    ]
+  }
+]

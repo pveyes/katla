@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "nan.ti",
+    "akarKata": null,
+    "ejaan": "nanti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu yang tidak lama dari sekarang; waktu kemudian; kelak",
+        "contoh": "hal itu akan kita bicarakan --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kalau tidak begitu; kalau tidak",
+        "contoh": "dengarkan nasihatku baik-baik, -- engkau menyesal",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "akan",
+        "contoh": "tidak -- menurut perintahmu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "nan.ti",
+    "akarKata": null,
+    "ejaan": "nanti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tunggu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

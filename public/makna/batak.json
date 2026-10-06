@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ba.tak",
+    "akarKata": null,
+    "ejaan": "batak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petualang; pengembara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.tak",
+    "akarKata": null,
+    "ejaan": "Batak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang berasal atau mendiami sebagian besar daerah Sumatra Utara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Batak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

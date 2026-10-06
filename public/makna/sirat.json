@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "si.rat",
+    "akarKata": null,
+    "ejaan": "sirat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "simpul tali yang membentuk mata jala",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.rat",
+    "akarKata": null,
+    "ejaan": "sirat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celah; sela (antara gigi dan gigi dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.rat",
+    "akarKata": null,
+    "ejaan": "sirat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jembatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.rat",
+    "akarKata": null,
+    "ejaan": "sirat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cawat yang dikenakan oleh lelaki Dayak Iban",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

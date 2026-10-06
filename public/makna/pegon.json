@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "pe.gon",
+    "akarKata": null,
+    "ejaan": "pégon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aksara Arab yang digunakan untuk menuliskan bahasa Jawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tulisan Arab yang tidak diberi tanda-tanda bunyi (diakritik); tulisan Arab gundul",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.gon",
+    "akarKata": null,
+    "ejaan": "pégon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "versi sampan kelelaan yang diberi kokop dan diperbesar menjadi perahu bercantek yang mampu mengangkut hingga 100 ton muatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.gon",
+    "akarKata": null,
+    "ejaan": "pégon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "godek nongkek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

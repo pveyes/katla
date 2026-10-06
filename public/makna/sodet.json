@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "so.det",
+    "akarKata": null,
+    "ejaan": "sodèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sendok ceper besar yang terbuat dari seng dan sebagainya untuk mengaduk sesuatu yang sedang digoreng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.det",
+    "akarKata": null,
+    "ejaan": "sodèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "toreh atau robek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ba.kat",
+    "akarKata": null,
+    "ejaan": "bakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alamat (tanda-tanda bahwa sesuatu akan terjadi)",
+        "contoh": "-- hujan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar (kepandaian, sifat, dan pembawaan) yang dibawa sejak lahir",
+        "contoh": "ia memiliki -- melukis (menyanyi dan sebagainya)",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas; kesan; tanda-tanda (luka dan sebagainya)",
+        "contoh": "-- banjir yang melanda kampung itu masih tampak jelas",
+        "info": []
+      }
+    ]
+  }
+]

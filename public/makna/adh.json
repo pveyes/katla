@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ADH",
+    "akarKata": null,
+    "ejaan": "ADH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hormon antidiuretik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

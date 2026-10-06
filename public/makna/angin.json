@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "angin",
+    "akarKata": null,
+    "ejaan": "angin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan udara dari daerah yang bertekanan tinggi ke daerah yang bertekanan rendah",
+        "contoh": "tiupan -- kencang merobohkan beberapa rumah penduduk",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hawa; udara",
+        "contoh": "ban berisi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kentut",
+        "contoh": "jangan buang -- sembarangan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesempatan; kemungkinan",
+        "contoh": "menantikan -- baik",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hampa; kosong",
+        "contoh": "cakap --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecenderungan yang agak menggembirakan",
+        "contoh": "sejak pertengahan tahun 1999 terasa ada -- baru dalam percaturan politik negara itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

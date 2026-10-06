@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ra.san",
+    "akarKata": null,
+    "ejaan": "rasan",
+    "baku": false,
+    "alt": "rasam",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebiasaan; aturan; adat; sifat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.san",
+    "akarKata": null,
+    "ejaan": "rasan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "basi; busuk",
+        "contoh": "nasi sudah --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.san",
+    "akarKata": null,
+    "ejaan": "rasan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "basi; busuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

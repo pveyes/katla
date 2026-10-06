@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "la.tam",
+    "akarKata": null,
+    "ejaan": "latam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melatam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

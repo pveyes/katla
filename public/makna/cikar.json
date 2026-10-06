@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ci.kar",
+    "akarKata": null,
+    "ejaan": "cikar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kereta beroda dua yang ditarik oleh lembu, kerbau, atau kuda; pedati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ci.kar",
+    "akarKata": null,
+    "ejaan": "cikar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berbelok; berganti haluan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

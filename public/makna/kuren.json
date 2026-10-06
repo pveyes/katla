@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.ren",
+    "akarKata": null,
+    "ejaan": "kurên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikatan suami istri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

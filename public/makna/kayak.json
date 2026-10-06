@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ka.yak",
+    "akarKata": null,
+    "ejaan": "kayak",
+    "baku": true,
+    "alt": "kaya",
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "seperti; sebagai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.yak",
+    "akarKata": null,
+    "ejaan": "kayak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu kecil orang Eskimo yang dibungkus kulit hewan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu kecil (dengan seorang atau dua orang pendayung) untuk lomba mendayung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

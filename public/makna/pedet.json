@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pe.det",
+    "akarKata": null,
+    "ejaan": "pêdèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak sapi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

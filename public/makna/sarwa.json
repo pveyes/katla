@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sar.wa",
+    "akarKata": null,
+    "ejaan": "sarwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "semua; sekalian; serba",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

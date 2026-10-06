@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ce.cer",
+    "akarKata": null,
+    "ejaan": "cècèr",
+    "baku": true,
+    "alt": "cicir",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh atau tumpah sedikit-sedikit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.cer",
+    "akarKata": null,
+    "ejaan": "cêcêr",
+    "baku": false,
+    "alt": "cecar",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencecar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

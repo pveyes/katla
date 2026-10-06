@@ -1,0 +1,82 @@
+[
+  {
+    "sukuKata": "se.pah",
+    "akarKata": null,
+    "ejaan": "sépah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersepah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pah",
+    "akarKata": null,
+    "ejaan": "sêpah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ampas sesuatu yang sudah dikunyah dan diisap air atau sarinya",
+        "contoh": "-- tebu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pah",
+    "akarKata": null,
+    "ejaan": "sêpah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi mencapai 40 m, berbatang bulat, kayunya yang berwarna kuning muda sangat keras, getahnya dapat dibuat lilin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pah",
+    "akarKata": null,
+    "ejaan": "sêpah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama batu permata (di dalamnya terdapat gambar akar kayu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pah",
+    "akarKata": null,
+    "ejaan": "sêpah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung dari keluarga Campepaghidae, pemakan serangga seperti ulat, laba-laba, kumbang, larva, bersuara nyaring dengan warna bulu  berwarna-warni, tinggal di hutan primer, sekunder, bakau, dan lahan perkebunan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

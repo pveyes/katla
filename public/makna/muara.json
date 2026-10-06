@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "mu.a.ra",
+    "akarKata": null,
+    "ejaan": "muara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat berakhirnya aliran sungai di laut, danau, atau sungai lain; sungai yang dekat dengan laut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Mu.a.ra",
+    "akarKata": null,
+    "ejaan": "Muara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kecamatan Kembayan, Kabupaten Sanggau, Provinsi Kalimantan Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.par",
+    "akarKata": null,
+    "ejaan": "abpar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cawat (dari kulit kayu, kain, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "putuk",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

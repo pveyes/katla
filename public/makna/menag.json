@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Me.nag",
+    "akarKata": null,
+    "ejaan": "mênag",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Menteri Agama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "es.ter",
+    "akarKata": null,
+    "ejaan": "èstêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa yang terbentuk pada reaksi antara alkohol dan asam organik dengan pengeluaran satu molekul air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

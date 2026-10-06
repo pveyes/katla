@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "tu.kin",
+    "akarKata": null,
+    "ejaan": "tukin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tunjangan kinerja",
+        "contoh": "jika seorang PNS terlambat tiba di kantor, --nya akan dipotong",
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

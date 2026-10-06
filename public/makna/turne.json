@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tur.ne",
+    "akarKata": null,
+    "ejaan": "turné",
+    "baku": true,
+    "alt": "torne",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bepergian untuk melakukan suatu tugas (meninjau suatu daerah dan sebagainya); bepergian ke daerah lain dalam rangka tugas (dinas)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

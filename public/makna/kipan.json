@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ki.pan",
+    "akarKata": null,
+    "ejaan": "kipan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kompi senapan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

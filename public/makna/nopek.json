@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "no.pek",
+    "akarKata": null,
+    "ejaan": "nopèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "dua ratus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

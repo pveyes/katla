@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.tip",
+    "akarKata": null,
+    "ejaan": "kutip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil sedikit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pungut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

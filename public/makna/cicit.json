@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ci.cit",
+    "akarKata": null,
+    "ejaan": "cicit",
+    "baku": true,
+    "alt": "cici",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "generasi keempat atau keturunan ketiga; anak dari cucu (secara berurutan: anak, cucu, cicit atau buyut, piut atau canggah, anggas); buyut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ci.cit",
+    "akarKata": null,
+    "ejaan": "cicit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi suara tikus atau anak burung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

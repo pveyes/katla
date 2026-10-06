@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.jul",
+    "akarKata": null,
+    "ejaan": "bujul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kawin dengan orang yang satu marga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

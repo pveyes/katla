@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "kit.ri",
+    "akarKata": null,
+    "ejaan": "kitri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon buah-buahan (di halaman)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benih pohon kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda pada tanah yang telah ditebangi pohon di atasnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

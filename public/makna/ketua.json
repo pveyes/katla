@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.tua",
+    "akarKata": "tua",
+    "ejaan": "ketua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang tertua dan banyak pengalamannya (dalam suatu kampung dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mengepalai atau memimpin (rapat, dewan, perkumpulan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tua",
+    "akarKata": null,
+    "ejaan": "kêtua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat tua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

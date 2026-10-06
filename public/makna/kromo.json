@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "kro.mo",
+    "akarKata": null,
+    "ejaan": "kromo",
+    "baku": true,
+    "alt": "krama",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkatan bahasa dalam bahasa Jawa yang termasuk ragam hormat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kro.mo",
+    "akarKata": null,
+    "ejaan": "kromo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama orang yang dipakai sebagai lambang yang menggambarkan rakyat kecil atau orang kebanyakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

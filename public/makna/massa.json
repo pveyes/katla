@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "mas.sa",
+    "akarKata": null,
+    "ejaan": "massa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejumlah besar benda (zat dan sebagainya) yang dikumpulkan (disatukan) menjadi satu (atau kesatuan)",
+        "contoh": "-- batu-batuan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah yang banyak sekali; sekumpulan orang yang banyak sekali (berkumpul di suatu tempat atau tersebar)",
+        "contoh": "-- membanjiri lapangan untuk melihat pertunjukan sirkus",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok manusia yang bersatu karena dasar atau pegangan tertentu",
+        "contoh": "organisasi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran kuantitatif sifat kelembaman (inersia) benda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekelompok orang yang anonim yang berada di suatu tempat yang sama",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

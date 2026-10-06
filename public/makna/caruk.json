@@ -1,0 +1,127 @@
+[
+  {
+    "sukuKata": "ca.ruk",
+    "akarKata": null,
+    "ejaan": "caruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kupas (kulit)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.ruk",
+    "akarKata": null,
+    "ejaan": "caruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lahap; rakus; pajuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.ruk",
+    "akarKata": null,
+    "ejaan": "caruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berkelahi satu lawan satu atau secara massal dengan menggunakan senjata tajam (celurit), dengan latar belakang wanita, dendam, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.ruk",
+    "akarKata": null,
+    "ejaan": "caruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang antara dinding haluan dan buritan perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.ruk",
+    "akarKata": null,
+    "ejaan": "caruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertunjukan kesenian angklung Banyuwangi, terdiri atas dua kelompok pemain angklung yang diadu kemampuannya dalam memainkan angklung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.ruk",
+    "akarKata": null,
+    "ejaan": "caruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara membunyikan saron, bonang, demung yang bersahut-sahutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

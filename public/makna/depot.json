@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "de.pot",
+    "akarKata": null,
+    "ejaan": "dépot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyimpan barang (dagangan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah kecil tempat berjualan es, rokok, obat, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "depo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

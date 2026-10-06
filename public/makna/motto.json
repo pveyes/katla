@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mot.to",
+    "akarKata": null,
+    "ejaan": "motto",
+    "baku": false,
+    "alt": "moto",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kalimat, frasa, atau kata yang digunakan sebagai semboyan, pedoman, atau prinsip seperti “berani karena benar”",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kalimat, frasa, atau kata yang tertera di atas sesuatu yang menggambarkan sifat atau kegunaan benda itu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

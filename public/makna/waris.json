@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "wa.ris",
+    "akarKata": null,
+    "ejaan": "waris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berhak menerima harta pusaka dari orang yang telah meninggal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wa.ris",
+    "akarKata": null,
+    "ejaan": "waris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu mujur; untung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Wa.ris",
+    "akarKata": null,
+    "ejaan": "Waris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah perbatasan dengan Papua Nugini, sebelah tenggara Kabupaten Jayapura",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Waris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

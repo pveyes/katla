@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "je.lau",
+    "akarKata": null,
+    "ejaan": "jêlau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jenguk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

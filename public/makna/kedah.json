@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.dah",
+    "akarKata": null,
+    "ejaan": "kêdah",
+    "baku": true,
+    "alt": "keda",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terbuka lebar (tentang mulut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.dah",
+    "akarKata": null,
+    "ejaan": "kêdah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkap untuk menangkap gajah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

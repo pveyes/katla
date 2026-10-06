@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.yon",
+    "akarKata": null,
+    "ejaan": "guyon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bergurau",
+        "contoh": "jenderal polisi yang tampak angker dan seram itu ternyata suka --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.sor.bat",
+    "akarKata": null,
+    "ejaan": "absorbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang terserap ke dalam pori-pori zat padat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

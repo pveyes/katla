@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ti.ras",
+    "akarKata": null,
+    "ejaan": "tiras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan atau guntingan benang (kain dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang pada tepi kain dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.ras",
+    "akarKata": null,
+    "ejaan": "tiras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "oplah",
+        "contoh": "majalah berbahasa daerah itu sekarang mempunyai -- 75.000 eksemplar",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "wa.duk",
+    "akarKata": null,
+    "ejaan": "waduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perut besar tempat mencernakan makanan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kolam besar tempat menyimpan air sediaan untuk berbagai kebutuhan atau mengatur pembagian air dan sebagainya (dipakai di musim kemarau)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menara air (tempat persediaan air)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

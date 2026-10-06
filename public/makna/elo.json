@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "elo",
+    "akarKata": null,
+    "ejaan": "élo",
+    "baku": true,
+    "alt": "ela",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran panjang, sama dengan 0,688 m",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Elo",
+    "akarKata": null,
+    "ejaan": "élo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem peringkat yang digunakan sebagai metode untuk mengukur tingkat kemampuan relatif pemain dalam permainan jumlah-nol (misalnya catur dan go)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "me.kar",
+    "akarKata": null,
+    "ejaan": "mêkar",
+    "baku": true,
+    "alt": "mengkar",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(mulai) berkembang; menjadi terbuka; mengurai",
+        "contoh": "mawar itu -- disinari matahari pagi",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi besar dan gembung; menjadi banyak",
+        "contoh": "adonan roti ini telah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi bertambah luas (besar, ramai, bagus, dan sebagainya)",
+        "contoh": "jalan sudah makin besar, kota juga tambah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(mulai) timbul dan berkembang",
+        "contoh": "di hatinya mulai -- perasaan cinta",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

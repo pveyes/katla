@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "abu",
+    "akarKata": null,
+    "ejaan": "abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa yang tinggal setelah suatu barang mengalami pembakaran lengkap",
+        "contoh": "-- rokok",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "debu",
+        "contoh": "bajunya kotor oleh --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abu",
+    "akarKata": null,
+    "ejaan": "abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bapak; ayah (pada nama orang, misalnya Abu Talib, Abu Bakar)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abu",
+    "akarKata": null,
+    "ejaan": "abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kalah (dalam permainan congklak, gasing)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abu",
+    "akarKata": null,
+    "ejaan": "abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara menyimpan plasenta bayi dengan meletakkannya di pelepah sagu dan diselipkan di antara cabang pohon agar tidak dimakan oleh binatang tanah",
+        "contoh": "setelah ibu melahirkan, bapak segera melakukan --",
+        "info": []
+      }
+    ]
+  }
+]

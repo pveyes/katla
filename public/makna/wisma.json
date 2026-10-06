@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "wis.ma",
+    "akarKata": null,
+    "ejaan": "wisma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan untuk tempat tinggal, kantor, dan sebagainya; gerha",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan rumah; kompleks perumahan; permukiman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

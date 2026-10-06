@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bet",
+    "akarKata": null,
+    "ejaan": "bèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemukul bola dalam olahraga tenis meja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bet",
+    "akarKata": null,
+    "ejaan": "bèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang ditumbuhi oleh belukar yang letaknya dekat tanah yang sedang dikerjakan (di Bali, Lombok)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

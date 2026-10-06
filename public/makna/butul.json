@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.tul",
+    "akarKata": null,
+    "ejaan": "butul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tembus; berlubang dari sisi satu ke sisi lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

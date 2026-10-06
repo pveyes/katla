@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "em.pat",
+    "akarKata": null,
+    "ejaan": "êmpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "bilangan yang dilambangkan dengan angka 4 (Arab) atau IV (Romawi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "urutan ke-4 sesudah ke-3 dan sebelum ke-5",
+        "contoh": "sekarang ia masih duduk di kelas --, mudah-mudahan tahun depan ia naik ke kelas lima",
+        "info": []
+      }
+    ]
+  }
+]

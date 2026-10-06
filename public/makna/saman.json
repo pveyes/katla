@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "sa.man",
+    "akarKata": null,
+    "ejaan": "saman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dakwa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dakwaan",
+        "contoh": "di pengadilan, jaksa telah membuktikan -- yang diajukannya",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat sita",
+        "contoh": "juru sita telah mengirimkan -- kepadanya seminggu yang lalu",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan untuk menghadap pengadilan",
+        "contoh": "berdasarkan -- yang diterimanya, ia akan menghadap ke pengadilan pada hari Senin nanti",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.man",
+    "akarKata": null,
+    "ejaan": "saman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tari ritmik di Aceh, dilakukan oleh lebih dari sepuluh pemain sambil duduk berlutut dan berjajar, mereka membuat gerak pukulan telapak tangan ke dada dan paha secara berirama, diiringi dengan nyanyian pantun yang dimulai oleh syekh selaku pimpinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

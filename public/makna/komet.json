@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.met",
+    "akarKata": null,
+    "ejaan": "komèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda angkasa yang beredar mengelilingi matahari, bercahaya seperti bintang, bagian tengahnya bercahaya terang, dan berekor panjang menyerupai kabut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

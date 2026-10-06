@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "Woi",
+    "akarKata": null,
+    "ejaan": "Woi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Kabupaten Yapen Waropen, Provinsi Papua Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Woi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "woi",
+    "akarKata": null,
+    "ejaan": "woi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk memanggil dan sebagainya; oi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

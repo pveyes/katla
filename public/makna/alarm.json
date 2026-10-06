@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "alarm",
+    "akarKata": null,
+    "ejaan": "alarm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda bahaya berupa sinyal, bunyi, sinar, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat mekanik yang dirancang untuk memperingatkan akan adanya bahaya atau kerusakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

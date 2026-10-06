@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gue",
+    "akarKata": null,
+    "ejaan": "guè",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "saya; aku",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

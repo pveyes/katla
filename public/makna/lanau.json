@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "la.nau",
+    "akarKata": null,
+    "ejaan": "lanau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlumpur; becek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.nau",
+    "akarKata": null,
+    "ejaan": "lanau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepingan atau butiran batu yang lebih kecil daripada pasir halus, tetapi lebih besar daripada lempung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

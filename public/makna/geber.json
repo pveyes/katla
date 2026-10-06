@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ge.ber",
+    "akarKata": null,
+    "ejaan": "gêbêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tirai atau layar pada pentas pertunjukan sandiwara dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.ber",
+    "akarKata": null,
+    "ejaan": "gêbêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bendera terbuat dari kain, dipakai sebagai tanda dimulainya karapan sapi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

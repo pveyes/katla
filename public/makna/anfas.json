@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.fas",
+    "akarKata": null,
+    "ejaan": "anfas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat bernilai tinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

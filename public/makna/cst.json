@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "CST",
+    "akarKata": null,
+    "ejaan": "CST",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cangkok sumsum tulang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

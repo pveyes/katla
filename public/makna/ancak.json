@@ -1,0 +1,95 @@
+[
+  {
+    "sukuKata": "an.cak",
+    "akarKata": null,
+    "ejaan": "ancak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda batas kepemilikan (misalnya untuk tanah atau rumah) berupa pohon, potongan besi yang ditanam, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.cak",
+    "akarKata": null,
+    "ejaan": "ancak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "talam dibuat dari anyaman (bambu, daun atau lidi nyiur) untuk tempat barang yang disajikan kepada roh (hantu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "para-para",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.cak",
+    "akarKata": null,
+    "ejaan": "ancak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat bilah-bilah gamelan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dibuat dari bilah-bilah kayu yang digunakan untuk alas merontokkan padi di sawah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.cak",
+    "akarKata": null,
+    "ejaan": "ancak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lahan atau areal dengan batas luas tertentu yang dikerjakan seseorang atau sekelompok pekerja untuk ditanami kelapa sawit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

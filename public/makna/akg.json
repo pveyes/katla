@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "AKG",
+    "akarKata": null,
+    "ejaan": "AKG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka kecukupan gizi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "po.jok",
+    "akarKata": null,
+    "ejaan": "pojok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat bertemunya dua garis atau dua sisi (ujung, permukaan, dan sebagainya); sudut; penjuru",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang jauh atau yang tidak mudah kelihatan (didatangi, dihubungi, dan sebagainya)",
+        "contoh": "penduduk dari -- kota berdatangan untuk ikut menyambut dan mengelu-elukannya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lajur di sudut surat kabar tempat karangan pendek, berisikan hal-hal yang humoris, tetapi mengandung kritik atau sindiran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

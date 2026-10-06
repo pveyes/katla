@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "nu.nut",
+    "akarKata": null,
+    "ejaan": "nunut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menumpang (di kendaraan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

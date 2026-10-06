@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ca.per",
+    "akarKata": null,
+    "ejaan": "capêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cari perhatian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

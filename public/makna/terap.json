@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "te.rap",
+    "akarKata": null,
+    "ejaan": "têrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon sukun hutan, daunnya lebar-lebar, kayunya sangat cocok untuk bahan rumah karena tahan rayap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu terap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.rap",
+    "akarKata": null,
+    "ejaan": "têrap",
+    "baku": true,
+    "alt": "trap",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berterap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.rap",
+    "akarKata": null,
+    "ejaan": "têrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menerapkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

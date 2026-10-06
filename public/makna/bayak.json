@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ba.yak",
+    "akarKata": null,
+    "ejaan": "bayak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlampau besar atau gemuk, tetapi kurang tinggi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar atau gendut (tentang perut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.yak",
+    "akarKata": null,
+    "ejaan": "bayak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cerai-berai tidak beraturan; terserak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

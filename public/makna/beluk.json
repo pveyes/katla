@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "be.luk",
+    "akarKata": null,
+    "ejaan": "bêluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesenian berupa pembacaan cerita dengan ditembangkan secara bergilir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.luk",
+    "akarKata": null,
+    "ejaan": "bêluk",
+    "baku": false,
+    "alt": "seluk",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lilit; belit; keluk; kelok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penutup kepala, terbuat dari kain panjang yang dilipat-lipat dengan memakai lilin supaya kaku, dipakai sebagai pelengkap pakaian seorang datuk atau pengantin laki-laki di Minangkabau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiasan kepala pengantin laki-laki suku  Kerinci, terbuat dari bahan batik Jambi berwarna biru atau kain songket merah berbenang emas, berbentuk topi baret, bagian depan lebih tinggi daripada bagian belakang, terdapat beberapa lipatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.luk",
+    "akarKata": null,
+    "ejaan": "bêluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hama perusak tanaman yang sudah berbunga yang mengakibatkan mengeringnya malai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "am.beg",
+    "akarKata": null,
+    "ejaan": "ambêg",
+    "baku": false,
+    "alt": "ambek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "watak; tabiat; sifat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berwatak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "eyang",
+    "akarKata": null,
+    "ejaan": "èyang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nenek (laki-laki atau perempuan); datuk (kakek)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          },
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ce.kah",
+    "akarKata": null,
+    "ejaan": "cêkah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terbuka (terbelah) sedikit; rekah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kah",
+    "akarKata": null,
+    "ejaan": "cêkah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "potong tebal-tebal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

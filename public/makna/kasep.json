@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ka.sep",
+    "akarKata": null,
+    "ejaan": "kasèp",
+    "baku": false,
+    "alt": "kasip",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlambat; lewat waktu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sep",
+    "akarKata": null,
+    "ejaan": "kasèp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tampan (untuk laki-laki); cakap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

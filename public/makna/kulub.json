@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ku.lub",
+    "akarKata": null,
+    "ejaan": "kulub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hati (jamak dari kalbu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.lub",
+    "akarKata": null,
+    "ejaan": "kulub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sayuran yang direbus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

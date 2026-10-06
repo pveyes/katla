@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ru.sun",
+    "akarKata": null,
+    "ejaan": "rusun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah susun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

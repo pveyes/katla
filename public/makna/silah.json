@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "si.lah",
+    "akarKata": null,
+    "ejaan": "silah",
+    "baku": false,
+    "alt": "sila",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyilakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.lah",
+    "akarKata": null,
+    "ejaan": "silah",
+    "baku": false,
+    "alt": "silsilah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asal-usul suatu keluarga berupa bagan; susur galur (keturunan)",
+        "contoh": "menurut --nya, ia berasal dari keluarga baik-baik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "catatan yang menggambarkan hubungan keluarga ternak sampai beberapa generasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggambaran hubungan antara bahasa induk dan bahasa-bahasa turunan dalam keluarga bahasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

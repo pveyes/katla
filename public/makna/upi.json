@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UPI",
+    "akarKata": null,
+    "ejaan": "UPI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Pendidikan Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

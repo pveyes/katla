@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "se.luk",
+    "akarKata": null,
+    "ejaan": "sêluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lilit; belit; keluk; kelok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penutup kepala, terbuat dari kain panjang yang dilipat-lipat dengan memakai lilin supaya kaku, dipakai sebagai pelengkap pakaian seorang datuk atau pengantin laki-laki di Minangkabau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiasan kepala pengantin laki-laki suku  Kerinci, terbuat dari bahan batik Jambi berwarna biru atau kain songket merah berbenang emas, berbentuk topi baret, bagian depan lebih tinggi daripada bagian belakang, terdapat beberapa lipatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.luk",
+    "akarKata": null,
+    "ejaan": "sêluk",
+    "baku": true,
+    "alt": "beluk",
+    "makna": [
+      {
+        "definisi": "lilit; belit; keluk; kelok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "penutup kepala, terbuat dari kain panjang yang dilipat-lipat dengan memakai lilin supaya kaku, dipakai sebagai pelengkap pakaian seorang datuk atau pengantin laki-laki di Minangkabau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "hiasan kepala pengantin laki-laki suku  Kerinci, terbuat dari bahan batik Jambi berwarna biru atau kain songket merah berbenang emas, berbentuk topi baret, bagian depan lebih tinggi daripada bagian belakang, terdapat beberapa lipatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

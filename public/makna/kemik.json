@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.mik",
+    "akarKata": null,
+    "ejaan": "kêmik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penyok; lekuk",
+        "contoh": "mobil itu -- tersenggol truk",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.mik",
+    "akarKata": null,
+    "ejaan": "kêmik",
+    "baku": true,
+    "alt": "kemak-kemik",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kemak-kemik"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ru.rut",
+    "akarKata": null,
+    "ejaan": "rurut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gugur; jatuh",
+        "contoh": "bunga itu telah -- sebelum mekar",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.rut",
+    "akarKata": null,
+    "ejaan": "rurut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merurut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

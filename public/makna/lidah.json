@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "li.dah",
+    "akarKata": null,
+    "ejaan": "lidah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tubuh dalam mulut yang dapat bergerak-gerak dengan mudah, gunanya untuk menjilat, mengecap, dan berkata-kata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu atau bagian sesuatu yang menyerupai (bersifat dan sebagainya seperti) lidah",
+        "contoh": "-- serunai",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung suatu benda yang menyerupai lidah (memanjang, agak tipis, bergerak-gerak seperti lidah, dan sebagainya)",
+        "contoh": "-- kain",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkataan; tutur kata",
+        "contoh": "lembut dan fasih --nya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.dah",
+    "akarKata": null,
+    "ejaan": "lidah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, payau, atau air tawar, bentuk pipih seperti lidah, panjang mencapai 35 cm, hidup di dasar perairan tropis, dengan kedalaman mencapai 1–140 m, tersebar di perairan India sampai Papua Nugini",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

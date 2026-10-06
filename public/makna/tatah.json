@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ta.tah",
+    "akarKata": null,
+    "ejaan": "tatah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pahat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.tah",
+    "akarKata": null,
+    "ejaan": "tatah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bertatah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.tah",
+    "akarKata": null,
+    "ejaan": "tatah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mulai dapat berjalan (tentang kanak-kanak); tatih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

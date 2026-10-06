@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TOR",
+    "akarKata": null,
+    "ejaan": "TOR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petunjuk operasional rutin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

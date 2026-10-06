@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ra.ras",
+    "akarKata": null,
+    "ejaan": "raras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luruh semuanya (tentang daun di pohon)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.ras",
+    "akarKata": null,
+    "ejaan": "raras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencuci beras atau biji-bijian yang hendak dimasak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.ras",
+    "akarKata": null,
+    "ejaan": "raras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan peralihan antara dua adegan dalam tari Sunda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

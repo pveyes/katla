@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.por",
+    "akarKata": null,
+    "ejaan": "rapor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laporan resmi (kepada yang wajib menerimanya); lapor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.por",
+    "akarKata": null,
+    "ejaan": "rapor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku yang berisi nilai kepandaian dan prestasi belajar murid di sekolah, berfungsi sebagai laporan guru kepada orang tua atau wali murid",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

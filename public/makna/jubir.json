@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ju.bir",
+    "akarKata": null,
+    "ejaan": "jubir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "juru bicara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "se.kan",
+    "akarKata": null,
+    "ejaan": "sékan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis lurus yang mempunyai satu titik persekutuan atau lebih dengan suatu lengkungan, jarak titik persekutuan bergantung pada posisi bentuk lengkungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kan",
+    "akarKata": null,
+    "ejaan": "sêkan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelang anyaman dibuat dari kulit kayu atau kulit anggrek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pegunungan tengah",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

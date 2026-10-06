@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "flu",
+    "akarKata": null,
+    "ejaan": "flu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit menular pada saluran pernapasan yang disebabkan oleh virus; influenza; pilek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

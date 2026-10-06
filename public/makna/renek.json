@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "re.nek",
+    "akarKata": null,
+    "ejaan": "rènèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis tumbuhan pelir anjing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.nek",
+    "akarKata": null,
+    "ejaan": "rènèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jenis tumbuhan pelir anjing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

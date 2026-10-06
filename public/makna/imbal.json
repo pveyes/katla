@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "im.bal",
+    "akarKata": null,
+    "ejaan": "imbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "miring ke satu pihak; bengot (tidak bundar benar)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak seimbang; berat sebelah; pincang (tidak sebagaimana mestinya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "im.bal",
+    "akarKata": null,
+    "ejaan": "imbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balas(an); upah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

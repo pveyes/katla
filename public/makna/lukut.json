@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lu.kut",
+    "akarKata": null,
+    "ejaan": "lukut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ganggang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.kut",
+    "akarKata": null,
+    "ejaan": "lukut",
+    "baku": false,
+    "alt": "melukut",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung beras yang terlepas ketika ditumbuk; pecahan beras yang halus; menir",
+        "contoh": "anak ayamnya diberi makan --",
+        "info": []
+      }
+    ]
+  }
+]

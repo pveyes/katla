@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wa.sak",
+    "akarKata": null,
+    "ejaan": "wasak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran berat, sama dengan 180 kati, biasanya dibebankan pada unta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pa.cad",
+    "akarKata": null,
+    "ejaan": "pacad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perwira cadangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

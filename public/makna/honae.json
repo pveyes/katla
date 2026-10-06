@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ho.nae",
+    "akarKata": null,
+    "ejaan": "honaé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah tradisional masyarakat Papua, berbentuk bulat, biasanya dihuni oleh kaum laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dani",
+            "sumberTeks": "bahasa di papua"
+          }
+        ]
+      }
+    ]
+  }
+]

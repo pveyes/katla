@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "mo.tel",
+    "akarKata": null,
+    "ejaan": "motèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mobil hotel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penginapan yang ditujukan terutama untuk pelancong bermobil, kamar-kamarnya mudah dicapai dari tempat parkir yang tersedia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

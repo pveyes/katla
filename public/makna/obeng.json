@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "obeng",
+    "akarKata": null,
+    "ejaan": "obèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk memutar sekrup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "obeng",
+    "akarKata": null,
+    "ejaan": "obèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengobeng",
+          "pengobeng"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "la.yas",
+    "akarKata": null,
+    "ejaan": "layas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilah (kayu) tempat memasang atap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yas",
+    "akarKata": null,
+    "ejaan": "layas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "bilah (kayu) tempat memasang atap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

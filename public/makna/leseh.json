@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.seh",
+    "akarKata": null,
+    "ejaan": "lèsèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rendahan (tidak terhormat) tentang tempat dan sebagainya",
+        "contoh": "mulai dari tempat -- sederhana dengan penonton duduk bersila di tikar hingga gedung mewah",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "duduk di lantai dengan beralaskan tikar dan sebagainya",
+        "contoh": "acara dialog kepemudaan diselenggarakan dengan cara --",
+        "info": []
+      }
+    ]
+  }
+]

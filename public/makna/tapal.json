@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.pal",
+    "akarKata": null,
+    "ejaan": "tapal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat dalam bentuk cairan kental atau bubur (biasanya dilumaskan pada kulit perut); pasta",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.pal",
+    "akarKata": null,
+    "ejaan": "tapal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancang (patok) terbuat dari kayu, semen, dan sebagainya sebagai tanda batas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

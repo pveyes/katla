@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "te.lut",
+    "akarKata": null,
+    "ejaan": "têlut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bertelut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.lut",
+    "akarKata": null,
+    "ejaan": "têlut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempan (tentang senjata); terlut; telap",
+        "contoh": "tidak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.lut",
+    "akarKata": null,
+    "ejaan": "têlut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menelut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

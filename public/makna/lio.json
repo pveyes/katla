@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lio",
+    "akarKata": null,
+    "ejaan": "lio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(tempat) pembakaran batu bata (genting)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Lio",
+    "akarKata": null,
+    "ejaan": "Lio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Li'o",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

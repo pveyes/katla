@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "lex",
+    "akarKata": null,
+    "ejaan": "lex",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "undang-undang; hukum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rak",
+    "akarKata": null,
+    "ejaan": "kêrak",
+    "baku": true,
+    "alt": "karak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan yang kering (keras) atau hangus yang melekat pada benda lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rak",
+    "akarKata": null,
+    "ejaan": "kêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi orang dan sebagainya menggaruk-garuk barang yang keras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

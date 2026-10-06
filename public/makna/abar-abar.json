@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "abar-abar",
+    "akarKata": "abar",
+    "ejaan": "abar-abar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dinding penghalang; penyekat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rem",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

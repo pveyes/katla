@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abar.an",
+    "akarKata": "abar",
+    "ejaan": "abaran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hambatan kejiwaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

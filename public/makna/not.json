@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "not",
+    "akarKata": null,
+    "ejaan": "not",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda nada tertentu pada musik; bunyi musik dengan frekuensi dasar tertentu; titi nada",
+        "contoh": "dia dapat menyanyi, tetapi tidak tahu --",
+        "info": []
+      }
+    ]
+  }
+]

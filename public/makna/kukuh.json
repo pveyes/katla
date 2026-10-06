@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.kuh",
+    "akarKata": null,
+    "ejaan": "kukuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat terpancang pada tempatnya; tidak mudah roboh atau rusak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "teguh (tentang pendirian, hati, dan sebagainya)",
+        "contoh": "dalam diskusi dia selalu -- pada pendiriannya",
+        "info": []
+      }
+    ]
+  }
+]

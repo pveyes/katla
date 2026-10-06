@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ka.yau",
+    "akarKata": null,
+    "ejaan": "kayau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengayau",
+          "pengayau",
+          "pengayauan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.yau",
+    "akarKata": null,
+    "ejaan": "kayau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berkayau",
+          "mengayau"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ti.kas",
+    "akarKata": null,
+    "ejaan": "tikas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deret sampah daun-daun kering (sarap) yang terjadi dari lumut, sampah, dan sebagainya yang tertinggal di pantai bekas air pasang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas tekanan; kesan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.kas",
+    "akarKata": null,
+    "ejaan": "tikas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menikas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

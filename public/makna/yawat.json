@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ya.wat",
+    "akarKata": null,
+    "ejaan": "yawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "babi keramat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

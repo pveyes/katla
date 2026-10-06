@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "WNI",
+    "akarKata": null,
+    "ejaan": "WNI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warga negara Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

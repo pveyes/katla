@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "dat",
+    "akarKata": null,
+    "ejaan": "dat",
+    "baku": false,
+    "alt": "zat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wujud; hakikat (Allah)",
+        "contoh": "-- Allah",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang menyebabkan sesuatu menjadi ada",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan yang merupakan pembentuk (bagian-bagian yang mendukung) suatu benda; unsur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

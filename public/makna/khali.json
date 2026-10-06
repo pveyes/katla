@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "kha.li",
+    "akarKata": null,
+    "ejaan": "khali",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bebas (lepas, terhindar) dari",
+        "contoh": "sebagai manusia, kita tidak -- dari kesalahan",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lalai",
+        "contoh": "tiada -- ia berbuat kebajikan",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kha.li",
+    "akarKata": null,
+    "ejaan": "khali",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saudara laki-laki ibu; paman atau uak laki-laki dari pihak ibu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "LSI",
+    "akarKata": null,
+    "ejaan": "LSI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lembaga Survei Indonesia (lembaga riset opini publik, terutama yang terkait dengan kontestasi politik, seperti pemilihan umum dan pembuatan kebijakan publik)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Liga Super Indonesia (kompetisi sepak bola profesional level tertinggi di Liga Indonesia yang dibentuk pada tahun 2008)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UNP",
+    "akarKata": null,
+    "ejaan": "UNP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujian nasional perbaikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

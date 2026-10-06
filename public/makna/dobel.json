@@ -1,0 +1,75 @@
+[
+  {
+    "sukuKata": "do.bel",
+    "akarKata": null,
+    "ejaan": "dobêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rangkap dua",
+        "contoh": "ikatannya harus -- supaya kuat",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lipat dua",
+        "contoh": "penghasilan kami sudah -- daripada tahun yang lalu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dua sekaligus",
+        "contoh": "bulan ini uang sekolah harus dibayar --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kembar",
+        "contoh": "saya tidak suka yang -- seperti ini, saya ingin dua, tetapi berlainan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bermain berpasangan; bermain ganda",
+        "contoh": "dalam pertandingan bulu tangkis hari ini, ia akan bermain -- dengan pemain sekota asalnya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

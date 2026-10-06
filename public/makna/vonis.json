@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "vo.nis",
+    "akarKata": null,
+    "ejaan": "vonis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putusan hakim (pada sidang pengadilan) yang berkaitan dengan persengketaan di antara pihak yang maju ke pengadilan; hukuman (pada perkara pidana)",
+        "contoh": "ia dijatuhi -- enam bulan penjara",
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "cer.na",
+    "akarKata": null,
+    "ejaan": "cêrna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hancur; luluh menjadi satu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hancur menjadi cair (tentang makanan dalam perut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

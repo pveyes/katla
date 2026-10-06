@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.dah",
+    "akarKata": null,
+    "ejaan": "rudah",
+    "baku": false,
+    "alt": "ruadat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan hormat; perihal menyatakan hormat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

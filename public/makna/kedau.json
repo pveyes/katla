@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ke.dau",
+    "akarKata": null,
+    "ejaan": "kêdau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "teriak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ra.sia",
+    "akarKata": null,
+    "ejaan": "rasia",
+    "baku": false,
+    "alt": "rahasia",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang sengaja disembunyikan supaya tidak diketahui orang lain",
+        "contoh": "ia mencoba mengorek -- temannya, tetapi tidak berhasil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang belum dapat atau sukar diketahui dan dipahami orang",
+        "contoh": "-- alam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang tersembunyi",
+        "contoh": "pintu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara yang setepat-tepatnya (biasanya tersembunyi atau sukar diketahui); kiat",
+        "contoh": "dalam buku itu diterangkan -- bermain sulap",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dipercayakan kepada seseorang agar tidak diceritakan kepada orang lain yang tidak berwenang mengetahuinya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "secara diam (sembunyi-sembunyi); tidak secara terang-terangan (tentang perkumpulan)",
+        "contoh": "gerakan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.sia",
+    "akarKata": null,
+    "ejaan": "rasia",
+    "baku": false,
+    "alt": "razia",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penangkapan beramai-ramai; penggerebekan penjahat yang berbahaya bagi keamanan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemeriksaan serentak (surat-surat kendaraan bermotor, kartu tanda penduduk, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

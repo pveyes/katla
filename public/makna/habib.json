@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ha.bib",
+    "akarKata": null,
+    "ejaan": "habib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang dicintai; kekasih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan kepada orang Arab yang berarti tuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan kepada orang yang bergelar sayid",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

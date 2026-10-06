@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ni.pas",
+    "akarKata": null,
+    "ejaan": "nipas",
+    "baku": false,
+    "alt": "nifas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "darah yang keluar dari rahim wanita sesudah melahirkan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa sejak melahirkan sampai dengan pulihnya organ produksi dan anggota badan (lamanya 40–60 hari)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

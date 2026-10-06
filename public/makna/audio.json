@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "au.dio",
+    "akarKata": null,
+    "ejaan": "audio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat dapat didengar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat peraga yang bersifat dapat didengar (misalnya radio)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sal",
+    "akarKata": null,
+    "ejaan": "sal",
+    "baku": false,
+    "alt": "syal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain pembebat leher; selendang; mafela",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sal",
+    "akarKata": null,
+    "ejaan": "sal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang besar (di rumah sakit, asrama, dan sebagainya); bangsal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "opo",
+    "akarKata": null,
+    "ejaan": "opo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nenek moyang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minahasa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

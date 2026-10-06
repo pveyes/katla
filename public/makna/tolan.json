@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "to.lan",
+    "akarKata": null,
+    "ejaan": "tolan",
+    "baku": true,
+    "alt": "taulan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teman; kawan; sahabat",
+        "contoh": "handai --",
+        "info": []
+      }
+    ]
+  }
+]

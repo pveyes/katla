@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "ru.tin",
+    "akarKata": null,
+    "ejaan": "rutin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "prosedur yang teratur dan tidak berubah-ubah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal membiasanya prosedur, kegiatan, pekerjaan, dan sebagainya",
+        "contoh": "rapat koperasi itu bersifat -- dan tradisional",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serangkaian instruksi yang dirancang untuk beberapa tujuan tertentu dan memiliki penggunaan umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "prosedur utama yang dilaksanakan oleh suatu program",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SDA",
+    "akarKata": null,
+    "ejaan": "SDA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumber daya alam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

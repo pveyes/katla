@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ga.lar",
+    "akarKata": null,
+    "ejaan": "galar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelupuh yang terbuat dari bambu dan sebagainya, dipakai sebagai alas tikar di atas balai-balai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.lar",
+    "akarKata": null,
+    "ejaan": "galar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pembuat adonan yang dicampur dengan pasir dan semen, fungsinya untuk memasang batu bata untuk menjadi tembok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

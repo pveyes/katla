@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "les.bi",
+    "akarKata": null,
+    "ejaan": "lèsbi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lesbian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "let.da",
+    "akarKata": null,
+    "ejaan": "lètda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "letnan dua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

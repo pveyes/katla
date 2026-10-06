@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "je.nah",
+    "akarKata": null,
+    "ejaan": "jê.nah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengambil air lahang utk pertama kali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

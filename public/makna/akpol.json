@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ak.pol",
+    "akarKata": null,
+    "ejaan": "Akpol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Akademi Kepolisian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

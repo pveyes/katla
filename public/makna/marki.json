@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mar.ki",
+    "akarKata": null,
+    "ejaan": "marki",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepotong teks yang bergerak perlahan di layar, digunakan sebagai fitur khusus dari halaman web",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

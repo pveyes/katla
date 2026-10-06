@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "no.rak",
+    "akarKata": null,
+    "ejaan": "norak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa heran atau takjub melihat sesuatu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat berlebih-lebihan; kurang serasi (tentang dandanan dan sebagainya); kampungan",
+        "contoh": "pakaianmu --, pantas saja banyak orang tertawa",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

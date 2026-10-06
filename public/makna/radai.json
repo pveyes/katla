@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.dai",
+    "akarKata": null,
+    "ejaan": "radai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sirip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.dai",
+    "akarKata": null,
+    "ejaan": "radai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meradai"
+        ]
+      }
+    ]
+  }
+]

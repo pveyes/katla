@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tai.ko",
+    "akarKata": null,
+    "ejaan": "taiko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang (pengusaha) yang memiliki banyak uang; pengusaha kaya raya; tauke",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tai.ko",
+    "akarKata": null,
+    "ejaan": "taiko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kusta; lepra",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

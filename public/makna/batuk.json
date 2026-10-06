@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.tuk",
+    "akarKata": null,
+    "ejaan": "batuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit pada jalan pernapasan atau paru-paru yang kerap kali menimbulkan rasa gatal pada tenggorok sehingga merangsang penderita mengeluarkan bunyi yang keras seperti menyalak (ada banyak macam namanya)",
+        "contoh": "sudah sebulan lamanya ia menderita sakit --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengeluarkan bunyi yang keras seperti menyalak yang disebabkan oleh penyakit pada jalan pernapasan atau paru-paru",
+        "contoh": "kalau --, tutuplah mulutmu",
+        "info": []
+      }
+    ]
+  }
+]

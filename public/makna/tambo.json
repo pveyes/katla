@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tam.bo",
+    "akarKata": null,
+    "ejaan": "tambo",
+    "baku": true,
+    "alt": "terambu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejarah; babad; hikayat; riwayat kuno",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uraian sejarah suatu daerah yang sering kali bercampur dengan dongeng",
+        "contoh": "-- Minangkabau",
+        "info": []
+      }
+    ]
+  }
+]

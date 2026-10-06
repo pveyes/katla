@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "lu.nas",
+    "akarKata": null,
+    "ejaan": "lunas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok memanjang di dasar perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian bawah (kuali dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.nas",
+    "akarKata": null,
+    "ejaan": "lunas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beres dan selesai dibayar (tentang utang); terbayar; impas",
+        "contoh": "utangnya telah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.nas",
+    "akarKata": null,
+    "ejaan": "lunas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dua dari lima daun mahkota bunga kacang-kacangan Papilionaceae yang terletak paling bawah dan menyatu, sehingga berbentuk seperti perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

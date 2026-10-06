@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "gin.cu",
+    "akarKata": null,
+    "ejaan": "gincu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pewarna bibir; lipstik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pewarna (untuk kue-kue dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

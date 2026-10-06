@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ADP",
+    "akarKata": null,
+    "ejaan": "ADP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah dasar pengukuran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ADP",
+    "akarKata": null,
+    "ejaan": "ADP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adenosina difosfat (Adenosine diphosphate)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

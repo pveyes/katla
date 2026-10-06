@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.jin",
+    "akarKata": null,
+    "ejaan": "tajin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air rebusan beras yang agak kental",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air sagu; kanji",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "me.ler",
+    "akarKata": null,
+    "ejaan": "mèlèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengalir ke luar dari hidung (tentang ingus)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

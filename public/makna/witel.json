@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "wi.tel",
+    "akarKata": null,
+    "ejaan": "witèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wilayah usaha telekomunikasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "pi.pit",
+    "akarKata": null,
+    "ejaan": "pipit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung kecil (banyak macamnya, seperti -- rumah, -- uban)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.pit",
+    "akarKata": null,
+    "ejaan": "pipit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian serunai dan sebagainya yang dikulum apabila hendak meniupnya",
+        "contoh": "-- serunai",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.pit",
+    "akarKata": null,
+    "ejaan": "pipit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memipit",
+          "pipitan"
+        ]
+      }
+    ]
+  }
+]

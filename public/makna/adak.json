@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "adak",
+    "akarKata": null,
+    "ejaan": "adak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pagar untuk menghalangi atau membatasi gerak anak kecil, terbuat dari kayu, biasanya dipasang di pintu",
+        "contoh": "ibu membuat -- untuk adik yang baru bisa berjalan",
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "adak",
+    "akarKata": null,
+    "ejaan": "adak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengadak"
+        ]
+      }
+    ]
+  }
+]

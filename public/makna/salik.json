@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.lik",
+    "akarKata": null,
+    "ejaan": "salik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "murid",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Arasy",
+    "akarKata": null,
+    "ejaan": "Arasy",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takhta Tuhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surga yang tertinggi tempat takhta Tuhan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "jua",
+    "akarKata": null,
+    "ejaan": "jua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak lain dari; hanya; saja",
+        "contoh": "Tuhan -- yang dapat menolong kita",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "juga; pun (dipakai untuk mengeraskan kata yang di depannya saja)",
+        "contoh": "siapa -- tidak boleh mengambil pundi-pundi itu",
+        "info": []
+      }
+    ]
+  }
+]

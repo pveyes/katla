@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.hak",
+    "akarKata": null,
+    "ejaan": "tahak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serdawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

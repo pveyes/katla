@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gi.bah",
+    "akarKata": null,
+    "ejaan": "gibah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membicarakan keburukan (keaiban) orang lain; bergunjing",
+        "contoh": "-- dilarang dalam agama Islam",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

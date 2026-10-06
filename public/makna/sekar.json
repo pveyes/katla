@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "se.kar",
+    "akarKata": null,
+    "ejaan": "sêkar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kembang; bunga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kar",
+    "akarKata": null,
+    "ejaan": "sêkar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tembang; nyanyian (lagu) vokal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Se.kar",
+    "akarKata": null,
+    "ejaan": "sêkar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah pesisir barat laut Semenanjung Bomberai dan pulau kecil di dekatnya di Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

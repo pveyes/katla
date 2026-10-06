@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "da.wan",
+    "akarKata": null,
+    "ejaan": "dawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang-barang milik pribadi di suku Dayak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Da.wan",
+    "akarKata": null,
+    "ejaan": "Dawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami beberapa daerah yang tersebar di Pulau Timor, Provinsi Nusa Tenggara Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Dawan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

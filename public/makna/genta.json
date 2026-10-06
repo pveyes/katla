@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "gen.ta",
+    "akarKata": null,
+    "ejaan": "gênta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat bunyi-bunyian yang terbuat dari logam berbentuk cangkir terbalik dengan sebuah pemukul yang tergantung tepat di poros dalamnya, apabila pemukul itu mengenai dinding cangkir, cangkir tersebut akan menghasilkan bunyi-bunyian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lonceng besar (dipasang di menara gereja dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "giring-giring (dipasang pada leher lembu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

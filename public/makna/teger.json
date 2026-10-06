@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.ger",
+    "akarKata": null,
+    "ejaan": "têgèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancing pendek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

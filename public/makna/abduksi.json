@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ab.duk.si",
+    "akarKata": null,
+    "ejaan": "abduksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengambilan secara paksa (terutama perempuan) untuk dikawini atau digauli",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ab.duk.si",
+    "akarKata": null,
+    "ejaan": "abduksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan ke arah luar sumbu badan (tentang tangan dan kaki) atau ke arah luar sumbu kaki (tentang ibu jari kaki)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.him",
+    "akarKata": null,
+    "ejaan": "rahim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantong selaput dalam perut, tempat janin (bayi); peranakan; kandungan",
+        "contoh": "ayahnya meninggal dunia ketika ia masih dalam -- ibunya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.him",
+    "akarKata": null,
+    "ejaan": "rahim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat belas kasihan; bersifat penyayang",
+        "contoh": "Allah yang bersifat --",
+        "info": []
+      }
+    ]
+  }
+]

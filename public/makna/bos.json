@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "bos",
+    "akarKata": null,
+    "ejaan": "bos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bungkus besar yang berisi beberapa bungkus (tentang rokok, korek api, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bos",
+    "akarKata": null,
+    "ejaan": "bos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berkuasa mengawasi dan memberi perintah kepada para karyawan; pemimpin atau majikan (dalam perusahaan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "BOS",
+    "akarKata": null,
+    "ejaan": "BOS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bantuan operasional sekolah",
+        "contoh": "komite sekolah dan orang tua murid dapat mengawasi penggunaan dana --",
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Zo.hal",
+    "akarKata": null,
+    "ejaan": "Zohal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Saturnus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

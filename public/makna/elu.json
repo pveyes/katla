@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "elu",
+    "akarKata": null,
+    "ejaan": "êlu",
+    "baku": true,
+    "alt": "alu",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "longok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "elu",
+    "akarKata": null,
+    "ejaan": "êlu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "lo2; lu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

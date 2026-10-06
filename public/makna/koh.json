@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "koh",
+    "akarKata": null,
+    "ejaan": "koh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "engkoh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

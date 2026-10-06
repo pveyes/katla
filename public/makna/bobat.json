@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.bat",
+    "akarKata": null,
+    "ejaan": "bobat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggendong sesuatu di punggung dengan menggunakan tali yang disangkutkan ke dahi",
+        "contoh": "ibu -- ranting-ranting kayu itu sendiri",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

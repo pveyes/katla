@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "du.sun",
+    "akarKata": null,
+    "ejaan": "dusun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kampung; desa; dukuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "du.sun",
+    "akarKata": null,
+    "ejaan": "dusun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Pasir, Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh Suku Dusun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

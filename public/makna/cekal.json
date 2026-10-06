@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "ce.kal",
+    "akarKata": null,
+    "ejaan": "cêkal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahan menderita; (tetap) kuat; tabah",
+        "contoh": "ia tetap -- dalam menghadapi kesukaran ini dan tidak putus asa dalam berusaha",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kal",
+    "akarKata": null,
+    "ejaan": "cêkal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pegang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tangkap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kal",
+    "akarKata": null,
+    "ejaan": "cêkal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cegah dan tangkal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

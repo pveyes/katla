@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "di.ang",
+    "akarKata": null,
+    "ejaan": "diang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "panasi (sesuatu) di atas api",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "di.ang",
+    "akarKata": null,
+    "ejaan": "diang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat sampah di pinggir atau batas kebun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sahu",
+            "sumberTeks": "bahasa di maluku utara"
+          }
+        ]
+      }
+    ]
+  }
+]

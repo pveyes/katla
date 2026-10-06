@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.mar",
+    "akarKata": null,
+    "ejaan": "kamar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang yang bersekat (tertutup) dinding yang menjadi bagian rumah atau bangunan (biasanya disekat atau dibatasi empat dinding); bilik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.mar",
+    "akarKata": null,
+    "ejaan": "kamar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

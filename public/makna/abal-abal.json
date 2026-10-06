@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "abal-abal",
+    "akarKata": null,
+    "ejaan": "abal-abal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjahat kelas kakap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abal-abal",
+    "akarKata": null,
+    "ejaan": "abal-abal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bermutu baik; bermutu rendah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abal-abal",
+    "akarKata": null,
+    "ejaan": "abal-abal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kincir angin yang digunakan untuk mengusir hama, terbuat dari bambu dan mengeluarkan bunyi saat berputar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

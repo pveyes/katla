@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "mezzo",
+    "akarKata": null,
+    "ejaan": "mezzo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "pertengahan, medium, setengah; lambangnya M",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "italia",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

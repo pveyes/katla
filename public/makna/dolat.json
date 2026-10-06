@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "do.lat",
+    "akarKata": null,
+    "ejaan": "dolat",
+    "baku": false,
+    "alt": "daulat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berkat kebahagiaan (yang ada pada raja); bahagia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tulah",
+        "contoh": "mati ditimpa -- segala raja-raja yang ada",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

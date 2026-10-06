@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ru.wat",
+    "akarKata": null,
+    "ejaan": "ruwat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pulih kembali sebagai keadaan semula (tentang jadi-jadian, orang kena tulah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlepas (bebas) dari nasib buruk yang akan menimpa (tentang orang yang menurut kepercayaan akan tertimpa nasib buruk, misalnya anak tunggal)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

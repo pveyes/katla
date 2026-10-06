@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "ja.pan",
+    "akarKata": null,
+    "ejaan": "japan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gong dan kenong yang bingkainya sempit sehingga nadanya rendah, digunakan untuk gending yang megah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

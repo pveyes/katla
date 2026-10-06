@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.sorp.si.o.met.ri",
+    "akarKata": null,
+    "ejaan": "absorpsiomètri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "metode analisis kimia dengan cara mengukur tingkat penyerapan radiasi elektromagnetik oleh sampel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

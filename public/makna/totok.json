@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "to.tok",
+    "akarKata": null,
+    "ejaan": "totok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "asli; sejati (bukan peranakan)",
+        "contoh": "Belanda --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masih baru (belum berpengalaman)",
+        "contoh": "dalam hal ini aku sangat --, belum pernah sekali juga berlayar",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kaku (belum biasa, belum lancar)",
+        "contoh": "dia dapat juga berbahasa Jawa, hanya -- sekali",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.tok",
+    "akarKata": null,
+    "ejaan": "totok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menotok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

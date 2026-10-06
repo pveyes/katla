@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ba.gas",
+    "akarKata": null,
+    "ejaan": "bagas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap kuat (tentang badan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat dan kencang (tentang angin)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.gas",
+    "akarKata": null,
+    "ejaan": "bagas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa batang tebu setelah diperas sarinya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

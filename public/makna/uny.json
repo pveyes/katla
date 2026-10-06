@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UNY",
+    "akarKata": null,
+    "ejaan": "UNY",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Negeri Yogyakarta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.gun",
+    "akarKata": null,
+    "ejaan": "têgun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menegun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.gun",
+    "akarKata": null,
+    "ejaan": "têgun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat dan tegar",
+        "contoh": "ia -- sebagai serdadu jaga",
+        "info": []
+      }
+    ]
+  }
+]

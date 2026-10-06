@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "abet",
+    "akarKata": null,
+    "ejaan": "abét",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mendorong atau memengaruhi seseorang untuk melakukan kejahatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abet",
+    "akarKata": null,
+    "ejaan": "abêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkah laku",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ba.tur",
+    "akarKata": null,
+    "ejaan": "batur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumpukan batu yang dibuat agar ikan berkumpul di tempat itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.tur",
+    "akarKata": null,
+    "ejaan": "batur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nisan dari kayu ulin, diukir sesuai jenis kelamin orang yang dikubur, dipasang minimal satu tahun setelah pemakaman pada suku Dayak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          },
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "rum",
+    "akarKata": null,
+    "ejaan": "rum",
+    "baku": false,
+    "alt": "harum",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "wangi; sedap (baunya)",
+        "contoh": "bunga mawar -- baunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mendapat banyak pujian; masyhur",
+        "contoh": "namanya makin -- karena tindakannya itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "rum",
+    "akarKata": null,
+    "ejaan": "rum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lemak kentalan air susu; kepala susu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "rum",
+    "akarKata": null,
+    "ejaan": "rum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman keras yang disuling dari tebu yang difermentasikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

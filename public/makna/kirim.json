@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ki.rim",
+    "akarKata": null,
+    "ejaan": "kirim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "antar dengan perantara; sampaikan melalui",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mentransmisikan pesan atau berkas melalui saluran komunikasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

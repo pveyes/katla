@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "Nal.ca",
+    "akarKata": null,
+    "ejaan": "Nalca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku Kimyal di Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah bagian timur Pegunungan Tengah, sebelah timur laut Korupun dan tenggara Nipsan, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Nalca",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "mur.ni",
+    "akarKata": null,
+    "ejaan": "murni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bercampur dengan unsur lain; tulen",
+        "contoh": "cincin itu terbuat dari emas --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum mendapat pengaruh luar; polos; lugu",
+        "contoh": "sikap anak itu masih --, belum dipengaruhi oleh kehidupan kota besar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tulus; suci; sejati (tentang cinta)",
+        "contoh": "cinta ayah dan ibu kepada anaknya adalah cinta yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum terpengaruh oleh dunia luar; asli",
+        "contoh": "kebudayaan masyarakat itu masih --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam keadaan yang masih suci (perawan); belum ternoda; belum pernah menikah",
+        "contoh": "setahu saya dia masih gadis --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ka.car",
+    "akarKata": null,
+    "ejaan": "kacar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kail untuk menangkap cumi-cumi dan sebagainya (biasanya tidak memakai kawat tajam, melainkan memakai bulu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.car",
+    "akarKata": null,
+    "ejaan": "kacar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengacar"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.car",
+    "akarKata": null,
+    "ejaan": "kacar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kacar lakum"
+        ]
+      }
+    ]
+  }
+]

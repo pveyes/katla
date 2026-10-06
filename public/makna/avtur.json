@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "av.tur",
+    "akarKata": null,
+    "ejaan": "avtur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan bakar untuk pesawat terbang turbin gas yang batas titik didihnya sekitar 150°C",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

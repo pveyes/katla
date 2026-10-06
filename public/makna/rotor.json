@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ro.tor",
+    "akarKata": null,
+    "ejaan": "rotor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cakram beserta seperangkat kontak masukan dan keluaran yang disambung sesuai dengan cara yang telah diatur sebelumnya, dan dirancang untuk berputar dalam mesin sandi elektris",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang berputar dalam mesin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "SAP",
+    "akarKata": null,
+    "ejaan": "SAP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan acara perkuliahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sap",
+    "akarKata": null,
+    "ejaan": "sap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas atau perca yang dapat mengisap tinta",
+        "contoh": "kertas --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sap",
+    "akarKata": null,
+    "ejaan": "sap",
+    "baku": false,
+    "alt": "saf",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deret",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.let",
+    "akarKata": null,
+    "ejaan": "kolêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah perbatasan antara hipokotil dan akar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

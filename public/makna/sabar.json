@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.bar",
+    "akarKata": null,
+    "ejaan": "sabar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahan menghadapi cobaan (tidak lekas marah, tidak lekas putus asa, tidak lekas patah hati); tabah",
+        "contoh": "ia menerima nasibnya dengan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tenang; tidak tergesa-gesa; tidak terburu nafsu",
+        "contoh": "segala usahanya dijalankannya dengan --",
+        "info": []
+      }
+    ]
+  }
+]

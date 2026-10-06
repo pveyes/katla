@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "xe.nia",
+    "akarKata": null,
+    "ejaan": "sénia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan endosperma oleh pengaruh tepung sari asing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

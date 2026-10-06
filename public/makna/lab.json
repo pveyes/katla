@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "lab",
+    "akarKata": null,
+    "ejaan": "lab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laboratorium",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

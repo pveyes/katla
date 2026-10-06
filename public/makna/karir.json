@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.rir",
+    "akarKata": null,
+    "ejaan": "karir",
+    "baku": false,
+    "alt": "karier",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkembangan dan kemajuan dalam kehidupan, pekerjaan, jabatan, dan sebagainya",
+        "contoh": "ia seorang eksekutif muda yang sedang menanjak --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekerjaan yang memberikan harapan untuk maju",
+        "contoh": "bagaimanapun kita mempunyai -- yang harus kita perhatikan pula",
+        "info": []
+      }
+    ]
+  }
+]

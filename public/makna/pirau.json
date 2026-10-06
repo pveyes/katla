@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "pi.rau",
+    "akarKata": null,
+    "ejaan": "pirau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berwarna abu-abu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kabur (tentang penglihatan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.rau",
+    "akarKata": null,
+    "ejaan": "pirau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berpirau",
+          "berpirau-pirau",
+          "memirau"
+        ]
+      }
+    ]
+  }
+]

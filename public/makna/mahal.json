@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ma.hal",
+    "akarKata": null,
+    "ejaan": "mahal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi harganya",
+        "contoh": "karena senangnya pada barang itu, biarpun -- dibelinya juga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jarang ada; sukar terdapat; tidak mudah",
+        "contoh": "barang itu -- dibeli sukar dicari",
+        "info": []
+      }
+    ]
+  }
+]

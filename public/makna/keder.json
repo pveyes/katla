@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ke.der",
+    "akarKata": null,
+    "ejaan": "kèdêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "takut; gentar; gemetar",
+        "contoh": "saya tidak --, katanya, lalu dia melompat ke atas perahu dengan cekatan untuk mengikuti perlombaan itu",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.der",
+    "akarKata": null,
+    "ejaan": "kêdér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lendir yang ada pada penganan (misalnya lepat) sebagai penanda penganan tersebut basi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

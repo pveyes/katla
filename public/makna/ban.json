@@ -1,0 +1,116 @@
+[
+  {
+    "sukuKata": "ban",
+    "akarKata": null,
+    "ejaan": "ban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda bulat dari karet yang dipasang melingkar pada roda (sepeda, mobil, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "secarik pita (kain dan sebagainya) yang dibalutkan pada lengan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkar tenunan benang tebal berbentuk pita lebar tanpa ujung dipakai untuk memutar roda mesin pabrik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikat pinggang; sabuk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampul buku, biasanya dari kertas, dibuat terpisah dari blok buku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ban",
+    "akarKata": null,
+    "ejaan": "ban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan atau jalur (kereta api dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "landasan terbang (bagi pesawat terbang) di pelabuhan udara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapangan tenis (bulu tangkis dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda yang menunjukkan tingkatan kemahiran (putih, kuning, hijau, biru, cokelat, hitam) dalam karate, judo, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lintasan (untuk lari, berenang)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ban",
+    "akarKata": null,
+    "ejaan": "ban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panjang gelombang atau frekuensi pada radio",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

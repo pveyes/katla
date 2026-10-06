@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "so.pak",
+    "akarKata": null,
+    "ejaan": "sopak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit berupa belang-belang putih di tangan atau kaki",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belang putih bekas luka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

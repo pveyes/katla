@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "si.dik",
+    "akarKata": null,
+    "ejaan": "sidik",
+    "baku": true,
+    "alt": "midik",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selidik (tentang jari); periksa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.dik",
+    "akarKata": null,
+    "ejaan": "sidik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "benar; jujur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.dik",
+    "akarKata": null,
+    "ejaan": "sidik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat fajar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

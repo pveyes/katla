@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.pok",
+    "akarKata": null,
+    "ejaan": "lèpok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "salah lipat (baju dan sebagainya)",
+        "contoh": "baju itu --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.pok",
+    "akarKata": null,
+    "ejaan": "lèpok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka bakar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

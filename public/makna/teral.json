@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.ral",
+    "akarKata": null,
+    "ejaan": "têral",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meneral",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

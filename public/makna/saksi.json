@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "sak.si",
+    "akarKata": null,
+    "ejaan": "saksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang melihat atau mengetahui sendiri suatu peristiwa (kejadian)",
+        "contoh": "siapa --nya bahwa saya berbuat begitu?",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dimintai hadir pada suatu peristiwa yang dianggap mengetahui kejadian tersebut agar pada suatu ketika, apabila diperlukan, dapat memberikan keterangan yang membenarkan bahwa peristiwa itu sungguh-sungguh terjadi",
+        "contoh": "dua orang itu ikut menandatangani kontrak sebagai --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang memberikan keterangan di muka hakim untuk kepentingan pendakwa atau terdakwa",
+        "contoh": "-- yang kedua itu oleh hakim dianggap tidak sah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keterangan (bukti pernyataan) yang diberikan oleh orang yang melihat atau mengetahui",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bukti kebenaran",
+        "contoh": "ia berani memberi -- dengan sumpah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dapat memberikan keterangan guna kepentingan penyidikan penuntutan dan peradilan tentang suatu perkara pidana yang didengarnya, dilihatnya, atau dialaminya sendiri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

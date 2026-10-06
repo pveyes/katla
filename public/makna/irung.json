@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "irung",
+    "akarKata": null,
+    "ejaan": "irung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mangkuk kecil untuk minum arak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

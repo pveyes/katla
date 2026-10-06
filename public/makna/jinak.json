@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ji.nak",
+    "akarKata": null,
+    "ejaan": "jinak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat ditaklukkan; dapat diatur (tidak liar; tidak buas; tidak garang; tidak galak)",
+        "contoh": "lembu dan kerbau ialah binatang yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak malu-malu, tidak segan, dan tidak takut-takut lagi",
+        "contoh": "anak itu sudah -- kepada saya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "moderat (tidak keras sepak terjangnya; tidak revolusioner)",
+        "contoh": "kaum nasionalis yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ji.nak",
+    "akarKata": null,
+    "ejaan": "Jinak",
+    "baku": true,
+    "alt": "Zinak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami pedalaman dari arah pantai selatan Papua, Kabupaten Merauke, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FIB",
+    "akarKata": null,
+    "ejaan": "FIB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Fakultas Ilmu Pengetahuan Budaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

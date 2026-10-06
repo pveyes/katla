@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.lik",
+    "akarKata": null,
+    "ejaan": "kêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluk kecil; liku",
+        "contoh": "memberi bentuk kepada -- perasaannya yang sehalus-halusnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lik",
+    "akarKata": null,
+    "ejaan": "kêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terkelik"
+        ]
+      }
+    ]
+  }
+]

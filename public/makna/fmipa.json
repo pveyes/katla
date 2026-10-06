@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FMIPA",
+    "akarKata": null,
+    "ejaan": "FMIPA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Fakultas Matematika dan Ilmu Pengetahuan Alam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "be.nep",
+    "akarKata": null,
+    "ejaan": "bénép",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arwah orang kaya yang telah meninggal dunia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

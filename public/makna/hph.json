@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HPH",
+    "akarKata": null,
+    "ejaan": "HPH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak pengusahaan hutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

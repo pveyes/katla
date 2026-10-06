@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.sok",
+    "akarKata": null,
+    "ejaan": "pasok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembayaran, misalnya pajak kepada",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengadaan persediaan; perbekalan; suplai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ca.dai",
+    "akarKata": null,
+    "ejaan": "cadai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain basahan untuk mandi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.dai",
+    "akarKata": null,
+    "ejaan": "cadai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kain basahan untuk mandi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

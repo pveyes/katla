@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "akr",
+    "akarKata": null,
+    "ejaan": "akr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akronim",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

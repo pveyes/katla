@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ki.kas",
+    "akarKata": null,
+    "ejaan": "kikas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas yang masih tersisa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

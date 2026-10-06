@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.geh",
+    "akarKata": null,
+    "ejaan": "sègèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beres; kemas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

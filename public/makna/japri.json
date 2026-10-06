@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ja.pri",
+    "akarKata": null,
+    "ejaan": "japri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur pribadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

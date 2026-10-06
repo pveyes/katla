@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ang.gu",
+    "akarKata": null,
+    "ejaan": "anggu",
+    "baku": false,
+    "alt": "peranggu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat; setel",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan peranti makan yang ditata untuk satu orang di meja makan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ang.gu",
+    "akarKata": null,
+    "ejaan": "anggu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaring kecil berkerangka menyegi empat untuk menangkap ikan berukuran kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

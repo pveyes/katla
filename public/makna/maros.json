@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "Ma.ros",
+    "akarKata": null,
+    "ejaan": "Maros",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Sulawesi Selatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.ros",
+    "akarKata": null,
+    "ejaan": "maros",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upacara penyerahan sebagian hasil bumi untuk pemimpin daerah di desa adat Dukuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

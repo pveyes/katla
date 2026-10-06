@@ -2,7 +2,9 @@ import { Dispatch, SetStateAction, useEffect, useState } from "react";
 import LocalStorage from "./browser";
 
 export default function createStoredState<T>(storageKey: string) {
-  return function useStoredState(initialState: T): [T, Dispatch<SetStateAction<T>>] {
+  return function useStoredState(
+    initialState: T
+  ): [T, Dispatch<SetStateAction<T>>] {
     const [state, setState] = useState<T>(initialState);
 
     function setStoredState(state: T) {

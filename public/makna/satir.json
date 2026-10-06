@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "sa.tir",
+    "akarKata": null,
+    "ejaan": "satir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(dalam cerita Yunani dan Romawi Purba) makhluk berwujud setengah manusia setengah binatang, yang konon suka minum anggur dan suka wanita",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lelaki yang tidak dapat mengendalikan nafsu berahinya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.tir",
+    "akarKata": null,
+    "ejaan": "satir",
+    "baku": false,
+    "alt": "satire",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaya bahasa yang dipakai dalam kesusastraan untuk menyatakan sindiran terhadap suatu keadaan atau seseorang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sindiran atau ejekan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.tir",
+    "akarKata": null,
+    "ejaan": "satir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat sumpah1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

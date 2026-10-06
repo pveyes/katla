@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "hem",
+    "akarKata": null,
+    "ejaan": "hèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemeja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "hem",
+    "akarKata": null,
+    "ejaan": "hèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "protein porfirin yang mengandung besi yang apabila bergabung dengan protein globin akan membentuk hemoglobin atau mioglobin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "hem",
+    "akarKata": null,
+    "ejaan": "hêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan geram dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

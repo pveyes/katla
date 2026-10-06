@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.tut",
+    "akarKata": null,
+    "ejaan": "tutut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siput",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

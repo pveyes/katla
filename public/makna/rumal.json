@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.mal",
+    "akarKata": null,
+    "ejaan": "rumal",
+    "baku": false,
+    "alt": "ramal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saputangan",
+        "contoh": "sehelai -- sutra yang bertaburkan benang emas disimpulkan di hulu keris itu",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

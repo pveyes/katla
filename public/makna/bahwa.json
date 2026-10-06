@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bah.wa",
+    "akarKata": null,
+    "ejaan": "bahwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung untuk menyatakan isi atau uraian bagian kalimat yang di depan",
+        "contoh": "ia mengira -- hari ini libur",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung untuk mendahului anak kalimat yang menjadi pokok kalimat",
+        "contoh": "-- ia seorang anggota DPR, memang benar",
+        "info": []
+      }
+    ]
+  }
+]

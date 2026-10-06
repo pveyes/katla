@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "be.cak",
+    "akarKata": null,
+    "ejaan": "bècak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan umum seperti sepeda tidak bermotor beroda tiga, bertutup (tutupnya dapat dibuka), satu sadel di belakang, tempat duduk untuk penumpang di depan, dijalankan dengan tenaga manusia (pengemudinya duduk di belakang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angkong (kereta beroda dua yang dihela orang)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.cak",
+    "akarKata": null,
+    "ejaan": "bêcak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintik-bintik; kurik; noda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

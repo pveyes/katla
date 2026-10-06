@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RTH",
+    "akarKata": null,
+    "ejaan": "RTH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang terbuka hijau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

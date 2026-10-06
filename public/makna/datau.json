@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "da.tau",
+    "akarKata": null,
+    "ejaan": "datau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dan atau; dan/atau",
+        "contoh": "penduduk berusia 17 tahun ke atas -- sudah menikah mempunyai hak pilih",
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

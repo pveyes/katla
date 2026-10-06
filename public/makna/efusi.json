@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "efu.si",
+    "akarKata": null,
+    "ejaan": "éfusi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lewatnya gas yang mendapat tekanan melalui lubang-lubang kecil atau pori-pori",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "letusan gunung api yang tidak secara eksplosif",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

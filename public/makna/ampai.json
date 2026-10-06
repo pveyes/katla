@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "am.pai",
+    "akarKata": null,
+    "ejaan": "ampai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "panjang (tinggi) dan ramping; lampai",
+        "contoh": "badannya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.pai",
+    "akarKata": null,
+    "ejaan": "ampai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rotan dan sebagainya untuk menyesah; jari ampai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "joran (tongkat) ampai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.pai",
+    "akarKata": null,
+    "ejaan": "ampai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "rotan dan sebagainya untuk menyesah; jari ampai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "joran (tongkat) ampai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

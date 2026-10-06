@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sa.tai",
+    "akarKata": null,
+    "ejaan": "satai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "irisan daging kecil-kecil yang ditusuk dan dipanggang, diberi bumbu kacang atau kecap",
+        "contoh": "-- ayam",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.tai",
+    "akarKata": null,
+    "ejaan": "satai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyatai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

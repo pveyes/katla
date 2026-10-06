@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.yas",
+    "akarKata": null,
+    "ejaan": "kayas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putih sedikit kemerah-merahan; merah muda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

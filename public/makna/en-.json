@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "en-",
+    "akarKata": null,
+    "ejaan": "èn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "di dalam",
+        "contoh": "ensefalon",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "ke dalam",
+        "contoh": "embargo",
+        "info": []
+      }
+    ]
+  }
+]

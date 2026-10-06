@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "aur",
+    "akarKata": null,
+    "ejaan": "aur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buluh; bambu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aur",
+    "akarKata": null,
+    "ejaan": "aur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tabur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

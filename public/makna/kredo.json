@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "kre.do",
+    "akarKata": null,
+    "ejaan": "krédo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan kepercayaan (keyakinan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar tuntunan hidup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ron.de",
+    "akarKata": null,
+    "ejaan": "rondé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman yang mengandung ramuan agak pedas (seperti jahe) dengan penganan bulat-bulat kecil di dalamnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ron.de",
+    "akarKata": null,
+    "ejaan": "rondê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "babak pada pertandingan tinju",
+        "contoh": "ia berhasil memukul roboh sang juara tinju dunia pada -- kedelapan",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PTN",
+    "akarKata": null,
+    "ejaan": "PTN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perguruan tinggi negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

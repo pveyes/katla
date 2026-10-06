@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sun",
+    "akarKata": null,
+    "ejaan": "sun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat tembakau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sun",
+    "akarKata": null,
+    "ejaan": "sun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciuman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

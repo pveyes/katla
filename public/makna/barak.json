@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ba.rak",
+    "akarKata": null,
+    "ejaan": "barak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebuah atau sekumpulan gedung tempat tinggal tentara; asrama tentara (polisi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangsal khusus tempat merawat orang sakit (menular)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan yang bersifat sementara bagi pekerja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

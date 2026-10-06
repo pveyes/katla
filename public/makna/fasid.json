@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.sid",
+    "akarKata": null,
+    "ejaan": "fasid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang rusak atau busuk (tentang perbuatan, pekerjaan, isi hati)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

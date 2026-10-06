@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "tan.da",
+    "akarKata": null,
+    "ejaan": "tanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang menjadi alamat atau yang menyatakan sesuatu",
+        "contoh": "dari kejauhan terdengar sirene -- bahaya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gejala",
+        "contoh": "sudah tampak --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bukti",
+        "contoh": "itulah -- bahwa mereka tidak mau bekerja sama",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengenal; lambang",
+        "contoh": "kontingen Indonesia mengenakan -- Garuda Pancasila",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petunjuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

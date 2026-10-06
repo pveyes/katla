@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "la.wak",
+    "akarKata": null,
+    "ejaan": "lawak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lucu; jenaka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.wak",
+    "akarKata": null,
+    "ejaan": "lawak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu di Jawa Barat yang dibuat dari batang pohon yang ditakik (lawakan, lelawak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

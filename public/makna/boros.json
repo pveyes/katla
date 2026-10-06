@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "bo.ros",
+    "akarKata": null,
+    "ejaan": "boros",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlebih-lebihan dalam pemakaian uang, barang, dan sebagainya",
+        "contoh": "orang yang hidupnya -- tidak akan menjadi kaya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lepas, terurai (tentang tali yang dikaitkan)",
+        "contoh": "tali gasingnya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak dalam pemakaian tenaga, bensin, dan sebagainya (tentang mesin dan sebagainya)",
+        "contoh": "mobilnya -- bensin",
+        "info": []
+      }
+    ]
+  }
+]

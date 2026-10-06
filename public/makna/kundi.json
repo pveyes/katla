@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "kun.di",
+    "akarKata": null,
+    "ejaan": "kundi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji saga, dahulu digunakan untuk menimbang emas (1 emas = 24 kundi)",
+        "contoh": "yang kurik -- yang merah saga, yang baik budi yang indah bahasa",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kun.di",
+    "akarKata": null,
+    "ejaan": "kundi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perajin barang yang terbuat dari tanah liat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

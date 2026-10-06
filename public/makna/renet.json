@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "re.net",
+    "akarKata": null,
+    "ejaan": "rènêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ekstrak renin yang dipekatkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

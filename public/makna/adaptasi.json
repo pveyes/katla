@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "adap.ta.si",
+    "akarKata": null,
+    "ejaan": "adaptasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan diri makhluk hidup (fungsi, atau struktur) agar sesuai atau dapat bertahan dalam kondisi lingkungannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyesuaian diri terhadap kondisi lingkungan yang baru (sekolah, pekerjaan, dan sebagainya)",
+        "contoh": "seminar tersebut memberikan tip tentang -- di lingkungan pekerjaan baru",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyesuaian suatu materi menurut kebutuhan; perubahan suatu materi menjadi bentuk yang baru",
+        "contoh": "-- buku-buku roman asing itu perlu sekali untuk memudahkan penerimaan murid",
+        "info": []
+      }
+    ]
+  }
+]

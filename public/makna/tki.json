@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TKI",
+    "akarKata": null,
+    "ejaan": "TKI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tenaga kerja Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

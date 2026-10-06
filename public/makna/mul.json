@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mul",
+    "akarKata": null,
+    "ejaan": "mul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "humus hutan yang gembur, membentuk lapisan hasil percampuran bahan organik dan tanah mineral yang selanjutnya bergabung secara bertahap ke tanah mineral di bawahnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu tanah",
+            "sumberTeks": "ilmu tanah"
+          }
+        ]
+      }
+    ]
+  }
+]

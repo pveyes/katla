@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "cu.lun",
+    "akarKata": null,
+    "ejaan": "culun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil",
+        "contoh": "Kota Cirebon bagaikan seorang gadis -- yang telah beranjak dewasa",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.lun",
+    "akarKata": null,
+    "ejaan": "culun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "naif dan tidak berpengalaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

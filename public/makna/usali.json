@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "usa.li",
+    "akarKata": null,
+    "ejaan": "usali",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "niat untuk mengerjakan salat (berarti ‘aku salat’, diucapkan saat akan melaksanakannya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

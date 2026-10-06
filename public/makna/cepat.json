@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ce.pat",
+    "akarKata": null,
+    "ejaan": "cêpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam waktu singkat dapat menempuh jarak cukup jauh (perjalanan, gerakan, kejadian, dan sebagainya); laju; deras",
+        "contoh": "ia berlari --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cekatan; tangkas",
+        "contoh": "dia berhasil menangkap bola dengan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terdahulu (tentang arloji, jam) maju; mendahului",
+        "contoh": "arloji itu -- sepuluh menit",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam waktu singkat; lekas; segera",
+        "contoh": "siapa -- dia dapat",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ti.lik",
+    "akarKata": null,
+    "ejaan": "tilik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penglihatan yang teliti (terutama penglihatan dengan mata batin)",
+        "contoh": "ia memiliki daya -- yang baik dan tajam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sinar (pandangan) mata",
+        "contoh": "orang itu jahat --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.lik",
+    "akarKata": null,
+    "ejaan": "tilik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tenung; teluh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "wa.lau",
+    "akarKata": null,
+    "ejaan": "walau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dan jika",
+        "contoh": "-- harus menembus bumi, tetap akan Kanda jalani",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kendati; meski",
+        "contoh": "-- hujan lebat, ia tetap datang ke rumah pacarnya",
+        "info": []
+      }
+    ]
+  }
+]

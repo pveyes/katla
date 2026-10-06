@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.muk",
+    "akarKata": null,
+    "ejaan": "cêmuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pukul (dengan alat, seperti tongkat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.muk",
+    "akarKata": null,
+    "ejaan": "cêmuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit kacang (petai dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

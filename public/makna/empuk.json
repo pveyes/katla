@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "em.puk",
+    "akarKata": null,
+    "ejaan": "êmpuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lunak; tidak keras",
+        "contoh": "tidur di kasur yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak liat; mudah dikunyah",
+        "contoh": "daging ini sudah sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah hancur (karena tuanya dan sebagainya); rapuh",
+        "contoh": "kainnya sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merdu (tentang suara)",
+        "contoh": "penyanyi yang bersuara -- itu banyak penggemarnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menyenangkan; enak (karena fasilitas yang cukup dan sebagainya)",
+        "contoh": "ia mempunyai jabatan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah (ditipu orang)",
+        "contoh": "penduduk desa menjadi sasaran -- para calo tanah",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

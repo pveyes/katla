@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "si.sir",
+    "akarKata": null,
+    "ejaan": "sisir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk merapikan atau mengatur rambut, terbuat dari tanduk, plastik, atau logam, bergerigi tipis dan rapat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggaruk tanah dan sebagainya; garu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gugus pisang (bagian dari tandan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suri pada alat tenun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat dadung atau tros kapal lewat sewaktu ditarik atau diukur, dimaksudkan untuk mengurangi gesekan yang terjadi; gelendong pada pagar kapal, cok, rol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.sir",
+    "akarKata": null,
+    "ejaan": "sisir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "susur jalan dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.sir",
+    "akarKata": null,
+    "ejaan": "sisir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kesisiran"
+        ]
+      }
+    ]
+  }
+]

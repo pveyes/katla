@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Un.tar",
+    "akarKata": null,
+    "ejaan": "Untar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Tarumanegara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

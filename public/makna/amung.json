@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "amung",
+    "akarKata": null,
+    "ejaan": "amung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat membawa barang yang terbuat dari kulit atau kain, diletakkan di punggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "amung",
+    "akarKata": null,
+    "ejaan": "amung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "teramung"
+        ]
+      }
+    ]
+  }
+]

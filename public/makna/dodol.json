@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "do.dol",
+    "akarKata": null,
+    "ejaan": "dodol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan, dibuat dari tepung ketan, santan kelapa, dan gula merah, kadang-kadang dicampur dengan buah-buahan, seperti durian, sirsak dibungkus daun (jagung), kertas, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.dol",
+    "akarKata": null,
+    "ejaan": "dodol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan peledak berbentuk tabung dodol yang digunakan pada pekerjaan peledakan di tambang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

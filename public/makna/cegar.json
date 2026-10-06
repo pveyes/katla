@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ce.gar",
+    "akarKata": null,
+    "ejaan": "cêgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aliran air yang deras di sungai (yang dasarnya dari batu-batu terhampar); serasah; riam kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.gar",
+    "akarKata": null,
+    "ejaan": "cêgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sehat kembali sesudah sakit; segar",
+        "contoh": "kini terasa badanku mulai --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.gar",
+    "akarKata": null,
+    "ejaan": "cêgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis burung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

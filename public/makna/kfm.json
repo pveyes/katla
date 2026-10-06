@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KFM",
+    "akarKata": null,
+    "ejaan": "KFM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konsultan feto maternal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

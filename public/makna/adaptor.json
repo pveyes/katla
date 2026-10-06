@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "adap.tor",
+    "akarKata": null,
+    "ejaan": "adaptor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menghubungkan dua bagian benda, misalnya yang berbeda diameternya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat listrik yang memungkinkan sesuatu dapat dipakai untuk tujuan tertentu yang berbeda dengan tujuan yang dirancang semula, misalnya alat yang mengubah arus bolak-balik menjadi arus searah untuk pemanfaatan listrik tertentu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dapat menyesuaikan jenis dan besar tegangan listrik untuk suatu alat lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat berbentuk tabung yang menyempit pada salah satu ujungnya dan dibengkokkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat atau peranti yang dipasang pada kamera sehingga kamera itu dapat dipakai untuk keperluan lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

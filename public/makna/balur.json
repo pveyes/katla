@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "ba.lur",
+    "akarKata": null,
+    "ejaan": "balur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu seperti kaca; kristal gunung; hablur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lur",
+    "akarKata": null,
+    "ejaan": "balur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit yang tebal dan keras (di tengkuk kerbau dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dendeng (daging atau ikan yang dikeringkan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lur",
+    "akarKata": null,
+    "ejaan": "balur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat luar yang pemakaiannya dengan cara mengoleskan (melumurkan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lur",
+    "akarKata": null,
+    "ejaan": "balur",
+    "baku": true,
+    "alt": "belur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur merah-merah bekas kena cambuk, pukul, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

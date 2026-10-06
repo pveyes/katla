@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ho.aks",
+    "akarKata": null,
+    "ejaan": "hoaks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "informasi bohong",
+        "contoh": "mereka mengumpulkan -- yang lalu lalang di banyak milis",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

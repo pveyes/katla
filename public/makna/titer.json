@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.ter",
+    "akarKata": null,
+    "ejaan": "titêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekuatan atau konsentrasi larutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

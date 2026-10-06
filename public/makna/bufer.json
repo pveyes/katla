@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bu.fer",
+    "akarKata": null,
+    "ejaan": "bufêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyangga; dapar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "larutan yang mampu menahan perubahan kepekatan ion H+",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

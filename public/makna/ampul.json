@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "am.pul",
+    "akarKata": null,
+    "ejaan": "ampul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "botol kecil tertutup rapat, biasanya mengandung satu dosis atau jumlah tertentu obat untuk sekali penyuntikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.pul",
+    "akarKata": null,
+    "ejaan": "ampul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "botol kecil tertutup rapat, biasanya mengandung satu dosis atau jumlah tertentu obat untuk sekali penyuntikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.pul",
+    "akarKata": null,
+    "ejaan": "ampul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat air dan anggur yang dipakai pada waktu misa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

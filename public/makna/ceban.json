@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ce.ban",
+    "akarKata": null,
+    "ejaan": "cêban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "sepuluh ribu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

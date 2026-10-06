@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UMR",
+    "akarKata": null,
+    "ejaan": "UMR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upah minimum regional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ji.rat",
+    "akarKata": null,
+    "ejaan": "jirat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu kubur; nisan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ji.rat",
+    "akarKata": null,
+    "ejaan": "jirat",
+    "baku": false,
+    "alt": "jerat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali yang ujungnya disimpulkan membentuk lubang yang dapat disempitkan atau dilonggarkan (untuk menangkap burung, kijang, dan sebagainya); kala4",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu muslihat untuk menyusahkan atau mencelakakan orang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

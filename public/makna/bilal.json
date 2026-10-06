@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bi.lal",
+    "akarKata": null,
+    "ejaan": "bilal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bertugas mengumandangkan azan; muazin; modin",
+        "contoh": "suara azan -- telah terdengar",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

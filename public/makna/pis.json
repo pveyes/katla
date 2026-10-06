@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "pis",
+    "akarKata": null,
+    "ejaan": "pis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(se)gulungan",
+        "contoh": "hartawan itu menyerahkan sumbangan lima puluh -- kain seprei",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pis",
+    "akarKata": null,
+    "ejaan": "pis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pipis2",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

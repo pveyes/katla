@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "dag",
+    "akarKata": null,
+    "ejaan": "dag",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dekagram",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

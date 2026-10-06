@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "da.rab",
+    "akarKata": null,
+    "ejaan": "darab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pukulan keras",
+        "contoh": "-- cemeti Johan Alam mengenai penghulu pendekar itu",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.rab",
+    "akarKata": null,
+    "ejaan": "darab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil kali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

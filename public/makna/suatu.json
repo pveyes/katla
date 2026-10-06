@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "su.a.tu",
+    "akarKata": null,
+    "ejaan": "suatu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "satu; hanya satu (untuk menyatakan benda yang kurang tentu)",
+        "contoh": "-- pun tidak",
+        "info": []
+      }
+    ]
+  }
+]

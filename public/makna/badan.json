@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ba.dan",
+    "akarKata": null,
+    "ejaan": "badan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tubuh (jasad manusia keseluruhan); jasmani; raga; awak",
+        "contoh": "akibat kecelakaan itu --nya cacat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang tubuh manusia, tidak termasuk anggota dan kepala",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian utama dari suatu benda; awak",
+        "contoh": "-- perahu (kapal)",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diri (sendiri)",
+        "contoh": "tuan --lah yang harus datang menghadap",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekumpulan orang yang merupakan kesatuan untuk mengerjakan sesuatu",
+        "contoh": "di samping -- pengurus, koperasi itu mempunyai -- penasihat",
+        "info": []
+      }
+    ]
+  }
+]

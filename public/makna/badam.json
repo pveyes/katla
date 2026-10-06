@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ba.dam",
+    "akarKata": null,
+    "ejaan": "badam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon kecil, buahnya menghasilkan minyak, biji buahnya digunakan dalam berbagai masakan; almon",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah badam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minyak badam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dam",
+    "akarKata": null,
+    "ejaan": "badam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintik-bintik merah pada kulit (tanda-tanda penyakit kusta)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dam",
+    "akarKata": null,
+    "ejaan": "badam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat bunga1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

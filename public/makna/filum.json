@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "fi.lum",
+    "akarKata": null,
+    "ejaan": "filum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan besar dalam klasifikasi hewan dan tumbuhan yang mempunyai persamaan sifat dasar tertentu, yang masih terbagi lagi menjadi subfilum, kelas, ordo, famili, genus, dan spesies",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok bahasa berkerabat yang anggotanya telah berpisah antara 50–100 abad yang lampau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "am.par",
+    "akarKata": null,
+    "ejaan": "ampar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padi yang sudah menguning",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyemaian benih padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benih padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

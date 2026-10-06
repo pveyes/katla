@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "len.sa",
+    "akarKata": null,
+    "ejaan": "lènsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaca bulat melengkung (seperti kaca pembesar, kaca potret)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat penampungan cairan (air, minyak) agar ruangan seperti palka, kamar mesin tetap kering; bilga; got",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

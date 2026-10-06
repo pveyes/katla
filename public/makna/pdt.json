@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PDT",
+    "akarKata": null,
+    "ejaan": "PDT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan disiplin tentara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

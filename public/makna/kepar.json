@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.par",
+    "akarKata": null,
+    "ejaan": "kèpar",
+    "baku": true,
+    "alt": "kepau, kipar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain cita yang bergaris-garis (berjalur-jalur) miring, terbuat dari kapas atau linen, biasanya digunakan untuk pakaian dalam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.par",
+    "akarKata": null,
+    "ejaan": "kêpar",
+    "baku": true,
+    "alt": "kepau, kipar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketoprak3",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

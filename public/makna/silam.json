@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "si.lam",
+    "akarKata": null,
+    "ejaan": "silam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gelap; kelam; redup",
+        "contoh": "hari sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah tenggelam (tentang matahari)",
+        "contoh": "pada -- matahari",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lenyap; hilang",
+        "contoh": "ia terus saja mengenang kejayaan dan kebesaran nenek moyangnya yang telah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah lampau (tentang masa dan sebagainya)",
+        "contoh": "masa --",
+        "info": []
+      }
+    ]
+  }
+]

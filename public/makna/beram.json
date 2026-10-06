@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "be.ram",
+    "akarKata": null,
+    "ejaan": "bêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman keras yang terbuat dari air tapai; brem",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.ram",
+    "akarKata": null,
+    "ejaan": "bêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "merah tua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

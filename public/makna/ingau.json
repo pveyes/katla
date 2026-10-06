@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ingau",
+    "akarKata": null,
+    "ejaan": "ingau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "igau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah lupa dan tidak tentu pikirannya",
+        "contoh": "agaknya dia sudah --, tak ada yang bisa dipegang cakapnya",
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IDP",
+    "akarKata": null,
+    "ejaan": "IDP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikatan dinas pendek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

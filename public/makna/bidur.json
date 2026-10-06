@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bi.dur",
+    "akarKata": null,
+    "ejaan": "bidur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bongkah timah yang beratnya sekitar 3 pon (dipakai juga untuk ukuran harga)",
+        "contoh": "mahar putri, anak raja Perak, dikatakan 100 --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.dur",
+    "akarKata": null,
+    "ejaan": "bidur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelegata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

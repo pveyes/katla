@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ham.pa",
+    "akarKata": null,
+    "ejaan": "hampa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berisi; kosong",
+        "contoh": "padi yang -- dibuang saja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bergairah; sepi",
+        "contoh": "perasaannya (hatinya) --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sia-sia; tidak ada hasilnya",
+        "contoh": "-- saja ia mencari pekerjaan di kota, di mana-mana tidak ada lowongan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bodoh; tidak berpengetahuan",
+        "contoh": "tidak ada gunanya bertukar pikiran dengan orang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

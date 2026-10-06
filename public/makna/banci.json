@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ban.ci",
+    "akarKata": null,
+    "ejaan": "banci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berjenis laki-laki dan juga tidak berjenis perempuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laki-laki yang bertingkah laku dan berpakaian sebagai perempuan; wadam; waria",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ban.ci",
+    "akarKata": null,
+    "ejaan": "banci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cacah jiwa; perhitungan penduduk; sensus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu malaysia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ban.ci",
+    "akarKata": null,
+    "ejaan": "banci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patil besar untuk menarah kayu dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

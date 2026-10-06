@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bi.a.ra",
+    "akarKata": null,
+    "ejaan": "biara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah (asrama) tempat para petapa (rubiah dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan tempat tinggal laki-laki atau perempuan yang mengkhususkan diri terhadap pelaksanaan ajaran agama di bawah pimpinan seorang ketua menurut aturan alirannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

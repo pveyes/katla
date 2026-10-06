@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "KMB",
+    "akarKata": null,
+    "ejaan": "KMB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Konferensi Meja Bundar (sebuah pertemuan yang bertempat di Den Haag, Belanda, dari 23 Agustus–2 November 1949 antara perwakilan Republik Indonesia, Belanda, dan BFO yang menghasilkan kesediaan Belanda untuk menyerahkan kedaulatan kepada Republik Indonesia Serikat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "KMB",
+    "akarKata": null,
+    "ejaan": "KMB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelayakan menggunakan bangunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

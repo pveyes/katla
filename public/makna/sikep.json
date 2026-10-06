@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "si.kep",
+    "akarKata": null,
+    "ejaan": "sikêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang dari desa yang mempunyai kewajiban melakukan kerja bakti untuk orang yang terpandang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          },
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemetik sarang burung (lawet dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna hitam (tentang bulu itik)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

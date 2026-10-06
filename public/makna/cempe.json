@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "cem.pe",
+    "akarKata": null,
+    "ejaan": "cêmpé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kambing atau domba yang masih menyusu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

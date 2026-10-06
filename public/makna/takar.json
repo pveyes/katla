@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.kar",
+    "akarKata": null,
+    "ejaan": "takar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran isi (sukat, liter, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat sejenis periuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

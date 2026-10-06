@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pad.ri",
+    "akarKata": null,
+    "ejaan": "padri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendeta Katolik; pastor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendeta Kristen",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

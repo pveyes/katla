@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "te.ret",
+    "akarKata": null,
+    "ejaan": "tèrèt",
+    "baku": false,
+    "alt": "deret",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susunan (dalam bentuk garis lurus) teratur yang sama arah, jarak, tinggi, dan tingkatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan zat, bilangan, atau kuantitas lain pada kumpulan yang sama yang disusun secara beraturan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "statistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan antara unsur bahasa secara linear, misalnya deret fonem dalam kata; realisasi dari urutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barisan bilangan yang mempunyai perbedaan antarsuku yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

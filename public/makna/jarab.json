@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.rab",
+    "akarKata": null,
+    "ejaan": "jarab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kudis; kurap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

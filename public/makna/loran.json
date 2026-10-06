@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lo.ran",
+    "akarKata": null,
+    "ejaan": "loran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem navigasi elektronik yang menghasilkan garis posisi hiperbola dengan mengukur selisih waktu penerimaan sinyal pulsa yang dibuat selaras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

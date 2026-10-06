@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.lah",
+    "akarKata": null,
+    "ejaan": "kèlah",
+    "baku": true,
+    "alt": "kelak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "piknik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lah",
+    "akarKata": null,
+    "ejaan": "kêlah",
+    "baku": true,
+    "alt": "kelak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberitahuan yang disertai permintaan oleh pihak yang berkepentingan kepada pejabat yang berwenang untuk menindak, menurut hukum, orang yang melakukan perbuatan yang hanya dapat dituntut berdasarkan aduan; pengaduan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

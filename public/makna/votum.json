@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "vo.tum",
+    "akarKata": null,
+    "ejaan": "votum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suara (dalam pemilihan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari pemungutan suara (untuk menentukan sesuatu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "vo.tum",
+    "akarKata": null,
+    "ejaan": "votum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembacaan ayat-ayat suci pada acara kebaktian di gereja Protestan sebelum khotbah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

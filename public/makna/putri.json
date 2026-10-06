@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "put.ri",
+    "akarKata": null,
+    "ejaan": "putri",
+    "baku": true,
+    "alt": "puteri",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak perempuan raja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak perempuan; wanita",
+        "contoh": "-- sejati",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "khusus (untuk) wanita",
+        "contoh": "lompat tinggi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kandung wanita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

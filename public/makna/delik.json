@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "de.lik",
+    "akarKata": null,
+    "ejaan": "dêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tingginya mencapai 20 m, berbatang besar, bercabang banyak dan tidak lurus; temberos",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.lik",
+    "akarKata": null,
+    "ejaan": "dêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan yang dapat dikenakan hukuman karena merupakan pelanggaran terhadap undang-undang; tindak pidana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.lik",
+    "akarKata": null,
+    "ejaan": "dêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "perbuatan yang dapat dikenakan hukuman karena merupakan pelanggaran terhadap undang-undang; tindak pidana",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

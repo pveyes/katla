@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.rik",
+    "akarKata": null,
+    "ejaan": "jarik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain panjang, biasanya tanpa tumpal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

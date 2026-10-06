@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ju.dul",
+    "akarKata": null,
+    "ejaan": "judul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama yang dipakai untuk buku atau bab dalam buku yang dapat menyiratkan secara pendek isi atau maksud buku atau bab itu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala karangan (cerita, drama, dan sebagainya); tajuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

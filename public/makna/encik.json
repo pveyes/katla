@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "en.cik",
+    "akarKata": null,
+    "ejaan": "êncik",
+    "baku": true,
+    "alt": "ci",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk laki-laki atau perempuan yang berkedudukan sedang atau yang tidak dikenal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk guru perempuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

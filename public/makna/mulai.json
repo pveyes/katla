@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mu.lai",
+    "akarKata": null,
+    "ejaan": "mulai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengawali berbuat (bertindak, melakukan, dan sebagainya)",
+        "contoh": "orang-orang sudah hampir selesai, kita baru --",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "sejak",
+        "contoh": "penataran berlangsung -- tanggal 5–18 Januari tahun ini",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ria",
+    "akarKata": null,
+    "ejaan": "ria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "riang; gembira; suka cita",
+        "contoh": "ia disambut dengan segala -- dan suka hati",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ramai (oleh suara orang bersuka-suka dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ria",
+    "akarKata": null,
+    "ejaan": "ria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sombong; congkak; bangga (karena telah berbuat baik)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

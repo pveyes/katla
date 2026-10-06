@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ba.lut",
+    "akarKata": null,
+    "ejaan": "balut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(kain dan sebagainya) pengikat atau pembebat luka; barut; pembungkus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembungkus pegangan atau gagang stik dalam olahraga hoki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lut",
+    "akarKata": null,
+    "ejaan": "balut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tebal seperti bengkak (tentang pelupuk mata)",
+        "contoh": "matanya -- karena menangis",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "gu.bal",
+    "akarKata": null,
+    "ejaan": "gubal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang lunak antara kulit dan teras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.bal",
+    "akarKata": null,
+    "ejaan": "gubal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rencana",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.bal",
+    "akarKata": null,
+    "ejaan": "gubal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bungkah (tanah, batu, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ca.tok",
+    "akarKata": null,
+    "ejaan": "catok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ragum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.tok",
+    "akarKata": null,
+    "ejaan": "catok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat penjepit yang dilengkapi pemanas, digunakan untuk mempercepat pelurusan rambut yang keriting, bentuknya seperti capit makanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

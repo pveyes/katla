@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ide",
+    "akarKata": null,
+    "ejaan": "idé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rancangan yang tersusun di dalam pikiran; gagasan; cita-cita",
+        "contoh": "ia mempunyai -- yang bagus, tetapi sukar dilaksanakan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasaan yang benar-benar menyelimuti pikiran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

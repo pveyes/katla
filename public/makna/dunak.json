@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "du.nak",
+    "akarKata": null,
+    "ejaan": "dunak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakul besar, terbuat dari anyaman bambu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

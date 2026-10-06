@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "nyo.lo",
+    "akarKata": null,
+    "ejaan": "nyolo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasapan; pedupaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

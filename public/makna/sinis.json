@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "si.nis",
+    "akarKata": null,
+    "ejaan": "sinis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat mengejek atau memandang rendah",
+        "contoh": "ia tersenyum -- melihat orang itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak melihat suatu kebaikan apa pun dan meragukan sifat baik yang ada pada sesuatu",
+        "contoh": "dia sangat -- melihat perkembangan politik dewasa ini",
+        "info": []
+      }
+    ]
+  }
+]

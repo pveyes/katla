@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.bar",
+    "akarKata": null,
+    "ejaan": "gêbar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain untuk menutup, seperti selimut, alas tilam; kain gebar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.bar",
+    "akarKata": null,
+    "ejaan": "gêbar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

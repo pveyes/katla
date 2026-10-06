@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "po.lar",
+    "akarKata": null,
+    "ejaan": "polar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutub",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkutub",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.lar",
+    "akarKata": null,
+    "ejaan": "polar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dalam kulit gandum yang mengandung pati dan protein",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KUHPT",
+    "akarKata": null,
+    "ejaan": "KUHPT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kitab undang-undang hukum pidana tentara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

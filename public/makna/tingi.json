@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ti.ngi",
+    "akarKata": null,
+    "ejaan": "tingi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tengar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu tingi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

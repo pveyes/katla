@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.pau",
+    "akarKata": null,
+    "ejaan": "sapau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dangau di hutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

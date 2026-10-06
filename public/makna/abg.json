@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ABG",
+    "akarKata": null,
+    "ejaan": "ABG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak baru gede",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

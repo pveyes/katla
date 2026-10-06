@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lil",
+    "akarKata": null,
+    "ejaan": "lil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lukah (bubu) yang berpintu di samping",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

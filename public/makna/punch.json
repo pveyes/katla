@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "punch",
+    "akarKata": null,
+    "ejaan": "punch",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "pukulan (dalam olahraga tinju) yang sengaja diberikan secara tidak efektif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "minuman manis, terdiri atas sari buah, air soda, dan sebagainya yang dicampur dengan anggur atau minuman keras dan disajikan dalam gelas besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

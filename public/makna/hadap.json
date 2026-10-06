@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ha.dap",
+    "akarKata": null,
+    "ejaan": "hadap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisi atau bidang sebelah muka; muka",
+        "contoh": "rumah itu tidak tentu -- belakangnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah ke (terutama tentang sesuatu yang tidak bergerak)",
+        "contoh": "ke mana -- gedung itu",
+        "info": []
+      }
+    ]
+  }
+]

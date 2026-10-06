@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ram.pa",
+    "akarKata": null,
+    "ejaan": "rampa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titian yang menghubungkan kapal dengan dermaga",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidang landai untuk menghubungkan dua bidang yang berbeda ketinggian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lantai miring yang digunakan sebagai akses untuk pengguna kursi roda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

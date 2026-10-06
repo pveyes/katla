@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "se.lut",
+    "akarKata": null,
+    "ejaan": "sêlut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumpur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lut",
+    "akarKata": null,
+    "ejaan": "sêlut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besi yang dipasang di ujung tangkai parang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cincin pada ujung atas gagang kujang untuk memperkuat pegangan kujang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lut",
+    "akarKata": null,
+    "ejaan": "sêlut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gerakan dalam tarian Sunda, dilakukan dengan memutar pergelangan hingga telapak tangan menghadap keluar, lalu diputar lagi sampai tangan dalam posisi menghadap ke depan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

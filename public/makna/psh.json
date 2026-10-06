@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PSH",
+    "akarKata": null,
+    "ejaan": "PSH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pakaian sipil harian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

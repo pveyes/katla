@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "po.dak",
+    "akarKata": null,
+    "ejaan": "podak",
+    "baku": false,
+    "alt": "pandan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang daunnya berbentuk pita, berwarna hijau tua, agak kaku seperti daun nanas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun pandan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

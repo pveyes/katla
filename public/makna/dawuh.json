@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.wuh",
+    "akarKata": null,
+    "ejaan": "dawuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "perintah",
+        "contoh": "mengapa -- itu baru dikeluarkan sekarang?",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

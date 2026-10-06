@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ser.ka",
+    "akarKata": null,
+    "ejaan": "sèrka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sersan kepala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

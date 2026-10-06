@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ka.bag",
+    "akarKata": null,
+    "ejaan": "kabag",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala bagian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

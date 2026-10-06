@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "elu.en",
+    "akarKata": null,
+    "ejaan": "éluèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat cair yang digunakan untuk mengekstraksi suatu zat padat dari campuran zat padat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

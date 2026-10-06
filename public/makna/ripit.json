@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ri.pit",
+    "akarKata": null,
+    "ejaan": "ripit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keripik pisang atau keladi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

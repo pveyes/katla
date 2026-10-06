@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ba.was",
+    "akarKata": null,
+    "ejaan": "bawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badan pengawasan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ba.ham",
+    "akarKata": null,
+    "ejaan": "baham",
+    "baku": false,
+    "alt": "geraham",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gigi belakang (untuk mengunyah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.ham",
+    "akarKata": null,
+    "ejaan": "baham",
+    "baku": false,
+    "alt": "geraham",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gigi belakang (untuk mengunyah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.ham",
+    "akarKata": null,
+    "ejaan": "Baham",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah sebelah barat Semenanjung Bomberai di sebelah selatan Kota Fakfak, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Baham",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

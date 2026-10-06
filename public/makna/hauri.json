@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hau.ri",
+    "akarKata": null,
+    "ejaan": "hauri",
+    "baku": false,
+    "alt": "haur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidadari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

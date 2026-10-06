@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "vet",
+    "akarKata": null,
+    "ejaan": "vèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lemak",
+        "contoh": "susu itu mengandung --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tebal",
+        "contoh": "dicetak dengan huruf --",
+        "info": []
+      }
+    ]
+  }
+]

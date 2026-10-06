@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "en.dap",
+    "akarKata": null,
+    "ejaan": "êndap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengendap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "en.dap",
+    "akarKata": null,
+    "ejaan": "êndap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "seluduk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ope.ra",
+    "akarKata": null,
+    "ejaan": "opêra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk drama panggung yang seluruhnya atau sebagian dinyanyikan dengan iringan orkes atau musik instrumental",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

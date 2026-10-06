@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BMG",
+    "akarKata": null,
+    "ejaan": "BMG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Meteorologi dan Geofisika; lihat BMKG",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

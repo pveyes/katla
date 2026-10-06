@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pos.ko",
+    "akarKata": null,
+    "ejaan": "posko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pos komando",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

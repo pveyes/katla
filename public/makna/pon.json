@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "PON",
+    "akarKata": null,
+    "ejaan": "PON",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Pekan Olahraga Nasional (pesta olahraga nasional yang diadakan setiap empat tahun sekali dan diikuti seluruh provinsi di Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pon",
+    "akarKata": null,
+    "ejaan": "pon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran berat 500 gr",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Pon",
+    "akarKata": null,
+    "ejaan": "Pon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari ke-3 dalam pasaran Jawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ga.mis",
+    "akarKata": null,
+    "ejaan": "gamis",
+    "baku": true,
+    "alt": "kamis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemeja arab",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju yang panjangnya semata kaki atau lebih menyerupai kemeja dengan potongan longgar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

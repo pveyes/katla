@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "em.bun",
+    "akarKata": null,
+    "ejaan": "êmbun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik-titik air yang jatuh dari udara (terutama pada malam hari)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uap yang menjadi titik-titik air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "endapan tetes air yang terdapat pada benda dekat atau di permukaan tanah yang terbentuk akibat pengembunan uap air dari udara di sekitarnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

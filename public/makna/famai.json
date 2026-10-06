@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.mai",
+    "akarKata": null,
+    "ejaan": "famai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "misionaris pemula",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sentani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

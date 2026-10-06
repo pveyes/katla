@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.lot",
+    "akarKata": null,
+    "ejaan": "bolot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "balut; bungkus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "su.tra",
+    "akarKata": null,
+    "ejaan": "sutra",
+    "baku": true,
+    "alt": "sutera",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang halus dan lembut yang berasal dari kepompong ulat sutra",
+        "contoh": "kain --",
+        "info": []
+      }
+    ]
+  }
+]

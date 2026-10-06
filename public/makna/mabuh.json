@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.buh",
+    "akarKata": null,
+    "ejaan": "mabuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memotong padi dengan imbalan upah harian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

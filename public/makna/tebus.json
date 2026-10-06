@@ -1,0 +1,94 @@
+[
+  {
+    "sukuKata": "te.bus",
+    "akarKata": null,
+    "ejaan": "têbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menebus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.bus",
+    "akarKata": null,
+    "ejaan": "têbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menebus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.bus",
+    "akarKata": null,
+    "ejaan": "têbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menebus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.bus",
+    "akarKata": null,
+    "ejaan": "têbus",
+    "baku": false,
+    "alt": "tembus",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berlubang sampai ke sisi yang lain; tembuk",
+        "contoh": "meskipun berlapis baja, -- juga oleh peluru",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "masuk sampai (ke luar) ke; melantas",
+        "contoh": "pisau yang ditusukkan ke dadanya -- sampai ke tulang belikat",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merembes (meresap) ke sisi yang lain",
+        "contoh": "adukan tembok yang berbatasan dengan kamar mandi harus lebih tebal dan lebih banyak semennya agar tidak -- ke kamar sebelahnya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terobos (tentang barisan, pertahanan, dan sebagainya)",
+        "contoh": "pertahanan yang terdepan sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kena benar (tentang dugaan, ramalan, dan sebagainya)",
+        "contoh": "-- terkaannya",
+        "info": []
+      }
+    ]
+  }
+]

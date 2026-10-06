@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pa.pas",
+    "akarKata": null,
+    "ejaan": "papas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jumpa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.pas",
+    "akarKata": null,
+    "ejaan": "papas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jumpa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

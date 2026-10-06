@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.lit",
+    "akarKata": null,
+    "ejaan": "lilit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebatan yang membelit-belit; belit",
+        "contoh": "lukanya diperban tiga --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keliling (suatu bidang)",
+        "contoh": "-- penampang lintang pohon itu dua meter",
+        "info": []
+      }
+    ]
+  }
+]

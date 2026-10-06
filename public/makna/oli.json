@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "oli",
+    "akarKata": null,
+    "ejaan": "oli",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minyak pelumas (motor, mesin, dan sebagainya)",
+        "contoh": "-- mesin mobil ini baru diganti",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sau.na",
+    "akarKata": null,
+    "ejaan": "sauna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mandi uap cara Finlandia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat (ruang) mandi uap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

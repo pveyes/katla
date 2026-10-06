@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mop",
+    "akarKata": null,
+    "ejaan": "mop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lelucon",
+        "contoh": "April --",
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

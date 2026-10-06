@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.dam",
+    "akarKata": null,
+    "ejaan": "jadam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pati kayu gaharu berwarna hitam, biasa dipakai untuk obat perut dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama campuran logam berwarna biru tua untuk melapis, menghitamkan perak, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

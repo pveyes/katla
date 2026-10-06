@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "iling",
+    "akarKata": null,
+    "ejaan": "iling",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tuang (tentang cairan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

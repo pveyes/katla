@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "gu.a.no",
+    "akarKata": null,
+    "ejaan": "guano",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotoran burung laut yang sudah kering yang menumpuk di pulau-pulau kecil atau pantai, dijadikan pupuk (terutama terdapat di pantai barat Amerika dan pulau-pulau di Lautan Pasifik)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotoran kelelawar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

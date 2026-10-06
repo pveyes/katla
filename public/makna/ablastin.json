@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.las.tin",
+    "akarKata": null,
+    "ejaan": "ablastin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "antibodi yang secara spesifik menghambat perkembangbiakan jasad renik, yaitu secara bergabung dengan antigen dari permukaan sel homolog",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

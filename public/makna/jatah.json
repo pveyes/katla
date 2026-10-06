@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.tah",
+    "akarKata": null,
+    "ejaan": "jatah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah atau banyaknya barang dan sebagainya yang telah ditentukan (untuk suatu maksud atau untuk suatu daerah)",
+        "contoh": "anak-anak yang kelaparan mendapat -- makanan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah atau banyaknya orang yang telah ditentukan (untuk imigrasi, pergi haji, dan sebagainya); kuota",
+        "contoh": "jemaah haji setiap tahun ditentukan oleh --nya",
+        "info": []
+      }
+    ]
+  }
+]

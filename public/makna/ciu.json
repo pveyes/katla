@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ciu",
+    "akarKata": null,
+    "ejaan": "ciu",
+    "baku": true,
+    "alt": "ciau",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tikar rangkap tiga dihiasi emas (perak)",
+        "contoh": "Baginda dipersilakan bersemayam di atas -- keemasan",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ci.u",
+    "akarKata": null,
+    "ejaan": "ciu",
+    "baku": true,
+    "alt": "cu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman keras; arak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

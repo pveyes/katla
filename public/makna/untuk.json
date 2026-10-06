@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "un.tuk",
+    "akarKata": null,
+    "ejaan": "untuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menyatakan bagi ...; bagian",
+        "contoh": "ini --ku, yang itu --mu",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "sebab atau alasan",
+        "contoh": "-- kesalahan itu, ia dihukum dua tahun",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "tujuan atau maksud; bagi",
+        "contoh": "lemari -- (menyimpan) pakaian",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "penggantian (sebagai ganti ...); (disediakan, digunakan, dipakai) sebagai ...",
+        "contoh": "peti itu dipakai -- meja makan",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "selama",
+        "contoh": "-- beberapa bulan ia terpaksa istirahat di rumah sakit",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "sudah",
+        "contoh": "-- ketiga kalinya saya memperingatkan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.tuk",
+    "akarKata": null,
+    "ejaan": "untuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari milik yang dibagi-bagikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.tuk",
+    "akarKata": null,
+    "ejaan": "untuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan perempuan (kata penghalus)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

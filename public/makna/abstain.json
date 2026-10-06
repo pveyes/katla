@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ab.stain",
+    "akarKata": null,
+    "ejaan": "abstain",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak memberikan suara (dalam pemungutan suara); tidak menentukan sikap",
+        "contoh": "ia -- dalam pemungutan suara untuk memilih ketua baru",
+        "info": [
+          {
+            "sumber": "politik dan pemerintahan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berpantang makanan atau minuman tertentu (lemak, kopi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

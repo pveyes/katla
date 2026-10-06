@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Wal.hi",
+    "akarKata": null,
+    "ejaan": "Walhi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wahana lingkungan hidup Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

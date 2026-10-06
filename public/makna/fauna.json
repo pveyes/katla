@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fau.na",
+    "akarKata": null,
+    "ejaan": "fauna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keseluruhan kehidupan hewan di suatu habitat, daerah, atau strata geologi tertentu; dunia hewan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karya atau penerbitan yang memuat daftar dan penelaahan jenis hewan suatu habitat, daerah, atau strata geologi tertentu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

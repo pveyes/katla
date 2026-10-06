@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.ran",
+    "akarKata": null,
+    "ejaan": "séran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis-garis (jalur-jalur) miring; loreng; setrip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

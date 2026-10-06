@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pe.kas",
+    "akarKata": null,
+    "ejaan": "pêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemegang kas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

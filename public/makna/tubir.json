@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "tu.bir",
+    "akarKata": null,
+    "ejaan": "tubir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tebing (jurang dan sebagainya) yang curam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepi sesuatu yang dalam (seperti tepi jurang, tepi kawah, tepi sungai)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang dekat sekali dengan tepi sesuatu yang dalam (seperti tepi jurang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang dalam sekali (di laut dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan yang hampir pada sesuatu yang sangat berbahaya (mati dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

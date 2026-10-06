@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PUEBI",
+    "akarKata": null,
+    "ejaan": "PUEBI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Pedoman Umum Ejaan Bahasa Indonesia (pedoman ejaan bahasa Indonesia yang merupakan pemutakhiran dari PUEYD)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

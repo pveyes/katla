@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "rin.du",
+    "akarKata": null,
+    "ejaan": "rindu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat ingin dan berharap benar terhadap sesuatu",
+        "contoh": "ia -- akan kemerdekaan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "memiliki keinginan yang kuat untuk bertemu (hendak pulang ke kampung halaman)",
+        "contoh": "ia -- benar kepada anak-istrinya",
+        "info": []
+      }
+    ]
+  }
+]

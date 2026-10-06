@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ja.ban",
+    "akarKata": null,
+    "ejaan": "jaban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sewa yang diterima oleh pemilik sawah dari pemilik bebek karena tanahnya dijadikan kandang ketika panen usai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.ban",
+    "akarKata": null,
+    "ejaan": "jaban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "klimaks dari suatu pertandingan, pertarungan, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ga.luh",
+    "akarKata": null,
+    "ejaan": "galuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ratna (intan) sebagai sebutan putri raja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada anak perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

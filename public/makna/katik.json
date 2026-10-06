@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ka.tik",
+    "akarKata": null,
+    "ejaan": "katik",
+    "baku": false,
+    "alt": "katai",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil atau kerdil pertumbuhannya",
+        "contoh": "ayam --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tik",
+    "akarKata": null,
+    "ejaan": "katik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumput gegenjuran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tik",
+    "akarKata": null,
+    "ejaan": "katik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung punai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tik",
+    "akarKata": null,
+    "ejaan": "katik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran luas tanah atau sawah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

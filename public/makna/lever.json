@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.ver",
+    "akarKata": null,
+    "ejaan": "lèvêr",
+    "baku": true,
+    "alt": "liver",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hati",
+        "contoh": "penderita sakit -- tidak boleh makan makanan yang berlemak",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ver",
+    "akarKata": null,
+    "ejaan": "lèvêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melever"
+        ]
+      }
+    ]
+  }
+]

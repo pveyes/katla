@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "abah",
+    "akarKata": null,
+    "ejaan": "abah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah; tuju",
+        "contoh": "tidak tentu --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abah",
+    "akarKata": null,
+    "ejaan": "abah",
+    "baku": false,
+    "alt": "aba",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ayah; bapak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

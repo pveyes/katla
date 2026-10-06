@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ko.tek",
+    "akarKata": null,
+    "ejaan": "kotèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kokok ayam betina (biasanya setelah selesai bertelur)",
+        "contoh": "terdengar sangat riuh -- ayam yang sudah selesai bertelur itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.tek",
+    "akarKata": null,
+    "ejaan": "kotèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ekor yang berbulu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

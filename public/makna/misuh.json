@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mi.suh",
+    "akarKata": null,
+    "ejaan": "misuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengeluarkan pisuhan; memaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ka.yan",
+    "akarKata": null,
+    "ejaan": "kayan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbagai macam kayu; kekayuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ka.yan",
+    "akarKata": null,
+    "ejaan": "Kayan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Kayan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

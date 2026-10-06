@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pe.lok",
+    "akarKata": null,
+    "ejaan": "pêlok",
+    "baku": false,
+    "alt": "peluk",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dekap (pada leher, tubuh, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "depa (untuk ukuran besar)",
+        "contoh": "batang kayu itu besarnya tiga --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.lok",
+    "akarKata": null,
+    "ejaan": "pêlok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji buah mangga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.pih",
+    "akarKata": null,
+    "ejaan": "sapih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lumpuh sebelah badan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.pih",
+    "akarKata": null,
+    "ejaan": "sapih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "henti",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "eta.pe",
+    "akarKata": null,
+    "ejaan": "étapé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak (antara dua tempat); perhentian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tahap; fase",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

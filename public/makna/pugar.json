@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "pu.gar",
+    "akarKata": null,
+    "ejaan": "pugar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aksidental yang membatalkan pengaruh aksidental lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.gar",
+    "akarKata": null,
+    "ejaan": "pugar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "aksidental yang membatalkan pengaruh aksidental lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.gar",
+    "akarKata": null,
+    "ejaan": "pugar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "aksidental yang membatalkan pengaruh aksidental lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

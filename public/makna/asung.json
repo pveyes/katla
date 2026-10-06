@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "asung",
+    "akarKata": null,
+    "ejaan": "asung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hasut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "asung",
+    "akarKata": null,
+    "ejaan": "asung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengasung"
+        ]
+      }
+    ]
+  }
+]

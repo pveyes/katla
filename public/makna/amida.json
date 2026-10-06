@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ami.da",
+    "akarKata": null,
+    "ejaan": "amida",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan senyawa bernitrogen yang berkaitan atau diturunkan dari amonia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.sir",
+    "akarKata": null,
+    "ejaan": "pasir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "butir-butir batu yang halus; kersik halus",
+        "contoh": "Ayah membuat adukan dari air, semen, dan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan tanah atau timbunan kersik halus",
+        "contoh": "ia bermain-main di --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbutir-butir sebagai pasir",
+        "contoh": "emas --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laut",
+        "contoh": "tepi --",
+        "info": []
+      }
+    ]
+  }
+]

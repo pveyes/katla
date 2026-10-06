@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sua",
+    "akarKata": null,
+    "ejaan": "sua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sua",
+    "akarKata": null,
+    "ejaan": "sua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat bulu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

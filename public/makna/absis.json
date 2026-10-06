@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.sis",
+    "akarKata": null,
+    "ejaan": "absis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak titik terhadap sumbu tegak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.tes",
+    "akarKata": null,
+    "ejaan": "katès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pepaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

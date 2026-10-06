@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.ser",
+    "akarKata": null,
+    "ejaan": "lasêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembangkit cahaya produk sains dan teknologi modern, yang dapat menghasilkan cahaya yang mempunyai intensitas tinggi, bersifat koheren dan monokromatis; dari light amplification by stimulated emission of radiation",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

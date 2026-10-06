@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "rad",
+    "akarKata": null,
+    "ejaan": "rad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dewan; majelis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "rad",
+    "akarKata": null,
+    "ejaan": "rad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan pengionan dalam radiasi, 100 erg/gram",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

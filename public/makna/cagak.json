@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "ca.gak",
+    "akarKata": null,
+    "ejaan": "cagak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat (galah dan sebagainya) yang ujungnya bercabang (untuk penopang, penahan, penyangga); cabang (kayu)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang (listrik, telepon, dan sebagainya); kaki atau penyangga (perkakas potret, senapan mesin, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "simpang; cabang (tentang jalan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tunjangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.gak",
+    "akarKata": null,
+    "ejaan": "cagak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk rias garis alis yang tebal dan bercabang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

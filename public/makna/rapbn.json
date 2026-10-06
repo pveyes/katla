@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RAPBN",
+    "akarKata": null,
+    "ejaan": "RAPBN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Rancangan Anggaran Pendapatan dan Belanja Negara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

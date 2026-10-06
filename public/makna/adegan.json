@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ade.gan",
+    "akarKata": null,
+    "ejaan": "adêgan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemunculan tokoh baru atau pergantian susunan (layar) pada pertunjukan wayang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian babak dalam lakon (sandiwara film)",
+        "contoh": "beberapa -- dalam film itu telah dipotong oleh bagian sensor",
+        "info": []
+      }
+    ]
+  }
+]

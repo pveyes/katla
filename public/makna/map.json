@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "map",
+    "akarKata": null,
+    "ejaan": "map",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampul dari kertas tebal untuk menyimpan lembar-lembar surat dan sebagainya",
+        "contoh": "dia mengepit -- berisi surat-surat keterangan, ijazah, dan sebagainya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "direktori tempat menyimpan berkas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

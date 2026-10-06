@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.but",
+    "akarKata": null,
+    "ejaan": "babut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permadani; karpet",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

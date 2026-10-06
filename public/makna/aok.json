@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aok",
+    "akarKata": null,
+    "ejaan": "aok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat ditentukan (tentang rasa)",
+        "contoh": "rasa penganan yang baru ibu beli ini --",
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

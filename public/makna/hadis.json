@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ha.dis",
+    "akarKata": null,
+    "ejaan": "hadis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sabda, perbuatan, takrir (ketetapan) Nabi Muhammad saw. yang diriwayatkan atau diceritakan oleh sahabat untuk menjelaskan dan menetapkan hukum Islam",
+        "contoh": "-- itu diriwayatkan oleh sahabat Nabi terdekat",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumber ajaran Islam yang kedua setelah Al-Qur'an",
+        "contoh": "untuk lebih mendalami Islam, ia sangat tekun membaca -- Nabi Muhammad saw. di samping menghafal ayat-ayat Al-Qur'an",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.ron",
+    "akarKata": null,
+    "ejaan": "laron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelekatu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

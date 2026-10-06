@@ -1,0 +1,129 @@
+[
+  {
+    "sukuKata": "da.lam",
+    "akarKata": null,
+    "ejaan": "dalam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jauh ke bawah (dari permukaan); jauh masuk ke tengah (dari tepi)",
+        "contoh": "lukanya cukup --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "paham benar-benar (tentang ilmu pengetahuan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sampai ke lubuk hati; betul-betul terasakan di hati (tentang cinta, dendam, penderitaan, sakit hati)",
+        "contoh": "cintanya kepada gadis itu sangat --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung makna (maksud) yang sukar dipahami (tentang perkataan)",
+        "contoh": "perkataan ini -- maknanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung arti (maksud tertentu)",
+        "contoh": "kata-kata yang diucapkan kepadamu cukup --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang di dalam, bukan bagian luar",
+        "contoh": "ketika rumah itu terbakar, anak-anaknya masih ada di --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkungan daerah (negeri, keluarga) sendiri",
+        "contoh": "orang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jeluk",
+        "contoh": "piring --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang tidak tampak dari luar (tentang penyakit dan sebagainya)",
+        "contoh": "penyakit --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.lam",
+    "akarKata": null,
+    "ejaan": "dalam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menandai tempat yang mengandung isi",
+        "contoh": "-- rumah itu tidak ada mebel",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menandai sesuatu yang dianggap mengandung isi (kiasan)",
+        "contoh": "-- ceramahnya ia sempat menyinggung ketimpangan ini",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menunjukkan kebalikan dari makna di luar",
+        "contoh": "-- kampung itu terdapat ulama yang pandai-pandai",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menandai waktu dalam jangka tertentu",
+        "contoh": "-- bulan Januari",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "di antara; di kalangan",
+        "contoh": "-- mereka yang bertiga belas itu ada yang bergirang-girang",
+        "info": []
+      }
+    ]
+  }
+]

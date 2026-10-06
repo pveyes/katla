@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AMD",
+    "akarKata": null,
+    "ejaan": "AMD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ABRI masuk desa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

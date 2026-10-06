@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ci.rit",
+    "akarKata": null,
+    "ejaan": "cirit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotoran manusia (binatang); tahi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "endap-endap; ampas",
+        "contoh": "-- kopi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit berak-berak (buang-buang air)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

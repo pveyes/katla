@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "mat.ra",
+    "akarKata": null,
+    "ejaan": "matra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran tinggi, panjang, atau lebar; dimensi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran banyaknya tekanan irama (dalam musik)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagan yang dipakai dalam penyusunan baris sajak yang berhubungan dengan jumlah, panjang, atau tekanan suku kata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

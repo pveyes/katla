@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ba.sah",
+    "akarKata": null,
+    "ejaan": "basah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung air atau barang cair",
+        "contoh": "bajunya -- kena hujan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum dikeringkan; masih baru",
+        "contoh": "ikan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak mendatangkan keuntungan (uang dan sebagainya)",
+        "contoh": "ia ditempatkan di pos yang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

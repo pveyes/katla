@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pe.gun",
+    "akarKata": null,
+    "ejaan": "pêgun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "diam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan besaran yang tidak berubah dengan waktu dan gelombang yang tidak merambat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

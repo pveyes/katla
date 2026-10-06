@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bi.nen",
+    "akarKata": null,
+    "ejaan": "binèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "telah berhasil (memperoleh kedudukan, kekayaan, dan sebagainya); mapan",
+        "contoh": "di sinilah tempat tinggal orang-orang yang sudah --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

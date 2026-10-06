@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "da.mai",
+    "akarKata": null,
+    "ejaan": "damai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tidak ada perang; tidak ada kerusuhan; aman",
+        "contoh": "dalam masa --, perindustrian maju pesat",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tenteram; tenang",
+        "contoh": "betapa -- hati kami",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tidak bermusuhan; rukun",
+        "contoh": "penduduk kampung itu selalu hidup dengan --",
+        "info": []
+      }
+    ]
+  }
+]

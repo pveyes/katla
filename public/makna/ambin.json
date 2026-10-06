@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "am.bin",
+    "akarKata": null,
+    "ejaan": "ambin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain (tali dan sebagainya) pengikat anak (barang dan sebagainya) yang digendong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bin",
+    "akarKata": null,
+    "ejaan": "ambin",
+    "baku": false,
+    "alt": "amben",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balai-balai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

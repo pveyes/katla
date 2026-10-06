@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "aborsi medis",
+    "akarKata": "aborsi",
+    "ejaan": "aborsi medis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "kedokteran dan fisiologi",
+        "tipeTeks": "-",
+        "definisi": "aborsi yang dilakukan melalui pemberian obat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

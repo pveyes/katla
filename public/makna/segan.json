@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.gan",
+    "akarKata": null,
+    "ejaan": "sêgan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "malas (berbuat sesuatu); enggan; tidak sudi; tidak mau; tidak suka",
+        "contoh": "yang -- bertanya akan sesat di jalan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa malu (takut, hormat) kepada",
+        "contoh": "semua murid -- kepada guru itu",
+        "info": []
+      }
+    ]
+  }
+]

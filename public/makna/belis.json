@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "be.lis",
+    "akarKata": null,
+    "ejaan": "bêlis",
+    "baku": false,
+    "alt": "iblis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk halus yang selalu berupaya menyesatkan manusia dari petunjuk Tuhan; roh jahat; setan",
+        "contoh": "digoda --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lis",
+    "akarKata": null,
+    "ejaan": "bêlis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maskawin (di Sumba)",
+        "contoh": "besar kecilnya pembayaran -- biasanya bergantung pada tawar-menawar",
+        "info": []
+      }
+    ]
+  }
+]

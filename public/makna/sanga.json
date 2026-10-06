@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "sa.nga",
+    "akarKata": null,
+    "ejaan": "sanga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buih atau kotoran logam yang dilebur",
+        "contoh": "besi-besi bekas itu dilebur kembali untuk menghilangkan --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "material yang ditapis dari logam cair",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.nga",
+    "akarKata": null,
+    "ejaan": "sanga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "sembilan",
+        "contoh": "nama Wali -- terkenal di Indonesia",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.nga",
+    "akarKata": null,
+    "ejaan": "sanga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "tersanga-sanga"
+        ]
+      }
+    ]
+  }
+]

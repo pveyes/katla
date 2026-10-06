@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "em.pap",
+    "akarKata": null,
+    "ejaan": "êmpap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tindih atau tekan dengan barang berat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "em.pap",
+    "akarKata": null,
+    "ejaan": "êmpap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "banting; lempar; empas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

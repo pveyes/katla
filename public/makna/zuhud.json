@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "zu.hud",
+    "akarKata": null,
+    "ejaan": "zuhud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perihal meninggalkan keduniawian; pertapan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

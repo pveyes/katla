@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "clear",
+    "akarKata": null,
+    "ejaan": "clear",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "bebas dari sangkaan atau tuduhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "bebas dari kewajiban membayar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "sudah mendapat izin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "pergi kepada yang berwajib untuk meminta izin sebelum berlaku",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "nahwu",
+    "akarKata": null,
+    "ejaan": "nahwu",
+    "baku": false,
+    "alt": "nahu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tata bahasa (menyangkut tata kalimat dan tata bentuk); gramatika",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sintaksis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

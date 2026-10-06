@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "su.jud",
+    "akarKata": null,
+    "ejaan": "sujud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berlutut serta meletakkan dahi ke lantai (misalnya pada waktu salat) sambil membaca tasbih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pernyataan hormat dengan berlutut serta menundukkan kepala sampai ke tanah",
+        "contoh": "sembah -- dari Ananda",
+        "info": []
+      }
+    ]
+  }
+]

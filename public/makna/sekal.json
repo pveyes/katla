@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.kal",
+    "akarKata": null,
+    "ejaan": "sêkal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tangga nada; laras; tata laras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kal",
+    "akarKata": null,
+    "ejaan": "sêkal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat dan berisi (tentang tubuh wanita); sintal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

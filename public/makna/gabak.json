@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ga.bak",
+    "akarKata": null,
+    "ejaan": "gabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "redup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mendung (awan mengandung hujan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.bak",
+    "akarKata": null,
+    "ejaan": "gabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit panas dan menular yang menimbulkan bintik-bintik merah pada kulit; campak; tampek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.bak",
+    "akarKata": null,
+    "ejaan": "gabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garu (penggaruk) besar, dipakai di sawah yang ditarik oleh sapi atau kerbau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

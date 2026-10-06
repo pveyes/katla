@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "pe.pek",
+    "akarKata": null,
+    "ejaan": "pèpèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taruh luar (tentang main dobolo dan sebagainya); taruhan antara dua orang (pemain dan penonton) di luar taruhan kepada bandar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.pek",
+    "akarKata": null,
+    "ejaan": "pèpèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kasar",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam yang tidak sopan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.pek",
+    "akarKata": null,
+    "ejaan": "pèpèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "licin seperti silinder",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.pek",
+    "akarKata": null,
+    "ejaan": "pêpêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan, dibuat dari pipilan biji jagung muda yang dipecahkan, diberi gula dan parutan kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

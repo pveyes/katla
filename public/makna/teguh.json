@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "te.guh",
+    "akarKata": null,
+    "ejaan": "têguh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kukuh kuat (buatannya); erat kuat (tentang ikatan)",
+        "contoh": "gedung itu sangat -- buatannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat berpegang (pada adat, janji, perkataan)",
+        "contoh": "prinsip yang dianut dalam ketentuan yang lama masih -- pada adat nenek moyang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap tidak berubah (tentang hati, iman, pendirian, kesetiaan)",
+        "contoh": "siapa yang -- pada keyakinannya dan tidak kurang pula ikhtiarnya niscaya akan berhasil usahanya",
+        "info": []
+      }
+    ]
+  }
+]

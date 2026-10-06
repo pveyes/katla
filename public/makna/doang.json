@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.ang",
+    "akarKata": null,
+    "ejaan": "doang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "hanya; saja",
+        "contoh": "malam ini kita disuguhi kopi -- tanpa kue",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

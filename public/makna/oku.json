@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "OKU",
+    "akarKata": null,
+    "ejaan": "OKU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ogan Komering Ulu (kabupaten di Sumatra Selatan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

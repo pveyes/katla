@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "alins",
+    "akarKata": null,
+    "ejaan": "alins",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peralatan instruksi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

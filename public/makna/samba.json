@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "sam.ba",
+    "akarKata": null,
+    "ejaan": "samba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian rakyat Brazil yang berasal dari tari-tarian penduduk asli Afrika",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "irama musik birama dua yang biasanya dipakai untuk mengiringi tari samba",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

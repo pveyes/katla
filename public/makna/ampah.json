@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pah",
+    "akarKata": null,
+    "ejaan": "ampah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu-kayu yang ikut hanyut ketika musim banjir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

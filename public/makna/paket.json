@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "pa.ket",
+    "akarKata": null,
+    "ejaan": "pakèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang dikirimkan dalam bungkusan melalui pos atau perusahaan ekspedisi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejumlah barang (buku dan sebagainya) yang dibungkus menjadi satu yang dikirimkan atau dijual secara keseluruhan sebagai satu satuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jatah atau bagian tugas",
+        "contoh": "-- Indonesia dalam pameran itu memperkenalkan alat-alat musik tradisional",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan acara (dalam televisi dan sebagainya)",
+        "contoh": "semuanya dikemas dalam satu -- yang akan ditayangkan pada hari Lebaran",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ket",
+    "akarKata": null,
+    "ejaan": "pakèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unit data yang berjalan di antara satu sumber dan satu destinasi pada jaringan internet",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

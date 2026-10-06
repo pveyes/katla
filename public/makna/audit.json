@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "au.dit",
+    "akarKata": null,
+    "ejaan": "audit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemeriksaan pembukuan tentang keuangan (perusahaan, bank, dan sebagainya) secara berkala",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengujian efektivitas keluar masuknya uang dan penilaian kewajaran laporan yang dihasilkannya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemeriksaan terhadap peralatan, program, aktivitas, dan prosedur untuk menentukan efisiensi dari kinerja keseluruhan sistem terutama untuk menjamin integritas dan keamanan data",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

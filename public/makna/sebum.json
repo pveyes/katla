@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.bum",
+    "akarKata": null,
+    "ejaan": "sébum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minyak yang berfungsi melindungi elemen rambut dan mengatur keseimbangan kelembapan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lemak yang dihasilkan oleh kelenjar lemak kulit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

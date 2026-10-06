@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UGD",
+    "akarKata": null,
+    "ejaan": "UGD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Unit Gawat Darurat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

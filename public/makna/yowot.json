@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "yo.wot",
+    "akarKata": null,
+    "ejaan": "yowot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantong sagu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

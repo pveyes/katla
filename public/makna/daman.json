@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.man",
+    "akarKata": null,
+    "ejaan": "daman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali kelat pada perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

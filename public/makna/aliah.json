@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ali.ah",
+    "akarKata": null,
+    "ejaan": "aliah",
+    "baku": true,
+    "alt": "aliyah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkat pendidikan menengah atas di bawah koordinasi Kementerian Agama yang memberikan materi pelajaran umum dan terutama pelajaran agama Islam",
+        "contoh": "pesantren ini memiliki tingkat sanawiah dan -- dengan lama belajar enam tahun",
+        "info": [
+          {
+            "sumber": "pendidikan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan pendidikan tingkat atas",
+        "contoh": "madrasah --",
+        "info": []
+      }
+    ]
+  }
+]

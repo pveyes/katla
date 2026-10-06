@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "adhan",
+    "akarKata": null,
+    "ejaan": "adhan",
+    "baku": false,
+    "alt": "azan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seruan untuk mengajak orang melakukan salat berjemaah; bang",
+        "contoh": "kedengaran -- sayup-sayup sampai",
+        "info": []
+      }
+    ]
+  }
+]

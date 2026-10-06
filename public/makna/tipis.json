@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ti.pis",
+    "akarKata": null,
+    "ejaan": "tipis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedikit antara permukaan yang satu dengan yang lain (tentang barang-barang yang pipih)",
+        "contoh": "kain --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang tebal (tentang lapisan, cat, dan sebagainya)",
+        "contoh": "lemari itu -- catnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang padat (tentang awan, udara, dan sebagainya)",
+        "contoh": "terlihat bulan di saput awan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang nyata kelihatan (tentang tulisan tinta dan sebagainya)",
+        "contoh": "tulisannya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedikit",
+        "contoh": "kami mendapat keuntungan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "hi.kam",
+    "akarKata": null,
+    "ejaan": "hikam",
+    "baku": false,
+    "alt": "hikmah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebijaksanaan (dari Allah Swt.)",
+        "contoh": "kita memohon -- dari Allah Swt.",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sakti; kesaktian",
+        "contoh": "-- kata-kata",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arti atau makna yang dalam; makna yang terkandung di balik suatu peristiwa; manfaat",
+        "contoh": "wejangan yang penuh --",
+        "info": []
+      }
+    ]
+  }
+]

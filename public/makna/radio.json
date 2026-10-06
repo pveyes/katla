@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ra.dio",
+    "akarKata": null,
+    "ejaan": "radio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siaran (pengiriman) suara atau bunyi melalui udara",
+        "contoh": "dia mendengarkan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemancar radio",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pesawat radio",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

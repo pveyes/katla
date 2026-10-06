@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "lan.da",
+    "akarKata": null,
+    "ejaan": "landa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air abu batang padi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lan.da",
+    "akarKata": null,
+    "ejaan": "landa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "air abu batang padi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lan.da",
+    "akarKata": null,
+    "ejaan": "landa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "air abu batang padi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

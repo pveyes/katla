@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tok",
+    "akarKata": null,
+    "ejaan": "tok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "saja; melulu",
+        "contoh": "yang dibelinya sirop --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

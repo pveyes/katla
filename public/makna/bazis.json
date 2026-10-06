@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BAZIS",
+    "akarKata": null,
+    "ejaan": "BAZIS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badan amil, zakat, infak, dan sedekah (lembaga nonstruktural pemerintah daerah di bidang pengumpulan dan pendayagunaan zakat, infak, dan sedekah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

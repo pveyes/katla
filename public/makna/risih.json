@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ri.sih",
+    "akarKata": null,
+    "ejaan": "risih",
+    "baku": false,
+    "alt": "risi",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa jijik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa malu (merasa tidak enak dengan keadaan sekeliling)",
+        "contoh": "sedikit pun ia tidak merasa -- di tengah-tengah orang banyak itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa tersinggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "aba",
+    "akarKata": null,
+    "ejaan": "aba",
+    "baku": true,
+    "alt": "abah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ayah; bapak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aba",
+    "akarKata": null,
+    "ejaan": "aba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "isyarat berupa bunyi ketukan di dinding dan sebagainya yang biasanya terdengar sebelum kematian salah seorang anggota keluarga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

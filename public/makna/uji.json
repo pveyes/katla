@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "uji",
+    "akarKata": null,
+    "ejaan": "uji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "percobaan untuk mengetahui mutu sesuatu (ketulenan, kecakapan, ketahanan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uji",
+    "akarKata": null,
+    "ejaan": "uji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "keujian"
+        ]
+      }
+    ]
+  }
+]

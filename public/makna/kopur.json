@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.pur",
+    "akarKata": null,
+    "ejaan": "kopur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando tempur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

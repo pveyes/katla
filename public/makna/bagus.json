@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.gus",
+    "akarKata": null,
+    "ejaan": "bagus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik sekali; elok",
+        "contoh": "permainannya -- sekali",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.gus",
+    "akarKata": null,
+    "ejaan": "bagus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bagusan"
+        ]
+      }
+    ]
+  }
+]

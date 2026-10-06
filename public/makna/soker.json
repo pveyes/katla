@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "so.ker",
+    "akarKata": null,
+    "ejaan": "sokêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan sepak bola (terutama di Amerika)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

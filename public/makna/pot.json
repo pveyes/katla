@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "pot",
+    "akarKata": null,
+    "ejaan": "pot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang terbuat dari tanah, semen, plastik, dan sebagainya untuk menanam pohon (bunga), biasanya untuk menghias halaman rumah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pot",
+    "akarKata": null,
+    "ejaan": "pot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pispot",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

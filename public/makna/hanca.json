@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "han.ca",
+    "akarKata": null,
+    "ejaan": "hanca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekerjaan yang tertunda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

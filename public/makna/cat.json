@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "cat",
+    "akarKata": null,
+    "ejaan": "cat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pewarna (berupa barang cair, cairan yang kental, atau tepung)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan cair kental yang dibuat dari bahan pigmen dan zat pengikat, dapat diberi zat pewarna (untuk mewarnai suatu permukaan kayu, logam yang berfungsi sebagai lapisan pelindung atau dekorasi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

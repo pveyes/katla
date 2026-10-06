@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ben.do",
+    "akarKata": null,
+    "ejaan": "bêndo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "parang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ben.do",
+    "akarKata": null,
+    "ejaan": "bêndo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain kepala yang sudah dibentuk sebagai kopiah (ketu); ketu udeng",
+        "contoh": "--nya terbuat dari batik halus",
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ban.zi",
+    "akarKata": null,
+    "ejaan": "banzi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bantuan zeni",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

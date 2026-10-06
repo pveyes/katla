@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "acak.a.dut",
+    "akarKata": null,
+    "ejaan": "acakadut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sembarangan, tidak tertata; berantakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

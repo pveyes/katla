@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ka.wah",
+    "akarKata": null,
+    "ejaan": "kawah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuali besar; kancah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian puncak gunung berapi berbentuk lekukan besar yang dilewati bahan letusan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.wah",
+    "akarKata": null,
+    "ejaan": "kawah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketuban",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

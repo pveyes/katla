@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tol",
+    "akarKata": null,
+    "ejaan": "tol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pajak untuk memasuki jalan tertentu (misalnya jalan bebas hambatan, jalan layang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan yang mengenakan bea bagi pemakainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bea masuk kendaraan dan barang impor lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu cukai; gerbang cukai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

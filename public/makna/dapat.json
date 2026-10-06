@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "da.pat",
+    "akarKata": null,
+    "ejaan": "dapat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "mampu; sanggup; bisa",
+        "contoh": "serangan musuh tidak -- ditahan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menerima; memperoleh",
+        "contoh": "pemuda yang membacok temannya itu -- hukuman penjara tiga bulan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ditemukan; tertangkap dan sebagainya",
+        "contoh": "ke mana pun dicarinya, anting itu tidak -- juga",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhasil; tercapai (maksudnya dan sebagainya)",
+        "contoh": "mudah-mudahan -- juga apa yang engkau cita-citakan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "datang bulan; haid",
+        "contoh": "dia terlihat murung, mungkin karena lagi --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

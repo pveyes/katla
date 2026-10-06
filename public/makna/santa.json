@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "san.ta",
+    "akarKata": null,
+    "ejaan": "santa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk wanita kudus",
+        "contoh": "-- Maria",
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

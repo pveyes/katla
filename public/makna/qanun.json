@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "qa.nun",
+    "akarKata": null,
+    "ejaan": "qanun",
+    "baku": true,
+    "alt": "kanun",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "undang-undang; peraturan; hukum; kaidah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kitab undang-undang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "qa.nun",
+    "akarKata": null,
+    "ejaan": "qanun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik petik dari Arab, mirip kecapi, memiliki 81 dawai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "do.lar",
+    "akarKata": null,
+    "ejaan": "dolar",
+    "baku": true,
+    "alt": "dollar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang di beberapa negara, seperti Amerika Serikat, Australia, dan Singapura",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

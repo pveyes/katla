@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kam",
+    "akarKata": null,
+    "ejaan": "kam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisir kuda-kuda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

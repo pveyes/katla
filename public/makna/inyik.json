@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "inyik",
+    "akarKata": null,
+    "ejaan": "inyik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nenek; kakek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

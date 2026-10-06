@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pik",
+    "akarKata": null,
+    "ejaan": "ampik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sarung yang biasa digunakan wanita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "benuaq",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

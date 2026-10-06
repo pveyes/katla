@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.men",
+    "akarKata": null,
+    "ejaan": "domên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepung beras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

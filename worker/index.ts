@@ -60,23 +60,6 @@ async function handleApi(request: Request, env: Env, ctx: ExecutionContext) {
     return json({ hashed }, 200, "public, max-age=3600");
   }
 
-  // valid guess list; proxied because the makna Worker has no CORS headers
-  if (pathname === "/api/valid-words") {
-    return cached(request, ctx, async () => {
-      const res = await fetch(
-        "https://makna.fatihkalifa.workers.dev/words.json"
-      );
-      if (!res.ok) {
-        return json({ error: "Failed to get words" }, 502);
-      }
-      return json(
-        await res.json(),
-        200,
-        "public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400"
-      );
-    });
-  }
-
   const define = pathname.match(/^\/api\/define\/([a-z]+)$/);
   if (define) {
     const auth = request.headers.get("Authorization");
@@ -89,7 +72,7 @@ async function handleApi(request: Request, env: Env, ctx: ExecutionContext) {
     }
 
     return cached(request, ctx, async () => {
-      const definitions = await getDefinitions(define[1]);
+      const definitions = await getDefinitions(env.ASSETS, define[1]);
       if (definitions === null) {
         return json({ error: "Failed to get definitions" }, 500);
       }

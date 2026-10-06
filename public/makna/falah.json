@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.lah",
+    "akarKata": null,
+    "ejaan": "falah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemenangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

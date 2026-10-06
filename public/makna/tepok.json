@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "te.pok",
+    "akarKata": null,
+    "ejaan": "tépok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lumpuh (tentang tangan, kaki) karena suatu penyakit",
+        "contoh": "kakinya -- karena terserang polio",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pok",
+    "akarKata": null,
+    "ejaan": "tépok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbagai-bagai tipu muslihat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pok",
+    "akarKata": null,
+    "ejaan": "têpok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lapuk (tentang kayu, dinding, dan sebagainya)",
+        "contoh": "rumah itu sebagian kayunya sudah --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pok",
+    "akarKata": null,
+    "ejaan": "têpok",
+    "baku": false,
+    "alt": "tepuk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi yang dihasilkan oleh kedua tangan yang ditamparkan",
+        "contoh": "-- dan tawa terdengar dari permainan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tamparan tidak keras dari belakang dan dari samping",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

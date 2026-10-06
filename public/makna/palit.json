@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pa.lit",
+    "akarKata": null,
+    "ejaan": "palit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dipakai untuk menyapukan celak mata, cat alis, cat bibir, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan atau bubuk yang biasa ditempelkan untuk rias muka, seperti celak mata, cat alis, dan cat bibir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.lit",
+    "akarKata": null,
+    "ejaan": "palit",
+    "baku": false,
+    "alt": "pailit",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jatuh (tentang perusahaan dan sebagainya); bangkrut; jatuh miskin",
+        "contoh": "perusahaan itu sudah --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "se.pir",
+    "akarKata": null,
+    "ejaan": "sêpir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "otot; urat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "otot yang dibina",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pir",
+    "akarKata": null,
+    "ejaan": "sêpir",
+    "baku": false,
+    "alt": "sipir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjaga penjara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pra.ja",
+    "akarKata": null,
+    "ejaan": "praja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota; negeri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pra.ja",
+    "akarKata": null,
+    "ejaan": "praja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk siswa ikatan dinas di bawah Departemen Dalam Negeri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

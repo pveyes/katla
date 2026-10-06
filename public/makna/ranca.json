@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ran.ca",
+    "akarKata": null,
+    "ejaan": "ranca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peternakan besar untuk mengembangbiakkan kuda, sapi, atau domba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ran.ca",
+    "akarKata": null,
+    "ejaan": "ranca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "peternakan besar untuk mengembangbiakkan kuda, sapi, atau domba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

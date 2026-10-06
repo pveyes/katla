@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "bon.to",
+    "akarKata": null,
+    "ejaan": "bonto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak segar lagi (tentang ikan)",
+        "contoh": "jangan membeli ikan --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bon.to",
+    "akarKata": null,
+    "ejaan": "bonto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala adat kampung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

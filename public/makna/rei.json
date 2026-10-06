@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "REI",
+    "akarKata": null,
+    "ejaan": "réi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Real Estate Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

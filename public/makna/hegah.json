@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "he.gah",
+    "akarKata": null,
+    "ejaan": "hègah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berjalan bergoyang-goyang seperti berjalannya itik",
+        "contoh": "badut itu -- di depan anak-anak",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

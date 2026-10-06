@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "WWW",
+    "akarKata": null,
+    "ejaan": "WWW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waring wera wanua (world wide web)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

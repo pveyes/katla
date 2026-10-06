@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.kul",
+    "akarKata": null,
+    "ejaan": "sêkul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempurung (untuk tempat air, makanan, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

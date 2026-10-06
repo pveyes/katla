@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ju.lur",
+    "akarKata": null,
+    "ejaan": "julur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keluar memanjang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.lur",
+    "akarKata": null,
+    "ejaan": "julur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rayap; ingsut; jalan dengan menggunakan perut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.bul",
+    "akarKata": null,
+    "ejaan": "kêbul",
+    "baku": false,
+    "alt": "kepul",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gumpalan asap (awan) yang tampak tebal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.bul",
+    "akarKata": null,
+    "ejaan": "kêbul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang baru menetas, tetapi mempunyai ciri seperti ikan dewasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

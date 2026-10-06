@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "bo.son",
+    "akarKata": null,
+    "ejaan": "boson",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partikel elementer, inti atom, dan partikel lain yang tunduk pada statistika Bose-Einstein",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

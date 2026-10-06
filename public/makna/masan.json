@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.san",
+    "akarKata": null,
+    "ejaan": "masan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ayam yang tidur di atas pohon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "hu.jan",
+    "akarKata": null,
+    "ejaan": "hujan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik-titik air yang berjatuhan dari udara karena proses pendinginan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang datang dan sebagainya banyak-banyak",
+        "contoh": "-- uang",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "turun hujan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

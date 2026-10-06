@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "ga.lur",
+    "akarKata": null,
+    "ejaan": "galur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk memanjang; alur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis keturunan; susur galur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciri khas yang terdapat pada sekelompok ternak dalam satu bangsa yang ada pada ternak lain dalam bangsa yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "peternakan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saluran sempit dari kayu untuk meluncurkan dan mengeluarkan properti pertunjukan ke dan dari atas panggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

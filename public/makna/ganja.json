@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "gan.ja",
+    "akarKata": null,
+    "ejaan": "ganja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian keris yang melekat pada bilah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gagang atau pegangan kujang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gan.ja",
+    "akarKata": null,
+    "ejaan": "ganja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman setahun yang mudah tumbuh, merupakan tumbuhan berumah dua (dalam satu pohon hanya ada bunga jantan saja atau bunga betina saja), pada bunga betina terdapat tudung bulu-bulu runcing yang mengeluarkan sejenis damar yang kemudian dikeringkan, damar dan daunnya mengandung zat narkotik aktif, terutama tetrahidrokanabinol yang dapat memabukkan, sering dijadikan campuran tembakau untuk rokok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gan.ja",
+    "akarKata": null,
+    "ejaan": "ganja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nada suara remaja yang berubah menjadi besar karena mulai dewasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

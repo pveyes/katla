@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "de.mam",
+    "akarKata": null,
+    "ejaan": "dêmam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "panas badannya (suhu badan lebih tinggi daripada biasanya, umumnya karena sakit)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sakit yang menyebabkan suhu badan menjadi lebih tinggi daripada biasanya",
+        "contoh": "seharian itu ia berbaring saja karena --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.mam",
+    "akarKata": null,
+    "ejaan": "dêmam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tergila-gila",
+        "contoh": "mereka -- lagu-lagu dangdut",
+        "info": []
+      }
+    ]
+  }
+]

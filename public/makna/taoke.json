@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ta.o.ke",
+    "akarKata": null,
+    "ejaan": "taoké",
+    "baku": false,
+    "alt": "tauke",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "majikan (yang mempunyai perusahaan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bos (kepala pekerja dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

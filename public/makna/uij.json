@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UIJ",
+    "akarKata": null,
+    "ejaan": "UIJ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Islam Jakarta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

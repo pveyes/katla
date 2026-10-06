@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.gur",
+    "akarKata": null,
+    "ejaan": "pagur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jukung yang bersemah sebelah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

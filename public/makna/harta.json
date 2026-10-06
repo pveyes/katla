@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "har.ta",
+    "akarKata": null,
+    "ejaan": "harta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang (uang dan sebagainya) yang menjadi kekayaan; barang milik seseorang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekayaan berwujud dan tidak berwujud yang bernilai dan yang menurut hukum dimiliki perusahaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

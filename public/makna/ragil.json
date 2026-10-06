@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.gil",
+    "akarKata": null,
+    "ejaan": "ragil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bungsu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "lo.kal",
+    "akarKata": null,
+    "ejaan": "lokal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang yang luas",
+        "contoh": "sekolah itu terdiri atas tujuh --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terjadi (berlaku, ada, dan sebagainya) di satu tempat, tidak merata; setempat",
+        "contoh": "Jawatan Meteorologi dan Geofisika meramalkan bahwa besok akan turun hujan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "di suatu tempat (tentang pembuatan, produksi, tumbuh, hidup, dan sebagainya); setempat",
+        "contoh": "kualitas tekstil produksi -- sudah tidak kalah dengan produksi luar negeri",
+        "info": []
+      }
+    ]
+  }
+]

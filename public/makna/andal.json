@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "an.dal",
+    "akarKata": null,
+    "ejaan": "andal",
+    "baku": true,
+    "alt": "handal",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat dipercaya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "memberikan hasil yang sama pada ujian atau percobaan yang berulang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

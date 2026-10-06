@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ge.luk",
+    "akarKata": null,
+    "ejaan": "gêluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempurung (untuk tempat air); timba; sibur dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.luk",
+    "akarKata": null,
+    "ejaan": "gêluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah kering tak merekah yang memiliki satu biji dengan dinding buah yang keras, biasanya berasal dari bakal buah berongga satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

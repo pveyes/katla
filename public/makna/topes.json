@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "to.pes",
+    "akarKata": null,
+    "ejaan": "topès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lereng (bukit dan sebagainya) yang terjal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

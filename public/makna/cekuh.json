@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.kuh",
+    "akarKata": null,
+    "ejaan": "cêkuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rogoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kuh",
+    "akarKata": null,
+    "ejaan": "cêkuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cekur; kencur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

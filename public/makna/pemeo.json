@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.meo",
+    "akarKata": null,
+    "ejaan": "pêméo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ejekan (olok-olok, sindiran) yang menjadi buah mulut orang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkataan yang lucu (untuk menyindir dan sebagainya), misalnya “undang-undang hanya berlaku untuk rakyat kecil”",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "sukuKata": "ma.wat",
+    "akarKata": null,
+    "ejaan": "mawat",
+    "baku": false,
+    "alt": "mati",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah hilang nyawanya; tidak hidup lagi",
+        "contoh": "anak yang tertabrak mobil itu -- seketika itu juga",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak bernyawa; tidak pernah hidup",
+        "contoh": "batu ialah benda --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak berair (tentang mata air, sumur, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak berasa lagi (tentang kulit dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "padam (tentang lampu, api, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak terus; buntu (tentang jalan, pikiran, dan sebagainya)",
+        "contoh": "karena pikirannya sudah --, ia tidak dapat berbuat apa-apa",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak dapat berubah lagi; tetap (tentang harga, simpul, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah tidak digunakan lagi (tentang bahasa dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak ada gerak atau kegiatan, seperti bubar (tentang perkumpulan dan sebagainya)",
+        "contoh": "kalau tidak diurus, koperasi itu akan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "diam atau berhenti (tentang angin dan sebagainya)",
+        "contoh": "perahu layar itu terombang-ambing di tengah laut karena angin --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak ramai (tentang pasar, perdagangan, dan sebagainya)",
+        "contoh": "setelah ada pasar swalayan, pasar ini --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak bergerak (tentang mesin, arloji, dan sebagainya)",
+        "contoh": "saya terlambat karena jam saya ternyata --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

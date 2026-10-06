@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "dua",
+    "akarKata": null,
+    "ejaan": "dua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "bilangan yang dilambangkan dengan angka 2 (Arab) atau II (Romawi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "urutan ke-2 sesudah pertama dan sebelum ke-3",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dua",
+    "akarKata": null,
+    "ejaan": "dua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mendua"
+        ]
+      }
+    ]
+  }
+]

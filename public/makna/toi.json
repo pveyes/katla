@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "toi",
+    "akarKata": null,
+    "ejaan": "toi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan sayang kepada anak bayi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kapuas hulu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

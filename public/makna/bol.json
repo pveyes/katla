@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "bol",
+    "akarKata": null,
+    "ejaan": "bol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung usus pada pelepasan (dubur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bol",
+    "akarKata": null,
+    "ejaan": "bol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jambul pada baret, topi, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bol",
+    "akarKata": null,
+    "ejaan": "bol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat jambu1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "le.san",
+    "akarKata": null,
+    "ejaan": "lèsan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sasaran; tujuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

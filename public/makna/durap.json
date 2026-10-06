@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "du.rap",
+    "akarKata": null,
+    "ejaan": "durap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "minum dengan rakus",
+        "contoh": "mengapa engkau -- minuman ini, mana lagi untuk tamu kita?",
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

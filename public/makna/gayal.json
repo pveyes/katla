@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ga.yal",
+    "akarKata": null,
+    "ejaan": "gayal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "liat (tentang daging dan sebagainya); membingkas; melenting",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ulet; tidak mudah putus asa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.yal",
+    "akarKata": null,
+    "ejaan": "gayal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "khayal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

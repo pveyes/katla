@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "per.du",
+    "akarKata": null,
+    "ejaan": "pêrdu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan berkayu yang bercabang-cabang, tumbuh rendah dekat dengan permukaan tanah, dan tidak mempunyai batang yang tegak (seperti kembang merak, puring)",
+        "contoh": "tepi jalan itu ditanami dengan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang tidak berbatang besar, kadang-kadang berdaun lebar, ada juga jenis rumput-rumputan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumpun (bambu dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

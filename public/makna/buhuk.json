@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.huk",
+    "akarKata": null,
+    "ejaan": "buhuk",
+    "baku": true,
+    "alt": "bohok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gondok; beguk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

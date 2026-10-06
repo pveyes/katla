@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "la.wan",
+    "akarKata": null,
+    "ejaan": "lawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "imbangan; bandingan; tandingan",
+        "contoh": "permata seindah ini payah dicari --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasangan; teman",
+        "contoh": "wanita --nya mengibing terus mendampinginya semalaman",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musuh; seteru",
+        "contoh": "karena marahnya, dia mengamuk tanpa membedakan kawan dan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebalikan; yang bertentangan",
+        "contoh": "-- kata ‘kaya’ ialah ‘miskin’",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menentang; menghadapi; berbanding",
+        "contoh": "usul itu diterima dengan 20 suara -- 3 suara",
+        "info": []
+      }
+    ]
+  }
+]

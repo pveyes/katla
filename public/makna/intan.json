@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "in.tan",
+    "akarKata": null,
+    "ejaan": "intan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu permata yang berkilauan berasal dari karbon murni dalam bentuk kristal (zat yang terkenal paling keras, dipakai untuk permata cincin, gelang, kalung, giwang, bros, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kristal karbon murni yang dipakai sebagai alat pemotong kaca, jarum gramofon, dan sebagainya; karbonado",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

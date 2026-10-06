@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ke.lem",
+    "akarKata": null,
+    "ejaan": "kêlêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membuat jaring di bawah air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

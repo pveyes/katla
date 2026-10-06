@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "EMB",
+    "akarKata": null,
+    "ejaan": "EMB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "energi metabolisme basal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Emb",
+    "akarKata": null,
+    "ejaan": "êmb",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "embargo",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

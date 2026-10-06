@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.man",
+    "akarKata": null,
+    "ejaan": "paman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adik laki-laki ayah atau ibu; pakcik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapaan orang laki-laki yang belum dikenal atau yang patut dihormati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

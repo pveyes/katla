@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ko.lam",
+    "akarKata": null,
+    "ejaan": "kolam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ceruk di tanah yang agak luas dan dalam berisi air (untuk memiara ikan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bak tempat air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

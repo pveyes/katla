@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "mo.dem",
+    "akarKata": null,
+    "ejaan": "modêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat modulator dan demodulator yang terpasang pada telepon untuk mengubah informasi digital ke dalam bentuk suara dan sebaliknya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peranti penghubung dua komputer melalui saluran telepon, biasa dibutuhkan untuk melakukan hubungan ke internet",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

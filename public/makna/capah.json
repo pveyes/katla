@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ca.pah",
+    "akarKata": null,
+    "ejaan": "capah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cakah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.pah",
+    "akarKata": null,
+    "ejaan": "capah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bejana atau jambangan besar yang dibuat dari kayu untuk tempat air dan sebagainya; capar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piring besar, bulat, dan datar terbuat dari kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.ton",
+    "akarKata": null,
+    "ejaan": "anton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "topeng yang bentuknya menyeramkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

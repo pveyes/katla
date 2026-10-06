@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "le.bar",
+    "akarKata": null,
+    "ejaan": "lèbar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lapang; tidak sempit",
+        "contoh": "jalan yang akan dibangun, cukup --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lintang suatu bidang",
+        "contoh": "panjang kebun itu 60 m, --nya 40 m",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luas",
+        "contoh": "padang itu -- sekali",
+        "info": []
+      }
+    ]
+  }
+]

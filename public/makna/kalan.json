@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ka.lan",
+    "akarKata": null,
+    "ejaan": "kalan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak tahan disengat binatang",
+        "contoh": "disengat lebah kecil saja engkau --",
+        "info": []
+      }
+    ]
+  }
+]

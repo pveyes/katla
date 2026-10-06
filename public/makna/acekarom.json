@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ace.ka.rom",
+    "akarKata": null,
+    "ejaan": "acêkarom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain berwarna biru tua yang digunakan untuk selimut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

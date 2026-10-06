@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ko.bar",
+    "akarKata": null,
+    "ejaan": "kobar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berkobar",
+          "berkobar-kobar",
+          "kobaran",
+          "mengkobarkan",
+          "mengobarkan",
+          "pengobar",
+          "pengobaran",
+          "terkobar",
+          "terkobarkan"
+        ]
+      }
+    ]
+  }
+]

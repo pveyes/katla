@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "le.mah",
+    "akarKata": null,
+    "ejaan": "lêmah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak kuat; tidak bertenaga",
+        "contoh": "badannya -- karena baru sembuh dari sakit",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak keras hati; lembut; tidak tegas",
+        "contoh": "sikap --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak kuat; kurang berdasar",
+        "contoh": "alasan yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.mah",
+    "akarKata": null,
+    "ejaan": "lêmah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang hidup di laut atau payau, ukurannya mencapai 40 cm, hidup di perairan tropis dengan kedalaman 15–100 m, tersebar di perairan Afrika Timur hingga Asia Tenggara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

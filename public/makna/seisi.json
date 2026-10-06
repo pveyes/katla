@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "se.i.si",
+    "akarKata": "isi",
+    "ejaan": "seisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seluruh isi; seluruh penghuni (rumah dan sebagainya)",
+        "contoh": "~ rumah",
+        "info": []
+      }
+    ]
+  }
+]

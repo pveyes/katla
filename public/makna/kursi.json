@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "kur.si",
+    "akarKata": null,
+    "ejaan": "kursi",
+    "baku": true,
+    "alt": "korsi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk yang berkaki dan bersandaran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan, jabatan (dalam parlemen, kabinet, pengurus, dan sebagainya)",
+        "contoh": "ia terpilih menduduki -- ketua",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Kur.si",
+    "akarKata": null,
+    "ejaan": "Kursi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu atau kekuasaan Allah Swt.",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

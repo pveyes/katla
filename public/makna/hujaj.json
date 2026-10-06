@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hu.jaj",
+    "akarKata": null,
+    "ejaan": "hujaj",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(bentuk jamak) orang yang telah menunaikan ibadah haji",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

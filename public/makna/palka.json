@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pal.ka",
+    "akarKata": null,
+    "ejaan": "palka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang kapal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang pada ruang kapal (tempat menyimpan barang-barang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

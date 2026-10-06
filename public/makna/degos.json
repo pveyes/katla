@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.gos",
+    "akarKata": null,
+    "ejaan": "dégos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bekas luka di bawah bibir bawah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

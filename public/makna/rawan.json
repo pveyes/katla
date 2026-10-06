@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ra.wan",
+    "akarKata": null,
+    "ejaan": "rawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rindu bercampur sedih; pilu; terharu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah menimbulkan gangguan keamanan atau bahaya; gawat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wan",
+    "akarKata": null,
+    "ejaan": "rawan",
+    "baku": true,
+    "alt": "rewan",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "muda, lembut (tentang tulang)",
+        "contoh": "tulang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wan",
+    "akarKata": null,
+    "ejaan": "rawan",
+    "baku": true,
+    "alt": "serawan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan",
+        "contoh": "takhta --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wan",
+    "akarKata": null,
+    "ejaan": "rawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kendaraan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ke.bas",
+    "akarKata": null,
+    "ejaan": "kêbas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa kaku kakinya (karena lelah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kesemutan (tentang kaki, tangan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.bas",
+    "akarKata": null,
+    "ejaan": "kêbas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lambai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

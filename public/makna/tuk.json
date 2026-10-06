@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "tuk",
+    "akarKata": null,
+    "ejaan": "tuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi pintu dan sebagainya diketuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tuk",
+    "akarKata": null,
+    "ejaan": "tuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tuk",
+    "akarKata": null,
+    "ejaan": "tuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

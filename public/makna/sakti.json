@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sak.ti",
+    "akarKata": null,
+    "ejaan": "sakti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mampu (kuasa) berbuat sesuatu yang melampaui kodrat alam; mempunyai kesaktian",
+        "contoh": "pendeta -- itu dapat berjalan di atas air",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai kuasa gaib; bertuah",
+        "contoh": "umumnya masyarakat menganggap benda-benda peninggalan Wali Songo itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keramat",
+        "contoh": "tempat yang dianggap -- itu pada hari-hari tertentu dikunjungi penduduk desa",
+        "info": []
+      }
+    ]
+  }
+]

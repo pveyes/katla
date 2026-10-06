@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "mes.ki",
+    "akarKata": null,
+    "ejaan": "mêski",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung untuk menandai perlawanan makna; walaupun; sungguhpun",
+        "contoh": "-- hujan lebat, ia berangkat juga",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "spi.na",
+    "akarKata": null,
+    "ejaan": "spina",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tulang belakang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

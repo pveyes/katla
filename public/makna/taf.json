@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "taf",
+    "akarKata": null,
+    "ejaan": "taf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tafeta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ko.lik",
+    "akarKata": null,
+    "ejaan": "kolik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa nyeri yang amat sangat yang hilang dan timbul di daerah usus atau sekitarnya, seperti kolik batu empedu, kolik karena masuk angin, dan kolik bawasir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keadaan pada bayi sehat yang menangis lebih dari tiga jam dalam sehari, tiga hari dalam seminggu, selama lebih dari tiga minggu, diikuti dengan mengangkat atau menekuk kaki, mengepalkan tangan dan mengencangkan perut, serta diakhiri dengan buang air besar atau buang angin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mulas yang tidak jelas dan berulang sebagai akibat dari penyakit cacingan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

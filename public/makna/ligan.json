@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "li.gan",
+    "akarKata": null,
+    "ejaan": "ligan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atom, ion, atau molekul yang terikat pada atom pusat dari senyawa koordinasi atau kompleks lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

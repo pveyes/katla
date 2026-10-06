@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rut",
+    "akarKata": null,
+    "ejaan": "kêrut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lipatan kulit (pada dahi dan sebagainya); kedut; gelembur",
+        "contoh": "apa yang terasa dalam hatinya terbayang pada -- dahinya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rut",
+    "akarKata": null,
+    "ejaan": "kêrut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi seperti bunyi pisau yang digoreskan pada barang yang keras dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

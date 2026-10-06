@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.art",
+    "akarKata": null,
+    "ejaan": "kuart",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak nada antara empat deretan nada diatonik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

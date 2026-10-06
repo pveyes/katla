@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ce.pek",
+    "akarKata": null,
+    "ejaan": "cêpèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "seratus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ra.kit",
+    "akarKata": null,
+    "ejaan": "rakit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan apung dibuat dari beberapa buluh (kayu) atau batang pisang yang diikat berjajar, dipakai untuk mengangkut barang atau orang di air; getek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong untuk getek pasang; dua yang berpasangan",
+        "contoh": "dua --",
+        "info": []
+      }
+    ]
+  }
+]

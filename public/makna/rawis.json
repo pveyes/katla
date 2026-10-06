@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ra.wis",
+    "akarKata": null,
+    "ejaan": "rawis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain warna-warni yang dipasang sebagai hiasan di kiri kanan pinggul penari Gandrung Banyuwangi, biasanya terdiri atas empat lembar kain berwarna merah, putih, hijau, dan kuning",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumbai-rumbai kecil pada sisi-sisi kain",
+        "contoh": "kerudung --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wis",
+    "akarKata": null,
+    "ejaan": "rawis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulu kecil memanjang berwarna metalik yang hanya tumbuh pada leher, punggung, dan ekor ayam jantan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

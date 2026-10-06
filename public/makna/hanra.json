@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "han.ra",
+    "akarKata": null,
+    "ejaan": "hanra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertahanan rakyat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

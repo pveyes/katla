@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.wab",
+    "akarKata": null,
+    "ejaan": "bawab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penunggu (penjaga pintu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

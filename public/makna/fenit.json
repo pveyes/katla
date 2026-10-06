@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.nit",
+    "akarKata": null,
+    "ejaan": "fénit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan logam bermagnet yang mempunyai hambatan listrik yang besar dan mempunyai struktur hablur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

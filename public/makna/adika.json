@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "adi.ka",
+    "akarKata": null,
+    "ejaan": "adika",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebih; lebih baik; terbaik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar untuk orang besar",
+        "contoh": "Datuk Seri -- Raja",
+        "info": []
+      }
+    ]
+  }
+]

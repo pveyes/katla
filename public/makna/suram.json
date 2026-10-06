@@ -1,0 +1,68 @@
+[
+  {
+    "sukuKata": "su.ram",
+    "akarKata": null,
+    "ejaan": "suram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang terang (tentang cahaya); kurang kuat cahayanya",
+        "contoh": "bulan pun -- seakan-akan ikut bersedih",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "redup, berawan, mendung (tentang cuaca)",
+        "contoh": "hari pun --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusam atau kuyu (tentang mata)",
+        "contoh": "matanya sangat --, seakan-akan sudah lepas nyawa dari tubuhnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "muram tidak berseri-seri (tentang muka)",
+        "contoh": "-- saja mukanya sehari ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bening (tentang kaca, intan, dan sebagainya); tidak berkilau (tentang emas, perak, dan sebagainya); buram",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah (tentang kehidupan); tidak tentu (tentang nasib, masa depan, dan sebagainya)",
+        "contoh": "hidupnya makin hari makin --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak nyata dalam ingatan atau pikiran",
+        "contoh": "ingatan kepada tunangannya makin lama makin --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

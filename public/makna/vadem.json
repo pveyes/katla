@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "va.dem",
+    "akarKata": null,
+    "ejaan": "vadêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran panjang (asal Inggris) yang hingga kini masih digunakan dalam pelayaran untuk menunjukkan kedalaman laut pada jalur pelayaran, yang sama dengan 1,698 m (Bld) dan 1,829 m (Ing)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak antara kedua ujung jari tengah jika tangan kiri dan kanan dibentangkan; depa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran isi yang sama dengan 6,11643 m³ untuk muatan kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

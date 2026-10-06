@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "mo.din",
+    "akarKata": null,
+    "ejaan": "modin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "juru azan; muazin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegawai masjid",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lebai di kampung",
+        "contoh": "dipanggilnya Pak -- untuk membacakan doa",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

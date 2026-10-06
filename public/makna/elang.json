@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "elang",
+    "akarKata": null,
+    "ejaan": "élang",
+    "baku": true,
+    "alt": "lang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk anak lelaki sultan Cirebon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "elang",
+    "akarKata": null,
+    "ejaan": "êlang",
+    "baku": true,
+    "alt": "lang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung buas yang mempunyai daya penglihatan tajam, paruhnya bengkok dan cengkeramannya kuat, menangkap mangsanya dengan menyambar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

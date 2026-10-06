@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "al.tar",
+    "akarKata": null,
+    "ejaan": "altar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "meja tempat kurban misa (di gereja Katolik)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mazbah (tempat mempersembahkan kurban)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tangga pada dok gali yang digunakan untuk naik turun ke dan dari lantai dok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

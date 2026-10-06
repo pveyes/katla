@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "dum",
+    "akarKata": null,
+    "ejaan": "dum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang sudah tidak dipakai lagi; bekas",
+        "contoh": "ayahnya membeli mobil --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "dum",
+    "akarKata": null,
+    "ejaan": "dum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sendok sagu, terbuat dari kayu berukuran besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

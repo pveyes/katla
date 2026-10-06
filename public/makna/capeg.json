@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ca.peg",
+    "akarKata": null,
+    "ejaan": "capêg",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "calon pegawai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

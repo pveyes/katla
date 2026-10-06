@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "dam.po",
+    "akarKata": null,
+    "ejaan": "dampo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapaan untuk orang tua yang anaknya diadopsi, artinya 'saudara'",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

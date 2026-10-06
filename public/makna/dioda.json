@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "di.o.da",
+    "akarKata": null,
+    "ejaan": "dioda",
+    "baku": false,
+    "alt": "diode",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang terdiri atas dua elemen dan digunakan sebagai pengarah arus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.yan",
+    "akarKata": null,
+    "ejaan": "bayan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung termasuk keluarga kakaktua, membuat sarang di lubang pohon, yang jantan sebagian besar bulunya berwarna hijau terang, sedangkan yang betina berwarna merah campur biru; nuri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.yan",
+    "akarKata": null,
+    "ejaan": "bayan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyata; terang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

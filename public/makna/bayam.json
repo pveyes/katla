@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.yam",
+    "akarKata": null,
+    "ejaan": "bayam",
+    "baku": true,
+    "alt": "bayem",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama kelompok sayuran daun, bentuk daunnya bulat telur dengan ujung meruncing dan urat-urat yang jelas, bunganya berbentuk malai yang tegak (banyak macamnya, ada yang dibuat sayur, ada yang untuk obat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.yam",
+    "akarKata": null,
+    "ejaan": "bayam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang ukurannya mencapai 25 cm, hidup di terumbu karang perairan tropis dengan kedalaman 5–100 m, tersebar di Laut Merah, Afrika Selatan sampai Kepulauan Marshall dan Samoa, bagian utara sampai Jepang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

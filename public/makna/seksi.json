@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "sek.si",
+    "akarKata": null,
+    "ejaan": "sèksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari kesatuan (dewan, rapat, dan sebagainya) yang bertugas mengurus sesuatu; bagian dari daerah (kepolisian dan sebagainya); bagian jalan trem (kereta api dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(dalam ketentaraan) setengah peleton",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sek.si",
+    "akarKata": null,
+    "ejaan": "sèksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tindakan memotong (mengiris); pemotongan; pengirisan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sek.si",
+    "akarKata": null,
+    "ejaan": "sèksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merangsang rasa berahi (tentang bentuk badan, pakaian, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

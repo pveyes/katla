@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ka.sah",
+    "akarKata": null,
+    "ejaan": "kasah",
+    "baku": false,
+    "alt": "kasa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain putih yang halus; kain putih yang tenunannya jarang",
+        "contoh": "dipilihnya -- untuk tirai itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawat halus yang dianyam (biasanya untuk penghalang nyamuk dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sah",
+    "akarKata": null,
+    "ejaan": "kasah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tikar rotan; lampit",
+        "contoh": "karena udara panas pada musim kemarau, saya lebih senang tidur di lantai beralaskan --",
+        "info": []
+      }
+    ]
+  }
+]

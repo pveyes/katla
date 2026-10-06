@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "was",
+    "akarKata": null,
+    "ejaan": "was",
+    "baku": false,
+    "alt": "waswas",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ragu-ragu; kurang yakin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "khawatir",
+        "contoh": "dengan agak -- dia melangkah di jalan yang sepi itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "curiga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

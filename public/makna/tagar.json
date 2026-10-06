@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ta.gar",
+    "akarKata": null,
+    "ejaan": "tagar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(bunyi) guruh atau guntur",
+        "contoh": "-- berdegar-degar antara ada dan tidak ada bunyinya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.gar",
+    "akarKata": null,
+    "ejaan": "tagar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda pagar, digunakan sebagai tanda untuk merujuk pada topik sebuah kiriman status dalam media jejaring sosial",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

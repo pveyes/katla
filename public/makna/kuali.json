@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.a.li",
+    "akarKata": null,
+    "ejaan": "kuali",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belanga (dari tanah atau dari besi) tempat memasak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menggoreng, bertelinga sebagai pegangan, terbuat dari besi atau aluminium",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

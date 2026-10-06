@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hi.jir",
+    "akarKata": null,
+    "ejaan": "hijir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu; hajar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

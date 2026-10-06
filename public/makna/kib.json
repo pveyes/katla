@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KIB",
+    "akarKata": null,
+    "ejaan": "KIB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawasan industri berat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

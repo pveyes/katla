@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.tif",
+    "akarKata": null,
+    "ejaan": "datif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata yang menduduki fungsi sebagai objek tidak langsung dari kata kerja (misalnya saya memberikan buku kepadanya; kepadanya adalah datif)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

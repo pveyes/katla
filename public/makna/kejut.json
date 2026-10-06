@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.jut",
+    "akarKata": null,
+    "ejaan": "kêjut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi kaku (tentang urat, anggota badan) karena terperanjat dan sebagainya; kaget",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.jut",
+    "akarKata": null,
+    "ejaan": "kêjut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kejut-kejut"
+        ]
+      }
+    ]
+  }
+]

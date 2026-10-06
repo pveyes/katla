@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "as.but",
+    "akarKata": null,
+    "ejaan": "asbut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran asap dan kabut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

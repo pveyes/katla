@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "ba.rut",
+    "akarKata": null,
+    "ejaan": "barut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain pembalut luka",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain pembebat bayi yang baru lahir; bedung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.rut",
+    "akarKata": null,
+    "ejaan": "barut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "oles; lumas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.rut",
+    "akarKata": null,
+    "ejaan": "barut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gores(an)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.rut",
+    "akarKata": null,
+    "ejaan": "barut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ramuan tradisional dari rempah-rempah, biasanya kunyit, kunyit bulai, dan sebagainya yang direbus dan dibungkus dengan kain, diurutkan ke bagian yang sakit",
+        "contoh": "kakimu sptnya bengkak, coba balurkan -- agar cepat sembuh",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

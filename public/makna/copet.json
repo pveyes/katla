@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "co.pet",
+    "akarKata": null,
+    "ejaan": "copèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil (sesuatu) milik orang lain tanpa sepengetahuan pemilik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mencuri (sesuatu yang sedang dipakai, uang di dalam saku, barang yang dijajakan, dan sebagainya) dengan cepat dan tangkas; tukang copet; pencopet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "me.gat",
+    "akarKata": null,
+    "ejaan": "mêgat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar bangsawan Melayu (ayahnya orang kebanyakan, ibunya keturunan raja)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.gat",
+    "akarKata": null,
+    "ejaan": "mêgat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masyhur; terkenal",
+        "contoh": "sultan dan raja pada masa itu sangat -- dan megah",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.gat",
+    "akarKata": null,
+    "ejaan": "mêgat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpusing (pada gasing); mejam; ligat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

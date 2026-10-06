@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "uta.ma",
+    "akarKata": null,
+    "ejaan": "utama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terbaik; nomor satu; amat baik; lebih baik dari yang lain-lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terpenting; pokok",
+        "contoh": "soal tradisi di daerah menjadi soal -- dalam uraian",
+        "info": []
+      }
+    ]
+  }
+]

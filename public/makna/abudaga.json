@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abu.da.ga",
+    "akarKata": null,
+    "ejaan": "abudaga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit ari mutiara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

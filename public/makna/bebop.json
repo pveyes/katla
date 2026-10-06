@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "be.bop",
+    "akarKata": null,
+    "ejaan": "bébop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaz yang memiliki irama dan harmoni yang kompleks",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

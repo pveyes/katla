@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ole.um",
+    "akarKata": null,
+    "ejaan": "oléum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asam sulfat yang mempunyai kadar belerang trioksida sangat tinggi; asam sulfat berasap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

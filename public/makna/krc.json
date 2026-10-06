@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KRC",
+    "akarKata": null,
+    "ejaan": "KRC",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu rimba campuran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

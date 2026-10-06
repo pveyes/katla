@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.lit",
+    "akarKata": null,
+    "ejaan": "balit",
+    "baku": false,
+    "alt": "belit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lilit (seperti lingkaran tali atau benang pada kumparan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelok-kelok (sungai, jalan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.pai",
+    "akarKata": null,
+    "ejaan": "tapai",
+    "baku": true,
+    "alt": "tape",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari beras ketan (ubi kayu dan sebagainya) yang direbus dan setelah dingin diberi ragi, kemudian dibiarkan semalam atau lebih hingga manis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.pai",
+    "akarKata": null,
+    "ejaan": "tapai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tapaian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.bik",
+    "akarKata": null,
+    "ejaan": "dabik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pukul",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.kir",
+    "akarKata": null,
+    "ejaan": "pikir",
+    "baku": true,
+    "alt": "fikir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akal budi; ingatan; angan-angan",
+        "contoh": "ahli --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata dalam hati; pendapat (pertimbangan); kira",
+        "contoh": "-- saya dialah yang salah",
+        "info": []
+      }
+    ]
+  }
+]

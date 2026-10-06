@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SMA",
+    "akarKata": null,
+    "ejaan": "SMA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekolah menengah atas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

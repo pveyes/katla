@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ki.pan",
+    "akarKata": null,
+    "ejaan": "Kipan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando intai para amfibi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

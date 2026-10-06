@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ban.to",
+    "akarKata": null,
+    "ejaan": "banto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengambil tali ujung jaring",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

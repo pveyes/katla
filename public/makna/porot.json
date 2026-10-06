@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "po.rot",
+    "akarKata": null,
+    "ejaan": "porot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memorot",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ra.jah",
+    "akarKata": null,
+    "ejaan": "rajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suratan (gambaran, tanda, dan sebagainya) yang dipakai sebagai azimat (untuk penolak penyakit dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis pada tapak tangan; guratan tangan; retak tangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "coreng-coreng (cacahan) pada tubuh yang dibuat dengan barang tajam; tato",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar berupa garis; bagan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.jah",
+    "akarKata": null,
+    "ejaan": "rajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tusuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.jah",
+    "akarKata": null,
+    "ejaan": "rajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mantra permohonan izin kepada leluhur sebelum diadakan upacara atau pertunjukan kesenian tradisional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

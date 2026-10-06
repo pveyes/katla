@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "se.tan",
+    "akarKata": null,
+    "ejaan": "sètan",
+    "baku": true,
+    "alt": "syaitan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "roh jahat (yang selalu menggoda manusia supaya berlaku jahat)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata untuk menyatakan kemarahan; sumpah serapah",
+        "contoh": "-- kau, enyah dari sini",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang sangat buruk perangainya (suka mengadu domba dan sebagainya)",
+        "contoh": "pikiran --nya bangkit",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

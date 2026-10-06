@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ji.ran",
+    "akarKata": null,
+    "ejaan": "jiran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang tinggal sebelah-menyebelah atau dekat (sekitar) rumah; tetangga",
+        "contoh": "-- yang terdekat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara tetangga, misalnya Malaysia atau Brunei Darussalam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ji.ran",
+    "akarKata": null,
+    "ejaan": "jiran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala yang terjadi di luar pembawaan keturunan atau genotipe organisme",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

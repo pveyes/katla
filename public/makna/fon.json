@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "fon",
+    "akarKata": null,
+    "ejaan": "fon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi ujar yang dihasilkan oleh alat ucap; bunyi bahasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "fon",
+    "akarKata": null,
+    "ejaan": "fon",
+    "baku": false,
+    "alt": "fohn",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angin yang kering dan panas di sisi bawah barisan gunung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hidrometeorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "fon",
+    "akarKata": null,
+    "ejaan": "fon",
+    "baku": true,
+    "alt": "fonta",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan huruf, angka, simbol khusus, dan tanda baca dengan ukuran dan model atau gaya tertentu dalam komputer",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

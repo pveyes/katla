@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "kam.ba",
+    "akarKata": null,
+    "ejaan": "kamba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susunan bahan makanan ternak yang tidak padat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kam.ba",
+    "akarKata": null,
+    "ejaan": "kamba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat kelengkapan adat yang diserahkan oleh pengantin perempuan kepada pengantin laki-laki sebagai tanda bahwa mereka telah siap menerima kedatangan pengantin laki-laki, dipakai oleh pengantin laki-laki pada waktu berjalan menuju rumah pengantin perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "wolio",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

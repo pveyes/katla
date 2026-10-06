@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MPS",
+    "akarKata": null,
+    "ejaan": "MPS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menghitung pajak sendiri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "do.dot",
+    "akarKata": null,
+    "ejaan": "dodot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pakaian adat Jawa dari kain batik atau cindai panjang dan lebar, dipakai pada upacara resmi (oleh pengantin dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.dot",
+    "akarKata": null,
+    "ejaan": "dodot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik tradisional",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

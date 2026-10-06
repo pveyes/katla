@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "lu.cak",
+    "akarKata": null,
+    "ejaan": "lucak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dimarahi habis-habisan",
+        "contoh": "orang lain yang punya ulah, aku yang -- dibuatnya",
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.cak",
+    "akarKata": null,
+    "ejaan": "lucak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah pinang yang muda dan telah gugur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

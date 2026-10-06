@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Nya.du",
+    "akarKata": null,
+    "ejaan": "Nyadu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku yang mendiami daerah aliran Sungai Landak, Kabupaten Landak, Provinsi Kalimantan Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Nyadu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

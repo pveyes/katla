@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.mas",
+    "akarKata": null,
+    "ejaan": "cêmas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "risau hati (karena khawatir, takut); gelisah",
+        "contoh": "masyarakat -- mendengar kabar tentang wabah cacar itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.mas",
+    "akarKata": null,
+    "ejaan": "cêmas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "cemas-cemas"
+        ]
+      }
+    ]
+  }
+]

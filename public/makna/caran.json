@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.ran",
+    "akarKata": null,
+    "ejaan": "caran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tengkar (terutama wanita)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

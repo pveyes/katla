@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "Leo",
+    "akarKata": null,
+    "ejaan": "Léo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "singa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasi bintang di belahan langit utara khatulistiwa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zodiak ke-5 yang digambarkan dengan singa sebagai lambang bagi orang yang dilahirkan antara tanggal 23 Juli dan 22 Agustus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astrologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

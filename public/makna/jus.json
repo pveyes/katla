@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "jus",
+    "akarKata": null,
+    "ejaan": "jus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sari buah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jus",
+    "akarKata": null,
+    "ejaan": "jus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhitungan (angka setara) apabila kedua pemain mencapai angka yang sama, yaitu dua angka menjelang kemenangan dalam permainan bulu tangkis, tenis, voli, dan sebagainya.",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "jus",
+    "akarKata": null,
+    "ejaan": "jus",
+    "baku": false,
+    "alt": "juz",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bab atau bagian (1/30) dari Al-Qur'an",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

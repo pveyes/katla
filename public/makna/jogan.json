@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jo.gan",
+    "akarKata": null,
+    "ejaan": "jogan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombak kebesaran sebagai tanda kebesaran raja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

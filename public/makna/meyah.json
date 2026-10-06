@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Me.yah",
+    "akarKata": null,
+    "ejaan": "méyah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Manokwari, Papua; Meiyah, Meaks; Meyach; Meah; Meyak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Meyah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

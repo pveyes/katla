@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.rok",
+    "akarKata": null,
+    "ejaan": "carok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkelahian dengan menggunakan senjata tajam yang dilakukan secara ksatria satu lawan satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

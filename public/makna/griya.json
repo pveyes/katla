@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "gri.ya",
+    "akarKata": null,
+    "ejaan": "griya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan tempat tinggal; rumah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kompleks perumahan; permukiman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

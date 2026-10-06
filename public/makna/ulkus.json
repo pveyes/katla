@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ul.kus",
+    "akarKata": null,
+    "ejaan": "ulkus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka pada permukaan selaput lendir, khususnya membran yang melapisi bagian perut atau saluran pencernaan lainnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka bernanah pada kulit yang tidak sukar sembuh, mengakibatkan kerusakan jaringan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

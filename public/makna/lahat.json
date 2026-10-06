@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "la.hat",
+    "akarKata": null,
+    "ejaan": "lahat",
+    "baku": false,
+    "alt": "lahad",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ceruk atau relung di lubang kubur tempat meletakkan mayat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "La.hat",
+    "akarKata": null,
+    "ejaan": "Lahat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Sumatra Selatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

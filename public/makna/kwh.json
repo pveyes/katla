@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "kWh",
+    "akarKata": null,
+    "ejaan": "kWh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kilowatt-jam; dari kilowatt-hour",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

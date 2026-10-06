@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "nin.ja",
+    "akarKata": null,
+    "ejaan": "ninja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang terlatih, menguasai ilmu bela diri dari Jepang, bertugas untuk melakukan spionase dan pembunuhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembunuh gelap yang berpakaian serba hitam dengan muka berkedok yang melakukan aksinya secara terencana",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

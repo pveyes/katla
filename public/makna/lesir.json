@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.sir",
+    "akarKata": null,
+    "ejaan": "lêsir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tari pedang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sir",
+    "akarKata": null,
+    "ejaan": "lêsir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "desir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

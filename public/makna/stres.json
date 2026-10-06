@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "stres",
+    "akarKata": null,
+    "ejaan": "strès",
+    "baku": true,
+    "alt": "stress",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gangguan atau kekacauan mental dan emosional yang disebabkan oleh faktor luar; ketegangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

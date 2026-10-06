@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pi.dem",
+    "akarKata": null,
+    "ejaan": "pidêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berputar cepat sekali sehingga tampak diam tidak bergerak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

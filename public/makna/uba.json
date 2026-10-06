@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "uba",
+    "akarKata": null,
+    "ejaan": "uba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasu untuk mengendapkan bubur sagu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

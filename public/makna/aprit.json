@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ap.rit",
+    "akarKata": null,
+    "ejaan": "aprit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kabur; lari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

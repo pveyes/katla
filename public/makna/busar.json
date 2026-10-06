@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "bu.sar",
+    "akarKata": null,
+    "ejaan": "busar",
+    "baku": false,
+    "alt": "busur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilah kayu, bambu, dan sebagainya yang direntangkan dengan tali untuk melepaskan anak panah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat (perkakas) untuk membersihkan kapas (kapuk) yang bentuknya seperti busur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat berbentuk setengah lingkaran untuk mengukur derajat (dalam matematika)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

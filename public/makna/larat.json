@@ -1,0 +1,91 @@
+[
+  {
+    "sukuKata": "la.rat",
+    "akarKata": null,
+    "ejaan": "larat",
+    "baku": true,
+    "alt": "melarat",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hanyut dan tidak menyangkut",
+        "contoh": "sauh kapal itu -- hingga tidak dapat mengait dasar laut",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bertambah jauh (panjang, luas, mendalam, dan sebagainya)",
+        "contoh": "sakitnya bertambah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pergi jauh meninggalkan kampung halaman; mengembara; merantau",
+        "contoh": "kita telah lama -- ke negeri orang untuk mencari peruntungan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedih sekali; melantur-lantur (tentang perasaan dan pikiran)",
+        "contoh": "-- pikirannya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terharu (tentang perasaan); iba",
+        "contoh": "-- hatinya mendengar perkataan anak itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rat",
+    "akarKata": null,
+    "ejaan": "larat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat; mampu; sanggup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rat",
+    "akarKata": null,
+    "ejaan": "larat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggrek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

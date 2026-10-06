@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "pus",
+    "akarKata": null,
+    "ejaan": "pus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk memanggil kucing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

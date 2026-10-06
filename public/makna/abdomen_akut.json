@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "abdomen akut",
+    "akarKata": "abdomen",
+    "ejaan": "abdomen akut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "kedokteran dan fisiologi",
+        "tipeTeks": "-",
+        "definisi": "gejala nyeri perut yang datang tiba-tiba, biasanya mengindikasikan penyakit di dalam abdomen, misalnya radang usus buntu, radang kantong empedu, perforasi usus, dan pecah limpa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

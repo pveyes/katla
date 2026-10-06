@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "sus",
+    "akarKata": null,
+    "ejaan": "sus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue ringan berongga, biasanya diisi dengan vla, keju, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sus",
+    "akarKata": null,
+    "ejaan": "sus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada wanita muda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada suster atau juru rawat wanita",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "SPM",
+    "akarKata": null,
+    "ejaan": "SPM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat perintah membayar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "keuangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

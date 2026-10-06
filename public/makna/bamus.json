@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ba.mus",
+    "akarKata": null,
+    "ejaan": "bamus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badan musyawarah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

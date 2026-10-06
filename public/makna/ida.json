@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Ida",
+    "akarKata": null,
+    "ejaan": "Ida",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar golongan Brahmana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

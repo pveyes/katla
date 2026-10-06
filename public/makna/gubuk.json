@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "gu.buk",
+    "akarKata": null,
+    "ejaan": "gubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah kecil (biasanya yang kurang baik dan bersifat sementara)",
+        "contoh": "mereka tinggal dalam -- pengap beratap daun rumbia, berdinding kardus dan plastik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dangau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

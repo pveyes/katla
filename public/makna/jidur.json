@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ji.dur",
+    "akarKata": null,
+    "ejaan": "jidur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gembira; senang",
+        "contoh": "dengan --nya ibu muda itu memperlihatkan bayinya yang baru lahir kepada tamu-tamunya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ji.dur",
+    "akarKata": null,
+    "ejaan": "jidur",
+    "baku": true,
+    "alt": "jidor",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tetabuhan seperti rebana besar terbuat dari kulit kerbau dan sebagainya, berbingkai kayu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beduk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat gamelan berupa gendang yang sangat besar dan dimainkan dengan penabuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

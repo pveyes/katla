@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "mo.ler",
+    "akarKata": null,
+    "ejaan": "molèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sundal; pelacur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelacuran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.ler",
+    "akarKata": null,
+    "ejaan": "molèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terpelintir layu (tentang daun bawang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

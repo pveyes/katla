@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.hai",
+    "akarKata": null,
+    "ejaan": "lihai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pintar; cerdik; cekatan; pandai (menipu dan sebagainya)",
+        "contoh": "dia sangat -- memperdayakan lawannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tajam (tentang senjata)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

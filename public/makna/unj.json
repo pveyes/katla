@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UNJ",
+    "akarKata": null,
+    "ejaan": "UNJ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Negeri Jakarta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

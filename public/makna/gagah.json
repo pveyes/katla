@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ga.gah",
+    "akarKata": null,
+    "ejaan": "gagah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat; bertenaga",
+        "contoh": "orang itu masih -- meskipun usianya sudah lanjut",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar dan tegap serta kuat (tentang badan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tampak mulia; megah",
+        "contoh": "naik mobil dianggap lebih -- daripada naik bus kota",
+        "info": []
+      }
+    ]
+  }
+]

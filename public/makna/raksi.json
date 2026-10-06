@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "rak.si",
+    "akarKata": null,
+    "ejaan": "raksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "wangi; harum",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bau-bauan yang harum; wangi-wangian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "raksi",
+    "akarKata": null,
+    "ejaan": "raksi",
+    "baku": false,
+    "alt": "rasi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan bintang dalam zodiak (mintakulburuj), terbagi lagi atas dua belas kumpulan dan masing-masing diberi nama (Aries, Taurus, Gemini, Kanser, Leo, Virgo, Libra, Skorpio, Sagitarius, Kaprikornus, Akuarius, Pises)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu perbintangan (ilmu nujum) yang menganggap bahwa nasib manusia erat hubungannya dengan letak zodiaknya pada waktu ia lahir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

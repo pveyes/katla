@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "us.wah",
+    "akarKata": null,
+    "ejaan": "uswah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keteladanan",
+        "contoh": "-- merupakan cara dakwah yang paling efektif",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "psi.ke",
+    "akarKata": null,
+    "ejaan": "psiké",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jiwa; sukma; rohani",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ka.sad",
+    "akarKata": null,
+    "ejaan": "kasad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maksud; tujuan",
+        "contoh": "niat dan -- orang tua itu tidak lain hanya ingin menyenangkan anak-anaknya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makna konotasi",
+        "contoh": "fatwa --nya agamawi, petuah --nya sosial",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ka.sad",
+    "akarKata": null,
+    "ejaan": "Kasad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kepala Staf Angkatan Darat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "as.pek",
+    "akarKata": null,
+    "ejaan": "aspék",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda",
+        "contoh": "linguis dapat mencatat dengan baik ucapan-ucapan yang mempunyai -- fonemis",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sudut pandangan",
+        "contoh": "mempertimbangkan sesuatu hendaknya dari berbagai --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemunculan atau penginterpretasian gagasan, masalah, situasi, dan sebagainya sebagai pertimbangan yang dilihat dari sudut pandang tertentu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kategori gramatikal verba yang menunjukkan lama dan jenis perbuatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

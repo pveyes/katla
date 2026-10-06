@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "lu.cut",
+    "akarKata": null,
+    "ejaan": "lucut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terkelupas (tentang kulit dan sebagainya); lecet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.cut",
+    "akarKata": null,
+    "ejaan": "lucut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "terkelupas (tentang kulit dan sebagainya); lecet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.cut",
+    "akarKata": null,
+    "ejaan": "lucut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hilang; lenyap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

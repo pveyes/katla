@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "acu",
+    "akarKata": null,
+    "ejaan": "acu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "acuan",
+          "mengacu"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "acu",
+    "akarKata": null,
+    "ejaan": "acu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "acuan",
+          "mengacu",
+          "mengacu-acu",
+          "mengacukan",
+          "pengacuan"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "mu.suh",
+    "akarKata": null,
+    "ejaan": "musuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lawan (berkelahi, bertengkar, berperang, berjudi, bertanding, dan sebagainya); seteru",
+        "contoh": "walaupun tubuhnya kecil, ia dapat mengalahkan --nya yang tinggi besar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bandingan, imbangan, tandingan",
+        "contoh": "barang ini tidak ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang mengancam (kesehatan, keselamatan); yang merusakkan",
+        "contoh": "penyakit itu merupakan -- rakyat di daerah ini",
+        "info": []
+      }
+    ]
+  }
+]

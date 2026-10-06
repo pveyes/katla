@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.dir",
+    "akarKata": null,
+    "ejaan": "kadir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mahakuasa",
+        "contoh": "Alkadir",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

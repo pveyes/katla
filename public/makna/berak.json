@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "be.rak",
+    "akarKata": null,
+    "ejaan": "bèrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "buang kotoran; buang air besar",
+        "contoh": "anak kecil mempunyai kebiasaan -- di celana",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotoran manusia atau binatang; tahi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.rak",
+    "akarKata": null,
+    "ejaan": "bêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terberak"
+        ]
+      }
+    ]
+  }
+]

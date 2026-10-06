@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.i.do",
+    "akarKata": null,
+    "ejaan": "maido",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencela karena tidak percaya (perbuatan atau hasil pekerjaan orang lain)",
+        "contoh": "bukan watak kita untuk terus cengeng dan terus -- saja",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

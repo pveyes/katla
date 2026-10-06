@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ulung",
+    "akarKata": null,
+    "ejaan": "ulung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sulung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ulung",
+    "akarKata": null,
+    "ejaan": "ulung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpengalaman; mahir; terbaik",
+        "contoh": "pemimpin --",
+        "info": []
+      }
+    ]
+  }
+]

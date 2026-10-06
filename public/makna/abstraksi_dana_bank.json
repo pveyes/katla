@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "abstraksi dana bank",
+    "akarKata": "abstraksi",
+    "ejaan": "abstraksi dana bank",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "keuangan",
+        "tipeTeks": "-",
+        "definisi": "pengambilan dana, kas, rekening, dan sebagainya, pada bank secara tidak sah, misalnya penggelapan atau penyalahgunaan otorisasi dana bank",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

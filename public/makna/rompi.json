@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "rom.pi",
+    "akarKata": null,
+    "ejaan": "rompi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju luar yang tidak berlengan",
+        "contoh": "malam itu ia memakai baju --",
+        "info": []
+      }
+    ]
+  }
+]

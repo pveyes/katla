@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bu.ram",
+    "akarKata": null,
+    "ejaan": "buram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bercahaya; tidak bening (tentang kaca dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.ram",
+    "akarKata": null,
+    "ejaan": "buram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk kasar dari sesuatu yang akan dikerjakan; rancangan (gambar, tulisan, surat, dan sebagainya); konsep",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

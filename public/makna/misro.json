@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mis.ro",
+    "akarKata": null,
+    "ejaan": "misro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan dibuat dari singkong dan gula merah yang digoreng seperti comro",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

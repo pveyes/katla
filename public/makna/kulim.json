@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.lim",
+    "akarKata": null,
+    "ejaan": "kulim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tingginya mencapai 25 m, tumbuh di hutan dataran rendah, kulit pohonnya menghasilkan tanin, buahnya untuk obat, kayunya kuat dan tahan lama, dapat dijadikan bahan bangunan, bantalan kereta api, tiang listrik (telepon), bahan industri, kayu lapis, dan bahan pembuat kapal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah kulim",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kulim",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

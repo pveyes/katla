@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ko.lah",
+    "akarKata": null,
+    "ejaan": "kolah",
+    "baku": false,
+    "alt": "kulah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyimpan air yang dibuat dari batu; bak air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kamar mandi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kolam kecil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran banyaknya air yang menggenang yang dapat digunakan untuk mencuci dan berwudu (dua kulah ialah banyaknya air yang menurut ukuran 1,25 hasta panjang, lebar, dan tinggi)",
+        "contoh": "dibuat bak tempat wudu yang lebih besar yang isinya lebih dari dua --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "le.bur",
+    "akarKata": null,
+    "ejaan": "lêbur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luluh atau hancur mencair (tentang logam yang dipanaskan)",
+        "contoh": "baik besi maupun baja -- apabila dipanaskan dalam suhu yang tinggi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak binasa; punah sama sekali",
+        "contoh": "seluruh kampung -- oleh gempa yang dahsyat itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.bur",
+    "akarKata": null,
+    "ejaan": "lêbur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keleburan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.bur",
+    "akarKata": null,
+    "ejaan": "lêbur",
+    "baku": false,
+    "alt": "debur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi barang besar jatuh ke air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi ombak memecah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

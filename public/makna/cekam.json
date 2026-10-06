@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.kam",
+    "akarKata": null,
+    "ejaan": "cêkam",
+    "baku": true,
+    "alt": "cukam",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pegang erat-erat dengan kuku atau tangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kam",
+    "akarKata": null,
+    "ejaan": "cêkam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tugal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

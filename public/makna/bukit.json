@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "bu.kit",
+    "akarKata": null,
+    "ejaan": "bukit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumpukan tanah yang lebih tinggi daripada tempat sekelilingnya, lebih rendah daripada gunung",
+        "contoh": "anak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Bu.kit",
+    "akarKata": null,
+    "ejaan": "Bukit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami sebagian wilayah pedalaman Provinsi Kalimantan Selatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Bukit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

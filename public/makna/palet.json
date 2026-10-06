@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pa.let",
+    "akarKata": null,
+    "ejaan": "palèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang digunakan pelukis untuk tempat menaruh cat, berupa lempeng berbentuk perisai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dua lapis bilah kayu yang tersusun searah yang disela balok melintang, digunakan untuk menumpuk muatan supaya dapat diangkat sekaligus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

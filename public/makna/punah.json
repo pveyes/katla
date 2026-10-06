@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pu.nah",
+    "akarKata": null,
+    "ejaan": "punah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "habis semua hingga tidak ada sisanya; benar-benar binasa",
+        "contoh": "-- dimakan api",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hilang lenyap; musnah",
+        "contoh": "seakan-akan telah -- harapan dan kemauannya",
+        "info": []
+      }
+    ]
+  }
+]

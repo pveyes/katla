@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "jum.bo",
+    "akarKata": null,
+    "ejaan": "jumbo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gajah raksasa (dalam cerita anak-anak)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar sekali",
+        "contoh": "pesawat --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

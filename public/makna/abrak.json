@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.rak",
+    "akarKata": null,
+    "ejaan": "abrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan galian yang jernih seperti kaca; mika",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ca.dar",
+    "akarKata": null,
+    "ejaan": "cadar",
+    "baku": true,
+    "alt": "cadir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain yang menutupi seluruh tubuh termasuk kepala dan wajah, kecuali mata, biasa dikenakan oleh wanita muslim",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain penutup meja; alas meja; seprai (untuk kasur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

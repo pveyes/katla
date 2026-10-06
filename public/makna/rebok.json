@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "re.bok",
+    "akarKata": null,
+    "ejaan": "rêbok",
+    "baku": false,
+    "alt": "rebuk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nanah (pada luka dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.bok",
+    "akarKata": null,
+    "ejaan": "rêbok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keropos (untuk pohon)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

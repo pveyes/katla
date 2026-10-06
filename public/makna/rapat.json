@@ -1,0 +1,85 @@
+[
+  {
+    "sukuKata": "ra.pat",
+    "akarKata": null,
+    "ejaan": "rapat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir tidak berantara; dekat sekali (tidak renggang)",
+        "contoh": "rumah-rumah di kota -- sekali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kerap (tentang tanaman, anyaman, dan sebagainya)",
+        "contoh": "padi jangan ditanam terlalu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tertutup benar-benar hingga tidak bercelah",
+        "contoh": "ia menutup pintu dengan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhampiran sekali; dekat benar",
+        "contoh": "kapal dapat berlabuh -- pada pangkalan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "karib; erat (tentang persahabatan)",
+        "contoh": "teman --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.pat",
+    "akarKata": null,
+    "ejaan": "rapat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertemuan (kumpulan) untuk membicarakan sesuatu; sidang; majelis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.pat",
+    "akarKata": null,
+    "ejaan": "rapat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan menjalar, kulitnya dibuat obat; kayu rapat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit dari kayu rapat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

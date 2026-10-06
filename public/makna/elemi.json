@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ele.mi",
+    "akarKata": null,
+    "ejaan": "élêmi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis resin yang digunakan untuk pernis dan salep olesan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "farmasi dan farmakologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

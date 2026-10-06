@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ba.lau",
+    "akarKata": null,
+    "ejaan": "balau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama berbagai macam pohon",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lau",
+    "akarKata": null,
+    "ejaan": "balau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kacau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.lau",
+    "akarKata": null,
+    "ejaan": "Balau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Batang Lupar, Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialek Iban yang dituturkan oleh suku Balau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

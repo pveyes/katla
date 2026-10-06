@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "go.yah",
+    "akarKata": null,
+    "ejaan": "goyah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "goyang karena tidak kukuh letaknya (tentang gigi, tiang, dan sebagainya); gual-gail",
+        "contoh": "gigi yang -- itu akhirnya lepas juga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak teguh; tidak tetap (tentang pendirian, keyakinan, kedudukan, dan sebagainya)",
+        "contoh": "mereka yang -- keyakinannya mudah teperdaya oleh godaan setan",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "at.las",
+    "akarKata": null,
+    "ejaan": "atlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku yang berisi peta bumi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "at.las",
+    "akarKata": null,
+    "ejaan": "atlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis sutra yang halus dan berkilat pada satu sisi; satin; antelas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "at.las",
+    "akarKata": null,
+    "ejaan": "atlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruas tulang leher yang teratas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

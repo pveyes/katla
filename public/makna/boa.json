@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "boa",
+    "akarKata": null,
+    "ejaan": "boa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "syal atau selendang panjang yang terbuat dari benang halus, bulu binatang, atau kain lembut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "boa",
+    "akarKata": null,
+    "ejaan": "boa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ular besar (ular piton dan sebagainya) yang membunuh mangsanya dengan mendesak atau mengimpitnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

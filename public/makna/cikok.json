@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ci.kok",
+    "akarKata": null,
+    "ejaan": "cikok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sendok",
+        "contoh": "maka ia pun mengambil sayur, lalu disuapnya dengan -- emas",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

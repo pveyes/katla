@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ke.dok",
+    "akarKata": null,
+    "ejaan": "kêdok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan muka untuk menutup muka; topeng",
+        "contoh": "kawanan perampok yang datang tengah malam itu semua memakai --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang atau perbuatan yang dipakai untuk menutupi maksud sebenarnya",
+        "contoh": "sopan santunnya hanya dipakai sebagai -- belaka",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

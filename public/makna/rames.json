@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ra.mes",
+    "akarKata": null,
+    "ejaan": "ramês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bercampur menjadi satu (nasi, lauk, sayur, dan sebagainya)",
+        "contoh": "nasi --",
+        "info": []
+      }
+    ]
+  }
+]

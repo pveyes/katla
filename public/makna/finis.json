@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fi.nis",
+    "akarKata": null,
+    "ejaan": "finis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian terakhir (suatu perlombaan); penghabisan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "habis; berakhir; selesai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "aca.ram",
+    "akarKata": null,
+    "ejaan": "acaram",
+    "baku": true,
+    "alt": "caram",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cincin kawin; cincin pertunangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda bahwa suatu perjanjian jual beli telah dibuat; tanda jadi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

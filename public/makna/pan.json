@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "pan",
+    "akarKata": null,
+    "ejaan": "pan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat (tempat) untuk memanggang (kue dan sebagainya), terbuat dari seng tebal (bekas kaleng, drum, dan sebagainya); pemanggang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pan",
+    "akarKata": null,
+    "ejaan": "pan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapan (pertanyaan untuk menyungguhkan)",
+        "contoh": "-- ia tidak mau?",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

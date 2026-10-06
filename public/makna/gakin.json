@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ga.kin",
+    "akarKata": null,
+    "ejaan": "gakin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluarga miskin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

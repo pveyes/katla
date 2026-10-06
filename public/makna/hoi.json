@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hoi",
+    "akarKata": null,
+    "ejaan": "hoi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk memanggil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

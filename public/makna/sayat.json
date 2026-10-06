@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sa.yat",
+    "akarKata": null,
+    "ejaan": "sayat",
+    "baku": true,
+    "alt": "sait",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan kecil; iris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.yat",
+    "akarKata": null,
+    "ejaan": "sayat",
+    "baku": false,
+    "alt": "sayet",
+    "makna": [
+      {
+        "definisi": "lihat benang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

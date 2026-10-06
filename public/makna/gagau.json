@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ga.gau",
+    "akarKata": null,
+    "ejaan": "gagau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "raba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.gau",
+    "akarKata": null,
+    "ejaan": "gagau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bergagau-gagau",
+          "tergagau"
+        ]
+      }
+    ]
+  }
+]

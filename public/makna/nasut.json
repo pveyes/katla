@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "na.sut",
+    "akarKata": null,
+    "ejaan": "nasut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "raja; baginda",
+        "contoh": "sang --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

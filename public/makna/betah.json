@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "be.tah",
+    "akarKata": null,
+    "ejaan": "bêtah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahan mengalami suatu penderitaan (keadaan yang tidak menyenangkan); tabah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa senang (berdiam atau tinggal di suatu tempat)",
+        "contoh": "mereka sudah -- tinggal di sini dan tidak ingin kembali ke kampungnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sembuh",
+        "contoh": "-- dari gering",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

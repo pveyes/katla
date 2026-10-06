@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "hub.la",
+    "akarKata": null,
+    "ejaan": "hubla",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhubungan laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

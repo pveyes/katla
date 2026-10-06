@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "adung",
+    "akarKata": null,
+    "ejaan": "adung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hampal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "adung",
+    "akarKata": null,
+    "ejaan": "adung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "flek hitam pada wajah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

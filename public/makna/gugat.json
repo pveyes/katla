@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "gu.gat",
+    "akarKata": null,
+    "ejaan": "gugat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dakwa; adukan; tuntut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.gat",
+    "akarKata": null,
+    "ejaan": "gugat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guncangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

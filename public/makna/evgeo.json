@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ev.geo",
+    "akarKata": null,
+    "ejaan": "èvgéo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "evaluasi geografi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ami.no",
+    "akarKata": null,
+    "ejaan": "amino",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bentuk terikat pada istilah kimia organik untuk mengatakan bahwa suatu senyawa mengandung gugus NH₂ yang dicantumkan langsung pada atom karbon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

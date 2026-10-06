@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "la.kon",
+    "akarKata": null,
+    "ejaan": "lakon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peristiwa atau karangan yang disampaikan kembali dengan tindak tanduk melalui benda perantara hidup (manusia) atau sesuatu (boneka, wayang) sebagai pemain",
+        "contoh": "pertunjukan wayang kulit dengan -- Baratayuda",
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peran utama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karangan yang berupa cerita sandiwara (dengan gaya percakapan langsung)",
+        "contoh": "cerita itu sudah dijadikan -- untuk dipentaskan",
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan; kejadian; peristiwa",
+        "contoh": "demikianlah kesudahannya -- seorang petualang politik",
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "si.luk",
+    "akarKata": null,
+    "ejaan": "siluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, batangnya tegak dan bulat, tingginya mencapai 28 m, kayunya digunakan sebagai bahan bangunan, tetapi tidak awet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.luk",
+    "akarKata": null,
+    "ejaan": "siluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arwana",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mam.pu",
+    "akarKata": null,
+    "ejaan": "mampu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuasa (bisa, sanggup) melakukan sesuatu; dapat",
+        "contoh": "ia tidak -- membayar biaya pengobatan anaknya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berada; kaya; mempunyai harta berlebih",
+        "contoh": "mereka cukup -- untuk menyekolahkan anaknya ke luar negeri",
+        "info": []
+      }
+    ]
+  }
+]

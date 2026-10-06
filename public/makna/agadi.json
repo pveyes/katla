@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aga.di",
+    "akarKata": null,
+    "ejaan": "agadi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pahat tipis yang digunakan untuk menyadap nira",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

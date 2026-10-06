@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.kal",
+    "akarKata": null,
+    "ejaan": "sakal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pukulan; benturan",
+        "contoh": "pencuri itu kena -- bertubi-tubi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angin yang bertiup dari arah haluan kapal (berlawanan dengan arah kapal)",
+        "contoh": "karena adanya -- yang kuat, kapal itu pun tidak dapat maju dengan laju",
+        "info": []
+      }
+    ]
+  }
+]

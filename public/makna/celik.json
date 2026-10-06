@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ce.lik",
+    "akarKata": null,
+    "ejaan": "cêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbuka (tentang mata)",
+        "contoh": "matanya sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mampu melihat; tidak buta",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sadar; insaf",
+        "contoh": "baru sekaranglah orang Indonesia -- akan kejahatan penyelundupan itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

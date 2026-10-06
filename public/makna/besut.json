@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "be.sut",
+    "akarKata": null,
+    "ejaan": "bêsut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gosok (logam dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "asuh; latih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.sut",
+    "akarKata": null,
+    "ejaan": "bêsut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sembur (tentang darah, air, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

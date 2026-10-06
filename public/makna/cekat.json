@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ce.kat",
+    "akarKata": null,
+    "ejaan": "cêkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "cekatan",
+          "kecekatan",
+          "tercekat"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kat",
+    "akarKata": null,
+    "ejaan": "cêkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "tercekat"
+        ]
+      }
+    ]
+  }
+]

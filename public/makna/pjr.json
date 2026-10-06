@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PJR",
+    "akarKata": null,
+    "ejaan": "PJR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patroli jalan raya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

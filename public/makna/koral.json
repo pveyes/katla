@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ko.ral",
+    "akarKata": null,
+    "ejaan": "koral",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan (bunga) karang yang dibangun di dasar laut oleh binatang karang yang berupa jasad renik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah bekas koloni binatang laut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu kerakal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.ral",
+    "akarKata": null,
+    "ejaan": "koral",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang kandang atau lapangan terkurung pagar untuk mengandangkan atau menangkap ternak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

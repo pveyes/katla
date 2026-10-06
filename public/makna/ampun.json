@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "am.pun",
+    "akarKata": null,
+    "ejaan": "ampun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembebasan dari tuntutan karena melakukan kesalahan atau kekeliruan; maaf",
+        "contoh": "ia selalu berdoa dan memohon -- atas segala dosa dan kesalahannya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata yang menyatakan rasa heran (kesal) dan sebagainya",
+        "contoh": "--, anak ini nakalnya bukan main",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bukan main",
+        "contoh": "aduh baunya, --, deh",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.pun",
+    "akarKata": null,
+    "ejaan": "ampun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan untuk raja di daerah Gayo Aceh Tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

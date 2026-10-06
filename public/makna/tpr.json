@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TPR",
+    "akarKata": null,
+    "ejaan": "TPR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda pembayaran retribusi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

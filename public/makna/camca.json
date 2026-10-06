@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "cam.ca",
+    "akarKata": null,
+    "ejaan": "camca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sendok kecil; sendok teh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

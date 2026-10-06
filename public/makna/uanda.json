@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "uan.da",
+    "akarKata": null,
+    "ejaan": "uanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pak tua; mak tua (menyatakan lebih takzim daripada ua)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

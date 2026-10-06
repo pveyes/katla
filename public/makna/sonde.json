@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "son.de",
+    "akarKata": null,
+    "ejaan": "sondé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peralatan yang dapat diletakkan di dalam tanah atau dibawa ke atmosfer atas dengan roket atau balon udara untuk mengamati keadaan cuaca",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menguji kondisi fisik dalam tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "son.de",
+    "akarKata": null,
+    "ejaan": "sondê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat medis yang digunakan untuk memberi makan seseorang yang tidak dapat mengambil makanan melalui mulut; selang makanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

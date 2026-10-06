@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "pul.sa",
+    "akarKata": null,
+    "ejaan": "pulsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "denyut nadi yang terjadi karena detak jantung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tegangan atau arus yang berlangsung beberapa lama berbentuk segi empat atau gelombang sinus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan dalam perhitungan biaya telepon",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rangkaian denyutan berulang secara teratur yang terasa dalam musik, jika pulsa itu terdengar disebut ketukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

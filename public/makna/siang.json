@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "si.ang",
+    "akarKata": null,
+    "ejaan": "siang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian hari yang terang (yaitu dari matahari terbit sampai terbenam)",
+        "contoh": "-- kita bekerja, malam kita tidur",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu antara pagi dengan petang (kira-kira pukul 11.00–14.00)",
+        "contoh": "ia berangkat pukul 11.00, pulang lebih kurang pukul 13.00 --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sudah lepas pagi atau hampir tengah hari; sudah lepas tengah hari atau hampir petang",
+        "contoh": "ia datang -- ketika kantor hampir ditutup",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.ang",
+    "akarKata": null,
+    "ejaan": "siang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang (dalam arti bersih, tidak ada rumputnya dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Si.ang",
+    "akarKata": null,
+    "ejaan": "Siang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat Dayak Siang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

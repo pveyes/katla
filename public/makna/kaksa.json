@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kak.sa",
+    "akarKata": null,
+    "ejaan": "kaksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bijih timah yang terdapat di dasar lembah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

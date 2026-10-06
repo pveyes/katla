@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "TIM",
+    "akarKata": null,
+    "ejaan": "TIM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Taman Ismail Marzuki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tim",
+    "akarKata": null,
+    "ejaan": "tim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok; regu",
+        "contoh": "-- peneliti pengawetan bambu telah tiba di desa itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tim",
+    "akarKata": null,
+    "ejaan": "tim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengetim",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tim",
+    "akarKata": null,
+    "ejaan": "tim",
+    "baku": false,
+    "alt": "tin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaleng; belek",
+        "contoh": "buah --",
+        "info": []
+      }
+    ]
+  }
+]

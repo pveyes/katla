@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pau",
+    "akarKata": null,
+    "ejaan": "ampau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan pari yang dikeringkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "benuaq",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

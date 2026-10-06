@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "is.bat",
+    "akarKata": null,
+    "ejaan": "isbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyungguhan; penetapan; penentuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

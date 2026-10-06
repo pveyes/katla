@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "accent aigu",
+    "akarKata": null,
+    "ejaan": "accent aigu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "tanda diakritik ( ´ ), seperti yang terdapat pada kata café, idé",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "prancis",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

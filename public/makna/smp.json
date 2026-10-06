@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SMP",
+    "akarKata": null,
+    "ejaan": "SMP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekolah menengah pertama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

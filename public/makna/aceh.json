@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "Aceh",
+    "akarKata": null,
+    "ejaan": "acèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Provinsi Aceh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku bangsa Aceh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "provinsi di Pulau Sumatra, ibu kotanya Banda Aceh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aceh",
+    "akarKata": null,
+    "ejaan": "acèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah lepas dari bijinya (tentang daging buah rambutan dan sebagainya)",
+        "contoh": "jenis rambutan yang (--) banyak diminati",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

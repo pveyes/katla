@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.lik",
+    "akarKata": null,
+    "ejaan": "balik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisi yang sebelah belakang dari yang kita lihat",
+        "contoh": "bersembunyi di -- pintu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kembali; pulang",
+        "contoh": "kapan ia -- ke Surabaya?",
+        "info": []
+      }
+    ]
+  }
+]

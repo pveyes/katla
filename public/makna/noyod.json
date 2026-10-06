@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "no.yod",
+    "akarKata": null,
+    "ejaan": "noyod",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terus berjalan dan tidak memedulikan orang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

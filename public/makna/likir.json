@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.kir",
+    "akarKata": null,
+    "ejaan": "likir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan terna tingginya mencapai 2 m, umbinya enak dimakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "umbi likir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

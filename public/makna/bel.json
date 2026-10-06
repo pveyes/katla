@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "bel",
+    "akarKata": null,
+    "ejaan": "bèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang terbuat dari logam berongga, berbentuk setengah bulatan (atau kerucut) yang dapat bergetar dan menghasilkan bunyi dering kalau dipukul atau terpukul oleh pemukul (bandul) yang ada di dalamnya; lonceng",
+        "contoh": "di puncak menara gereja itu ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dapat mengeluarkan bunyi dering karena bagiannya dapat digerakkan oleh listrik atau udara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi yang dihasilkan oleh alat tersebut, digunakan sebagai tanda",
+        "contoh": "terdengar -- sebagai tanda masuk kerja",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bel",
+    "akarKata": null,
+    "ejaan": "bêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan perbandingan daya dalam skala logaritma berbasis sepuluh, biasa digunakan pada suara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

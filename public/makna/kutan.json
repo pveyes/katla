@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.tan",
+    "akarKata": null,
+    "ejaan": "kutan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selaput lempung yang  melapisi permukaan bongkahan tanah atau permukaan pori-pori",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu tanah",
+            "sumberTeks": "ilmu tanah"
+          }
+        ]
+      }
+    ]
+  }
+]

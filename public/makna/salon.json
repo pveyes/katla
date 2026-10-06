@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sa.lon",
+    "akarKata": null,
+    "ejaan": "salon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang (kamar) yang diatur dan dihias dengan baik (untuk menerima tamu dan sebagainya)",
+        "contoh": "tamu itu dipersilakan duduk di --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.lon",
+    "akarKata": null,
+    "ejaan": "salon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat pengeras suara (pada radio dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

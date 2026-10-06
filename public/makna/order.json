@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "or.der",
+    "akarKata": null,
+    "ejaan": "ordêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perintah untuk melakukan sesuatu",
+        "contoh": "ia mendapat -- dari atasannya untuk pergi ke Bandung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pesanan",
+        "contoh": "barang-barang itu dibuat atas --",
+        "info": []
+      }
+    ]
+  }
+]

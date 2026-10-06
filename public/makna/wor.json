@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wor",
+    "akarKata": null,
+    "ejaan": "wor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagu-lagu daerah yang diiringi dengan bunyi tifa dan tari-tarian daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

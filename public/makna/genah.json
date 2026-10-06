@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ge.nah",
+    "akarKata": null,
+    "ejaan": "gênah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "layak; patut; tahu maksudnya (tentang pembicaraan, peraturan, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "normal",
+        "contoh": "pekerjaan anak itu -- menurut saya",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

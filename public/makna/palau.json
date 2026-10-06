@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "pa.lau",
+    "akarKata": null,
+    "ejaan": "palau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "parut atau bekas luka pada kulit (sebagai ciri)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.lau",
+    "akarKata": null,
+    "ejaan": "palau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tradisi mengantarkan makanan kepada orang yang berduka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gorontalo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Pa.lau",
+    "akarKata": null,
+    "ejaan": "Palau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara yang terletak di Pasifik, beribu kota Melekeok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

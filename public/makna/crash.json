@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "crash",
+    "akarKata": null,
+    "ejaan": "crash",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "kegagalan beroperasinya sistem, perangkat, atau program komputer, biasanya disertai hilangnya data",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

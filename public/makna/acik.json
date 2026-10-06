@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "acik",
+    "akarKata": null,
+    "ejaan": "acik",
+    "baku": true,
+    "alt": "aci",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada perempuan yang lebih tua, seperti kakak perempuan; bibi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

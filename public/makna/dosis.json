@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "do.sis",
+    "akarKata": null,
+    "ejaan": "dosis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takaran obat untuk sekali pakai (dimakan, diminum, disuntikkan, dan sebagainya) dalam jangka waktu tertentu",
+        "contoh": "pasien itu pingsan karena menelan pil melebihi -- yang ditentukan oleh dokter",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran pengobatan yang harus diberikan untuk jangka waktu tertentu (tentang radiasi atau penyinaran pada daerah atau bagian tubuh tertentu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah energi atau tenaga yang diberikan oleh zarah pengion kepada suatu satuan massa bahan yang disinari atau diradiasi pada tempat yang diselidiki atau diminati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

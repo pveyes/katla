@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "actus reus",
+    "akarKata": null,
+    "ejaan": "actus reus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "perbuatan yang  melanggar undang-undang pidana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

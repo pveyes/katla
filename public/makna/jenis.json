@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "je.nis",
+    "akarKata": null,
+    "ejaan": "jênis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang mempunyai ciri (sifat, keturunan, dan sebagainya) yang khusus; macam",
+        "contoh": "padi yang biasa ditanam di sini -- padi unggul",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mutu",
+        "contoh": "harga barang-barang banyak ditentukan oleh macam dan --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan dasar klasifikasi biologi, terdiri atas gabungan populasi yang diperkirakan dapat saling mengawini dengan bebas dan dapat dikenal cirinya secara morfologi, misalnya jenis sekerabat digabungkan dalam satu marga, setiap jenis tumbuhan mewakili nama yang terdiri atas dua kata, yakni nama marga dan penunjuk jenisnya, seperti Artocarpus altissima, Artocarpus communis; spesies",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "klasifikasi kata yang kadang-kadang bersangkutan dengan kelamin, kadang-kadang tidak; gender",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

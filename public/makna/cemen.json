@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ce.men",
+    "akarKata": null,
+    "ejaan": "cèmèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cetek mental; tidak punya nyali; penakut",
+        "contoh": "-- sekali kamu, menghadapi anak kecil saja tak berani",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

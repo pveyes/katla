@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pu.nar",
+    "akarKata": null,
+    "ejaan": "punar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari ketan kuning",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuning",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

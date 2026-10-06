@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.dif",
+    "akarKata": null,
+    "ejaan": "radif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rima (persesuaian bunyi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

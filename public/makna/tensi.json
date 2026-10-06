@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ten.si",
+    "akarKata": null,
+    "ejaan": "tènsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "desakan atau aliran darah dalam (tubuh); tekanan darah",
+        "contoh": "dokter memeriksa -- pasiennya secara teliti",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

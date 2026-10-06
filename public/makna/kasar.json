@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "ka.sar",
+    "akarKata": null,
+    "ejaan": "kasar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "agak besar; tidak halus",
+        "contoh": "pasir -- cocok untuk menutup jalan berlubang itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bertingkah laku tidak lemah lembut",
+        "contoh": "sambil memaki-maki dengan --, dia bersumpah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kasap; kesat; tidak halus waktu diraba",
+        "contoh": "kertas ini -- benar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak baik buatannya; gabas",
+        "contoh": "bajunya merah tua, sarungnya tenun --, dan destarnya kain hitam",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hanya dalam garis-garis besarnya (tidak dengan saksama, tidak dengan perincian yang teliti, hanya perkara yang besar-besar)",
+        "contoh": "paling sedikit rencana itu sudah diwujudkan dalam bentuk -- menurut kebutuhan atau pesanan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat diraba (dilihat dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mentah; belum dibersihkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sar",
+    "akarKata": null,
+    "ejaan": "kasar",
+    "baku": false,
+    "alt": "qasar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemendekan rakaat salat wajib dari empat rakaat menjadi dua rakaat sebagai keringanan (rukhsah) bagi musafir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

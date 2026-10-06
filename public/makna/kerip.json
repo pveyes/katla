@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rip",
+    "akarKata": null,
+    "ejaan": "kêrip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi mengerik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rip",
+    "akarKata": null,
+    "ejaan": "kêrip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengerip"
+        ]
+      }
+    ]
+  }
+]

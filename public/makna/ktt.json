@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KTT",
+    "akarKata": null,
+    "ejaan": "KTT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konferensi tingkat tinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

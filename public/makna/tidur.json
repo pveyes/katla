@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ti.dur",
+    "akarKata": null,
+    "ejaan": "tidur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dalam keadaan berhenti (mengaso) badan dan kesadarannya (biasanya dengan memejamkan mata)",
+        "contoh": "siang untuk bekerja, malam untuk istirahat dan --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengistirahatkan badan dan kesadarannya",
+        "contoh": "biar aku saja yang menyudahkan pekerjaan ini, engkau boleh pergi --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berbaring; terbaring (tidak berdiri)",
+        "contoh": "bubu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tidak aktif (tentang gunung dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

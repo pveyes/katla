@@ -1,0 +1,128 @@
+[
+  {
+    "sukuKata": "kun.ci",
+    "akarKata": null,
+    "ejaan": "kunci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengancing pintu, peti, dan sebagainya, terdiri atas anak kunci dan induk kunci",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dibuat dari logam untuk membuka atau mengancing pintu dengan cara memasukkannya ke dalam lubang yang ada pada induk kunci; anak kunci",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengancing pintu, peti, dan sebagainya yang terpasang pada pintu, peti, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang digunakan untuk membuka dan memasang sekrup dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menghidupkan atau menjalankan mesin (mobil dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sendi (pertemuan) tulang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jawaban yang disediakan atas pertanyaan ujian dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan (tempat) yang sangat penting untuk menguasai sesuatu atau untuk mengenakan pengaruh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "runtunan nada yang berhubungan satu sama lain, berdasarkan pada suatu nada utama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lambang yang digunakan untuk menunjukkan letak not tertentu pada balok not, seperti kunci G menunjukkan letak not g pada garis kedua balok not",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mencapai suatu maksud (seperti membongkar rahasia, memecahkan masalah, menentukan kalah menang, atau berhasil tidaknya sesuatu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengidentifikasi catatan atau kelompok catatan di berkas data",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

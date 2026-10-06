@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.fia",
+    "akarKata": null,
+    "ejaan": "tafia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman yang disuling dari sisa tebu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

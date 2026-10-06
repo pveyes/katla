@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "nik",
+    "akarKata": null,
+    "ejaan": "nik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapaan untuk gadis kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "NIK",
+    "akarKata": null,
+    "ejaan": "NIK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor induk kependudukan",
+        "contoh": "setiap peserta diwajibkan mencantumkan -- untuk menghindari adanya pemalsuan identitas",
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "NIK",
+    "akarKata": null,
+    "ejaan": "NIK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor identitas kepabeanan",
+        "contoh": "untuk mengakses atau berhubungan dengan sistem kepabeanan, perusahaan harus memiliki --",
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.dam",
+    "akarKata": null,
+    "ejaan": "kadam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telapak kaki; duli",
+        "contoh": "ke bawah --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dam",
+    "akarKata": null,
+    "ejaan": "kadam",
+    "baku": false,
+    "alt": "khadam",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelayan; orang gajian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dam",
+    "akarKata": null,
+    "ejaan": "kadam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cepu; tempat sirih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "me.lik",
+    "akarKata": null,
+    "ejaan": "mèlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ingin memiliki",
+        "contoh": "ia -- pangkat yang tinggi",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

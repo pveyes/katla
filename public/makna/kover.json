@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ko.ver",
+    "akarKata": null,
+    "ejaan": "kovêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "liput",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.ver",
+    "akarKata": null,
+    "ejaan": "kovêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampul; tutup pelindung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

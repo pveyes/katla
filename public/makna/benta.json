@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ben.ta",
+    "akarKata": null,
+    "ejaan": "bênta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bisul dalam daging (di bibir sebelah atas)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ben.ta",
+    "akarKata": null,
+    "ejaan": "bênta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumput menahun, tinggi 0,25 hingga 1,5 m, batang-batangnya pada pangkal menjalar-jalar dan berbiak akar, baik sekali digunakan sebagai makanan kuda dan lembu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "un.tai",
+    "akarKata": null,
+    "ejaan": "untai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang (tali) yang dipakai untuk mencocok merjan, mutiara, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong bagi barang yang dicocok (seperti kalung merjan, petasan); rentengan",
+        "contoh": "se-- kalung mutiara",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan sajak (syair), serangkai sajak; satu kuplet (sajak, nyanyian)",
+        "contoh": "tiap-tiap bait atau -- berisi beberapa baris",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbungaan berupa bulir, berkelamin tunggal, umumnya menggantung dan tanggal sebagai satu satuan sesudah pembuahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.tai",
+    "akarKata": null,
+    "ejaan": "untai",
+    "baku": true,
+    "alt": "sirkuit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejumlah penghantar listrik dan unsur-unsurnya, seperti penghambat, induktor, dan kapasitor, yang dihubungkan bersama untuk membentuk lintasan yang menghantar; sirkuit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

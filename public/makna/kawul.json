@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.wul",
+    "akarKata": null,
+    "ejaan": "kawul",
+    "baku": false,
+    "alt": "kaul",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulu atau miang halus yang terdapat pada pelepah pohon enau; rabuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.wul",
+    "akarKata": null,
+    "ejaan": "kawul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulu-bulu pohon nibung yang kering sebagai bahan untuk memarak api",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "wamena",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

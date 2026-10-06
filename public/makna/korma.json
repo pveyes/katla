@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "kor.ma",
+    "akarKata": null,
+    "ejaan": "korma",
+    "baku": false,
+    "alt": "kurma",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang termasuk suku Arecaceae, berasal dari Arab, buahnya berbentuk bulat lonjong, dijadikan semacam manisan dan enak dimakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah kurma",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.tio",
+    "akarKata": null,
+    "ejaan": "patio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serambi terbuka di belakang rumah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taman terbuka di dalam rumah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

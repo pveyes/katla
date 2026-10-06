@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "de.kor",
+    "akarKata": null,
+    "ejaan": "dèkor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perlengkapan panggung teater yang diatur sedemikian rupa sehingga menggambarkan tempat kejadian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "latar belakang suara (dalam siaran sandiwara radio)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiasan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "sa.rit",
+    "akarKata": null,
+    "ejaan": "sarit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar; susah hidup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "miskin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

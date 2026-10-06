@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.bau",
+    "akarKata": null,
+    "ejaan": "cabau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cakar; garuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

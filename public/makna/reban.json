@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "re.ban",
+    "akarKata": null,
+    "ejaan": "réban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kandang ayam atau kandang itik yang terdapat di kolong atau di belakang rumah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.ban",
+    "akarKata": null,
+    "ejaan": "rêban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kandang ayam atau kandang itik yang terdapat di kolong atau di belakang rumah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

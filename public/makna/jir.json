@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jir",
+    "akarKata": null,
+    "ejaan": "jir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadi tujuan; sasaran; jih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

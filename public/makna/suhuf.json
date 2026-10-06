@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "su.huf",
+    "akarKata": null,
+    "ejaan": "suhuf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kitab Allah Swt. yang diturunkan kepada para nabi dan rasul-Nya, merupakan dasar atau nasihat secara umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaran yang bertulis; halaman buku; surat; dokumen; sahifah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas (bahan) hasil daur ulang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

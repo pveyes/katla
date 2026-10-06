@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "fi.lem",
+    "akarKata": null,
+    "ejaan": "filêm",
+    "baku": false,
+    "alt": "film",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selaput tipis yang dibuat dari seluloid untuk tempat gambar negatif (yang akan dibuat potret) atau untuk tempat gambar positif (yang akan dimainkan dalam bioskop)",
+        "contoh": "gulungan -- yang disita itu berisi cerita sadisme",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lakon (cerita) gambar hidup",
+        "contoh": "malam itu ia hendak menonton sebuah -- komedi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaran plastik yang digunakan sebagai media transfer teks atau gambar pada saat pembuatan plat cetak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

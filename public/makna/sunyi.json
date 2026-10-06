@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "su.nyi",
+    "akarKata": null,
+    "ejaan": "sunyi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada bunyi atau suara apa pun; hening; senyap",
+        "contoh": "malam yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kosong (tentang rumah dan sebagainya); tidak ada orang; lengang; sepi",
+        "contoh": "baru pukul 22.00 jalanan sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak banyak transaksi (persetujuan jual beli); tidak banyak pembeli (dalam perdagangan)",
+        "contoh": "pasar uang mulai --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bebas (lepas, lekang, terhindar)",
+        "contoh": "tiada manusia yang -- dari kesalahan",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "hi.lir",
+    "akarKata": null,
+    "ejaan": "hilir",
+    "baku": true,
+    "alt": "ilir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sungai sebelah muara",
+        "contoh": "sampai ke -- sungai",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah sepanjang bagian muara sungai (daerah pesisir)",
+        "contoh": "orang --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.win",
+    "akarKata": null,
+    "ejaan": "rawin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peralatan untuk mengobservasi arah dan kecepatan angin di atmosfer dengan mengikuti balon yang membawa alat pemancar radio",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

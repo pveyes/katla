@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ca.but",
+    "akarKata": null,
+    "ejaan": "cabut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencabut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meniadakan naskah yang sudah diset",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keluar (pergi, lari) dari suatu tempat",
+        "contoh": "jangan biarkan dia -- dari sekolah",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

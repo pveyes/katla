@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ilu.si",
+    "akarKata": null,
+    "ejaan": "ilusi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang hanya dalam angan-angan; khayalan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengamatan yang tidak sesuai dengan pengindraan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat dipercaya; palsu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

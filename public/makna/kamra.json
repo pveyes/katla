@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "kam.ra",
+    "akarKata": null,
+    "ejaan": "kamra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keamanan rakyat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

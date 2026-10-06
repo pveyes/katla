@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ais",
+    "akarKata": null,
+    "ejaan": "ais",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bola menyentuh tangan (pemain bola kaki)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "be.sit",
+    "akarKata": null,
+    "ejaan": "bêsit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sebat (dengan rotan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.sit",
+    "akarKata": null,
+    "ejaan": "bêsit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terbesit"
+        ]
+      }
+    ]
+  }
+]

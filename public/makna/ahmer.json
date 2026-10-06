@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ah.mer",
+    "akarKata": null,
+    "ejaan": "ahmêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli meriam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

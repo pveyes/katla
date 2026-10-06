@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "iro.ni",
+    "akarKata": null,
+    "ejaan": "ironi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kejadian atau situasi yang bertentangan dengan yang diharapkan atau yang seharusnya terjadi, tetapi sudah menjadi suratan takdir",
+        "contoh": "peristiwa pembunuhan Mahatma Gandhi merupakan suatu -- karena ia adalah seorang pejuang tanpa kekerasan yang paling gigih",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "majas yang menyatakan makna yang bertentangan dengan makna sesungguhnya, misalnya dengan mengemukakan makna yang berlawanan dengan makna yang sebenarnya dan ketidaksesuaian antara suasana yang diketengahkan dan kenyataan yang mendasarinya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

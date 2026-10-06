@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ta.rip",
+    "akarKata": null,
+    "ejaan": "tarip",
+    "baku": false,
+    "alt": "tarif",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga satuan jasa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aturan pungutan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daftar bea masuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

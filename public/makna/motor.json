@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "mo.tor",
+    "akarKata": null,
+    "ejaan": "motor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesin yang menjadi tenaga penggerak",
+        "contoh": "pompa air itu digerakkan oleh -- listrik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepeda motor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang memegang peranan penting atas jalannya organisasi dan sebagainya",
+        "contoh": "dialah yang menjadi -- perkumpulan itu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

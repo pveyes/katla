@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ko.cak",
+    "akarKata": null,
+    "ejaan": "kocak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak bolak-balik (kanan-kiri) yang cepat (tentang benda cair); guncang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.cak",
+    "akarKata": null,
+    "ejaan": "kocak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lucu; jenaka",
+        "contoh": "dia sangat --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.cak",
+    "akarKata": null,
+    "ejaan": "kocak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gagah; bagus sekali; serba baik",
+        "contoh": "berjalan dengan --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.cak",
+    "akarKata": null,
+    "ejaan": "kocak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sombong; congkak",
+        "contoh": "mentang-mentang kaya, makin menjadi-jadi --nya",
+        "info": []
+      }
+    ]
+  }
+]

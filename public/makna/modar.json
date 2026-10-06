@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mo.dar",
+    "akarKata": null,
+    "ejaan": "modar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mampus; mati",
+        "contoh": "biarkan penjahat itu --",
+        "info": [
+          {
+            "sumber": "kasar",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam yang tidak sopan"
+          }
+        ]
+      }
+    ]
+  }
+]

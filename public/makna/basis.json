@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ba.sis",
+    "akarKata": null,
+    "ejaan": "basis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asas; dasar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(dalam geometri) sisi yang berupa garis lurus yang terletak paling bawah (tentang segitiga atau bentuk lain dalam bidang; sisi yang berupa bidang datar yang terletak paling bawah (tentang alas kerucut atau bangun lain)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(aljabar) himpunan vektor bebas linear yang merentang pada suatu ruang vektor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pangkalan (angkatan laut, angkatan darat, dan sebagainya) untuk melakukan operasi",
+        "contoh": "pasukan itu menggempur -- angkatan laut musuh",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilangan atau besaran yang dipakai sebagai rujukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

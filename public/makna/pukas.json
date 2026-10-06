@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pu.kas",
+    "akarKata": null,
+    "ejaan": "pukas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan perempuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celah pada permukaan luar kemaluan wanita",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat kelamin betina pada hewan mamalia (menyusui)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

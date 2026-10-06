@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.gar",
+    "akarKata": null,
+    "ejaan": "bagar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gulai daging yang tidak bersantan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

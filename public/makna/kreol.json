@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "kre.ol",
+    "akarKata": null,
+    "ejaan": "krèol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat komunikasi sosial dalam kontak yang singkat (misalnya dalam perdagangan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ragam pijin yang sudah mempunyai penutur asli",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

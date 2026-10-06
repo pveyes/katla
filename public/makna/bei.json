@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BEI",
+    "akarKata": null,
+    "ejaan": "BEI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bursa Efek Indonesia (bursa saham di Indonesia yang merupakan penggabungan Bursa Efek Jakarta dan Bursa Efek Surabaya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

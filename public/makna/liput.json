@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.put",
+    "akarKata": null,
+    "ejaan": "liput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meliput",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meliputi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

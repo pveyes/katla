@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.yuh",
+    "akarKata": null,
+    "ejaan": "kayuh",
+    "baku": true,
+    "alt": "gayuh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dayung yang berdaun sebelah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

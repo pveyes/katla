@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "adong",
+    "akarKata": null,
+    "ejaan": "adong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ubi yang telah berurat ungu sehingga keras dan tidak enak lagi dimakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lin.du",
+    "akarKata": null,
+    "ejaan": "lindu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gempa bumi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Lin.du",
+    "akarKata": null,
+    "ejaan": "Lindu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Donggala, Sulawesi Tengah; Linduan; Tado",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

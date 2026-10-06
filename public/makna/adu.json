@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "adu",
+    "akarKata": null,
+    "ejaan": "adu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pertemukan; sentuh; benturkan; sabung; hasut; tandingkan; sampaikan; timbang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lomba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "adu",
+    "akarKata": null,
+    "ejaan": "adu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patung kayu pada suku Nias, Sumatra Utara, dipercaya merupakan tempat roh leluhur berdiam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "nias",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "adu",
+    "akarKata": null,
+    "ejaan": "adu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "patung kayu pada suku Nias, Sumatra Utara, dipercaya merupakan tempat roh leluhur berdiam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

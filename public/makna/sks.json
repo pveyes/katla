@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SKS",
+    "akarKata": null,
+    "ejaan": "SKS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan kredit semester",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "un.dan",
+    "akarKata": null,
+    "ejaan": "undan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung liar, berparuh seperti senduk dan bertembolok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.dan",
+    "akarKata": null,
+    "ejaan": "undan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "burung liar, berparuh seperti senduk dan bertembolok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

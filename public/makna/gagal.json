@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ga.gal",
+    "akarKata": null,
+    "ejaan": "gagal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak berhasil; tidak tercapai (maksudnya)",
+        "contoh": "keinginannya untuk menjadi juara --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak jadi",
+        "contoh": "tahun ini panen --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melakukan kesalahan pukulan servis, ditandai dengan terlemparnya bola ke luar daerah servis yang dituju",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "deuce",
+    "akarKata": null,
+    "ejaan": "deuce",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "kartu atau dadu yang berangka dua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "angka yang sama-sama diperoleh kedua pihak sebelum salah satu di antaranya memenangkan pertandingan dengan dua angka lagi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

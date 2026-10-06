@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "mo.lar",
+    "akarKata": null,
+    "ejaan": "molar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gigi geraham",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.lar",
+    "akarKata": null,
+    "ejaan": "molar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersangkutan dengan massa suatu benda untuk membedakannya dari sifat atau gerak molekul atau atom",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung suatu gram molekul zat terlarut dalam satu liter larutan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.lar",
+    "akarKata": null,
+    "ejaan": "molar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghubung suatu gerakan menjadi satu kesatuan, misalnya perilaku berenang; lawannya molekuler",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

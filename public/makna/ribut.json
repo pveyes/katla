@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ri.but",
+    "akarKata": null,
+    "ejaan": "ribut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sibuk sekali; banyak pekerjaan",
+        "contoh": "menjelang Lebaran orang -- membeli barang, terutama pakaian dan bahan makanan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "recok; gaduh; ingar; ramai (rusuh) tidak keruan; marah-marah (mengamuk)",
+        "contoh": "kelas itu sangat --, mungkin gurunya belum datang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bertengkar mulut",
+        "contoh": "seringkali ia -- dengan suaminya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ri.but",
+    "akarKata": null,
+    "ejaan": "ribut",
+    "baku": true,
+    "alt": "rebet",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kencang, gemuruh, dan tidak tentu arahnya (tentang angin)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

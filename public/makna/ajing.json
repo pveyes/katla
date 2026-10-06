@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ajing",
+    "akarKata": null,
+    "ejaan": "ajing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seni pertunjukan tradisional masyarakat Madura; bentuk arkais ludruk yang hampir tidak ada nyanyiannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

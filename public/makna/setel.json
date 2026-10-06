@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "se.tel",
+    "akarKata": null,
+    "ejaan": "sêtèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dua benda atau lebih yang selalu dipakai bersama-sama, yang satu menjadi pelengkap yang lain; perangkat (alat makan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selengkap (pakaian dan sebagainya)",
+        "contoh": "satu -- pakaian",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.tel",
+    "akarKata": null,
+    "ejaan": "sêtèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyetel",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

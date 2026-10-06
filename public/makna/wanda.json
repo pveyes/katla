@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "wan.da",
+    "akarKata": null,
+    "ejaan": "wanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciri-ciri satuan wayang yang memberikan gambaran air muka dan watak",
+        "contoh": "ada beberapa -- yang tampak pada wajah Baladewa",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku kata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "wan.da",
+    "akarKata": null,
+    "ejaan": "wanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penampilan khas suatu komunitas tumbuhan atau vegetasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

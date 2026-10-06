@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "dik.sa",
+    "akarKata": null,
+    "ejaan": "diksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berdiksa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

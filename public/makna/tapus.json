@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ta.pus",
+    "akarKata": null,
+    "ejaan": "tapus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang kayunya baik untuk perkakas rumah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu tapus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.pus",
+    "akarKata": null,
+    "ejaan": "tapus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menapus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

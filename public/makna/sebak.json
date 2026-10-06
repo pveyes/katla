@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "se.bak",
+    "akarKata": null,
+    "ejaan": "sébak",
+    "baku": false,
+    "alt": "sibak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cerai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pisah (ke kanan dan ke kiri)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belah (tentang sisiran rambut dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.bak",
+    "akarKata": null,
+    "ejaan": "sêbak",
+    "baku": true,
+    "alt": "sabak",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh dan banyak airnya, hampir meluber (banjir); tergenang airnya (tidak dapat mengalir)",
+        "contoh": "air --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh dengan air mata (tentang mata); hampir meleleh (air mata)",
+        "contoh": "matanya -- karena menangis",
+        "info": []
+      }
+    ]
+  }
+]

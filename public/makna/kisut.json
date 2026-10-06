@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ki.sut",
+    "akarKata": null,
+    "ejaan": "kisut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(ber)kedut karena kering, tua dan sebagainya; lisut; keriput",
+        "contoh": "rambutnya sudah memutih dan kulitnya telah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.sut",
+    "akarKata": null,
+    "ejaan": "kisut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ayak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

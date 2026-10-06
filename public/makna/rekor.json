@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "re.kor",
+    "akarKata": null,
+    "ejaan": "rèkor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil terbaik (tercepat, tertinggi) dalam keolahragaan",
+        "contoh": "-- lari 100 m Indonesia adalah 10,8 detik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah terbanyak",
+        "contoh": "menurut laporan Dirjen Urusan Haji, tahun ini merupakan -- naik haji jika dibandingkan dengan tahun yang sudah-sudah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terbaik (tertinggi)",
+        "contoh": "Pulau Jawa memegang -- produksi sapi dan kerbau",
+        "info": []
+      }
+    ]
+  }
+]

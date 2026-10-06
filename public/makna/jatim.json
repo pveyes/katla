@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ja.tim",
+    "akarKata": null,
+    "ejaan": "Jatim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Jawa Timur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

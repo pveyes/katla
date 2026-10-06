@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "zan",
+    "akarKata": null,
+    "ejaan": "zan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "syak; curiga; waham",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

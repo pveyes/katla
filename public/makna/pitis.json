@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.tis",
+    "akarKata": null,
+    "ejaan": "pitis",
+    "baku": true,
+    "alt": "pitih",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang zaman dahulu, terbuat dari tembaga atau timah tipis yang berlubang bulat di tengahnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

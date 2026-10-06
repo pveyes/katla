@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "be.nar",
+    "akarKata": null,
+    "ejaan": "bênar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sesuai sebagaimana adanya (seharusnya); betul; tidak salah",
+        "contoh": "apa yang dikatakannya itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berat sebelah; adil",
+        "contoh": "keputusan hakim hendaknya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lurus (hati)",
+        "contoh": "orang ini amat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat dipercaya (cocok dengan keadaan yang sesungguhnya); tidak bohong",
+        "contoh": "karena diancam akan dibunuh, ia memberikan kesaksian yang tidak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sah",
+        "contoh": "keputusannya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat; sekali; sungguh",
+        "contoh": "mahal -- buku ini",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "re.met",
+    "akarKata": null,
+    "ejaan": "rèmèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meremet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.met",
+    "akarKata": null,
+    "ejaan": "rêmèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggerakkan perlahan-lahan ke atas dan ke bawah, menari ke sana kemari (tentang pancing)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.met",
+    "akarKata": null,
+    "ejaan": "rêmêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggenggam erat-erat (tentang benda kecil) dalam jumlah banyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "or.pol",
+    "akarKata": null,
+    "ejaan": "orpol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organisasi politik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

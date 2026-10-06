@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ma.gun",
+    "akarKata": null,
+    "ejaan": "magun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap pelindung atau rumah-rumahan pada perahu; rumah tempat mengatur perjalanan",
+        "contoh": "pada sampan itu dibuat -- yang baik",
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang tetap (tentang kajang, tingkap, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

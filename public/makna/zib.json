@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "zib",
+    "akarKata": null,
+    "ejaan": "zib",
+    "baku": false,
+    "alt": "jib",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "layar berbentuk segitiga yang dipasang pada tiang terdepan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "zib",
+    "akarKata": null,
+    "ejaan": "zib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis serigala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

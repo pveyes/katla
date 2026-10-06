@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "to.nik",
+    "akarKata": null,
+    "ejaan": "tonik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan preparat untuk kulit kepala serta rambut kepala untuk menguatkan dan menyuburkan rambut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan preparat untuk penyegar badan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.nik",
+    "akarKata": null,
+    "ejaan": "tonik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(dalam analisis intonasi) merujuk ke suku kata yang mendapat tekanan paling keras dalam suatu kelompok tona",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

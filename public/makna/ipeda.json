@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ipe.da",
+    "akarKata": null,
+    "ejaan": "ipêda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "iuran pembangunan daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ha.nya",
+    "akarKata": null,
+    "ejaan": "hanya",
+    "baku": true,
+    "alt": "hanyasanya",
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "cuma",
+        "contoh": "aku -- bertanya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kecuali",
+        "contoh": "semuanya mendapat hadiah, -- saya yang tidak beruntung",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tetapi",
+        "contoh": "kalian boleh bermain di sini, -- jangan terlalu berisik",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak lebih dari",
+        "contoh": "ia -- membawa uang receh dalam dompetnya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak lain dari",
+        "contoh": "barang yang dibawanya pulang dari luar negeri -- sebuah kopor",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "saja (biasanya digunakan bersama “saja” untuk mengeraskan makna)",
+        "contoh": "-- itu saja yang dapat kusumbangkan",
+        "info": []
+      }
+    ]
+  }
+]

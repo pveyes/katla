@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ma.dik",
+    "akarKata": null,
+    "ejaan": "madik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "utusan yang dikirim oleh pihak laki-laki untuk melamar gadis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ma.dik",
+    "akarKata": null,
+    "ejaan": "Madik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Sorong, Papua Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

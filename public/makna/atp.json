@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ATP",
+    "akarKata": null,
+    "ejaan": "ATP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adenosina trifosfat; dari adenosine triphosphate",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ATP",
+    "akarKata": null,
+    "ejaan": "ATP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asosiasi pemain tenis profesional pria; dari Association of Tennis Professionals",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ATP",
+    "akarKata": null,
+    "ejaan": "ATP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantor berita di Republik Chad; Agence Tchadienne de Presse",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

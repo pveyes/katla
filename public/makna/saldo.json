@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "sal.do",
+    "akarKata": null,
+    "ejaan": "saldo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selisih (antara uang yang masuk dan yang keluar); sisa",
+        "contoh": "untuk tahun ini -- perusahaan itu naik",
+        "info": []
+      }
+    ]
+  }
+]

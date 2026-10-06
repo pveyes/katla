@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ke.dip",
+    "akarKata": null,
+    "ejaan": "kêdip",
+    "baku": true,
+    "alt": "kerdip, kersip",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak kelopak mata (membuka dan menutup berganti-ganti); kejap",
+        "contoh": "ia memberi isyarat dengan -- mata",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak nyala api dan sebagainya yang kecil (sebentar kelihatan padam, sebentar menyala lagi); kelip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.dip",
+    "akarKata": null,
+    "ejaan": "kêdip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan waktu sebesar 10-5 atau 0,864 sekon",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

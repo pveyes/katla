@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "si.let",
+    "akarKata": null,
+    "ejaan": "silèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisau berupa lempengan baja kecil dan tipis, biasanya bermata dua (tanpa pegangan)",
+        "contoh": "pisau --",
+        "info": []
+      }
+    ]
+  }
+]

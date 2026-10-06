@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mo.bud",
+    "akarKata": null,
+    "ejaan": "mobud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mobil udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

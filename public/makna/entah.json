@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "en.tah",
+    "akarKata": null,
+    "ejaan": "êntah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kata untuk menyatakan atau menjawab bahwa tidak tahu",
+        "contoh": "-- apa yang dibawa tadi, saya tidak melihatnya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "boleh jadi",
+        "contoh": "-- datang -- tidak",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "baik ... maupun ...",
+        "contoh": "-- mahal, -- murah, saya tidak peduli",
+        "info": []
+      }
+    ]
+  }
+]

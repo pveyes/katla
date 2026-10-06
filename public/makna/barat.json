@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.rat",
+    "akarKata": null,
+    "ejaan": "barat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama mata angin yang arahnya berlawanan dengan timur; arah tempat matahari terbenam",
+        "contoh": "matahari terbenam di sebelah --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(huruf pertama kapital) orang, bangsa, negara Eropa dan Amerika",
+        "contoh": "bangsa --",
+        "info": []
+      }
+    ]
+  }
+]

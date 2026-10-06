@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "erang",
+    "akarKata": null,
+    "ejaan": "érang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "biru kehitam-hitaman; hitam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "erang",
+    "akarKata": null,
+    "ejaan": "érang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "serong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "erang",
+    "akarKata": null,
+    "ejaan": "êrang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluh atau rintih (karena kesakitan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

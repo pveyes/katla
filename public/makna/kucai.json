@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ku.cai",
+    "akarKata": null,
+    "ejaan": "kucai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sayuran jenis bawang yang digunakan dalam berbagai masakan, berdaun panjang kecil-kecil, berwarna hijau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun kucai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.cai",
+    "akarKata": null,
+    "ejaan": "kucai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pencil; kucil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ti.bum",
+    "akarKata": null,
+    "ejaan": "tibum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketertiban umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

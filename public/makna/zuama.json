@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "zu.a.ma",
+    "akarKata": null,
+    "ejaan": "zuama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin (organisasi, pemerintahan, dan sebagainya)",
+        "contoh": "para -- pun duduk dalam pengurus Majelis Ulama Indonesia",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

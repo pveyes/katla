@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.kao",
+    "akarKata": null,
+    "ejaan": "kakao",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon cokelat, bijinya dibuat bubuk untuk minuman dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepung (bubuk) biji cokelat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

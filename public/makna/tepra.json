@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tep.ra",
+    "akarKata": null,
+    "ejaan": "tèpra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggur papua, berbiji sebesar biji cabai, mirip buah pinang, tidak merambat; selre",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tep.ra",
+    "akarKata": null,
+    "ejaan": "têpra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "material vulkanis dari mineral hingga bebatuan, yang berukuran kurang dari 3 milimeter dan membentuk cendawan di atas kawah gunung berapi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

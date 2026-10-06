@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "cu.ras",
+    "akarKata": null,
+    "ejaan": "curas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pencurian dengan kekerasan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

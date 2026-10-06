@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bia",
+    "akarKata": null,
+    "ejaan": "bia",
+    "baku": false,
+    "alt": "bea",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pajak; cukai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biaya; ongkos",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

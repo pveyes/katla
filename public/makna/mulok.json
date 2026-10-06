@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mu.lok",
+    "akarKata": null,
+    "ejaan": "mulok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "muatan lokal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

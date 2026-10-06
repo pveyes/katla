@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ma.sih",
+    "akarKata": null,
+    "ejaan": "masih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sedang dalam keadaan belum selesai atau sedang berlangsung",
+        "contoh": "pameran itu -- berlangsung, baru akan ditutup seminggu lagi",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "ada; tinggal; bersisa",
+        "contoh": "uangnya -- seribu rupiah",
+        "info": []
+      }
+    ]
+  }
+]

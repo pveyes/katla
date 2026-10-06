@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "op.sin",
+    "akarKata": null,
+    "ejaan": "opsin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "protein yang tidak berwarna, dibentuk dari vitamin aldehida dengan pencahayaan pada pigmen visual",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

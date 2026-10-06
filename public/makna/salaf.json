@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.laf",
+    "akarKata": null,
+    "ejaan": "salaf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sifat angkuh, sombong, dan sebagainya (pada seseorang atau golongan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.laf",
+    "akarKata": null,
+    "ejaan": "salaf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu atau orang yang terdahulu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

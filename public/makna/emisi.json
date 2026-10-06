@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "emi.si",
+    "akarKata": null,
+    "ejaan": "èmisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancaran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemancaran cahaya, panas, atau elektron dari suatu permukaan benda padat atau cair; pemancaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengeluaran (surat berharga seperti saham, obligasi) oleh perusahaan pada saat perusahaan yang bersangkutan memerlukan tambahan modal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengeluaran mata uang logam atau kertas oleh bank sentral",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "emi.si",
+    "akarKata": null,
+    "ejaan": "èmisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kandungan gas mesin yang dibuang ke udara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.dup",
+    "akarKata": null,
+    "ejaan": "kudup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuncup bunga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

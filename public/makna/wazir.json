@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "wa.zir",
+    "akarKata": null,
+    "ejaan": "wazir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perdana menteri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "wa.zir",
+    "akarKata": null,
+    "ejaan": "wazir",
+    "baku": false,
+    "alt": "bawasir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puru sembilik (dalam dubur); pembengkakan urat-urat pada ujung pelepasan (dubur); hemoroid",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

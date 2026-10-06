@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pu.puh",
+    "akarKata": null,
+    "ejaan": "pupuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memupuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.puh",
+    "akarKata": null,
+    "ejaan": "pupuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagu yang terikat oleh banyaknya suku kata dalam satu bait, jumlah larik, dan permainan lagu (bentuk lagu tradisional Sunda)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

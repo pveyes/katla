@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ma.kar",
+    "akarKata": null,
+    "ejaan": "makar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akal busuk; tipu muslihat",
+        "contoh": "segala --nya itu sudah diketahui lawannya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan (usaha) dengan maksud hendak menyerang atau membunuh orang dan sebagainya",
+        "contoh": "karena berbuat -- hingga menghilangkan nyawa seseorang, ia dihukum",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan (usaha) menjatuhkan pemerintah yang sah",
+        "contoh": "ia dituduh melakukan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.kar",
+    "akarKata": null,
+    "ejaan": "makar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kaku dan keras (tentang buah-buahan); bangkar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

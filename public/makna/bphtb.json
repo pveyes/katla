@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BPHTB",
+    "akarKata": null,
+    "ejaan": "BPHTB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bea perolehan hak atas tanah dan bangunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

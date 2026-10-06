@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ab.non",
+    "akarKata": null,
+    "ejaan": "abnon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "abang dan none",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

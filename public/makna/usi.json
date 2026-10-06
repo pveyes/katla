@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "usi",
+    "akarKata": null,
+    "ejaan": "usi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada perempuan muda Ambon yang beragama Kristen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu ambon",
+            "sumberTeks": "bahasa di maluku"
+          }
+        ]
+      }
+    ]
+  }
+]

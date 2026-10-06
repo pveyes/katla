@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ca.bor",
+    "akarKata": null,
+    "ejaan": "cabor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang olahraga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

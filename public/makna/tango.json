@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ta.ngo",
+    "akarKata": null,
+    "ejaan": "tango",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian rakyat Argentina yang kemudian menjadi dansa, dilakukan di ruang dansa dengan irama 4/4",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "irama musik untuk mengiringi tari tango",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

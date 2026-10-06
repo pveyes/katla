@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "man.du",
+    "akarKata": null,
+    "ejaan": "mandu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendirian; kaidah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "man.du",
+    "akarKata": null,
+    "ejaan": "mandu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pangsit khas Korea, biasanya menggunakan tofu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "korea",
+            "sumberTeks": ""
+          }
+        ]
+      }
+    ]
+  }
+]

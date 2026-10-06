@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "kVA",
+    "akarKata": null,
+    "ejaan": "kVA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kilovoltampere",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

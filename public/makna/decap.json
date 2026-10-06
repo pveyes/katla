@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "de.cap",
+    "akarKata": null,
+    "ejaan": "dêcap",
+    "baku": true,
+    "alt": "decah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi orang mengecap makan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.cap",
+    "akarKata": null,
+    "ejaan": "dêcap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "denyar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

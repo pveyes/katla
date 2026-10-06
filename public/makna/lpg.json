@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LPG",
+    "akarKata": null,
+    "ejaan": "LPG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gas minyak bumi cair; dari liquified petroleum gas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

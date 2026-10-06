@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "VLF",
+    "akarKata": null,
+    "ejaan": "VLF",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "frekuensi sangat rendah; dari very low frequency",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

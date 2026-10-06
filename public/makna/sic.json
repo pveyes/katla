@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "sic",
+    "akarKata": null,
+    "ejaan": "sic",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "dengan demikian; jadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

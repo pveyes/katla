@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ulong",
+    "akarKata": null,
+    "ejaan": "ulong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "sapaan kepada kakak laki-laki yang di tengah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

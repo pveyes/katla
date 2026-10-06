@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.sal",
+    "akarKata": null,
+    "ejaan": "amsal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "misal; umpama; perumpamaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

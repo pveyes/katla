@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "uda",
+    "akarKata": null,
+    "ejaan": "uda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "muda",
+        "contoh": "pak --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          },
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "uda",
+    "akarKata": null,
+    "ejaan": "uda",
+    "baku": true,
+    "alt": "udo",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak (laki-laki); abang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

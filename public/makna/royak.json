@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ro.yak",
+    "akarKata": null,
+    "ejaan": "royak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meroyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

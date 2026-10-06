@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.dua",
+    "akarKata": "dua",
+    "ejaan": "sedua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyedua; memperdua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

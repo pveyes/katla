@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.til",
+    "akarKata": null,
+    "ejaan": "katil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat tidur (dari kayu, besi, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ranjang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

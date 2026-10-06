@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "so.lek",
+    "akarKata": null,
+    "ejaan": "solèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "serba elok (tentang pakaian, hiasan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka berhias diri (berdandan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara berhias diri (berpakaian)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

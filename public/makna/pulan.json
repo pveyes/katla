@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pu.lan",
+    "akarKata": null,
+    "ejaan": "pulan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum masak benar (tentang nasi, ubi yang direbus, dan sebagainya)",
+        "contoh": "orang yang belum pandai bertanak kalau bertanak kerap kali -- nasinya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengkal (tentang buah)",
+        "contoh": "buah itu masih --, sebaiknya diperam dulu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.lan",
+    "akarKata": null,
+    "ejaan": "pulan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "empuk dan enak (tentang nasi, ketela, dan sebagainya); pulen",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

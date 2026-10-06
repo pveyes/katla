@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Plu.to",
+    "akarKata": null,
+    "ejaan": "Pluto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dewa para penjahat bagi bangsa Romawi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "planet ke-9 dari matahari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "ki.rai",
+    "akarKata": null,
+    "ejaan": "kirai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kibas-kibas supaya bersih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.rai",
+    "akarKata": null,
+    "ejaan": "kirai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur; carik (yang paling panjang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.rai",
+    "akarKata": null,
+    "ejaan": "kirai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon nipah, daunnya dapat dibuat atap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun kirai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.rai",
+    "akarKata": null,
+    "ejaan": "kirai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cerai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

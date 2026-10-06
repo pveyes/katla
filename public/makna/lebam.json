@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "le.bam",
+    "akarKata": null,
+    "ejaan": "lébam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang hidup di laut atau payau, panjang mencapai 53 cm, hidup di terumbu karang perairan tropis, tersebar di perairan Teluk Persia, Teluk Oman, Pakistan, India, Srilangka, Myanmar, Kepulauan Andaman, Thailand, Vietnam, Cina Selatan, Malaysia, Indonesia, Filipina, Australia, Papua Nugini, Vanuatu, dan Kaledonia Baru",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.bam",
+    "akarKata": null,
+    "ejaan": "lêbam",
+    "baku": true,
+    "alt": "lembam",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "biru kehitam-hitaman (seperti warna bekas kena pukul)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.bam",
+    "akarKata": null,
+    "ejaan": "lêbam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi barang keras dan besar jatuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

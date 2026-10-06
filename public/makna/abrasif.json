@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ab.ra.sif",
+    "akarKata": null,
+    "ejaan": "abrasif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partikel halus (bahan seperti arang atau karborundum) yang dicampurkan pada inokulum atau ditaburkan pada permukaan daun untuk memudahkan transmisi mekanis virus tanaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan seperti pasir halus yang tersaring dengan ukuran tertentu, tetapi juga sebagai padatan, pasta atau suspensi, yang digunakan untuk menggerinda, mengikir, atau mengupam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan kosmetik alami atau sintetik yang digunakan untuk melepaskan lapisan permukaan sel atau jaringan kulit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "-",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

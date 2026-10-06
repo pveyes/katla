@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ha.lus",
+    "akarKata": null,
+    "ejaan": "halus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lumat; kecil-kecil",
+        "contoh": "garam --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak kasar; lembut; licin",
+        "contoh": "baju itu dibuat dari bahan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik (budi bahasa); sopan; beradab; tidak kasar (tentang perbuatan dan sebagainya)",
+        "contoh": "-- budi bahasanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak tampak dan tidak dapat diraba; berupa roh",
+        "contoh": "orang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bermutu; baik (tentang barang tenunan, ukir-ukiran, dan sebagainya)",
+        "contoh": "ia baru saja membeli barang-barang -- di toko itu",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.rau",
+    "akarKata": null,
+    "ejaan": "kurau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang badannya kecil dan dagingnya enak dimakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, panjang mencapai 200 cm, berat mencapai 145 kg, hidup di perairan tropis dengan kedalaman 0–23 m, tersebar di perairan Teluk Persia sampai Papua Nugini dan Australia bagian utara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

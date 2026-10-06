@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ke.lir",
+    "akarKata": null,
+    "ejaan": "kêlir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tirai kain putih untuk menangkap bayangan wayang kulit; layar putih (untuk gambar hidup)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedok (penutup dan sebagainya) untuk menyembunyikan maksud yang sebenarnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lir",
+    "akarKata": null,
+    "ejaan": "kêlir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "di.mer",
+    "akarKata": null,
+    "ejaan": "dimér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa yang terjadi dari gabungan dua molekul yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "di.mer",
+    "akarKata": null,
+    "ejaan": "dimér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menata lampu dan suara di area pertunjukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

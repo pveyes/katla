@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "co.mot",
+    "akarKata": null,
+    "ejaan": "comot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kotor sekali (seperti coreng-moreng, berlumur lumpur)",
+        "contoh": "rupanya seperti beruk --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.mot",
+    "akarKata": null,
+    "ejaan": "comot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

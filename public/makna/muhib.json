@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "mu.hib",
+    "akarKata": null,
+    "ejaan": "muhib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang mencintai; pencinta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berusaha terus memahami Allah Swt. karena rindunya untuk menyaksikan keagungan-Nya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

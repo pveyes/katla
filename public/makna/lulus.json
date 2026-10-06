@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "lu.lus",
+    "akarKata": null,
+    "ejaan": "lulus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dapat masuk atau lalu (ke dalam atau dari lubang dan sebagainya)",
+        "contoh": "benang sebesar itu tidak dapat -- ke lubang jarum yang kecil itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dapat lepas atau lucut (seperti gelang dari tangan atau cincin dari jari)",
+        "contoh": "setelah dibasahi dengan air sabun, cincin itu dapat -- dari jarinya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terperosok masuk (seperti kaki ke dalam lantai bambu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhasil (dalam ujian); dapat melalui dengan baik (dalam menghadapi segala cobaan)",
+        "contoh": "dalam ujian itu tiga orang dinyatakan --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "diperkenankan; terkabul (tentang permohonan, permintaan, dan sebagainya)",
+        "contoh": "permintaannya sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang lenyap",
+        "contoh": "rumahnya -- tertimbun tanah longsor",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lelap, tidak dapat ditebus lagi (tentang barang gadai)",
+        "contoh": "cincin yang digadaikan sudah --",
+        "info": []
+      }
+    ]
+  }
+]

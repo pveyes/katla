@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "abuh",
+    "akarKata": null,
+    "ejaan": "abuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bengkak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abuh",
+    "akarKata": null,
+    "ejaan": "abuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "riuh; sibuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

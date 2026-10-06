@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.son",
+    "akarKata": null,
+    "ejaan": "mason",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggota perhimpunan yang memperjuangkan persaudaraan serta kebebasan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

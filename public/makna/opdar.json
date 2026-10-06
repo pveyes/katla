@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "op.dar",
+    "akarKata": null,
+    "ejaan": "opdar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem laser untuk mengukur sudut elevasi dan sudut azimut peluru pada saat ditembakkan dan jarak lintasan miringnya diturunkan dari pengarahan dan penjarakan optis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

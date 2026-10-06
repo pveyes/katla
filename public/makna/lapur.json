@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "la.pur",
+    "akarKata": null,
+    "ejaan": "lapur",
+    "baku": false,
+    "alt": "lapor",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beri tahu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.pur",
+    "akarKata": null,
+    "ejaan": "lapur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berlapur",
+          "melapur"
+        ]
+      }
+    ]
+  }
+]

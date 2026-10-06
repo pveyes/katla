@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ba.nua",
+    "akarKata": null,
+    "ejaan": "banua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masyarakat hukum adat, baik yang mencakupi rumah yang didiami keluarga virilokal maupun yang mencakupi keluarga, baik batih maupun yang sudah kawin (di Nias)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan suku Maloh untuk kampung-kampung di tepi sungai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan dari lapisan bawah suku Maloh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

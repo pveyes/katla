@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ok.tet",
+    "akarKata": null,
+    "ejaan": "oktèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gubahan lagu delapan suara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok pemain musik yang terdiri atas delapan orang, masing-masing memegang peranan yang sederajat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "so.gok",
+    "akarKata": null,
+    "ejaan": "sogok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kunci",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang digunakan untuk menyogok",
+        "contoh": "uang --",
+        "info": []
+      }
+    ]
+  }
+]

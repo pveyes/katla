@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "de.ras",
+    "akarKata": null,
+    "ejaan": "dêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat cepat (tentang aliran, gerakan, dan sebagainya)",
+        "contoh": "air itu mengalir dengan --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebat (tentang hujan)",
+        "contoh": "hujan -- seperti dicurahkan dari langit",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.ras",
+    "akarKata": null,
+    "ejaan": "dêras",
+    "baku": false,
+    "alt": "daras",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mendaras",
+          "pendarasan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.ras",
+    "akarKata": null,
+    "ejaan": "dêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi sampah atau pasir dituang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

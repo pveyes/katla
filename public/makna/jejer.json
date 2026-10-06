@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "je.jer",
+    "akarKata": null,
+    "ejaan": "jèjèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berjejer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.jer",
+    "akarKata": null,
+    "ejaan": "jêjêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "jejeran"
+        ]
+      }
+    ]
+  }
+]

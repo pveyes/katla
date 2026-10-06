@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ase.se",
+    "akarKata": null,
+    "ejaan": "asésé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersetuju; bermufakat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

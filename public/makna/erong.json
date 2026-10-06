@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "erong",
+    "akarKata": null,
+    "ejaan": "érong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang kecil untuk mengalirkan air; alur air (di perahu, bendungan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "erong",
+    "akarKata": null,
+    "ejaan": "érong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mangkuk kecil untuk minum arak dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "erong",
+    "akarKata": null,
+    "ejaan": "érong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuburan khas Toraja, terbuat dari kayu dengan ukiran di sekelilingnya, panjangnya hampir mencapai 2 meter dan lebar sekitar 60 cm, memuat 7–9 tengkorak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

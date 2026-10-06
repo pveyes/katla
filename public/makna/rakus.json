@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ra.kus",
+    "akarKata": null,
+    "ejaan": "rakus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka makan banyak dengan tidak memilih; lahap; gelojoh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ingin memperoleh lebih banyak daripada yang diperlukan; loba; tamak; serakah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

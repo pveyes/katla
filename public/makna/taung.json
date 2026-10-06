@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.ung",
+    "akarKata": null,
+    "ejaan": "taung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menaungi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

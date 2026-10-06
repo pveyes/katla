@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "to.mat",
+    "akarKata": null,
+    "ejaan": "tomat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman sayuran, batang dan daunnya berbulu halus, buah yang muda berwarna hijau, jika masak berwarna merah, dimakan mentah atau disayur; terung bali",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah tomat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

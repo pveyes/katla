@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ta.bir",
+    "akarKata": null,
+    "ejaan": "tabir",
+    "baku": true,
+    "alt": "mabir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tirai penyekat (pendinding) atau penutup dinding",
+        "contoh": "-- itu memisahkan ruang kaum wanita dengan ruang kaum pria",
+        "info": []
+      }
+    ]
+  }
+]

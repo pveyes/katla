@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "da.lal",
+    "akarKata": null,
+    "ejaan": "dalal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perantara jual beli; makelar; pialang",
+        "contoh": "jangan dibiasakan membeli barang (tanah, rumah, dan sebagainya) melalui seorang --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wakil penjual; agen",
+        "contoh": "ia adalah -- sepeda dan mesin jahit di kota itu",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan keuntungan untuk agen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perantara dalam penyelesaian pertikaian",
+        "contoh": "kedua belah pihak ingin berdamai dengan perantaraan --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penunjuk jalan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

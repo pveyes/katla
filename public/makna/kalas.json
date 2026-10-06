@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ka.las",
+    "akarKata": null,
+    "ejaan": "kalas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelang-gelang atau tali dari rotan pada dayung atau pengayuh",
+        "contoh": "-- pada kapal itu sudah agak rapuh",
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.las",
+    "akarKata": null,
+    "ejaan": "kalas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sama sekali tidak ada yang tinggal; tidak bersisa",
+        "contoh": "karena terlalu lapar, semua makanan di meja habis --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.las",
+    "akarKata": null,
+    "ejaan": "kalas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkaran tali yang dikaitkan di antara dua kaki untuk memudahkan pemanjatan batang kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

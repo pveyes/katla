@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.eng",
+    "akarKata": null,
+    "ejaan": "sèèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dandang penyangga asepan, terbuat dari tembaga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

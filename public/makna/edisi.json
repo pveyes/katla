@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "edi.si",
+    "akarKata": null,
+    "ejaan": "èdisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk buku yang diterbitkan",
+        "contoh": "buku -- saku",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluaran (buku, surat kabar, majalah, kamus, dan sebagainya yang di terbitkan) dari macam yang sama dan dalam waktu yang sama pula",
+        "contoh": "-- keempat Kamus Besar Bahasa Indonesia susunan tim Pusat Bahasa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "versi karya sastra yang diterbitkan pada waktu dan tempat tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

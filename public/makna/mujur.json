@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "mu.jur",
+    "akarKata": null,
+    "ejaan": "mujur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "beruntung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bernasib baik; berbahagia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mu.jur",
+    "akarKata": null,
+    "ejaan": "mujur",
+    "baku": true,
+    "alt": "bujur",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terus pada satu arah, tidak ada yang melintang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terletak menurut panjangnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

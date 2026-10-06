@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SPJ",
+    "akarKata": null,
+    "ejaan": "SPJ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat pertanggungjawaban",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

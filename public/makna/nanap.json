@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "na.nap",
+    "akarKata": null,
+    "ejaan": "nanap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbuka lebar-lebar (tentang mata); melihat dengan mata tidak berkedip; terbeliak",
+        "contoh": "matanya sedang -- menatap ke depan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terkejut",
+        "contoh": "dia -- dari tidurnya",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

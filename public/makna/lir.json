@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "lir",
+    "akarKata": null,
+    "ejaan": "lir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menggulung atau mengulur tali atau rantai, digerakkan dengan tangan atau mesin, biasa digunakan pada mesin jangkar atau derek muatan di kapal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lir",
+    "akarKata": null,
+    "ejaan": "lir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "seperti, bagaikan",
+        "contoh": "-- intan",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

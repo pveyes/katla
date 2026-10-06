@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.rus",
+    "akarKata": null,
+    "ejaan": "gêrus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis siput (karang), biasa digunakan untuk melicinkan kain; tengkuyung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rus",
+    "akarKata": null,
+    "ejaan": "gêrus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lumat; rusak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

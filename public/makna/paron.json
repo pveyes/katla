@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.ron",
+    "akarKata": null,
+    "ejaan": "paron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "landasan tempat menempa besi, biasanya juga dibuat dari besi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ron",
+    "akarKata": null,
+    "ejaan": "paron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "separuh bagian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

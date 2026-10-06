@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ara.ro",
+    "akarKata": null,
+    "ejaan": "araro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "langit-langit mulut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "nias",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

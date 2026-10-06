@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PLTGU",
+    "akarKata": null,
+    "ejaan": "PLTGU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembangkit listrik tenaga gas dan uap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

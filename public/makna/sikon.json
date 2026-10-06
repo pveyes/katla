@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "si.kon",
+    "akarKata": null,
+    "ejaan": "sikon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "situasi dan kondisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

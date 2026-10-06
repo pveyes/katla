@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "po.tia",
+    "akarKata": null,
+    "ejaan": "potia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mandor; pengawas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

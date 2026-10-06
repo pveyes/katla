@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.dat",
+    "akarKata": null,
+    "ejaan": "radat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin atau pemberi nada irama pada bacaan salawat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "sukuKata": "te.gar",
+    "akarKata": null,
+    "ejaan": "têgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keras dan kering",
+        "contoh": "tanah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keras kaku; tidak dapat dilenturkan",
+        "contoh": "rotan yang kasar itu --, tetapi yang halus melentur",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat diubah (pendiriannya, pendapatnya); tidak mau menurut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tabah",
+        "contoh": "kedua orang tua itu masih mencoba -- kendati bencana itu merenggut ketiga putra-putri mereka",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.gar",
+    "akarKata": null,
+    "ejaan": "têgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menegarkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.gar",
+    "akarKata": null,
+    "ejaan": "têgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penampilan tanaman yang sehat dan kuat, biasanya diperlihatkan oleh kemampuan berproduksi normal dalam keadaan suboptimum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

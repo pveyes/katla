@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "in.saf",
+    "akarKata": null,
+    "ejaan": "insaf",
+    "baku": true,
+    "alt": "insyaf",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sadar (akan); mengerti benar (akan); yakin benar (akan)",
+        "contoh": "mereka tidak -- akan perubahan zaman",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sadar akan kekeliruannya dan bertekad akan memperbaiki dirinya",
+        "contoh": "syukurlah ia kini telah -- dan menjauhkan diridr segala perbuatan tercela",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belas kasihan",
+        "contoh": "penjahatitu tidak menaruh -- kepada para korbannya",
+        "info": []
+      }
+    ]
+  }
+]

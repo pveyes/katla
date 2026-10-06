@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "aha",
+    "akarKata": null,
+    "ejaan": "aha",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru yang menyatakan kegembiraan karena menemukan sesuatu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aha",
+    "akarKata": null,
+    "ejaan": "aha",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piring  yang terbuat dari batok kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tolaki",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

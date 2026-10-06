@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "pan.ko",
+    "akarKata": null,
+    "ejaan": "panko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepung roti yang digunakan dalam kuliner Jepang, bertekstur ringan, biasa digunakan untuk memperkaya tekstur makanan atau memberikan lapisan pada makanan yang digoreng atau dipanggang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

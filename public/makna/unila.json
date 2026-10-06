@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Uni.la",
+    "akarKata": null,
+    "ejaan": "Unila",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Lampung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

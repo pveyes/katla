@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "re.kan",
+    "akarKata": null,
+    "ejaan": "rêkan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teman (sekerja)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawan sepersekutuan; sama-sama anggota perseroan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.kan",
+    "akarKata": null,
+    "ejaan": "rêkan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat orang berjual beli bermacam-macam barang dagangan (seperti hasil bumi, timah, dan kerajinan tangan); pekan",
+        "contoh": "lokasi ini sangat baik untuk --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

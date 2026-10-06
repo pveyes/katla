@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "re.sem",
+    "akarKata": null,
+    "ejaan": "rêsêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memisahkan daun tembakau dari gagangnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

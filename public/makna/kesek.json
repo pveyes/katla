@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.sek",
+    "akarKata": null,
+    "ejaan": "kê.sêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kembang bacang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.sek",
+    "akarKata": null,
+    "ejaan": "kèsèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengesek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

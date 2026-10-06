@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "nya.ta",
+    "akarKata": null,
+    "ejaan": "nyata",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang (kelihatan, kedengaran, dan sebagainya); jelas sekali; kentara",
+        "contoh": "huruf dalam buku itu tidak -- sehingga sukar dibaca",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "benar-benar ada; ada buktinya; berwujud",
+        "contoh": "tunjukkan kasih sayangmu dengan tindakan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terbukti",
+        "contoh": "makin lama makin -- kecurangannya",
+        "info": []
+      }
+    ]
+  }
+]

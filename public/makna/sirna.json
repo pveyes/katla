@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sir.na",
+    "akarKata": null,
+    "ejaan": "sirna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hilang (lenyap) dari pikiran atau perasaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hilang (lenyap) tanpa bekas",
+        "contoh": "segala kerisauanku -- setelah melihat kedatangannya",
+        "info": []
+      }
+    ]
+  }
+]

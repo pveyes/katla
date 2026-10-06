@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "gu.mul",
+    "akarKata": null,
+    "ejaan": "gumul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bayi yang bentuk tubuhnya bundar seperti bola",
+        "contoh": "sewaktu lahir ke dunia, bentuk fisiknya --",
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.mul",
+    "akarKata": null,
+    "ejaan": "gumul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bergumul",
+          "bergumulan",
+          "gumulan",
+          "menggumuli",
+          "pergumulan"
+        ]
+      }
+    ]
+  }
+]

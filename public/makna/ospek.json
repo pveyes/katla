@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "os.pek",
+    "akarKata": null,
+    "ejaan": "ospêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orientasi studi dan pengenalan kampus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

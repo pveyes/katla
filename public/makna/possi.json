@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "POSSI",
+    "akarKata": null,
+    "ejaan": "POSSI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Olahraga Selam Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

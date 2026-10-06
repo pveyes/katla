@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re.pot",
+    "akarKata": null,
+    "ejaan": "rèpot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sibuk; ribut; banyak kerja",
+        "contoh": "belum pernah bekerja -- seperti ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar; berabe; dalam kesukaran; kalut",
+        "contoh": "ia sangat -- mengurus usahanya",
+        "info": []
+      }
+    ]
+  }
+]

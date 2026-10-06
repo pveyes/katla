@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ti.ris",
+    "akarKata": null,
+    "ejaan": "tiris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bocor (terutama tentang atap, genteng, dan perahu)",
+        "contoh": "atapnya -- karena gentingnya pecah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merembes dan bertitik-titik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "pu.cuk",
+    "akarKata": null,
+    "ejaan": "pucuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun muda (di puncak pohon atau di ujung ranting)",
+        "contoh": "-- merunggai",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung yang runcing; puncak (pohon, ombak, dan sebagainya)",
+        "contoh": "-- api",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang tertinggi",
+        "contoh": "-- bulat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggolong bilangan bagi benda yang ujungnya runcing (seperti jarum), surat, dan senjata api",
+        "contoh": "satu -- surat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tanaman muda yang ada di atas tanah terdiri atas batang, ranting, dan daun-daunan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.cuk",
+    "akarKata": null,
+    "ejaan": "pucuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar tumbuhan yang dikeringkan untuk obat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

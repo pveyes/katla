@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "co.kok",
+    "akarKata": null,
+    "ejaan": "cokok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teriak (jerit) orang yang latah apabila terkejut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.kok",
+    "akarKata": null,
+    "ejaan": "cokok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "teriak (jerit) orang yang latah apabila terkejut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

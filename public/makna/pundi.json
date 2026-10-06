@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "pun.di",
+    "akarKata": null,
+    "ejaan": "pundi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dimuliakan; junjungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pun.di",
+    "akarKata": null,
+    "ejaan": "pundi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "orang yang dimuliakan; junjungan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ani.mo",
+    "akarKata": null,
+    "ejaan": "animo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasrat dan keinginan yang kuat untuk berbuat, melakukan, atau mengikuti sesuatu",
+        "contoh": "-- untuk membeli barang-barang mewah agak berkurang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semangat",
+        "contoh": "kesebelasan kita bermain dengan penuh --",
+        "info": []
+      }
+    ]
+  }
+]

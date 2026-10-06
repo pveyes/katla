@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.hab",
+    "akarKata": null,
+    "ejaan": "lahab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bernyala-nyala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

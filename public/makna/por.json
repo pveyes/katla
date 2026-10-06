@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "POR",
+    "akarKata": null,
+    "ejaan": "POR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekan olahraga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

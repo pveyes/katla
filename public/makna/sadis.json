@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.dis",
+    "akarKata": null,
+    "ejaan": "sadis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mengenal belas kasihan; kejam; buas; ganas; kasar",
+        "contoh": "dengan -- mereka menghukum tawanannya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang sadis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

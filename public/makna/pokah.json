@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "po.kah",
+    "akarKata": null,
+    "ejaan": "pokah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak",
+        "contoh": "kakak berbelanja -- sekali",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.kah",
+    "akarKata": null,
+    "ejaan": "pokah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak, binasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

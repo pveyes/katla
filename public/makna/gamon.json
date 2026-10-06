@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.mon",
+    "akarKata": null,
+    "ejaan": "gamon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "substansi yang dikeluarkan gamet yang berfungsi untuk menarik gamet lawan jenisnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

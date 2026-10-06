@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "sa.mak",
+    "akarKata": null,
+    "ejaan": "samak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang menghasilkan bahan (zat) untuk memasak kulit binatang agar menjadi berwarna dan tahan lama (banyak macamnya, seperti -- paya, -- pulut, -- pasir, dan -- serai)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat (bahan) untuk memasak kulit binatang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.mak",
+    "akarKata": null,
+    "ejaan": "samak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan gelasan benang layang-layang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.mak",
+    "akarKata": null,
+    "ejaan": "samak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah; gundah",
+        "contoh": "tampak pemuda itu -- karena ditinggalkan kekasihnya",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.mak",
+    "akarKata": null,
+    "ejaan": "samak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mendengar, sifat yang wajib bagi Allah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

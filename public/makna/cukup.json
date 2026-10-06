@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "cu.kup",
+    "akarKata": null,
+    "ejaan": "cukup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat memenuhi kebutuhan atau memuaskan keinginan dan sebagainya; tidak kurang",
+        "contoh": "ia tidak dapat menabung, gajinya hanya -- untuk biaya hidup sehari-hari",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lengkap; genap (umur, waktu, dan sebagainya)",
+        "contoh": "tahun ini umurnya -- setengah abad",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah memadai (tidak perlu ditambah lagi)",
+        "contoh": "nama saya -- dipanggil Karno saja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lumayan; sedang",
+        "contoh": "untungnya tidak banyak, hanya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "agak kaya; berada; tidak kekurangan",
+        "contoh": "ayahnya orang yang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "agak",
+        "contoh": "tadi pagi saya terbangun sudah -- siang",
+        "info": []
+      }
+    ]
+  }
+]

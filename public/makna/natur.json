@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "na.tur",
+    "akarKata": null,
+    "ejaan": "natur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alam semesta dan segala yang diciptakan oleh Tuhan; alam beserta isinya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asli",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat; watak; pembawaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

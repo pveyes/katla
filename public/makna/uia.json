@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UIA",
+    "akarKata": null,
+    "ejaan": "UIA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Islam As-Syafi'yah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ka.bus",
+    "akarKata": null,
+    "ejaan": "kabus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kabur; tidak nyata kelihatan (seakan-akan tertutup kabut karena jauh dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak jernih (tentang mata, kaca, dan sebagainya seakan-akan berkabut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "cit",
+    "akarKata": null,
+    "ejaan": "cit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi suara tikus atau anak burung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cit",
+    "akarKata": null,
+    "ejaan": "cit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain cita; encit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

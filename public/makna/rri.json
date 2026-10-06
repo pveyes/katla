@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RRI",
+    "akarKata": null,
+    "ejaan": "RRI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Radio Republik Indonesia (stasiun radio milik pemerintah Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

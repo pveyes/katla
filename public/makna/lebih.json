@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "le.bih",
+    "akarKata": null,
+    "ejaan": "lêbih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lewat dari semestinya (tentang ukuran, banyaknya, besarnya, dan sebagainya)",
+        "contoh": "sudah kuberi Rp10.000,00 -- dari uang sekolahnya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(ber)sisa; ada sisanya",
+        "contoh": "kalau kau bayar Rp5.000,00, --nya tinggal Rp2.000,00",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "bertambah; makin",
+        "contoh": "kesehatannya sudah -- baik",
+        "info": []
+      }
+    ]
+  }
+]

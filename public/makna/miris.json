@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "mi.ris",
+    "akarKata": null,
+    "ejaan": "miris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat tiris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mi.ris",
+    "akarKata": null,
+    "ejaan": "miris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "waswas; risau; cemas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

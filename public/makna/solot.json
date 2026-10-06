@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "so.lot",
+    "akarKata": null,
+    "ejaan": "solot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gemas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "marah sekali",
+        "contoh": "karena sering berbohong, aku jadi -- kepada anak itu",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "So.lot",
+    "akarKata": null,
+    "ejaan": "Solot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Solor; Holo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

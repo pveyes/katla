@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.dak",
+    "akarKata": null,
+    "ejaan": "radak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tohok (dari arah bawah, biasanya dengan tombak); tusuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.dak",
+    "akarKata": null,
+    "ejaan": "radak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meradak"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "de.gup",
+    "akarKata": null,
+    "ejaan": "dêgup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi benda, seperti kopor jatuh ke tanah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi denyut jantung yang keras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

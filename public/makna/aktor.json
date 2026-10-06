@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ak.tor",
+    "akarKata": null,
+    "ejaan": "aktor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pria yang berperan sebagai pelaku dalam pementasan cerita, drama, dan sebagainya di panggung, radio, televisi, atau film",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berperan dalam suatu kejadian penting",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemeran tokoh cerita dalam pementasan, drama, dan sebagainya di panggung, radio, televisi, atau film",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

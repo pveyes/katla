@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ora.si",
+    "akarKata": null,
+    "ejaan": "orasi",
+    "baku": true,
+    "alt": "orasio",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pidato",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pidato pengukuhan (guru besar dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "khotbah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

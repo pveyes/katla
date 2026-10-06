@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.sus",
+    "akarKata": null,
+    "ejaan": "lêsus",
+    "baku": false,
+    "alt": "desus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi orang berbisik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sus",
+    "akarKata": null,
+    "ejaan": "lêsus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angin puyuh; angin topan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

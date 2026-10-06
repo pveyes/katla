@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "se.rat",
+    "akarKata": null,
+    "ejaan": "sêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sendat; tidak licin",
+        "contoh": "sekrup-sekrup peti itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lancar",
+        "contoh": "pemberian kredit -- sekali",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rat",
+    "akarKata": null,
+    "ejaan": "sêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sel atau jaringan serupa benang atau pita panjang, berasal dari hewan atau tumbuhan (ulat, batang pisang, daun nanas, kulit kayu, dan sebagainya), digunakan untuk membuat kertas, tekstil, dan sikat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

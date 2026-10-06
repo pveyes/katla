@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "em.bat",
+    "akarKata": null,
+    "ejaan": "êmbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pukul dengan benda panjang dan tipis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempo dalam lagu tradisional yang ditentukan oleh jumlah ketukan instrumen dalam satu detik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "anu",
+    "akarKata": null,
+    "ejaan": "anu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang tidak disebutkan namanya (orang, benda, dan sebagainya)",
+        "contoh": "si -- membeli -- di toko --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(untuk menyebutkan) sesuatu yang namanya terlupa atau tidak diketahui",
+        "contoh": "gedung -- yang baru selesai dibangun itu akan diresmikan pemakaiannya besok",
+        "info": []
+      }
+    ]
+  }
+]

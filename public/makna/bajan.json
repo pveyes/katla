@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.jan",
+    "akarKata": null,
+    "ejaan": "bajan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat atau wadah berbentuk cekung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggoreng; wajan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

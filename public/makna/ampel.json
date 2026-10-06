@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pel",
+    "akarKata": null,
+    "ejaan": "ampèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

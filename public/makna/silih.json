@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "si.lih",
+    "akarKata": null,
+    "ejaan": "silih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "saling",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ganti; tukar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konstituen yang tidak ditentukan atau tidak terdapat dalam struktur dasar, diperlukan untuk menjelaskan suatu derivasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unsur tidak bermakna yang mempunyai fungsi sintaksis, tetapi tidak mempunyai fungsi semantis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

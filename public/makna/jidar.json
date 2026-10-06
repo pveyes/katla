@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ji.dar",
+    "akarKata": null,
+    "ejaan": "jidar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis (sekeliling surat atau halaman buku)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggaris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

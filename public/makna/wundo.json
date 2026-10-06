@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wun.do",
+    "akarKata": null,
+    "ejaan": "wundo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang tengah rumah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "waropen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

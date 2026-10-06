@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "va.las",
+    "akarKata": null,
+    "ejaan": "valas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "valuta asing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

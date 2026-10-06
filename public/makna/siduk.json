@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.duk",
+    "akarKata": null,
+    "ejaan": "siduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gayung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

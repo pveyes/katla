@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ka.lau",
+    "akarKata": null,
+    "ejaan": "kalau",
+    "baku": true,
+    "alt": "kalo",
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung untuk menandai syarat",
+        "contoh": "-- keluar, Anda harus minta izin dulu",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "seandainya",
+        "contoh": "-- ia tidak mau membayar utangnya, apa yang akan kau perbuat?",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "bagi; adapun",
+        "contoh": "-- saya, perkara itu mudah saja memecahkannya",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "bahwa",
+        "contoh": "dia berpikir -- ini tidak akan berhasil",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

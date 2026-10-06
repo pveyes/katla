@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "rak.na",
+    "akarKata": null,
+    "ejaan": "rakna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ratna; permata",
+        "contoh": "baju permaisuri bertatahkan -- mutu manikam",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

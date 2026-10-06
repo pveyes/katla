@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "im.bas",
+    "akarKata": null,
+    "ejaan": "imbas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan atau aliran udara (ditimbulkan oleh gerakan kipas, benda bergerak, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dorongan; akibat (tanpa disengaja terjadinya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit yang disebabkan oleh hantu yang lewat dan sebagainya",
+        "contoh": "kata orang tua-tua, pada waktu magrib janganlah keluar rumah karena dapat terkena -- hantu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perolehan sesuatu sebagai akibat pengaruh sesuatu yang lain, misalnya imbas elektrostatik adalah pemberian muatan listrik statik pada sebuah benda dengan cara mendekatkan benda itu (tetapi tidak menyentuh) kepada sebuah benda yang sudah bermuatan listrik statik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

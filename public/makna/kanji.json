@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "kan.ji",
+    "akarKata": null,
+    "ejaan": "kanji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepung dari pati singkong; tapioka; aci",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran air dan tepung tapioka atau tepung sagu yang dididihkan untuk mengeraskan pakaian dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kan.ji",
+    "akarKata": null,
+    "ejaan": "kanji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jera; kapok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kan.ji",
+    "akarKata": null,
+    "ejaan": "kanji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "huruf Jepang yang mulai dipakai sekitar abad-abad pertama Masehi, tiap huruf menggambarkan kata atau morfem",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

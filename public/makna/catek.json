@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ca.tek",
+    "akarKata": null,
+    "ejaan": "caték",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pagut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gigit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

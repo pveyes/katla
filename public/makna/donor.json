@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "do.nor",
+    "akarKata": null,
+    "ejaan": "donor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penderma; pemberi sumbangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penderma darah (yang menyumbangkan darahnya untuk menolong orang lain yang memerlukan)",
+        "contoh": "-- darah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unsur kimia yang jika ditambahkan ke dalam semikonduktor murni dapat menambah konsentrasi elektron bebas di dalam semikonduktor itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

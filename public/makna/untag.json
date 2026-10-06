@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Un.tag",
+    "akarKata": null,
+    "ejaan": "Untag",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas 17 Agustus 1945",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

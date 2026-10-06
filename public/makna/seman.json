@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.man",
+    "akarKata": null,
+    "ejaan": "séman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak jadi atau gagal (tentang adonan apam, tapai, nira yang dijadikan tuak, atau penyakit cacar)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang (tentang ingatan)",
+        "contoh": "orang mabuk itu ingatannya --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merugi; terbengkalai; pailit (tentang perusahaan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak sempurna (tentang janin dalam kandungan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

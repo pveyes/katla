@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ci.kal",
+    "akarKata": null,
+    "ejaan": "cikal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tunas buah kelapa; pohon kelapa yang masih kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

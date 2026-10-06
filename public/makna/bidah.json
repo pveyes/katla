@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "bid.ah",
+    "akarKata": null,
+    "ejaan": "bidah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan atau cara yang tidak pernah dikatakan atau dicontohkan Rasulullah atau sahabatnya, kemudian dilakukan seolah-olah menjadi ajaran Islam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembaruan ajaran Islam tanpa berpedoman pada sumber otoritatif, seperti Al-Qur'an, hadis, ijmak, dan kias",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebohongan; dusta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

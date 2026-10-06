@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "tu.gas",
+    "akarKata": null,
+    "ejaan": "tugas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang wajib dikerjakan atau yang ditentukan untuk dilakukan; pekerjaan yang menjadi tanggung jawab seseorang; pekerjaan yang dibebankan",
+        "contoh": "pegawai hendaklah menjalankan -- masing-masing dengan baik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suruhan (perintah) untuk melakukan sesuatu",
+        "contoh": "beliau diberi -- menyelidiki keadaan rakyat di pulau itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fungsi (jabatan)",
+        "contoh": "terangkan -- akhiran “-lah” pada kata “minumlah” dalam kalimat itu",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fungsi yang harus dikerjakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.gas",
+    "akarKata": null,
+    "ejaan": "tugas",
+    "baku": false,
+    "alt": "tukas",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menukas",
+          "menukasi",
+          "tukasan"
+        ]
+      }
+    ]
+  }
+]

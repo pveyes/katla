@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "pa.mor",
+    "akarKata": null,
+    "ejaan": "pamor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baja putih yang disepuhkan pada bilah keris",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lukisan pada bilah keris, yang dibuat dari baja putih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seri; semarak (keindahan, kemuliaan, dan sebagainya); perbawa",
+        "contoh": "sekalipun tidak berkuasa lagi, ia belum kehilangan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

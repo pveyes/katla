@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.sam",
+    "akarKata": null,
+    "ejaan": "kasam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dendam; kesumat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

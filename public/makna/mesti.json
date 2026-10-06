@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mes.ti",
+    "akarKata": null,
+    "ejaan": "mêsti",
+    "baku": true,
+    "alt": "musti",
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "pasti; tentu",
+        "contoh": "kalau kauturuti nasihat itu, -- tercapai maksudmu",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak boleh tidak; harus",
+        "contoh": "engkau -- berangkat sekarang kalau engkau tidak ingin terlambat menghadiri pemakaman ayahmu",
+        "info": []
+      }
+    ]
+  }
+]

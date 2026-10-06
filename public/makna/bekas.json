@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "be.kas",
+    "akarKata": null,
+    "ejaan": "bêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda yang tertinggal atau tersisa (sesudah dipegang, diinjak, dilalui, dan sebagainya); kesan",
+        "contoh": "ada -- ban mobil di halaman",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang tertinggal sebagai sisa (yang telah rusak, terbakar, tidak dipakai lagi, dan sebagainya)",
+        "contoh": "runtuhan -- gedung-gedung besar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pernah menjabat atau menjadi ..., tetapi sekarang tidak lagi; mantan",
+        "contoh": "dia adalah -- guru saya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah pernah dipakai",
+        "contoh": "barang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.kas",
+    "akarKata": null,
+    "ejaan": "bêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menaruh sesuatu; wadah",
+        "contoh": "-- tinta",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "mak",
+    "akarKata": null,
+    "ejaan": "mak",
+    "baku": true,
+    "alt": "emak, ma",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang tua perempuan; ibu",
+        "contoh": "sambil menangis anak kecil itu memanggil-manggil --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk perempuan yang patut disebut ibu atau dianggap sepadan dengan ibu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mak",
+    "akarKata": null,
+    "ejaan": "mak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mamak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

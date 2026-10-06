@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "de.mon",
+    "akarKata": null,
+    "ejaan": "démon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk atau roh yang jahat; hantu; setan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bengis, tidak mengenal belas kasihan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

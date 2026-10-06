@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "pa.ras",
+    "akarKata": null,
+    "ejaan": "paras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rupa muka; wajah",
+        "contoh": "--nya tidak secantik dulu semasa ia masih muda",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ras",
+    "akarKata": null,
+    "ejaan": "paras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sejajar dengan permukaan; sama rata; rata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ras",
+    "akarKata": null,
+    "ejaan": "paras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu atau lapisan tanah keras yang berupa pasir padat; batu paras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

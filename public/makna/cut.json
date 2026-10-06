@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "cut",
+    "akarKata": null,
+    "ejaan": "cut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar bangsawan putri (di Aceh)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cut",
+    "akarKata": null,
+    "ejaan": "cut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "memukul bola (dalam olahraga bulu tangkis) secara sepintas sehingga bola itu berputar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "membagi kartu atas dua bagian; mengambil kartu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "peralihan yang mendadak dari suatu suara atau gambar ke suara atau gambar lain dalam pengambilan film, radio, atau televisi; penghentian pengambilan film",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

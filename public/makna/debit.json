@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "de.bit",
+    "akarKata": null,
+    "ejaan": "débit",
+    "baku": true,
+    "alt": "debet",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang harus ditagih dari orang lain; piutang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "catatan pada pos pembukuan yang menambah nilai aktiva atau mengurangi jumlah kewajiban; jumlah yang mengurangi deposito pemegang rekening pada banknya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "manajemen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.bit",
+    "akarKata": null,
+    "ejaan": "débit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "volume air yang mengalir dari suatu saluran melalui penampang lintang tertentu dalam satuan waktu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.dok",
+    "akarKata": null,
+    "ejaan": "andok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhenti untuk duduk-duduk; menghabiskan waktu; bercengkerama",
+        "contoh": "setiap malam Minggu banyak orang -- di warung itu",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

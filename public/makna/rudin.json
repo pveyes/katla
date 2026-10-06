@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.din",
+    "akarKata": null,
+    "ejaan": "rudin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "miskin sekali",
+        "contoh": "menjadi -- setelah rumah serta harta bendanya terbakar",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

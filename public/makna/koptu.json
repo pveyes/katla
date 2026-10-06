@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "kop.tu",
+    "akarKata": null,
+    "ejaan": "koptu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kopral satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.mah",
+    "akarKata": null,
+    "ejaan": "damah",
+    "baku": true,
+    "alt": "dammah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda seperti koma di atas huruf Arab yang menyatakan bahwa huruf tersebut berbunyi u",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

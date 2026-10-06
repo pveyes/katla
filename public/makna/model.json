@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "mo.del",
+    "akarKata": null,
+    "ejaan": "modèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola (contoh, acuan, ragam, dan sebagainya) dari sesuatu yang akan dibuat atau dihasilkan",
+        "contoh": "rumahnya dibuat seperti -- rumah adat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dipakai sebagai contoh untuk dilukis (difoto)",
+        "contoh": "pernah aku menjadi -- lukisan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang (pekerjaannya) memperagakan contoh pakaian yang akan dipasarkan",
+        "contoh": "gadis -- yang cantik-cantik itu memperagakan pakaian dari bahan batik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang tiruan yang kecil dengan bentuk (rupa) persis seperti yang ditiru",
+        "contoh": "-- pesawat terbang",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.del",
+    "akarKata": null,
+    "ejaan": "modèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pempek berisi tahu yang dimakan dengan kuah bening seperti sop",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara untuk merepresentasikan pola hubungan yang diperoleh dari perilaku manusia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

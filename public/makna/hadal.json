@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.dal",
+    "akarKata": null,
+    "ejaan": "hadal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian laut dengan kedalaman di bawah 6.000 meter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "oseanografi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "Aga",
+    "akarKata": null,
+    "ejaan": "Aga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar bangsawan di Turki, yang juga digunakan di India, Pakistan, Bangladesh",
+        "contoh": "-- Khan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aga",
+    "akarKata": null,
+    "ejaan": "aga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "angkuh; sombong",
+        "contoh": "ibu itu -- juga atas kepandaian anak tunggalnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Aga",
+    "akarKata": null,
+    "ejaan": "Aga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penduduk asli Pulau Bali",
+        "contoh": "orang Bali --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aga",
+    "akarKata": null,
+    "ejaan": "aga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutu ikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kulisusu",
+            "sumberTeks": "bahasa di provinsi sulawesi tenggara, ditambahkan pd pemutakhiran oktober 2020"
+          }
+        ]
+      }
+    ]
+  }
+]

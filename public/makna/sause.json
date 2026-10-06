@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sa.u.se",
+    "akarKata": null,
+    "ejaan": "saulé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk perempuan muda yang cantik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.u.se",
+    "akarKata": null,
+    "ejaan": "sausê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah barat daya Danau Sentani, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

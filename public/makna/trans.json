@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "trans",
+    "akarKata": null,
+    "ejaan": "trans",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan seseorang yang terputus hubungannya dengan sekelilingnya",
+        "contoh": "setelah mengisap ganja mereka berada dalam keadaan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tidak sadar (karena kerasukan dan sebagainya) sehingga mampu berbuat sesuatu yang tidak masuk akal",
+        "contoh": "dalam keadaan -- ia menari-nari di atas bara",
+        "info": []
+      }
+    ]
+  }
+]

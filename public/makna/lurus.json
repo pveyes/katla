@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "lu.rus",
+    "akarKata": null,
+    "ejaan": "lurus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "memanjang hanya dalam satu arah, tanpa belokan atau lengkungan (tentang garis, jalan, dan sebagainya); lempeng",
+        "contoh": "kampung A dan kampung B dihubungkan oleh sebuah jalan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tegak benar",
+        "contoh": "berdiri --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jujur; polos",
+        "contoh": "jarang benar orang yang -- seperti dia",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik (tentang budi dan sebagainya); tidak sesat",
+        "contoh": "anak itu cantik dan -- budi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tepat benar; betul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kata demi kata (tentang terjemahan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kejur; tidak ikal (tentang rambut)",
+        "contoh": "rambutnya -- dan hitam",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sejajar (tentang garis)",
+        "contoh": "buatlah garis yang -- dengan garis A–B",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "tu.tur",
+    "akarKata": null,
+    "ejaan": "tutur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ucapan; kata; perkataan",
+        "contoh": "-- dan kata",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.tur",
+    "akarKata": null,
+    "ejaan": "tutur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuturan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.tur",
+    "akarKata": null,
+    "ejaan": "tutur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "penuturan"
+        ]
+      }
+    ]
+  }
+]

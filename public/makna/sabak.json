@@ -1,0 +1,107 @@
+[
+  {
+    "sukuKata": "sa.bak",
+    "akarKata": null,
+    "ejaan": "sabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "muram; suram",
+        "contoh": "mukanya -- seperti sedang dirundung kesusahan",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "redup (tentang cuaca); mendung",
+        "contoh": "hari --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlinang (tentang air mata)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.bak",
+    "akarKata": null,
+    "ejaan": "sabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat tulis yang dibuat dari batu berkutub papan tipis diberi bingkai; batu tulis",
+        "contoh": "pada zaman penjajahan (Belanda dan Jepang) kebanyakan murid menulis di atas --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.bak",
+    "akarKata": null,
+    "ejaan": "sabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "alat tulis yang dibuat dari batu berkutub papan tipis diberi bingkai; batu tulis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.bak",
+    "akarKata": null,
+    "ejaan": "sabak",
+    "baku": false,
+    "alt": "sebak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cerai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pisah (ke kanan dan ke kiri)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belah (tentang sisiran rambut dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

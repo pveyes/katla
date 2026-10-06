@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "uar",
+    "akarKata": null,
+    "ejaan": "uar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uar",
+    "akarKata": null,
+    "ejaan": "uar",
+    "baku": true,
+    "alt": "war",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menguar-uarkan",
+          "penguaran",
+          "uar-uar"
+        ]
+      }
+    ]
+  }
+]

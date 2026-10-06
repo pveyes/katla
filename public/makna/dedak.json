@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "de.dak",
+    "akarKata": null,
+    "ejaan": "dêdak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk halus dari kulit padi (untuk makanan ayam, itik, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.dak",
+    "akarKata": null,
+    "ejaan": "dêdak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sempit; sesak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.dak",
+    "akarKata": null,
+    "ejaan": "dêdak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berdedak"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "sum.pa",
+    "akarKata": null,
+    "ejaan": "sumpa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyimpan beras yang terbuat dari tanah liat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kaili",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sum.pa",
+    "akarKata": null,
+    "ejaan": "sumpa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesusastraan lisan yang suci di kalangan suku Muna, berupa rangkaian atau kumpulan kalimat suci yang diucapkan sebagai sumpah dalam menyumpah raja atau pucuk pimpinan pemerintahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

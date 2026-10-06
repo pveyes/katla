@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "ko.lom",
+    "akarKata": null,
+    "ejaan": "kolom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang antara dua garis tegak pada lembar kertas atau halaman buku; lajur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian vertikal pada halaman cetak yang dipisahkan oleh garis tebal atau ruang kosong (seperti dalam surat kabar)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian khusus yang utama dalam surat kabar atau majalah",
+        "contoh": "majalah itu memiliki -- pendidikan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deretan unsur yang ditata secara vertikal di dalam beberapa jenis kerangka kerja seperti deret sel kontinyu yang berlaku dari atas ke bawah di dalam lembar sebar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.lom",
+    "akarKata": null,
+    "ejaan": "kolom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang (pilar) penyangga (biasanya dari beton yang bertulang besi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

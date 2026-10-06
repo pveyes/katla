@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ku.lit",
+    "akarKata": null,
+    "ejaan": "kulit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemalut paling luar tubuh (manusia, binatang, dan sebagainya); jangat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemalut biji (buah, kayu, telur, dan sebagainya)",
+        "contoh": "-- beras",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemalut tubuh binatang yang telah dikeringkan atau disamak (sebagai bahan sepatu dan sebagainya)",
+        "contoh": "sabuk -- lebih mahal daripada sabuk plastik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kitab (buku, majalah, dan sebagainya) yang sebelah luar, biasanya lebih tebal",
+        "contoh": "sebuah buku tebal, hitam --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan yang ada di luar sekali",
+        "contoh": "-- bumi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang tampak di luar, belum isi yang sebenarnya",
+        "contoh": "yang dibicarakan hanya --nya bukan isinya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

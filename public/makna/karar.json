@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.rar",
+    "akarKata": null,
+    "ejaan": "karar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tenang; tenteram; aman",
+        "contoh": "hendaklah senantiasa -- hatinya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap tenang",
+        "contoh": "maka negeri Malaka pun --lah pada zaman Laksamana menjadi hulubalang itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menetap; berdiam di",
+        "contoh": "Sultan itu pindahlah ke istana barunya, --lah dia di sana selama-lamanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang gerak",
+        "contoh": "kebiasaan -- merupakan ancaman kesehatan seseorang",
+        "info": []
+      }
+    ]
+  }
+]

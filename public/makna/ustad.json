@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "us.tad",
+    "akarKata": null,
+    "ejaan": "ustad",
+    "baku": false,
+    "alt": "ustaz",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guru agama atau guru besar (laki-laki)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuan (sebutan atau sapaan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

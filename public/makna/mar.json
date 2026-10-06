@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mar",
+    "akarKata": null,
+    "ejaan": "mar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "awas wazir (dalam permainan catur untuk memperingatkan bahwa wazir akan dimakan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

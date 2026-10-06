@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ang.su",
+    "akarKata": null,
+    "ejaan": "angsu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil air; angkut air (dari sumur dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

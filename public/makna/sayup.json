@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.yup",
+    "akarKata": null,
+    "ejaan": "sayup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir sampai pada sasaran; kurang sedikit lagi sampai (kena dan sebagainya)",
+        "contoh": "beberapa kali dipanahnya -- juga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir cukup; kurang sedikit cukup",
+        "contoh": "cita ini -- untuk baju",
+        "info": []
+      }
+    ]
+  }
+]

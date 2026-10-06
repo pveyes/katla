@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ain",
+    "akarKata": null,
+    "ejaan": "ain",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sari; pati; inti sari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ain",
+    "akarKata": null,
+    "ejaan": "ain",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-18 abjad Arab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

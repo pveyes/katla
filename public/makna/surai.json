@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "su.rai",
+    "akarKata": null,
+    "ejaan": "surai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rambut (kepala)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulu pada tengkuk kuda atau singa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.rai",
+    "akarKata": null,
+    "ejaan": "surai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyurai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

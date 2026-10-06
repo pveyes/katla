@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "rit",
+    "akarKata": null,
+    "ejaan": "rit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perjalanan bolak-balik (tentang kendaraan umum seperti bus, bemo) dalam satu trayek",
+        "contoh": "setiap -- harus terjual 100 karcis",
+        "info": []
+      }
+    ]
+  }
+]

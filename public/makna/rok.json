@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "rok",
+    "akarKata": null,
+    "ejaan": "rok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju perempuan bagian bawah (bawahan)",
+        "contoh": "murid perempuan memakai blus berwarna putih dan -- berwarna abu-abu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "rok",
+    "akarKata": null,
+    "ejaan": "rok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat musik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

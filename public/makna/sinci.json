@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sin.ci",
+    "akarKata": null,
+    "ejaan": "sinci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan arwah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

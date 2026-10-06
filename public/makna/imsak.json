@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "im.sak",
+    "akarKata": null,
+    "ejaan": "imsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saat dimulainya tidak melakukan hal-hal yang membatalkan puasa, seperti makan dan minum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berpantang dan menahan diri dari makan, minum, dan hal-hal yang membatalkan puasa mulai terbit fajar sadik sampai datang waktu berbuka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

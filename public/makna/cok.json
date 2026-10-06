@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "cok",
+    "akarKata": null,
+    "ejaan": "cok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat tambat yang dibuat dari baja tuang, biasanya berbentuk tanduk, digunakan untuk melewatkan tali atau tros kapal; sisir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cok",
+    "akarKata": null,
+    "ejaan": "cok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue sagu, dimakan dengan sayuran atau daging",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

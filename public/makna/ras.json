@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ras",
+    "akarKata": null,
+    "ejaan": "ras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi daun kering bergesekan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ras",
+    "akarKata": null,
+    "ejaan": "ras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan bangsa berdasarkan ciri-ciri fisik; rumpun bangsa",
+        "contoh": "warga negara Amerika terdiri atas pelbagai --",
+        "info": []
+      }
+    ]
+  }
+]

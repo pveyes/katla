@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mel",
+    "akarKata": null,
+    "ejaan": "mèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memberitahukan; menyebutkan (nama, alamat, dan sebagainya); melaporkan diri",
+        "contoh": "sebelum masuk harus -- dulu kepada penjaga pintu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

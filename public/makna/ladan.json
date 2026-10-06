@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "la.dan",
+    "akarKata": null,
+    "ejaan": "ladan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang menghasilkan damar untuk perabot atau ramuan obat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perekat yang dibuat dari damar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.dan",
+    "akarKata": null,
+    "ejaan": "ladan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat minyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

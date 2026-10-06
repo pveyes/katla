@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.but",
+    "akarKata": null,
+    "ejaan": "tabut",
+    "baku": true,
+    "alt": "tabot",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peti yang dibuat dari anyaman bambu atau burung-burungan burak yang terbuat dari kayu yang dibawa berarak pada peringatan terbunuhnya Hasan-Husen (tanggal 10 Muharam)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perarakan untuk memperingati terbunuhnya Hasan-Husen dengan membawa tabut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

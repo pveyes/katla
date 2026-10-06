@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ji.cap",
+    "akarKata": null,
+    "ejaan": "jicap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "dua puluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

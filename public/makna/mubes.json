@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mu.bes",
+    "akarKata": null,
+    "ejaan": "mubês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musyawarah besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

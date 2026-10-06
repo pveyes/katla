@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "we.ber",
+    "akarKata": null,
+    "ejaan": "wébêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan fluks imbas magnetik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

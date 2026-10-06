@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "acc",
+    "akarKata": null,
+    "ejaan": "acc",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "memberikan persetujuan; dari accoord (Bld) dan accord (Ing)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

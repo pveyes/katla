@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "eneng",
+    "akarKata": null,
+    "ejaan": "énéng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kerbau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "eneng",
+    "akarKata": null,
+    "ejaan": "ênèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk anak perempuan atau gadis dari golongan menengah; neng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

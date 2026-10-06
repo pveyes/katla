@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "aba.te",
+    "akarKata": null,
+    "ejaan": "abaté",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang patah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "seluwarsa",
+            "sumberTeks": "bahasa di maluku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "aba.te",
+    "akarKata": null,
+    "ejaan": "abaté; abatê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk obat pembasmi larva nyamuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

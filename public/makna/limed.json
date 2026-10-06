@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "li.med",
+    "akarKata": null,
+    "ejaan": "limèd",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lintas medan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "Pa.ser",
+    "akarKata": null,
+    "ejaan": "pasér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Pasir, Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku di Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Paser",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ser",
+    "akarKata": null,
+    "ejaan": "pasêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk membuat lingkaran; jangka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

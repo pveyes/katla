@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Su.a.bo",
+    "akarKata": null,
+    "ejaan": "Suabo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Inanwatan di Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah pesisir selatan Kepala Burung Irian, di ujung Teluk Berau, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

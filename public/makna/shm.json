@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SHM",
+    "akarKata": null,
+    "ejaan": "SHM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sertifikat hak milik (sertifikat atas kepemilikan penuh hak lahan dan/atau tanah yang dimiliki pemegang sertifikat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

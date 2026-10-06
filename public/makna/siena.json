@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.e.na",
+    "akarKata": null,
+    "ejaan": "siéna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pigmen tanah cokelat kekuningan yang jika dipanggang memberikan pigmen jingga-cokelat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

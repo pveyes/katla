@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "kol",
+    "akarKata": null,
+    "ejaan": "kol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kubis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kol",
+    "akarKata": null,
+    "ejaan": "kol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kolonel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kol",
+    "akarKata": null,
+    "ejaan": "kol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan bermesin di depan berbentuk seperti bus atau truk kecil untuk mengangkut penumpang atau barang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kol",
+    "akarKata": null,
+    "ejaan": "kol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "perhitungkan; perkira; periksa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

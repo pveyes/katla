@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BTK",
+    "akarKata": null,
+    "ejaan": "BTK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bantuan tembakan kapal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

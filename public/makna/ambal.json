@@ -1,0 +1,95 @@
+[
+  {
+    "sukuKata": "am.bal",
+    "akarKata": null,
+    "ejaan": "ambal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan khas Tonsea terbuat dari adonan tepung ketan, lemak babi, dan jahe, dibungkus dengan daun, lalu dimasak atau dikukus dalam talang atau buluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minahasa tonsea",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bal",
+    "akarKata": null,
+    "ejaan": "ambal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permadani",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tikar dari bulu domba atau katun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bal",
+    "akarKata": null,
+    "ejaan": "ambal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "ambalan",
+          "berambal-ambalan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bal",
+    "akarKata": null,
+    "ejaan": "ambal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengambal"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bal",
+    "akarKata": null,
+    "ejaan": "ambal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengambal"
+        ]
+      }
+    ]
+  }
+]

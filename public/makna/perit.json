@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pe.rit",
+    "akarKata": null,
+    "ejaan": "pêrit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "perih; pedih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.rit",
+    "akarKata": null,
+    "ejaan": "pêrit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung kecil, paling panjang 12 cm, hidup berkelompok di pohon rendah dan semak dekat sawah, berbulu merah kecokelat-cokelatan, dengan bulu leher hitam, pemakan biji-bijian, kadang-kadang makan serangga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

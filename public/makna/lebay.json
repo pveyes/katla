@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "le.bay",
+    "akarKata": null,
+    "ejaan": "lêbay",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlebihan (tentang gaya berbicara, penampilan, dan sebagainya)",
+        "contoh": "saya tidak suka dengan gayanya yang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

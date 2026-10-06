@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pa.ham",
+    "akarKata": null,
+    "ejaan": "paham",
+    "baku": true,
+    "alt": "faham",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengertian",
+        "contoh": "pengetahuan banyak, --nya kurang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapat; pikiran",
+        "contoh": "--nya tidak bersesuaian dengan -- kebanyakan orang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aliran; haluan; pandangan",
+        "contoh": "ia mempunyai -- nasionalis",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengerti benar (akan); tahu benar (akan)",
+        "contoh": "sebenarnya saya sendiri tidak begitu -- akan perkara itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pandai dan mengerti benar (tentang suatu hal)",
+        "contoh": "ia -- bahasa Sanskerta",
+        "info": []
+      }
+    ]
+  }
+]

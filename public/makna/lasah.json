@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "la.sah",
+    "akarKata": null,
+    "ejaan": "lasah",
+    "baku": true,
+    "alt": "lesah",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melasahkan",
+          "memperlasah"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.sah",
+    "akarKata": null,
+    "ejaan": "lasah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melasah"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.sah",
+    "akarKata": null,
+    "ejaan": "lasah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pelasah"
+        ]
+      }
+    ]
+  }
+]

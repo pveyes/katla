@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ah.wal",
+    "akarKata": null,
+    "ejaan": "ahwal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang singgah di dalam hati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tasawuf",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

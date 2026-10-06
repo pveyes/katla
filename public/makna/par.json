@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "par",
+    "akarKata": null,
+    "ejaan": "par",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah pukulan dan gol yang dinilai terbaik dalam permainan golf",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai uang yang dinyatakan dalam kontrak yang dibayarkan, seperti obligasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

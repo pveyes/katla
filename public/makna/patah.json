@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "pa.tah",
+    "akarKata": null,
+    "ejaan": "patah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "putus tentang barang yang keras atau kaku (biasanya tidak sampai bercerai atau lepas sama sekali)",
+        "contoh": "dahan itu -- terkulai",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terhenti, tidak dapat berlanjut lagi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.tah",
+    "akarKata": null,
+    "ejaan": "patah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggolong bilangan kata",
+        "contoh": "dua -- kata",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ka.puk",
+    "akarKata": null,
+    "ejaan": "kapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "randu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "isi buah randu yang seperti serat berbulu berwarna putih, digunakan untuk mengisi bantal dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.puk",
+    "akarKata": null,
+    "ejaan": "kapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumbung (yang berdinding anyaman bambu, beratap, dan berbentuk bulat panjang)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

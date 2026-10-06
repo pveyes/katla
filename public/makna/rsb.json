@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RSB",
+    "akarKata": null,
+    "ejaan": "RSB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah sakit bersalin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "THT",
+    "akarKata": null,
+    "ejaan": "THT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telinga, hidung, dan tenggorok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

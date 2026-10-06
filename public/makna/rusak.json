@@ -1,0 +1,106 @@
+[
+  {
+    "sukuKata": "ru.sak",
+    "akarKata": null,
+    "ejaan": "rusak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah tidak sempurna (baik, utuh) lagi",
+        "contoh": "banyak rumah yang -- karena gempa",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luka-luka; bercalar-calar; calar balar",
+        "contoh": "pemain kesebelasan kita banyak yang -- dalam pertandingan final itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "busuk",
+        "contoh": "ditemukan mayat yang sudah --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat berjalan lagi (tentang mobil, mesin)",
+        "contoh": "mobil saya -- lagi hari ini",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak beraturan lagi (tentang bahasa, adat)",
+        "contoh": "adat yang sudah --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak utuh lagi (perkawinan)",
+        "contoh": "perkawinannya sudah lama --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terganggu (ingatannya)",
+        "contoh": "-- ingatannya karena gegar otak",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hancur; binasa",
+        "contoh": "-- negeri itu karena pengeboman yang dahsyat",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak baik",
+        "contoh": "namanya sudah -- di mata masyarakat",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

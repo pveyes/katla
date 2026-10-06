@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "wai",
+    "akarKata": null,
+    "ejaan": "wai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan terkejut, heran, dan sebagainya",
+        "contoh": "anakku, -- apa yang harus kita lakukan sekarang?",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wai",
+    "akarKata": null,
+    "ejaan": "wai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sungai; kali",
+        "contoh": "-- Sekampung terletak di Lampung",
+        "info": []
+      }
+    ]
+  }
+]

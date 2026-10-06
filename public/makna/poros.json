@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "po.ros",
+    "akarKata": null,
+    "ejaan": "poros",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumbu (gandar) roda dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung (tentang tombak, tiang, kerucut, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

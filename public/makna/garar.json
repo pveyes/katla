@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.rar",
+    "akarKata": null,
+    "ejaan": "garar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "transaksi yang tidak halal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

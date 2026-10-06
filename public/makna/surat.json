@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "su.rat",
+    "akarKata": null,
+    "ejaan": "surat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas dan sebagainya yang bertulis (berbagai-bagai isi maksudnya)",
+        "contoh": "ia menerima -- dari ayahnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "secarik kertas dan sebagainya sebagai tanda atau keterangan; kartu",
+        "contoh": "-- tanda anggota",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang ditulis; yang tertulis; tulisan",
+        "contoh": "ia menemukan batu yang ada --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.rat",
+    "akarKata": null,
+    "ejaan": "surat",
+    "baku": false,
+    "alt": "surah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian atau bab dalam Al-Qur'an (kitab suci Al-Qur'an mempunyai 114 surah)",
+        "contoh": "-- Al-Fatihah",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

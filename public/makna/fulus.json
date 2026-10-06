@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fu.lus",
+    "akarKata": null,
+    "ejaan": "fulus",
+    "baku": true,
+    "alt": "pulus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang",
+        "contoh": "banyak yang lebih mementingkan -- daripada tugas",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

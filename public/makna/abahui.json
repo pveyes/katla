@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aba.hui",
+    "akarKata": null,
+    "ejaan": "abahui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menarik pohon yang ditebang supaya rebah ke posisi tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

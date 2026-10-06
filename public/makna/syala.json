@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sya.la",
+    "akarKata": null,
+    "ejaan": "syala",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon jenis Artocarpus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

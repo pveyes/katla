@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ij.mal",
+    "akarKata": null,
+    "ejaan": "ijmal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ringkasan; ikhtisar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(secara) umum, tidak terinci",
+        "contoh": "inilah makna ayat 101 Surah Albaqarah secara --",
+        "info": []
+      }
+    ]
+  }
+]

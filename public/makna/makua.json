@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ma.kua",
+    "akarKata": null,
+    "ejaan": "makua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama gorila Afrika",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ma.kua",
+    "akarKata": null,
+    "ejaan": "Makua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah bagian paling ujung dari Pulau Timor Timur (Negara Timor Leste)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

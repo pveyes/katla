@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "tas",
+    "akarKata": null,
+    "ejaan": "tas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemasan atau wadah berbentuk persegi dan sebagainya, biasanya bertali, dipakai untuk menaruh, menyimpan, atau membawa sesuatu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tas",
+    "akarKata": null,
+    "ejaan": "tas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi letusan (senapan dan sebagainya); detas; das",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi lembut sekali",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tas",
+    "akarKata": null,
+    "ejaan": "tas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "segera; lantas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tas",
+    "akarKata": null,
+    "ejaan": "tas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang menurut kepercayaan orang sebagai penangkal harimau, buahnya dapat dimakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

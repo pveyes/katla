@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "fi.tur",
+    "akarKata": null,
+    "ejaan": "fitur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karakteristik khusus yang terdapat pada suatu alat (televisi, ponsel, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fungsi, kemampuan, atau desain khusus dari perangkat keras atau perangkat lunak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

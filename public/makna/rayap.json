@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ra.yap",
+    "akarKata": null,
+    "ejaan": "rayap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serangga (seperti semut) berwarna putih tidak bersayap, memakan dan merusak kayu; anai-anai",
+        "contoh": "seperti ilmu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mengeruk kantong orang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.yap",
+    "akarKata": null,
+    "ejaan": "rayap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merayap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

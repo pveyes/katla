@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "on.tel",
+    "akarKata": null,
+    "ejaan": "ontèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga pohon sukun dan keluih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "on.tel",
+    "akarKata": null,
+    "ejaan": "ontèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepeda tua yang umum digunakan pada zaman Hindia Belanda hingga tahun 1970-an dengan ukuran ban 28 inci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

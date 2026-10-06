@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lu.pus",
+    "akarKata": null,
+    "ejaan": "lupus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit yang berupa borok (terutama pada kulit wajah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Lu.pus",
+    "akarKata": null,
+    "ejaan": "Lupus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasi bintang di belahan langit selatan, yang terletak di antara rasi bintang Sentaurus dan Skorpio, namanya berarti 'serigala' dalam bahasa Latin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

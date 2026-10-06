@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "cit.ra",
+    "akarKata": null,
+    "ejaan": "citra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rupa; gambar; gambaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambaran yang dimiliki orang banyak mengenai pribadi, perusahaan, organisasi, atau produk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          },
+          {
+            "sumber": "manajemen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesan mental atau bayangan visual yang ditimbulkan oleh sebuah kata, frasa, atau kalimat, dan merupakan unsur dasar yang khas dalam karya prosa dan puisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          },
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "data atau informasi dari potret udara untuk bahan evaluasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          },
+          {
+            "sumber": "kehutanan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

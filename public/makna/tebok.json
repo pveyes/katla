@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.bok",
+    "akarKata": null,
+    "ejaan": "tèbok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menebok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.bok",
+    "akarKata": null,
+    "ejaan": "tèbok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menampi beras; tampah (nyiru) kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

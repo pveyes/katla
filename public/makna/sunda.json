@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Sun.da",
+    "akarKata": null,
+    "ejaan": "Sunda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Jawa Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Sunda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

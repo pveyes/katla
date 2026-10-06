@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "far.ji",
+    "akarKata": null,
+    "ejaan": "farji",
+    "baku": true,
+    "alt": "faraj, parji, perji",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

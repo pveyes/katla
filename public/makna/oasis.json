@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "oa.sis",
+    "akarKata": null,
+    "ejaan": "oasis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah di padang pasir yang berair cukup untuk tumbuhan dan permukiman manusia; wahah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat, pengalaman, dan sebagainya yang menyenangkan di tengah-tengah suasana yang serba kalut dan tidak menyenangkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

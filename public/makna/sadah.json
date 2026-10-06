@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.dah",
+    "akarKata": null,
+    "ejaan": "sadah",
+    "baku": true,
+    "alt": "sedah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapur sirih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

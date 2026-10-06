@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "rak",
+    "akarKata": null,
+    "ejaan": "rak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi pena digoreskan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi cabang kayu patah; derak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "rak",
+    "akarKata": null,
+    "ejaan": "rak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "para-para kayu untuk meletakkan piring; mangkuk, alat-alat dapur, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lemari yang tidak berpintu atau kepingan papan diberi tiang untuk tempat buku, sepatu, dan barang-barang lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat (wadah) yang bersusun tempat menyimpan barang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

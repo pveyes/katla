@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bi.jak",
+    "akarKata": null,
+    "ejaan": "bijak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu menggunakan akal budinya; pandai; mahir",
+        "contoh": "bukan beta -- berperi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pandai bercakap-cakap; petah lidah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

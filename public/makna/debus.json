@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "de.bus",
+    "akarKata": null,
+    "ejaan": "dêbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi embusan angin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.bus",
+    "akarKata": null,
+    "ejaan": "dêbus",
+    "baku": true,
+    "alt": "dabus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesenian bela diri dari Banten yang mempertunjukkan kekebalan diri terhadap senjata tajam atau api dengan cara menusuk, menyayat, atau membakar bagian tubuh, memanjat tiang bambu dan berdiri di ujungnya, atau berputar pada tambang yang diikatkan pada kedua tiang bambu yang tinggi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.bus",
+    "akarKata": null,
+    "ejaan": "dêbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat atau tidak kena (tentang jala ikan)",
+        "contoh": "kadang-kadang jalanya lekat, kadang-kadang --",
+        "info": []
+      }
+    ]
+  }
+]

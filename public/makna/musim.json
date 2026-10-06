@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "mu.sim",
+    "akarKata": null,
+    "ejaan": "musim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu tertentu yang bertalian dengan keadaan iklim",
+        "contoh": "di Indonesia terdapat dua --, yaitu -- hujan dan -- kemarau",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilangan waktu tertentu (tiga bulan, empat bulan, dan sebagainya ketika pohon buah-buahan, palawija, dan sebagainya banyak menghasilkan)",
+        "contoh": "hasil -- panen tahun ini memuaskan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa; waktu (ketika ada suatu peristiwa)",
+        "contoh": "anak perempuannya hilang ketika -- gerombolan pengacau masuk desa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu atau masa ketika sesuatu (kegiatan, permainan, dan sebagainya) banyak terjadi atau sering berlangsung",
+        "contoh": "-- layang-layang",
+        "info": []
+      }
+    ]
+  }
+]

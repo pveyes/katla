@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "te.gak",
+    "akarKata": null,
+    "ejaan": "têgak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berdiri",
+        "contoh": "-- bulu kuduknya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sigap (tidak lemas)",
+        "contoh": "ia -- duduk saja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lurus arah ke atas (tentang sikap badan, garis, dan sebagainya)",
+        "contoh": "badannya --, berdiri --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "setinggi orang berdiri; sependiri; setinggi tegak",
+        "contoh": "dua -- tingginya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap teguh; tetap tidak berubah",
+        "contoh": "dalam penderitaan yang amat berat itu ia tetap --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

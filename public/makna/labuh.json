@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "la.buh",
+    "akarKata": null,
+    "ejaan": "labuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam keadaan turun atau tergelantung ke bawah seperti kelambu, tali, jangkar, tirai, atau layar panggung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.buh",
+    "akarKata": null,
+    "ejaan": "labuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggolong benda bagi tirai",
+        "contoh": "tirai se--",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.buh",
+    "akarKata": null,
+    "ejaan": "labuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melarung; menghanyutkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

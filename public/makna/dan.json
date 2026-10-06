@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "dan",
+    "akarKata": null,
+    "ejaan": "dan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung satuan bahasa (kata, frasa, klausa, dan kalimat) yang setara, termasuk tipe yang sama serta memiliki fungsi yang tidak berbeda",
+        "contoh": "ayah -- ibu, bibi -- paman, serta para anak, cucu, -- kemenakan bersama-sama merayakan 50 tahun perkawinan nenek mereka",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dan",
+    "akarKata": null,
+    "ejaan": "dan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelas atau tingkatan (I, II, III, IV, dan sebagainya) untuk yudo, karate, kempo",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fre.on",
+    "akarKata": null,
+    "ejaan": "fréon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gas atau zat cair yang dipakai untuk pendingin udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

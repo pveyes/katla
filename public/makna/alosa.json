@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "alo.sa",
+    "akarKata": null,
+    "ejaan": "alosa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gula dari kelompok aldoheksosa; isomer ruang glukosa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

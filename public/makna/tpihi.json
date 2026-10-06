@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TPIHI",
+    "akarKata": null,
+    "ejaan": "TPIHI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Tim Pembimbing Ibadah Haji Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

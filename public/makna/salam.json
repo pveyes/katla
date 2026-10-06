@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "sa.lam",
+    "akarKata": null,
+    "ejaan": "salam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "damai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan hormat; tabik",
+        "contoh": "sampaikan -- saya kepadanya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ucapan assalamu alaikum warahmatullahi wabarakatuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.lam",
+    "akarKata": null,
+    "ejaan": "salam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman termasuk suku Myrtaceae, pohonnya bertajuk lebat, tingginya mencapai 25 m, daunnya berbentuk bulat telur atau lonjong, berbau harum, biasanya digunakan sebagai bumbu masak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun salam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

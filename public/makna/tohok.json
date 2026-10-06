@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "to.hok",
+    "akarKata": null,
+    "ejaan": "tohok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempuling yang diberi tali",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tusukan tombak (tempuling dan sebagainya) miring dengan arah ke bawah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.hok",
+    "akarKata": null,
+    "ejaan": "tohok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama gugus bintang yang berbentuk seperti salib di sebelah selatan; bintang pari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

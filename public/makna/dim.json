@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "dim",
+    "akarKata": null,
+    "ejaan": "dim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran panjang 1/12 kaki; 2,54 ml; inci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dim",
+    "akarKata": null,
+    "ejaan": "dim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lampu besar di bagian depan mobil yang dapat dimatikan atau dihidupkan untuk memberi isyarat kepada kendaraan lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

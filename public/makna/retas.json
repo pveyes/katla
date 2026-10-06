@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "re.tas",
+    "akarKata": null,
+    "ejaan": "rêtas",
+    "baku": true,
+    "alt": "ratas",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah putus benang jahitannya; terbuka jahitannya (kelimnya dan sebagainya)",
+        "contoh": "jangan memakai pakaian yang sudah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.tas",
+    "akarKata": null,
+    "ejaan": "rêtas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tubuh batuan beku yang menerobos dengan memotong batuan lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

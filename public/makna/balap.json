@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.lap",
+    "akarKata": null,
+    "ejaan": "balap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(lomba) adu kecepatan",
+        "contoh": "-- mobil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pacuan",
+        "contoh": "-- kuda",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ma.was",
+    "akarKata": null,
+    "ejaan": "mawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang utan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.was",
+    "akarKata": null,
+    "ejaan": "mawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gendang terbuat dari tabung kayu dan kulit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

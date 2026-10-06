@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "anode",
+    "akarKata": null,
+    "ejaan": "anodê",
+    "baku": true,
+    "alt": "anoda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang bermuatan positif dan bertugas untuk menarik elektron negatif dari katode; elektrode positif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

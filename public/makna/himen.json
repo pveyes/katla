@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hi.men",
+    "akarKata": null,
+    "ejaan": "himên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selaput dara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

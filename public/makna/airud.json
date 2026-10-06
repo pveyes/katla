@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ai.rud",
+    "akarKata": null,
+    "ejaan": "airud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perairan dan udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

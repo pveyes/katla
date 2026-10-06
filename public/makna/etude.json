@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "etu.de",
+    "akarKata": null,
+    "ejaan": "étudè",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komposisi musik yang dibuat khusus untuk melatih teknik tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

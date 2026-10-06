@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.jis",
+    "akarKata": null,
+    "ejaan": "hajis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak hati; bisikan hati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

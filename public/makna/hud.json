@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "Hud",
+    "akarKata": null,
+    "ejaan": "Hud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nabi dan rasul keempat yang diutus Allah Swt. untuk kaum Ad",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surah ke-11 dalam Al-Qur'an",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

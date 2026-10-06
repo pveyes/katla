@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ma.lim",
+    "akarKata": null,
+    "ejaan": "malim",
+    "baku": true,
+    "alt": "malin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang alim; ulama; guru agama Islam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin; penunjuk jalan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pawang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

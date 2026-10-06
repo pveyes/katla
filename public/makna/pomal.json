@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Po.mal",
+    "akarKata": null,
+    "ejaan": "Pomal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Polisi Militer Angkatan Laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

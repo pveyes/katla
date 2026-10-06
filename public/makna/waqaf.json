@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "wa.qaf",
+    "akarKata": null,
+    "ejaan": "waqaf",
+    "baku": false,
+    "alt": "wakaf",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah negara yang tidak dapat diserahkan kepada siapa pun dan digunakan untuk tujuan amal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda bergerak atau tidak bergerak yang disediakan untuk kepentingan umum (Islam) sebagai pemberian yang ikhlas",
+        "contoh": "tanah -- ini disediakan untuk madrasah atau masjid",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hadiah atau pemberian yang bersifat suci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

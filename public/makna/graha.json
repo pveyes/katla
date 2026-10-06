@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "gra.ha",
+    "akarKata": null,
+    "ejaan": "graha",
+    "baku": false,
+    "alt": "gerha",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan, kantor, tempat tinggal, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gra.ha",
+    "akarKata": null,
+    "ejaan": "graha",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menangkap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

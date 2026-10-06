@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "si.jil",
+    "akarKata": null,
+    "ejaan": "sijil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat gulungan; daftar; register",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat tanda lulus pemeriksaan, surat tanda tamat belajar, dan sebagainya; sertifikat; ijazah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daftar nama orang yang bertugas sebagai awak kapal, yang disahkan oleh syahbandar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

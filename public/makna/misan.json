@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.san",
+    "akarKata": null,
+    "ejaan": "misan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saudara sepupu (pada masyarakat Sunda); keturunan kedua dari satu nenek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keturunan ketiga dari satu nenek (pada masyarakat Jawa)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "pi.lar",
+    "akarKata": null,
+    "ejaan": "pilar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang penguat (dari batu, beton, dan sebagainya)",
+        "contoh": "sebuah monumen yang terdiri atas lima -- berdiri dengan megahnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar (yang pokok); induk",
+        "contoh": "partai itu disederhanakan menjadi tujuh organisasi --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang berbentuk silinder pejal atau berongga untuk menyangga balok geladak atau bagian konstruksi lain di kapal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "perkapalan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

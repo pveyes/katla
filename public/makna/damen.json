@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.men",
+    "akarKata": null,
+    "ejaan": "damèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jerami",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

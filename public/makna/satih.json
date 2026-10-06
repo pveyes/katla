@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.tih",
+    "akarKata": null,
+    "ejaan": "satih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyatih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.a.ga",
+    "akarKata": null,
+    "ejaan": "tiaga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "niaga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

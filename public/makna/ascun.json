@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "as.cun",
+    "akarKata": null,
+    "ejaan": "ascun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asap racun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

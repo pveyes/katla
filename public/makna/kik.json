@@ -1,0 +1,82 @@
+[
+  {
+    "sukuKata": "KIK",
+    "akarKata": null,
+    "ejaan": "KIK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kredit investasi kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kik",
+    "akarKata": null,
+    "ejaan": "kik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkakas tenun (bingkai tenunan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kik",
+    "akarKata": null,
+    "ejaan": "kik",
+    "baku": false,
+    "alt": "akik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu berwarna yang dijadikan permata cincin dan sebagainya",
+        "contoh": "batu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batuan kalsedon yang tersusun berlapis-lapis dari berbagai warna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kik",
+    "akarKata": null,
+    "ejaan": "kik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantong kulit, tempat air (air anggur, madu, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

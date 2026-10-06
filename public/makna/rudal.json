@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ru.dal",
+    "akarKata": null,
+    "ejaan": "rudal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peluru kendali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

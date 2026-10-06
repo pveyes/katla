@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "api",
+    "akarKata": null,
+    "ejaan": "api",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panas dan cahaya yang berasal dari sesuatu yang terbakar; nyala",
+        "contoh": "di dekat -- itu tampak beberapa orang berdiang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebakaran",
+        "contoh": "bahaya -- sering terjadi di kota-kota besar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasaan yang menggelora (tentang cinta, perjuangan); semangat",
+        "contoh": "kita harus terus mengobarkan -- perjuangan menentang penjajahan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

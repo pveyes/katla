@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "da.pur",
+    "akarKata": null,
+    "ejaan": "dapur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang tempat memasak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat membakar batu bata, batu kapur, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tungku; perapian (pada lokomotif dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.pur",
+    "akarKata": null,
+    "ejaan": "dapur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masyarakat desa dalam prasasti Jawa Kuno",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

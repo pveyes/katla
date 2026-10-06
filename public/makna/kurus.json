@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.rus",
+    "akarKata": null,
+    "ejaan": "kurus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang berdaging; tidak gemuk (tentang tubuh dan sebagainya)",
+        "contoh": "badannya -- karena kurang makan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tandus; tidak subur (tentang tanah dan sebagainya)",
+        "contoh": "lahan yang -- itu harus dipupuk supaya subur",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang berkayu; kurang lebat daunnya (tentang pohon, tebu, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mu.nas",
+    "akarKata": null,
+    "ejaan": "munas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musyawarah nasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

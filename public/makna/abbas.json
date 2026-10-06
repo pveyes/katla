@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.bas",
+    "akarKata": null,
+    "ejaan": "abbas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk kepala biara laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

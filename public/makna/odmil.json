@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "od.mil",
+    "akarKata": null,
+    "ejaan": "odmil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "oditur militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

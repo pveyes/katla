@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fi.ton",
+    "akarKata": null,
+    "ejaan": "fiton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian terkecil tumbuhan (batang, akar, atau daun) yang mampu berkembang menjadi tumbuhan baru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

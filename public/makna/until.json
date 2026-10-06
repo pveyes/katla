@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "un.til",
+    "akarKata": null,
+    "ejaan": "until",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gentel (butir) kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.til",
+    "akarKata": null,
+    "ejaan": "until",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menguntil"
+        ]
+      }
+    ]
+  }
+]

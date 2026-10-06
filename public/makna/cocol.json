@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "co.col",
+    "akarKata": null,
+    "ejaan": "cocol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sentuh; colek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.col",
+    "akarKata": null,
+    "ejaan": "cocol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mencocol"
+        ]
+      }
+    ]
+  }
+]

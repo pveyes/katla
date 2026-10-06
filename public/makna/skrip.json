@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "skrip",
+    "akarKata": null,
+    "ejaan": "skrip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "naskah (film, drama, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku tulis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "se.sak",
+    "akarKata": null,
+    "ejaan": "sêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sempit sekali (tidak lapang; tidak longgar, tidak lega)",
+        "contoh": "bajunya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh berasak-asak (berjejal-jejal) hingga tidak ada tempat terluang",
+        "contoh": "jalan penuh -- dengan kendaraan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sendat atau senak; sukar bernapas (tentang dada, napas); mengah-mengah; berasa sesak dalam dada sehingga tidak dapat bernapas dengan lega (misalnya karena marah sekali)",
+        "contoh": "-- dada",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah dan sukar; tidak leluasa; terjepit (tentang kehidupan)",
+        "contoh": "ia dalam keadaan -- hidupnya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terimpit (dalam kesulitan, kesukaran); terdesak",
+        "contoh": "itulah gunanya pelajaran ilmu itu, apabila -- dapat dipakai",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

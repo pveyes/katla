@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AKP",
+    "akarKata": null,
+    "ejaan": "AKP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ajun Komisaris Polisi (pangkat perwira pertama polisi, di atas IPU dan di bawah Kompol)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ra.was",
+    "akarKata": null,
+    "ejaan": "Rawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Bengkulu, Lampung dan Sumatra Selatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialek bahasa Melayu yang dituturkan suku Rawas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

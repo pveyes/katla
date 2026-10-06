@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ba.tal",
+    "akarKata": null,
+    "ejaan": "batal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berlaku; tidak sah",
+        "contoh": "perjanjian itu dinyatakan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak jadi dilangsungkan; ditunda; urung",
+        "contoh": "rapat kemarin terpaksa -- karena yang hadir kurang dari dua pertiga jumlah anggota",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berhasil; gagal",
+        "contoh": "sudah berkali-kali dia menempuh ujian, tetapi selalu --",
+        "info": []
+      }
+    ]
+  }
+]

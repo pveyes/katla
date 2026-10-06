@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ret.ro",
+    "akarKata": null,
+    "ejaan": "rétro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengambil model tentang sesuatu dari masa lalu, seperti gaya busana atau musik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggunaan gaya busana, musik, dan sebagainya yang mengambil contoh dari masa lalu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "abe.ce",
+    "akarKata": null,
+    "ejaan": "abécé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "a-b-c (abjad Latin)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal-hal pokok yang pertama-tama harus diketahui dari suatu keadaan atau perkara",
+        "contoh": "belum tahu -- kehidupan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

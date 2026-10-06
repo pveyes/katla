@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ga.wan",
+    "akarKata": null,
+    "ejaan": "gawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harta bawaan suami atau istri di dalam perkawinan, merupakan harta masing-masing dan tidak boleh dicampur dengan harta gana-gini",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hadiah wajib yang menyertai maskawin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

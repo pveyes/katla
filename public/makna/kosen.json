@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "ko.sen",
+    "akarKata": null,
+    "ejaan": "kosèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gagah; berani",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kebal (terhadap senjata tajam dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ampuh (tentang ilmu silat dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.sen",
+    "akarKata": null,
+    "ejaan": "kosèn",
+    "baku": true,
+    "alt": "kusen",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerangka jendela, pintu, dan sebagainya yang ditanamkan ke dinding tempat daun jendela atau pintu mengatup atau bergantung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

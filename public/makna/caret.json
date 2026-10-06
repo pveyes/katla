@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "caret",
+    "akarKata": null,
+    "ejaan": "caret",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "tanda koreksi ( v ) pada naskah atau cetakan yang perlu diberi sisipan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

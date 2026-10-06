@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ku.ras",
+    "akarKata": null,
+    "ejaan": "kuras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas yang telah dicetak dan sudah dilipat sedikitnya dua kali, merupakan bagian dari buku, biasanya terdapat huruf atau angka pada bagian bawah halaman pertama sebagai pedoman bagi penjilidan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.ras",
+    "akarKata": null,
+    "ejaan": "kuras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersihkan dengan air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.ras",
+    "akarKata": null,
+    "ejaan": "kuras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang berbatang besar dan lurus, kulit kayunya berwara abu-abu keungu-unguan, kayunya dapat digunakan sebagai kapur dan daunnya dapat dijadikan ulam, terdapat di Sumatra, Kalimantan, dan Semenanjung Malaya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

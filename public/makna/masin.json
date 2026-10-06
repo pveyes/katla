@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ma.sin",
+    "akarKata": null,
+    "ejaan": "masin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa seperti rasa garam; asin",
+        "contoh": "tambahkan garam supaya terasa lebih --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.sin",
+    "akarKata": null,
+    "ejaan": "masin",
+    "baku": false,
+    "alt": "mesin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkakas untuk menggerakkan atau membuat sesuatu yang dijalankan dengan roda, digerakkan oleh tenaga manusia atau motor penggerak, menggunakan bahan bakar minyak atau tenaga alam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "du.pak",
+    "akarKata": null,
+    "ejaan": "dupak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tendang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

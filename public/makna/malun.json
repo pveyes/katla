@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mal.un",
+    "akarKata": null,
+    "ejaan": "malun",
+    "baku": true,
+    "alt": "malaun",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terkutuk; kena laknat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

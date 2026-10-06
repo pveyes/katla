@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "be.lak",
+    "akarKata": null,
+    "ejaan": "bêlak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belang putih pada kulit (karena suatu penyakit)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telau (belang) berwarna hitam pada kayu (karena bentuk urat kayu)",
+        "contoh": "jati kembang adalah jati yang --nya jelas kelihatan",
+        "info": []
+      }
+    ]
+  }
+]

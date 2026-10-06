@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.rik",
+    "akarKata": null,
+    "ejaan": "kirik",
+    "baku": true,
+    "alt": "mengkirik",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengirik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.rik",
+    "akarKata": null,
+    "ejaan": "kirik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak anjing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

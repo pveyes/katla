@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tak.ma",
+    "akarKata": null,
+    "ejaan": "takma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalinan tali (kabel dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

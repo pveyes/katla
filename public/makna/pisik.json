@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pi.sik",
+    "akarKata": null,
+    "ejaan": "pisik",
+    "baku": true,
+    "alt": "pisit",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat; sintal (berdaging banyak)",
+        "contoh": "badannya bertambah --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ke.nas",
+    "akarKata": null,
+    "ejaan": "kênas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peda atau pekasam lokan yang dicampur dengan sagu atau nasi sampai memuai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerang mentah yang diasamkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

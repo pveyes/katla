@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "pa.sak",
+    "akarKata": null,
+    "ejaan": "pasak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paku yang dibuat dari kayu, bambu, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "poros kecil pada roda arloji dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan kecil logam yang disisipkan pada alur yang terlipat di antara roda dengan sumbunya agar roda tersebut tidak berputar terhadap sumbu tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepotong besi atau kayu tidak berkepala untuk menyatukan dua bagian besi, kayu, atau bagian mesin (roda)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "kan.da",
+    "akarKata": null,
+    "ejaan": "kanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan hormat kepada kakak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakanda; kakak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kan.da",
+    "akarKata": null,
+    "ejaan": "kanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tradisi; legenda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

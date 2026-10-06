@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pu.lus",
+    "akarKata": null,
+    "ejaan": "pulus",
+    "baku": false,
+    "alt": "fulus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang",
+        "contoh": "banyak yang lebih mementingkan -- daripada tugas",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.lus",
+    "akarKata": null,
+    "ejaan": "pulus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang tingginya mencapai 40 cm, daun berwarna hijau terang, daunnya bergerigi, bagian atas dan pinggir daun berbulu halus, jika bulu tersentuh akan menimbulkan rasa gatal, perih, dan panas yang cukup menyengat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.kep",
+    "akarKata": null,
+    "ejaan": "kêkêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tutup periuk, belanga, dan sebagainya dari tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.kep",
+    "akarKata": null,
+    "ejaan": "kêkêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung dari keluarga Artamidae, pemakan serangga dan memiliki habitat di pesisir, sawah, kebun, tegalan, hutan sekunder yang tersebar sampai ketinggian 1.500 m di atas permukaan laut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abur.an",
+    "akarKata": null,
+    "ejaan": "aburan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan anak dengan cara melemparkan kartu bergambar ke udara, apabila gambar yang terbuka maka menang, apabila gambar tertutup (tertelungkup) maka kalah, pemenang berhak mendapatkan satu kartu dari yang kalah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

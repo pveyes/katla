@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Un.has",
+    "akarKata": null,
+    "ejaan": "Unhas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Hasanuddin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

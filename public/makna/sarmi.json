@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Sar.mi",
+    "akarKata": null,
+    "ejaan": "Sarmi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Papua, merupakan singkatan dari nama suku-suku besar, yaitu Sobey, Armati, Rumbuai, Manirem, dan Isirawa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu kota Kabupaten Sarmi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

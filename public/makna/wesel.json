@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "we.sel",
+    "akarKata": null,
+    "ejaan": "wèsêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat pos untuk mengirimkan uang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat pembayaran yang dapat diuangkan ke bank oleh pemegangnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "we.sel",
+    "akarKata": null,
+    "ejaan": "wèsêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konstruksi batang-batang rel kereta api yang bercabang (bersimpangan) tempat memindahkan arah jalan kereta api",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

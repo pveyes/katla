@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pad.ma",
+    "akarKata": null,
+    "ejaan": "padma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teratai yang bunganya berwarna merah jambu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terna yang bersifat parasit, hidup pada akar dan bagian bawah batang tumbuhan, termasuk tumbuhan langka, bunganya cokelat kemerah-merahan, berukuran besar yang kelihatan seperti tiba-tiba muncul pada batang tumbuhan yang dililitnya; kembang pakma",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

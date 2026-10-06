@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "kui",
+    "akarKata": null,
+    "ejaan": "kui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuali kecil (sebesar mangkuk) untuk melebur emas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Kui",
+    "akarKata": null,
+    "ejaan": "Kui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami pulau Alor, di daerah pesisir selatan sekitar Batu Lolong, Provinsi Nusa Tenggara Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Kui",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

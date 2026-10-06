@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GRM",
+    "akarKata": null,
+    "ejaan": "GRM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gusti Raden Mas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.kap",
+    "akarKata": null,
+    "ejaan": "lêkap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rapat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "kah",
+    "akarKata": null,
+    "ejaan": "kah",
+    "baku": false,
+    "alt": "engkah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah (untuk melekatkan kayu); perekat; lem",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "-kah",
+    "akarKata": null,
+    "ejaan": "-kah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang digunakan untuk mengukuhkan pertanyaan",
+        "contoh": "mungkin -- dia kembali?",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "(dalam ragam standar) digunakan untuk memperhalus pertanyaan dan ditambahkan pada kata tanya apa, mana, bagaimana, berapa, di mana, mengapa, siapa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

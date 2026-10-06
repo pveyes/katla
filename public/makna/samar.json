@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "sa.mar",
+    "akarKata": null,
+    "ejaan": "samar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kabur; tidak kelihatan nyata; agak gelap",
+        "contoh": "dalam lamunannya terbayang -- wajah ibunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sayup-sayup (tentang pendengaran)",
+        "contoh": "dari jauh terdengar -- suara seruling gembala",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tersembunyi; kurang jelas (apa yang dilihat, dilakukan, dan sebagainya)",
+        "contoh": "semua sepak terjangnya -- dan mencurigakan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gaib alam yang tidak dapat dilihat dengan indra biasa; gaib",
+        "contoh": "ahli kebatinan dapat melihat segala sesuatu dalam alam --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "saru; keliru",
+        "contoh": "kadang-kadang saya -- tidak dapat membedakan kedua anak kembar itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang jelas (tentang kabar, peristiwa, dan sebagainya); tidak terang",
+        "contoh": "dalam naskah perjanjian itu ada beberapa kalimat yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.mar",
+    "akarKata": null,
+    "ejaan": "samar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "khawatir; waswas",
+        "contoh": "relakan saja anakmu pergi, jangan --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

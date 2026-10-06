@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.tih",
+    "akarKata": null,
+    "ejaan": "titih",
+    "baku": false,
+    "alt": "petitih",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peribahasa; pepatah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

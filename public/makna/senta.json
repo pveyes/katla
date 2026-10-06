@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "sen.ta",
+    "akarKata": null,
+    "ejaan": "sènta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok kayu yang dipasang membujur di perahu untuk penyangga geladak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sen.ta",
+    "akarKata": null,
+    "ejaan": "sênta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "balok kayu yang dipasang membujur di perahu untuk penyangga geladak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

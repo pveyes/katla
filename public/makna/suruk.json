@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "su.ruk",
+    "akarKata": null,
+    "ejaan": "suruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "masuk dengan merangkak atau membungkuk; susup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Su.ruk",
+    "akarKata": null,
+    "ejaan": "Suruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat Dayak Suruk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

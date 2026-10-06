@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KBH",
+    "akarKata": null,
+    "ejaan": "KBH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kontrak bagi hasil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

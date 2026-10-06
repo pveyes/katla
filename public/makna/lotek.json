@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lo.tek",
+    "akarKata": null,
+    "ejaan": "lotèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan jenis gado-gado yang dibuat dari sayuran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lo.tek",
+    "akarKata": null,
+    "ejaan": "lotèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dempul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

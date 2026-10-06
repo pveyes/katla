@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "re.kap",
+    "akarKata": null,
+    "ejaan": "rèkap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rekapitulasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

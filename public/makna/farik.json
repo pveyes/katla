@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.rik",
+    "akarKata": null,
+    "ejaan": "farik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbeda; nyata bedanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

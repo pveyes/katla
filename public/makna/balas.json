@@ -1,0 +1,68 @@
+[
+  {
+    "sukuKata": "ba.las",
+    "akarKata": null,
+    "ejaan": "balas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jawaban; reaksi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ganjaran; hukuman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.las",
+    "akarKata": null,
+    "ejaan": "balas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tolak bahara; pengimbang kapal; pemberat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beban yang tidak berguna, tetapi sangat memberatkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.las",
+    "akarKata": null,
+    "ejaan": "balas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan kerikil untuk fondasi jalur rel dan berfungsi sebagai drainase",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

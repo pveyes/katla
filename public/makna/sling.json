@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "sling",
+    "akarKata": null,
+    "ejaan": "sling",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jerat untuk muatan yang dibuat dari tali, termasuk tali kawat atau baja, gunanya untuk mengangkat atau menurunkan muatan kapal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali pegangan yang melekat pada senapan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "simpai tali, kulit, rantai, atau jaring yang digunakan untuk mengangkat, menurunkan, atau membawa sesuatu yang berat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

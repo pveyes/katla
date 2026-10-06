@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "bo.bot",
+    "akarKata": null,
+    "ejaan": "bobot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berat suatu benda",
+        "contoh": "pesawat itu --nya lebih dari 10.000 kilogram",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berat seekor ternak pada suatu keadaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "timbangan; arti penting",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai; mutu",
+        "contoh": "sebuah film yang menitikberatkan -- seni",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "derajat warna hitam pada huruf cetak (mulai dari yang sangat tipis warna hitamnya sampai dengan yang hitam sekali)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

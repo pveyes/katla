@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ade.na",
+    "akarKata": null,
+    "ejaan": "adèna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian ujung gagang pedang yang melindungi tangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kaili",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

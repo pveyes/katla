@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hai",
+    "akarKata": null,
+    "ejaan": "hai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menarik perhatian (memanggil dan sebagainya)",
+        "contoh": "--, tangkaplah bola ini",
+        "info": []
+      }
+    ]
+  }
+]

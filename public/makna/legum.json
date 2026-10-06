@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.gum",
+    "akarKata": null,
+    "ejaan": "lêgum",
+    "baku": true,
+    "alt": "legam",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "degum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.gum",
+    "akarKata": null,
+    "ejaan": "lêgum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan perdu yang berkeping ganda, berbuah polong, menghasilkan mineral, akarnya mengandung campuran nitrogen dan bakteri, termasuk makanan penting untuk ternak (seperti pohon kacang tanah, semanggi); tumbuhan kacang-kacangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

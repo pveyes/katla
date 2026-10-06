@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bu.lir",
+    "akarKata": null,
+    "ejaan": "bulir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tangkai beserta buah (bunga) majemuk yang terdapat pada tangkai itu, seperti -- padi, -- jelai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipe susunan rangkum bunga dengan satu sumbu utama yang tidak bercabang, tempat melekat bunga yang tidak bertangkai pendek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

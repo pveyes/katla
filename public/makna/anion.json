@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.i.on",
+    "akarKata": null,
+    "ejaan": "anion",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ion yang bermuatan negatif, dapat ditarik oleh elektrode positif di dalam peristiwa elektrolisis, misalnya Cl",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "dus",
+    "akarKata": null,
+    "ejaan": "dus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk memancarkan air mandi dan sebagainya",
+        "contoh": "mandi di bawah --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "dus",
+    "akarKata": null,
+    "ejaan": "dus",
+    "baku": true,
+    "alt": "dos",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotak dari kertas tebal (karton); dos; kardus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dus",
+    "akarKata": null,
+    "ejaan": "dus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dengan demikian; jadi",
+        "contoh": "--, kami rasa sudah cukup penjelasan yang kami berikan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

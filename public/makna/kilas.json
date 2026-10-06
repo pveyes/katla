@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ki.las",
+    "akarKata": null,
+    "ejaan": "kilas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jerat atau gelang-gelang dari rotan (untuk mengikat kaki binatang, pengayuh, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gulungan kain sarung pada pinggang",
+        "contoh": "ia mengeluarkan rokok dari -- sarungnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.las",
+    "akarKata": null,
+    "ejaan": "kilas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kilat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

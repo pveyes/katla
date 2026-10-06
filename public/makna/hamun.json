@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.mun",
+    "akarKata": null,
+    "ejaan": "hamun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "caci maki yang sangat kasar; sumpah serapah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

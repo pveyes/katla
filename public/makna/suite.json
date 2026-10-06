@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "suite",
+    "akarKata": null,
+    "ejaan": "suite",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "kelompok kamar dalam hotel yang merupakan satu satuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

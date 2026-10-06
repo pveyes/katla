@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "gu.gup",
+    "akarKata": null,
+    "ejaan": "gugup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbuat atau berkata dalam keadaan tidak tenang; gagap; sangat tergesa-gesa; bingung",
+        "contoh": "jawablah dengan tenang, jangan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "riuh tidak keruan bunyinya",
+        "contoh": "-- riuh bunyinya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hun",
+    "akarKata": null,
+    "ejaan": "hun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran berat, sama dengan 1/100 tahil atau 0,378 g",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

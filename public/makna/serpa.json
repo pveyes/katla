@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ser.pa",
+    "akarKata": null,
+    "ejaan": "sêrpa",
+    "baku": false,
+    "alt": "serapah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutuk; sumpah",
+        "contoh": "kena --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ser.pa",
+    "akarKata": null,
+    "ejaan": "sêrpa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penunjuk jalan dalam pendakian gunung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penduduk Himalaya yang memandu para pendaki gunung di Pegunungan Himalaya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

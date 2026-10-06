@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ABT",
+    "akarKata": null,
+    "ejaan": "ABT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggaran belanja tahunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

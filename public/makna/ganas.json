@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ga.nas",
+    "akarKata": null,
+    "ejaan": "ganas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "galak dan suka menyerang (melawan dan sebagainya)",
+        "contoh": "karena kelaparan buaya itu menjadi -- sekali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah menular (tentang penyakit dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "je.buk",
+    "akarKata": null,
+    "ejaan": "jêbuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji buah pinang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

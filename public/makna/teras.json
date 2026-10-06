@@ -1,0 +1,148 @@
+[
+  {
+    "sukuKata": "te.ras",
+    "akarKata": null,
+    "ejaan": "tèras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidang tanah datar yang miring; bidang tanah yang lebih tinggi daripada yang lain (biasanya ditumbuhi rumput)",
+        "contoh": "pada -- yang lebih tinggi berdiri istana, sedangkan pada -- di bawahnya terbentang taman yang luas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah atau lantai yang agak tinggi di depan rumah",
+        "contoh": "-- di bagian muka gedung itu dipenuhi dengan pot-pot bunga yang indah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap rumah yang datar (biasanya diberi pagar di pinggirnya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "landasan yang lebih tinggi daripada tanah sekelilingnya untuk landasan candi (tempat berjalan-jalan atau tempat duduk-duduk)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari gili-gili di muka restoran yang diisi dengan kursi untuk duduk-duduk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tanah persawahan dan sebagainya yang bertangga-tangga dari atas ke bawah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.ras",
+    "akarKata": null,
+    "ejaan": "têras",
+    "baku": true,
+    "alt": "taras",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kayu yang keras; inti kayu",
+        "contoh": "pada irisan penampang kelihatan -- yang dikelilingi lingkaran-lingkaran kayu yang dapat menunjukkan umurnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inti sari; isi yang terutama; sesuatu yang terbaik; sesuatu yang terpenting",
+        "contoh": "pasukan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.ras",
+    "akarKata": null,
+    "ejaan": "têras",
+    "baku": false,
+    "alt": "tras",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semen yang dibuat dari serbuk tanah yang keras (tanah cadas)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batuan berbentuk silinder yang dipotong dengan mata bor khusus, untuk mempelajari formasi tempat batuan itu diambil; batu inti",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang berasal dari letusan gunung api, dapat dipakai untuk bahan semen yang dicampur dengan kapur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.ras",
+    "akarKata": null,
+    "ejaan": "têras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan yang menjadi tempat melintasnya garis medan magnetik dalam trafo atau transformator dan bersifat temporer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah atau bagian dari reaktor nuklir tempat terjadinya reaksi berantai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

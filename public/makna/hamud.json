@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.mud",
+    "akarKata": null,
+    "ejaan": "hamud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

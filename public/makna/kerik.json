@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ke.rik",
+    "akarKata": null,
+    "ejaan": "kêrik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi “rik, rik” (tentang bunyi gesekan sayap jangkrik, barang yang dikerik, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rik",
+    "akarKata": null,
+    "ejaan": "kêrik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kikis dengan benda tajam, gosok dengan uang logam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rik",
+    "akarKata": null,
+    "ejaan": "kêrik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kerik api"
+        ]
+      }
+    ]
+  }
+]

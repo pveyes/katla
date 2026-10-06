@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "da.nge",
+    "akarKata": null,
+    "ejaan": "dangê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upacara tutup tahun pada suku Dayak setelah penuaian padi yang berlangsung selama tujuh hari sesudah Paskah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.nge",
+    "akarKata": null,
+    "ejaan": "dangê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses memasak sagu dengan wajan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sangir",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "pai",
+    "akarKata": null,
+    "ejaan": "pai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue berisi krim, agar-agar, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "PAI",
+    "akarKata": null,
+    "ejaan": "PAI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Aktuaris Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

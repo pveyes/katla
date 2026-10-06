@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ka.bul",
+    "akarKata": null,
+    "ejaan": "kabul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ucapan tanda setuju (terima) dari pihak yang menerima dalam suatu akad perjanjian atau kontrak",
+        "contoh": "wali mempelai perempuan mengucapkan ijab dan mempelai laki-laki mengucapkan --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "diluluskan (tentang permintaan dan sebagainya); diperkenankan",
+        "contoh": "permintaannya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ka.bul",
+    "akarKata": null,
+    "ejaan": "Kabul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu kota negara Afganistan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

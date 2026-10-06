@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "vi.deo",
+    "akarKata": null,
+    "ejaan": "vidéo",
+    "baku": true,
+    "alt": "vidio",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang memancarkan gambar pada pesawat televisi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rekaman gambar hidup atau program televisi untuk ditayangkan lewat pesawat televisi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

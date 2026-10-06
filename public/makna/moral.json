@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "mo.ral",
+    "akarKata": null,
+    "ejaan": "moral",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(ajaran tentang) baik buruk yang diterima umum mengenai perbuatan, sikap, kewajiban, dan sebagainya; akhlak; budi pekerti; susila",
+        "contoh": "-- mereka sudah bejat, mereka hanya minum-minum dan mabuk-mabuk, bermain judi, dan bermain perempuan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kondisi mental yang membuat orang tetap berani, bersemangat, bergairah, berdisiplin, dan sebagainya; isi hati atau keadaan perasaan sebagaimana terungkap dalam perbuatan",
+        "contoh": "tentara kita memiliki -- dan daya tempur yang tinggi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ajaran kesusilaan yang dapat ditarik dari suatu cerita",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

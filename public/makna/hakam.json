@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.kam",
+    "akarKata": null,
+    "ejaan": "hakam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengantara; pemisah; wasit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "tu.mit",
+    "akarKata": null,
+    "ejaan": "tumit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian telapak kaki sebelah belakang, di bawah mata kaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sesuatu yang rupanya atau letaknya seperti tumit",
+        "contoh": "-- kelom",
+        "info": []
+      }
+    ]
+  }
+]

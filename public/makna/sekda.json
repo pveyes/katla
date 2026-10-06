@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "sek.da",
+    "akarKata": null,
+    "ejaan": "sèkda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekretaris daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

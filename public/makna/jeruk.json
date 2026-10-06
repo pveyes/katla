@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "je.ruk",
+    "akarKata": null,
+    "ejaan": "jêruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang termasuk keluarga Citrus, pada ketiak daun terdapat duri, mempunyai berbagai jenis dan varietas buahnya dimakan dan daunnya dapat digunakan sebagai bumbu, atau penyedap; limau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah jeruk, isinya beberapa ulas, rasanya asam dan ada pula yang manis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

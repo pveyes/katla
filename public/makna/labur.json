@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "la.bur",
+    "akarKata": null,
+    "ejaan": "labur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "larutan kapur atau gamping yang biasa digunakan untuk memutihkan dinding atau tembok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.bur",
+    "akarKata": null,
+    "ejaan": "labur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melabur",
+          "melaburkan",
+          "pelaburan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.bur",
+    "akarKata": null,
+    "ejaan": "labur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melabur",
+          "pelabur"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.bur",
+    "akarKata": null,
+    "ejaan": "labur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kelaburan"
+        ]
+      }
+    ]
+  }
+]

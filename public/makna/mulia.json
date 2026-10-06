@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "mu.lia",
+    "akarKata": null,
+    "ejaan": "mulia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi (tentang kedudukan, pangkat, martabat), tertinggi, terhormat",
+        "contoh": "yang -- para duta besar negara sahabat",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luhur (budi dan sebagainya); baik budi (hati dan sebagainya)",
+        "contoh": "sangat -- hatinya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bermutu tinggi; berharga (tentang logam, misalnya emas, perak, dan sebagainya)",
+        "contoh": "logam --",
+        "info": []
+      }
+    ]
+  }
+]

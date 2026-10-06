@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "sa.yap",
+    "akarKata": null,
+    "ejaan": "sayap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tubuh beberapa binatang (burung dan sebagainya) yang dapat digunakan untuk terbang; kepak",
+        "contoh": "burung terbang dengan --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang menyerupai sayap",
+        "contoh": "-- pesawat terbang",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dua daun mahkota samping bunga kacang-kacangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

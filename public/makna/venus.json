@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ve.nus",
+    "akarKata": null,
+    "ejaan": "vènus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dewi cinta dan kecantikan, lambang daya cipta yang menopang segala kehidupan bagi bangsa Romawi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "planet ke-2 dari matahari; bintang barat; bintang fajar; bintang kejora; bintang timur; bintang zohrah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

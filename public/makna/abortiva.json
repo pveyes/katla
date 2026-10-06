@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abor.ti.va",
+    "akarKata": null,
+    "ejaan": "abortiva",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat-obatan yang dapat menggugurkan kandungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "farmasi dan farmakologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

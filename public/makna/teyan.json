@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.yan",
+    "akarKata": null,
+    "ejaan": "tèyan",
+    "baku": true,
+    "alt": "tean",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemungutan atau pengumpulan uang dan sebagainya untuk menyokong atau menyumbang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

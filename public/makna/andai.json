@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "an.dai",
+    "akarKata": null,
+    "ejaan": "andai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peristiwa yang dianggap mungkin terjadi; misal; umpama",
+        "contoh": "semuanya itu hanya -- saja",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.dai",
+    "akarKata": null,
+    "ejaan": "andai",
+    "baku": false,
+    "alt": "handai",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawan; teman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.dai",
+    "akarKata": null,
+    "ejaan": "andai",
+    "baku": false,
+    "alt": "handai",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawan; teman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

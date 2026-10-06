@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "met.ro",
+    "akarKata": null,
+    "ejaan": "métro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaringan jalan kereta api di bawah tanah",
+        "contoh": "pembangunan -- sebagai sarana transportasi umum bawah tanah merupakan usaha mengurangi kepadatan lalu lintas",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "met.ro",
+    "akarKata": null,
+    "ejaan": "métro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "metropolitan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Me.tro",
+    "akarKata": null,
+    "ejaan": "métro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota (madya) di Provinsi Lampung, terkenal dengan sebutan Kota Pendidikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

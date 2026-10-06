@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wa.was",
+    "akarKata": null,
+    "ejaan": "wawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mewawas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

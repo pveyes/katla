@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BLU",
+    "akarKata": null,
+    "ejaan": "BLU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Layanan Umum (instansi pemerintah yang memberikan pelayanan penjualan barang dan/atau jasa secara nonprofit)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

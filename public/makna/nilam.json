@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ni.lam",
+    "akarKata": null,
+    "ejaan": "nilam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketilang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ni.lam",
+    "akarKata": null,
+    "ejaan": "nilam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan, daunnya berbau harum",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun nilam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ni.lam",
+    "akarKata": null,
+    "ejaan": "nilam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu permata transparan yang berwarna biru; nila1; safir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

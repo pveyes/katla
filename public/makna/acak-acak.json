@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "acak-acak",
+    "akarKata": "acak",
+    "ejaan": "acak-acak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kerap kali; sering kali",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tergesa-gesa; terburu-buru",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

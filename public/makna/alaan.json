@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ala.an",
+    "akarKata": null,
+    "ejaan": "alaan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sungai yang banyak ikannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

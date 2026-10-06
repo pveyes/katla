@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ser.ta",
+    "akarKata": null,
+    "ejaan": "sêrta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dan",
+        "contoh": "Presiden -- rombongan disambut dengan tarian selamat datang",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "demi; begitu; pada ketika",
+        "contoh": "-- mendapat perintah, ia lalu berangkat",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ser.ta",
+    "akarKata": null,
+    "ejaan": "sêrta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ikut; turut",
+        "contoh": "pada hari itu beliau tidak -- berunding",
+        "info": []
+      }
+    ]
+  }
+]

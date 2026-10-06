@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ala.ta",
+    "akarKata": null,
+    "ejaan": "alata",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keladi yang tumbuh di sela-sela padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gorontalo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

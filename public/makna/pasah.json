@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.sah",
+    "akarKata": null,
+    "ejaan": "pasah",
+    "baku": false,
+    "alt": "fasakh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembatalan ikatan pernikahan oleh pengadilan agama berdasarkan dakwaan (tuntutan) istri atau suami yang dapat dibenarkan oleh pengadilan agama atau karena pernikahan yang telah telanjur menyalahi hukum pernikahan",
+        "contoh": "pengadilan agama telah memutuskan -- karena suami istri itu ternyata masih bersaudara dekat",
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.sah",
+    "akarKata": null,
+    "ejaan": "pasah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terpasah"
+        ]
+      }
+    ]
+  }
+]

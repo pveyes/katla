@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ka.ung",
+    "akarKata": null,
+    "ejaan": "kaung",
+    "baku": false,
+    "alt": "kawung",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "enau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rokok dengan daun enau sebagai pembungkusnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

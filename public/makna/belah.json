@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "be.lah",
+    "akarKata": null,
+    "ejaan": "bêlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celah retak yang besar dan panjang dari suatu benda",
+        "contoh": "banyak kutu busuk bersembunyi pada -- papan tempat tidur itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebagian (dari benda yang berpasangan); separuh",
+        "contoh": "kedua -- tangannya buntung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisi; pihak",
+        "contoh": "hal itu telah disetujui oleh kedua -- pihak",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pecah terbagi (menjadi dua)",
+        "contoh": "karena gempa yang sangat hebat, bukit itu -- dua",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbagi (menjadi dua, tiga, dan sebagainya)",
+        "contoh": "-- tiga",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Be.lah",
+    "akarKata": null,
+    "ejaan": "bêlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama klan pada suku bangsa Gayo",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok yang ada dalam suatu kampung, mempunyai jabatan masing-masing dalam pelaksanaan tugasnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

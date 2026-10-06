@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "men.wa",
+    "akarKata": null,
+    "ejaan": "mènwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "resimen mahasiswa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

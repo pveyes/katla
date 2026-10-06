@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "de.cak",
+    "akarKata": null,
+    "ejaan": "dêcak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi jam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi “cek” dari mulut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

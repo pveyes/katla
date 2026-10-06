@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ja.zam",
+    "akarKata": null,
+    "ejaan": "jazam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memotong; memenggal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda baca huruf Arab (°) yang ditaruh di atas huruf, menyatakan bahwa huruf itu mati atau tidak diucapkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

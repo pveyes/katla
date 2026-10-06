@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "nap.su",
+    "akarKata": null,
+    "ejaan": "napsu",
+    "baku": false,
+    "alt": "nafsu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keinginan (kecenderungan, dorongan) hati yang kuat",
+        "contoh": "karena kecewa, --nya untuk belajar mulai berkurang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dorongan hati yang kuat untuk berbuat kurang baik; hawa nafsu",
+        "contoh": "tidak mungkin hal baik itu dilakukan tanpa melawan -- pribadi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selera; gairah atau keinginan (makan)",
+        "contoh": "ikan asin dan sayur asam menambah -- makan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panas hati; marah; meradang",
+        "contoh": "--nya meluap ketika melihat saingannya itu",
+        "info": []
+      }
+    ]
+  }
+]

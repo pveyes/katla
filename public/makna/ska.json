@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "ska",
+    "akarKata": null,
+    "ejaan": "ska",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musik yang berasal dari Jamaika, yang menggabungkan unsur-unsur musik tradisional Karibia dan jaz",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "SKA",
+    "akarKata": null,
+    "ejaan": "SKA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat keterangan asal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

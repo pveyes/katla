@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tur",
+    "akarKata": null,
+    "ejaan": "tur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perjalanan untuk bertamasya dan sebagainya",
+        "contoh": "karyawan perusahaan itu mengadakan -- ke daerah pegunungan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

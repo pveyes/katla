@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.das",
+    "akarKata": null,
+    "ejaan": "têdas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyata; jelas",
+        "contoh": "berkata dengan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.das",
+    "akarKata": null,
+    "ejaan": "têdas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelang-gelang (lingkaran) timbul pada tiang, pilar, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Bau.zi",
+    "akarKata": null,
+    "ejaan": "Bauzi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah aliran sungai Dataran Danau-danau di Kabupaten Jayapura, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Bauzi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

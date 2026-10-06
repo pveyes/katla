@@ -1,0 +1,125 @@
+[
+  {
+    "sukuKata": "pe-",
+    "akarKata": null,
+    "ejaan": "pê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat per-7",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe-",
+    "akarKata": null,
+    "ejaan": "pê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat peng-",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "peng-",
+    "akarKata": null,
+    "ejaan": "pêng-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang melakukan perbuatan",
+        "contoh": "pembeli",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang berprofesi sebagai",
+        "contoh": "pengarang",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang memiliki sifat",
+        "contoh": "pemarah",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "alat yang dipakai untuk",
+        "contoh": "penggali",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per-",
+    "akarKata": null,
+    "ejaan": "pêr-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang memiliki",
+        "contoh": "persegi",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang menghasilkan",
+        "contoh": "pedaging",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang biasa melakukan (sebagai profesi, kegemaran, kebiasaan)",
+        "contoh": "pertapa",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang melakukan pekerjaan mengenai diri",
+        "contoh": "peubah",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang dikenai tindakan",
+        "contoh": "pesuruh",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang biasa bekerja di",
+        "contoh": "pelaut",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang gemar",
+        "contoh": "perokok",
+        "info": []
+      }
+    ]
+  }
+]

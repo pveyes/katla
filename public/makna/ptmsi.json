@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PTMSI",
+    "akarKata": null,
+    "ejaan": "PTMSI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Tenis Meja Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

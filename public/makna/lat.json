@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "lat",
+    "akarKata": null,
+    "ejaan": "lat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selang; antara",
+        "contoh": "-- sehari sesudah kedatangannya yang pertama, dia datang lagi",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lat",
+    "akarKata": null,
+    "ejaan": "lat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlambat; kasip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lat",
+    "akarKata": null,
+    "ejaan": "lat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilah (pada kasau)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

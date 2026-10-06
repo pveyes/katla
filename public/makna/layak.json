@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "la.yak",
+    "akarKata": null,
+    "ejaan": "layak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "wajar; pantas; patut",
+        "contoh": "berikanlah mereka kehidupan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mulia; terhormat",
+        "contoh": "karena jasanya, dia mendapat kedudukan yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yak",
+    "akarKata": null,
+    "ejaan": "layak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang dibelah memanjang dari ekor ke kepala, lalu dikeringkan tanpa diberi garam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

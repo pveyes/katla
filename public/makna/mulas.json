@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "mu.las",
+    "akarKata": null,
+    "ejaan": "mulas",
+    "baku": true,
+    "alt": "mules",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sakit seperti diremas-remas (tentang perut)",
+        "contoh": "perutnya terasa --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mu.las",
+    "akarKata": null,
+    "ejaan": "mulas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat daun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

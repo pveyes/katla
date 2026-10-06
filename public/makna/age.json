@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "age",
+    "akarKata": null,
+    "ejaan": "agê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan khas Brebes mirip rendang, dibuat dari daging sapi atau kerbau, rasanya  manis dan gurih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

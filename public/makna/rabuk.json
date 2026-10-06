@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "ra.buk",
+    "akarKata": null,
+    "ejaan": "rabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jamur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.buk",
+    "akarKata": null,
+    "ejaan": "rabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulu atau miang halus yang terdapat pada pelepah pohon enau (biasanya dapat dipakai untuk menghidupkan api dari pemantik); ka(w)ul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang mudah menyebabkan perselisihan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.buk",
+    "akarKata": null,
+    "ejaan": "rabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pupuk; baja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

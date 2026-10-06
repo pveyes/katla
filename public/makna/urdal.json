@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ur.dal",
+    "akarKata": null,
+    "ejaan": "urdal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "urusan dalam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

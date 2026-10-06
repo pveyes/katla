@@ -1,0 +1,103 @@
+[
+  {
+    "sukuKata": "me.rah",
+    "akarKata": null,
+    "ejaan": "mèrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna dasar yang serupa dengan warna darah",
+        "contoh": "warna bajunya --, sedangkan rok bawahnya hitam",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung atau memperlihatkan warna yang serupa dengan merah",
+        "contoh": "mukanya -- tersipu-sipu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.rah",
+    "akarKata": null,
+    "ejaan": "mèrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman yang termasuk dalam keluarga pandan-pandanan, tingginya mencapai 16 m, berakar tunjang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah berbentuk lonjong dengan kuncup tertutup, warnanya merah, cokelat, atau cokelat kekuningan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.rah",
+    "akarKata": null,
+    "ejaan": "mêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar penghulu atau raja-raja kecil pada zaman dahulu",
+        "contoh": "-- Silu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar di Minangkabau (lebih rendah daripada sutan); marah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.rah",
+    "akarKata": null,
+    "ejaan": "mêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "molek; bagus",
+        "contoh": "anak itu amat --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.rah",
+    "akarKata": null,
+    "ejaan": "mêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ungar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

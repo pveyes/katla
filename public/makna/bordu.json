@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bor.du",
+    "akarKata": null,
+    "ejaan": "bordu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dinding pada tepi perahu (kapal)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

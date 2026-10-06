@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pe.dut",
+    "akarKata": null,
+    "ejaan": "pêdut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

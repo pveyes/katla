@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rih",
+    "akarKata": null,
+    "ejaan": "kêrih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kera berteriak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rih",
+    "akarKata": null,
+    "ejaan": "kêrih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dengan susah payah (menuntut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

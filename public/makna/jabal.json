@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ja.bal",
+    "akarKata": null,
+    "ejaan": "jabal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gunung atau bukit (terdapat dalam nama, seperti -- Kaf; -- Labnun)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.bal",
+    "akarKata": null,
+    "ejaan": "jabal",
+    "baku": true,
+    "alt": "jabel",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rampas, begal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

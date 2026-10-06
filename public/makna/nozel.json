@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "no.zel",
+    "akarKata": null,
+    "ejaan": "nozêl",
+    "baku": true,
+    "alt": "nosel",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pipa atau saluran yang ujungnya menyempit, digunakan untuk mengarahkan aliran zat cair atau gas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang terhubung pada ujung selang untuk membentuk dan mengarahkan semprotan (air, bensin)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian alat dari logam dengan bukaan tempat keluarnya udara dan cat yang dikombinasikan untuk menghasilkan semprotan warna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

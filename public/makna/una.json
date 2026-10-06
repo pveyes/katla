@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Una",
+    "akarKata": null,
+    "ejaan": "Una",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Pegunungan Jayawijaya sebelah timur, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Una",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

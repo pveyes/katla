@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ingot",
+    "akarKata": null,
+    "ejaan": "ingot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "logam cair yang telah dicetak dalam bentuk tertentu dan siap untuk diproses lebih lanjut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "metalurgi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

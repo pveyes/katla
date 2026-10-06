@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "man.ja",
+    "akarKata": null,
+    "ejaan": "manja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang baik adat kelakuannya karena selalu diberi hati, tidak pernah ditegur (dimarahi), dituruti semua kehendaknya, dan sebagainya",
+        "contoh": "karena anak bungsu, ia sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat kasih, jinak, mesra (kepada)",
+        "contoh": "anak itu sangat -- kepada kakeknya",
+        "info": []
+      }
+    ]
+  }
+]

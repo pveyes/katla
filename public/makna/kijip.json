@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ki.jip",
+    "akarKata": null,
+    "ejaan": "kijip",
+    "baku": false,
+    "alt": "kejap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedip",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

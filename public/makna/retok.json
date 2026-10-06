@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "re.tok",
+    "akarKata": null,
+    "ejaan": "rètok",
+    "baku": false,
+    "alt": "recok",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rewel; ribut; gaduh",
+        "contoh": "anak muda yang bermabuk-mabukan itu sering membuat --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.tok",
+    "akarKata": null,
+    "ejaan": "rètok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meretok"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ke.rat",
+    "akarKata": null,
+    "ejaan": "kêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi tupai menggerek kelapa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potong; iris; penggal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rat",
+    "akarKata": null,
+    "ejaan": "kêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah berbentuk kotak yang bagian atasnya terbuka, dibuat dari kayu atau plastik berbahan keras, terdiri atas sekat-sekat yang berfungsi untuk tempat menyimpan botol",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

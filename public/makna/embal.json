@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "em.bal",
+    "akarKata": null,
+    "ejaan": "êmbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum kering benar; lembap",
+        "contoh": "tembakau itu harus dijemur sebab masih --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

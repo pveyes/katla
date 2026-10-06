@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ku.kul",
+    "akarKata": null,
+    "ejaan": "kukul",
+    "baku": false,
+    "alt": "kokol",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tubuh melengkung (karena kedinginan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.kul",
+    "akarKata": null,
+    "ejaan": "kukul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jerawat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.man",
+    "akarKata": null,
+    "ejaan": "laman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "halaman utama dari suatu situs web yang diakses oleh pengguna pada awal masuk ke situs tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aka.id",
+    "akarKata": null,
+    "ejaan": "akaid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepercayaan agama yang telah pasti dan tidak boleh dipersoalkan lagi; akidah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

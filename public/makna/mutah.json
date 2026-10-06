@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "mut.ah",
+    "akarKata": null,
+    "ejaan": "mutah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu (uang, barang, dan sebagainya) yang diberikan suami kepada istri yang diceraikannya sebagai bekal hidup (penghibur hati) bekas istrinya",
+        "contoh": "diberikannya sebuah mesin jahit dan uang sekadarnya kepada bekas istri sebagai --",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mu.tah",
+    "akarKata": null,
+    "ejaan": "mutah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tumbuh di sepanjang pantai, akarnya dapat dibuat obat bengkak-bengkak pada tangan dan kaki, kayunya ringan dan tidak awet, digunakan untuk membuat tusuk gigi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

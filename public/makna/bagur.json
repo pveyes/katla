@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.gur",
+    "akarKata": null,
+    "ejaan": "bagur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekas menjadi besar (gemuk) dan tinggi (tentang manusia, binatang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar dan tinggi yang luar biasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

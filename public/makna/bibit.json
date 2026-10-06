@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "bi.bit",
+    "akarKata": null,
+    "ejaan": "bibit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semaian (padi dan sebagainya yang akan ditanam)",
+        "contoh": "-- padi itu akan dipindahkan sesudah berumur empat puluh hari",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benih (dalam arti sesuatu yang akan dikembangkan, diternakkan, dan sebagainya)",
+        "contoh": "kita memerlukan sapi yang baik untuk --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak (orang) yang akan dididik lebih lanjut; kader",
+        "contoh": "murid-murid SMU dididik sebagai -- untuk perguruan tinggi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang akan menyebabkan timbulnya (terjadinya) penyakit atau pertikaian dan sebagainya",
+        "contoh": "-- penyakit cacar",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.bit",
+    "akarKata": null,
+    "ejaan": "bibit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jinjing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

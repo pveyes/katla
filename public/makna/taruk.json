@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "ta.ruk",
+    "akarKata": null,
+    "ejaan": "taruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tunas tumbuhan (pohon, rumput); daun dan ranting (pucuk) yang tumbuh pada cabang dahan atau batang kayu",
+        "contoh": "-- padi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.ruk",
+    "akarKata": null,
+    "ejaan": "taruk",
+    "baku": false,
+    "alt": "taruh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(uang) taruhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cagar; tanggungan (utang dan sebagainya); sandera",
+        "contoh": "jika akan berutang Rp250.000,00 harus menyerahkan barang seharga Rp1.000.000,00 sebagai --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menaruh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.ruk",
+    "akarKata": null,
+    "ejaan": "taruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pukul; hantam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kasar",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam yang tidak sopan"
+          }
+        ]
+      }
+    ]
+  }
+]

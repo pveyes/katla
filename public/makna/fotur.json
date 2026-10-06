@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fo.tur",
+    "akarKata": null,
+    "ejaan": "fotur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung merpati dengan dada berwarna merah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "rai",
+    "akarKata": null,
+    "ejaan": "rai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gembala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "rai",
+    "akarKata": null,
+    "ejaan": "rai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah atau wilayah adat masyarakat Sawu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

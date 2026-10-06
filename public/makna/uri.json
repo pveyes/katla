@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "uri",
+    "akarKata": null,
+    "ejaan": "uri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organ tubuh yang menghubungkan badan ibu dengan bayi di dalam rahim; ari-ari; tembuni; plasenta",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uri",
+    "akarKata": null,
+    "ejaan": "uri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menguri"
+        ]
+      }
+    ]
+  }
+]

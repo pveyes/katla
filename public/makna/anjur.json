@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "an.jur",
+    "akarKata": null,
+    "ejaan": "anjur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tonjol; maju",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.jur",
+    "akarKata": null,
+    "ejaan": "anjur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tarik; hela; ganjur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.jur",
+    "akarKata": null,
+    "ejaan": "anjur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tarik; hela; ganjur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

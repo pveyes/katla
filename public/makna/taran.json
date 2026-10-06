@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.ran",
+    "akarKata": null,
+    "ejaan": "taran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pijat urut rahim agar cepat melahirkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

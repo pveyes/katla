@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ka.per",
+    "akarKata": null,
+    "ejaan": "kapêr",
+    "baku": false,
+    "alt": "karper",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan air tawar yang bentuknya seperti ikan hias, dapat dimakan, berbadan langsing, berkumis, bibir dapat menjulur sebagai corong pengisap makanan, warna sirip punggung hijau kebiru-biruan, dan sirip perutnya berwarna putih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.per",
+    "akarKata": null,
+    "ejaan": "kapêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kupu-kupu kecil (biasa terbang malam)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

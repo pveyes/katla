@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.gah",
+    "akarKata": null,
+    "ejaan": "lêgah",
+    "baku": false,
+    "alt": "lega",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lapang; luas; tidak sempit",
+        "contoh": "halaman rumahnya cukup -- untuk tempat bermain keempat anaknya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak sesak; kosong",
+        "contoh": "mari kita pindah ke gerbong belakang, di sana --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa senang (tenteram); tidak gelisah (khawatir) lagi",
+        "contoh": "saya merasa -- mendengar kabar bahwa istri saya telah melahirkan dengan selamat",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senggang; tidak sibuk",
+        "contoh": "minggu ini aku agak --",
+        "info": []
+      }
+    ]
+  }
+]

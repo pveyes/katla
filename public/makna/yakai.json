@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ya.kai",
+    "akarKata": null,
+    "ejaan": "Yakai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah pesisir selatan Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Yakai dan Mapi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

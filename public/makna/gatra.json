@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "gat.ra",
+    "akarKata": null,
+    "ejaan": "gatra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkungan tertentu dalam kalimat yang dapat ditempati oleh suatu unsur bahasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gat.ra",
+    "akarKata": null,
+    "ejaan": "gatra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wujud",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sudut pandangan; aspek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

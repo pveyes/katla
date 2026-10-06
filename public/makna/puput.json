@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "pu.put",
+    "akarKata": null,
+    "ejaan": "puput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat tiup terbuat dari batang padi atau bambu pendek, ada yang ditambah dengan daun kelapa (pucuk rumbia dan sebagainya)",
+        "contoh": "sambil bermain, anak-anak gembala menghembus -- di sawah",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peluit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.put",
+    "akarKata": null,
+    "ejaan": "puput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepotong besi untuk mencungkil dan sebagainya; linggis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.put",
+    "akarKata": null,
+    "ejaan": "puput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlepas; tanggal (tentang tali pusat bayi)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "war.di",
+    "akarKata": null,
+    "ejaan": "wardi",
+    "baku": false,
+    "alt": "rodi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kewajiban bekerja (seperti memperbaiki jalan) tidak dengan upah; kerja paksa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perintah; ordi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

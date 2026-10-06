@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "je.lah",
+    "akarKata": null,
+    "ejaan": "jêlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang; jernih; banglas (tentang pandangan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cerah; terang (tentang warna)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

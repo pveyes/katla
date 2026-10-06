@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "te.kel",
+    "akarKata": null,
+    "ejaan": "tèkêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menekel",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merebut bola dari lawan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjatuhkan pembawa bola ke tanah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "posisi pada garis serang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IDT",
+    "akarKata": null,
+    "ejaan": "IDT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inpres desa tertinggal (program pemerintah untuk menanggulangi kemiskinan di desa-desa tertinggal)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ti.tis",
+    "akarKata": null,
+    "ejaan": "titis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik (air dan sebagainya)",
+        "contoh": "air matanya jatuh beberapa --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.tis",
+    "akarKata": null,
+    "ejaan": "titis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menitis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.tis",
+    "akarKata": null,
+    "ejaan": "titis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pandai mengarahkan pada sasaran (misalnya memanah, menembak)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ta.tar",
+    "akarKata": null,
+    "ejaan": "tatar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bidik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.tar",
+    "akarKata": null,
+    "ejaan": "tatar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menatar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.tar",
+    "akarKata": null,
+    "ejaan": "tatar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tataran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

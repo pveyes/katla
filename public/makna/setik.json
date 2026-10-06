@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.tik",
+    "akarKata": null,
+    "ejaan": "sêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jengkal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.tik",
+    "akarKata": null,
+    "ejaan": "sêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jahitan",
+        "contoh": "Anda dapat melipat pinggir bahan ini untuk membuat -- hiasan",
+        "info": []
+      }
+    ]
+  }
+]

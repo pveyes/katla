@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "klo.na",
+    "akarKata": null,
+    "ejaan": "klona",
+    "baku": true,
+    "alt": "klon",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan sel turunan dari sel induk tunggal dengan reproduksi aseksual",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "klo.na",
+    "akarKata": null,
+    "ejaan": "klona",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peranti lunak atau peranti keras tiruan dari merek terkenal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

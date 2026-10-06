@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ba.rok",
+    "akarKata": null,
+    "ejaan": "barok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciri-ciri tertentu yang dimiliki oleh tokoh drama tragedi (seperti sikap agung, tidak langsung)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaya dalam seni bangunan dan hiasan, gaya agung yang dihias penuh (dari Italia abad ke-16)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arsitektur",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk mutiara yang tidak beraturan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arsitektur",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

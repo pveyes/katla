@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "mes",
+    "akarKata": null,
+    "ejaan": "mès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pupuk buatan untuk menyuburkan tanaman",
+        "contoh": "tebunya dipupuk dengan -- supaya baik pertumbuhannya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mes",
+    "akarKata": null,
+    "ejaan": "mès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah tempat tinggal bersama yang sifatnya sementara atau sebagai tempat menginap tamu (di kalangan militer untuk tempat tinggal perwira yang belum berkeluarga)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mes",
+    "akarKata": null,
+    "ejaan": "mès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang ayakan berbentuk bujur sangkar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran yang menunjukkan banyaknya lubang yang terdapat pada ayakan setiap satu inci linier",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

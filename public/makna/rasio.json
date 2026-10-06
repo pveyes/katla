@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.sio",
+    "akarKata": null,
+    "ejaan": "rasio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemikiran menurut akal sehat; akal budi; nalar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.sio",
+    "akarKata": null,
+    "ejaan": "rasio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan taraf atau bilangan antara dua hal yang mirip; perbandingan antara berbagai gejala yang dapat dinyatakan dengan angka; nisbah",
+        "contoh": "di sekolah ini -- murid laki-laki dan perempuan adalah 2:1",
+        "info": []
+      }
+    ]
+  }
+]

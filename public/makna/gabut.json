@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ga.but",
+    "akarKata": null,
+    "ejaan": "gabut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gaji buta; tidak melakukan apa pun, sehingga menjadi bosan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ja.rum",
+    "akarKata": null,
+    "ejaan": "jarum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat jahit yang terbuat dari logam, bentuknya bulat panjang, kecil, berujung runcing (ada yang bertakuk, berkait, atau melengkung pada bagian ujungnya), terdapat lubang tembus pada bagian pangkal tempat memasukkan benang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang panjang (untuk mencocok, menyuntik, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang berfungsi sebagai penunjuk pada arloji (kompas dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.rum",
+    "akarKata": null,
+    "ejaan": "jarum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat rumput",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

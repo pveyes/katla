@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SKSHH",
+    "akarKata": null,
+    "ejaan": "SKSHH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat keterangan sah hasil hutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

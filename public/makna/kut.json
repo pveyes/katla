@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KUT",
+    "akarKata": null,
+    "ejaan": "KUT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kredit usaha tani",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

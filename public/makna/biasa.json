@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bi.a.sa",
+    "akarKata": null,
+    "ejaan": "biasa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lazim; umum",
+        "contoh": "bagi masyarakat sekarang memakai sepatu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "seperti sediakala (sebagai yang sudah-sudah)",
+        "contoh": "ia makan dan bercanda sebagaimana --, tidak tampak bahwa dia sedang menderita sakit parah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah merupakan hal yang tidak terpisahkan dari kehidupan sehari-hari; sudah menjadi adat",
+        "contoh": "setiap pagi dia -- minum kopi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah sering kali",
+        "contoh": "dia -- datang ke rumah kami",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "is.nad",
+    "akarKata": null,
+    "ejaan": "isnad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sanad",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

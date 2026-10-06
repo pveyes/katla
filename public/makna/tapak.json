@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ta.pak",
+    "akarKata": null,
+    "ejaan": "tapak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidang kaki sebelah bawah, biasa digunakan untuk menapak; bidang tangan yang digunakan untuk menerima dan sebagainya; telapak",
+        "contoh": "tiga -- bayang-bayang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas jejak (bekas telapak) yang ditinggalkan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lahan tempat tumbuh tanaman hutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kehutanan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

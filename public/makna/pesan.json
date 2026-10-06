@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pe.san",
+    "akarKata": null,
+    "ejaan": "pêsan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perintah, nasihat, permintaan, amanat yang disampaikan lewat orang lain",
+        "contoh": "apa -- ayahmu ketika beliau berangkat ke Bandung?",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkataan (nasihat, wasiat) yang terakhir (dari orang yang akan meninggal dunia)",
+        "contoh": "aku teringat -- ayahku tatkala ia akan menutup mata",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pesanan",
+        "contoh": "banyak -- yang tidak dapat dilayani karena kekurangan tenaga dan bahan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.san",
+    "akarKata": null,
+    "ejaan": "pêsan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lipan yang sangat berbisa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

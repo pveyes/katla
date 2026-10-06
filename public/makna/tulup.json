@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.lup",
+    "akarKata": null,
+    "ejaan": "tulup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumpit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tiup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

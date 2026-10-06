@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pa.rap",
+    "akarKata": null,
+    "ejaan": "parap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pukulan yang dilontarkan hanya ke bagian depan, gunanya sebagai pembuka serangan, pengganggu, atau sebagai pengukur jarak pukul dengan lawan dalam olahraga tinju",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.rap",
+    "akarKata": null,
+    "ejaan": "parap",
+    "baku": false,
+    "alt": "paraf",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kependekan tanda tangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

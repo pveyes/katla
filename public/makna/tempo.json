@@ -1,0 +1,103 @@
+[
+  {
+    "sukuKata": "tem.po",
+    "akarKata": null,
+    "ejaan": "témpo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu; masa",
+        "contoh": "dalam -- singkat terbongkarlah kedoknya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketika; saat",
+        "contoh": "-- itu ia tidak ada",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesempatan",
+        "contoh": "setiap hari, apabila ada -- dia selalu saya desak",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelonggaran (untuk berpikir dan sebagainya); penundaan waktu",
+        "contoh": "diberi -- 12 jam untuk menanggapi ultimatum itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batas waktu; janji (waktu yang dijanjikan)",
+        "contoh": "sudah habis (sampai) --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tem.po",
+    "akarKata": null,
+    "ejaan": "têmpo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beras yang dimasak dengan dibungkus daun pisang sehingga hasilnya seperti tumpeng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unsur penting terjadinya dinamika irama dan suasana dalam pertunjukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal yang selalu terkait dengan irama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecepatan, jeda, dan durasi yang selalu terkait dengan irama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

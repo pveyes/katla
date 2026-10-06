@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ara",
+    "akarKata": null,
+    "ejaan": "ara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon jenis fikus yang banyak getahnya, banyak macamnya, ada yang berupa pohon, tumbuhan perdu, tumbuhan memanjat, seperti -- akar; -- batu; -- burung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ara",
+    "akarKata": null,
+    "ejaan": "ara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan sayang kepada anak gadis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kapuas hulu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ara",
+    "akarKata": null,
+    "ejaan": "Ara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasi bintang yang terletak di belahan langit selatan, berada di antara rasi bintang Sentaurus dan Lupus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ara",
+    "akarKata": null,
+    "ejaan": "ara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung pengicau endemik pulau Timor yang warna bulu dan keliling mata antara jantan dan betina berbeda, sekeliling mata burung jantan berwarna merah jambu, sedangkan sekeliling mata betina berwarna keabu-abuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

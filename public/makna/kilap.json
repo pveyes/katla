@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ki.lap",
+    "akarKata": null,
+    "ejaan": "kilap",
+    "baku": true,
+    "alt": "mengkilap",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gilap; kilat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pantulan cahaya yang disebabkan oleh gelepar ikan terserang parasit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

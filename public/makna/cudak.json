@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "cu.dak",
+    "akarKata": null,
+    "ejaan": "cudak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "muncul lebih tinggi daripada yang lain",
+        "contoh": "di antara semak belukar itu ada pohon yang --",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjungkit atau muncul ke permukaan",
+        "contoh": "tiba-tiba ular itu --",
+        "info": []
+      }
+    ]
+  }
+]

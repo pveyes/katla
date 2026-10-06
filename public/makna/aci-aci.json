@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "aci-aci",
+    "akarKata": null,
+    "ejaan": "aci-aci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "umpama; andai kata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aci-aci",
+    "akarKata": null,
+    "ejaan": "aci-aci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu panjang untuk menggulung layar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "aci-aci",
+    "akarKata": null,
+    "ejaan": "aci-aci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

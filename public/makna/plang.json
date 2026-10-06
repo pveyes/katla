@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "plang",
+    "akarKata": null,
+    "ejaan": "plang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan nama yang memuat data atau keterangan tentang suatu hal, misalnya plang proyek, plang dokter",
+        "contoh": "dengan dipasangnya -- proyek, dapat diketahui siapa pelaksana proyek dan berapa besar anggaran yang digunakan",
+        "info": []
+      }
+    ]
+  }
+]

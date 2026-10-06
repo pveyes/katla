@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ro.tok",
+    "akarKata": null,
+    "ejaan": "rotok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merotok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.tok",
+    "akarKata": null,
+    "ejaan": "rotok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merotok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

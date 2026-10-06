@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "we.ton",
+    "akarKata": null,
+    "ejaan": "wêton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari lahir seseorang dengan pasarannya (Legi, Paing, Pon, Wage, Kliwon)",
+        "contoh": "tiap-tiap individu mempunyai --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

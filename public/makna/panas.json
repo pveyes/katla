@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "pa.nas",
+    "akarKata": null,
+    "ejaan": "panas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terasa seperti terbakar atau terasa dekat dengan api; bersuhu relatif tinggi",
+        "contoh": "hari ini udara --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemarau (tentang musim)",
+        "contoh": "pada musim -- sawah menjadi kering dan tanah retak-retak",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "demam (suhu badannya lebih tinggi daripada biasa)",
+        "contoh": "sejak kemarin ia --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gerah",
+        "contoh": "badan terasa -- di dalam ruangan ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat iri; sakit hati",
+        "contoh": "hatinya -- karena saudara-saudaranya mendapatkan harta warisan lebih banyak",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "genting sekali; berbahaya (mungkin pecah perang)",
+        "contoh": "keadaan berubah menjadi --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpengaruh buruk (tentang uang yang mudah memperolehnya, tetapi mudah juga menghabiskannya, uang pinjaman dengan bunga besar, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

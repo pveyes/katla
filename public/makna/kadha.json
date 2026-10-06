@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ka.dha",
+    "akarKata": null,
+    "ejaan": "kadha",
+    "baku": false,
+    "alt": "qada",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan, hukum, ketentuan yang berasal dari Allah",
+        "contoh": "seluruh alam semesta tunduk pada -- Allah Swt.",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelaksanaan kewajiban ibadah di luar waktu yang telah ditentukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

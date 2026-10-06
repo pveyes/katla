@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "ti.ang",
+    "akarKata": null,
+    "ejaan": "tiang",
+    "baku": true,
+    "alt": "tihang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tonggak panjang (dari bambu, besi, kayu, dan sebagainya) yang dipancangkan untuk suatu keperluan",
+        "contoh": "-- antena",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tonggak panjang yang dipasang di perahu atau kapal untuk memasang layar dan sebagainya",
+        "contoh": "-- agung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tonggak panjang untuk menyokong atau menyangga (atap, lantai, jembatan, dan sebagainya); pilar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadi pokok kekuatan, penghidupan, dan sebagainya",
+        "contoh": "salat merupakan -- agama",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

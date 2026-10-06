@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ini",
+    "akarKata": null,
+    "ejaan": "ini",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata penunjuk terhadap sesuatu yang letaknya tidak jauh dari pembicara",
+        "contoh": "buku -- bagus",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ak.sep",
+    "akarKata": null,
+    "ejaan": "aksèp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat pengakuan utang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

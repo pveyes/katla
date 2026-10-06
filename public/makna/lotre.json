@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "lot.re",
+    "akarKata": null,
+    "ejaan": "lotré",
+    "baku": true,
+    "alt": "lotere",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mendapat uang (barang dan sebagainya) dari undian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mendapat untung besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

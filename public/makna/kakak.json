@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ka.kak",
+    "akarKata": null,
+    "ejaan": "kakak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saudara tua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada orang (laki-laki atau perempuan) yang dianggap lebih tua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapaan kepada suami",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.kak",
+    "akarKata": null,
+    "ejaan": "kakak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berkakak",
+          "berkakakan",
+          "mengakak",
+          "terkakak-kakak"
+        ]
+      }
+    ]
+  }
+]

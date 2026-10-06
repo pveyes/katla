@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "ci.lap",
+    "akarKata": null,
+    "ejaan": "cilap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelip; kedip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ci.lap",
+    "akarKata": null,
+    "ejaan": "cilap",
+    "baku": false,
+    "alt": "cilok",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mencilok",
+          "pencilok"
+        ]
+      }
+    ]
+  }
+]

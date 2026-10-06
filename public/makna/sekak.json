@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "se.kak",
+    "akarKata": null,
+    "ejaan": "sêkak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan catur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "raja (dalam permainan catur)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata yang diucapkan pemain catur untuk mengingatkan bahwa ia akan mematikan raja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "main catur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Se.kak",
+    "akarKata": null,
+    "ejaan": "sêkak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Indonesia yang tinggal di daerah antara Pulau Bangka dan Belitung, hidupnya di perahu, mengembara di daerah kedua pulau tersebut; Orang Laut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

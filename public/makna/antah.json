@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "an.tah",
+    "akarKata": null,
+    "ejaan": "antah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabah (yang terdapat pada beras atau nasi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang tidak berguna (dalam masyarakat); sesuatu yang kurang baik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu-batuan yang tercampur dengan padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

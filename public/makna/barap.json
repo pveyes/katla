@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.rap",
+    "akarKata": null,
+    "ejaan": "barap",
+    "baku": true,
+    "alt": "barep",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pembarap"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.rap",
+    "akarKata": null,
+    "ejaan": "barap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pembarap"
+        ]
+      }
+    ]
+  }
+]

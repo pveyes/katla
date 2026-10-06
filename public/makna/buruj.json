@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.ruj",
+    "akarKata": null,
+    "ejaan": "buruj",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda pada rasi (gugusan bintang dalam zodiak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

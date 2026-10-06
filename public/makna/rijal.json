@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ri.jal",
+    "akarKata": null,
+    "ejaan": "rijal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laki-laki; pria",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

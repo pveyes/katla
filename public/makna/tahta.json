@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "tah.ta",
+    "akarKata": null,
+    "ejaan": "tahta",
+    "baku": false,
+    "alt": "takhta",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk raja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

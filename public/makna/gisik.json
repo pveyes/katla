@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "gi.sik",
+    "akarKata": null,
+    "ejaan": "gisik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pinggir (tentang sungai); bagian pinggir",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur yang agak miring di tepi laut yang terentang di antara garis muka laut rendah dan medan yang sudah bercorak lain (tebing curam dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

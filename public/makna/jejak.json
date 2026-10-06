@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "je.jak",
+    "akarKata": null,
+    "ejaan": "jêjak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas tapak kaki; bekas langkah",
+        "contoh": "ada -- orang di tanah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan (kelakuan) yang jadi teladan",
+        "contoh": "Isa mengikuti -- ibunya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas yang menunjukkan adanya perbuatan dan sebagainya yang telah dilakukan",
+        "contoh": "ia berusaha menghilangkan -- kejahatannya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah penyimpanan pada cakram liuk atau cakram keras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "lak",
+    "akarKata": null,
+    "ejaan": "lak",
+    "baku": true,
+    "alt": "laka",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perekat keras dari damar berwarna merah atau hitam, untuk cap, meterai, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lak",
+    "akarKata": null,
+    "ejaan": "lak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serangga yang bertubuh sangat kecil, tidak lebih dari 1 mm, hidupnya berkelompok mengisap cairan tanaman inangnya (pohon kesambi, bidara, dan akasia), dari perutnya keluar kotoran lak keras seperti karang yang menempel pada pohon itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "entomologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lak",
+    "akarKata": null,
+    "ejaan": "lak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat anorganik yang menyerap warna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "entomologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

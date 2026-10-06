@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "mim",
+    "akarKata": null,
+    "ejaan": "mim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-24 abjad Arab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mim",
+    "akarKata": null,
+    "ejaan": "mim",
+    "baku": false,
+    "alt": "meme",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ide, perilaku, atau gaya yang menyebar dari satu orang ke orang lain dalam sebuah budaya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cuplikan gambar dari acara televisi, film, dan sebagainya atau gambar-gambar buatan sendiri yang dimodifikasi dengan menambahkan kata-kata atau tulisan-tulisan untuk tujuan melucu dan menghibur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

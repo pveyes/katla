@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "se.dan",
+    "akarKata": null,
+    "ejaan": "sèdan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan bermotor yang tertutup, beroda empat, berpintu dua atau empat, beratap, dengan tempat duduk untuk empat sampai lima orang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.dan",
+    "akarKata": null,
+    "ejaan": "sêdan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suara tertahan-tahan (seperti pada orang yang lama menangis); isak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

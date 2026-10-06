@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aban",
+    "akarKata": null,
+    "ejaan": "aban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada duda dalam masyarakat Dayak Kayan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

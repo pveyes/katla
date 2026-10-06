@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.rup.si",
+    "akarKata": null,
+    "ejaan": "abrupsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan terlepas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

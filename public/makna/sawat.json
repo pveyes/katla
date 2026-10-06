@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.wat",
+    "akarKata": null,
+    "ejaan": "sawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali (kain, ban kulit, dan sebagainya) yang disandangkan atau dibelitkan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "motif batik berupa sayap dan ekor burung garuda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

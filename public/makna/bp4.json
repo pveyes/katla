@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "BP",
+    "akarKata": null,
+    "ejaan": "BP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Penasihat Perkawinan dan Penyelesaian Perceraian (lembaga pemerintah yang memberikan bantuan nasihat perkawinan kepada masyarakat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "BP",
+    "akarKata": null,
+    "ejaan": "BP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Balai Pengobatan Pemberantasan Penyakit Paru-Paru (balai yang didirikan pemerintah yang bertugas di bidang pengobatan dan pemberantasan penyakit paru-paru)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

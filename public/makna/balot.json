@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ba.lot",
+    "akarKata": null,
+    "ejaan": "balot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suara yang diberikan dalam pemilihan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "politik dan pemerintahan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas yang memuat nama calon untuk dipilih yang dibagi-bagikan kepada para pemilih agar mereka dapat menentukan pilihannya atau menambahkan nama yang belum dicantumkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "politik dan pemerintahan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.das",
+    "akarKata": null,
+    "ejaan": "cadas",
+    "baku": true,
+    "alt": "wadas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan tanah yang keras; batu yang terbentuk dari padatan pasir atau tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

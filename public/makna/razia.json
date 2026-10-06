@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ra.zia",
+    "akarKata": null,
+    "ejaan": "razia",
+    "baku": true,
+    "alt": "rasia",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penangkapan beramai-ramai; penggerebekan penjahat yang berbahaya bagi keamanan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemeriksaan serentak (surat-surat kendaraan bermotor, kartu tanda penduduk, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

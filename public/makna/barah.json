@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.rah",
+    "akarKata": null,
+    "ejaan": "barah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bengkak yang mengandung nanah (karena infeksi); bisul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.rah",
+    "akarKata": null,
+    "ejaan": "barah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan lemparan kulit kerang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

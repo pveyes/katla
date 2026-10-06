@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AIPDA",
+    "akarKata": null,
+    "ejaan": "AIPDA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ajun Inspektur Polisi Dua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

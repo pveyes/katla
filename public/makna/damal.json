@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "da.mal",
+    "akarKata": null,
+    "ejaan": "damal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan maju perlahan-lahan (tentang kapal)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Da.mal",
+    "akarKata": null,
+    "ejaan": "Damal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Nabire, Papua; Amungkal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Damal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

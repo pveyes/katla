@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "be.lan",
+    "akarKata": null,
+    "ejaan": "bêlan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rintangan; halangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerendel",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

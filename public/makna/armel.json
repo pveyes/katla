@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ar.mel",
+    "akarKata": null,
+    "ejaan": "armêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Arab Melayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

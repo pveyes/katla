@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ko.kot",
+    "akarKata": null,
+    "ejaan": "kokot",
+    "baku": true,
+    "alt": "kukut",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besi (kawat) yang dibengkokkan untuk memaut; gembok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bengkok dan melekat (tentang jari tangan, kaki, dan sebagainya); kerukut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.kot",
+    "akarKata": null,
+    "ejaan": "kokot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "layan; pelihara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

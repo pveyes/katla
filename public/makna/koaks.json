@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.aks",
+    "akarKata": null,
+    "ejaan": "koaks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lihat kabel koaksial",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

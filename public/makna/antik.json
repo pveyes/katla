@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "an.tik",
+    "akarKata": null,
+    "ejaan": "antik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuno, tetapi tetap bernilai sebagai hasil karya seni atau benda budaya (tentang barang-barang)",
+        "contoh": "koleksi barang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perilaku, sifat, penampilan, dan sebagainya yang tidak seperti biasanya (tentang orang)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.tik",
+    "akarKata": null,
+    "ejaan": "antik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu kecil seberat sekitar 0,5 kg yang diikat pada jaring sebagai pemberat",
+        "contoh": "nelayan tradisional menggunakan (antik) agar jaring yang dipasang terbenam",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

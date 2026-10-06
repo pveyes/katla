@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "am.ber",
+    "akarKata": null,
+    "ejaan": "ambér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang tidak termasuk rumpun asli Papua (kaum pendatang) seperti orang Bugis, orang Jawa, orang Batak",
+        "contoh": "di Papua banyak terdapat orang -- menjadi pengusaha sukses",
+        "info": [
+          {
+            "sumber": "papua",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.ber",
+    "akarKata": null,
+    "ejaan": "ambér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang harum berasal dari perut ikan laut atau dari sebangsa damar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

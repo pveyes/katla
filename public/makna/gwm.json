@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "GWM",
+    "akarKata": null,
+    "ejaan": "GWM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "giro wajib minimum (jumlah dana yang wajib dipelihara oleh bank yang besarnya ditetapkan oleh Bank Indonesia sebesar persentase tertentu dari dana pihak ketiga bank)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "keuangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

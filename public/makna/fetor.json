@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "fe.tor",
+    "akarKata": null,
+    "ejaan": "fétor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala kampung di Nusa Tenggara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala kelompok suku di Nusa Tenggara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan bangsawan biasa (bukan keturunan raja) suku Dawan di Kupang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

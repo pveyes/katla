@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "la.rut",
+    "akarKata": null,
+    "ejaan": "larut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hanyut makin jauh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bertambah lama (jauh dan sebagainya)",
+        "contoh": "sementara waktu bertambah --, dia belum bebas juga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "makin bertambah",
+        "contoh": "kian hari penyakitnya kian --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi cair; luluh; hancur",
+        "contoh": "garam cepat -- dalam air",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "asyik; tenggelam",
+        "contoh": "karena sepi mencengkam, kami -- dalam pikiran masing-masing",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rut",
+    "akarKata": null,
+    "ejaan": "larut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

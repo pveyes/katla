@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pe.kan",
+    "akarKata": null,
+    "ejaan": "pêkan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasar",
+        "contoh": "mereka pergi ke -- membeli sayuran",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minggu (7 hari)",
+        "contoh": "harapanku dia datang -- ini",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertemuan atau acara yang dibuat untuk memperlombakan sesuatu (tentang olahraga, seni, dan sebagainya)",
+        "contoh": "-- Olahraga Nasional dilaksanakan empat tahun sekali; -- sastra",
+        "info": []
+      }
+    ]
+  }
+]

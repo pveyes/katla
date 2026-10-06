@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "stu.di",
+    "akarKata": null,
+    "ejaan": "studi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penelitian ilmiah; kajian; telaahan",
+        "contoh": "ia melakukan -- tentang suku-suku terasing di Indonesia",
+        "info": []
+      }
+    ]
+  }
+]

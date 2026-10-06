@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ma.nik",
+    "akarKata": null,
+    "ejaan": "manik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "butir kecil-kecil (dari merjan, karang, dan sebagainya) diberi lubang dan dicocok untuk perhiasan, kalung, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.nik",
+    "akarKata": null,
+    "ejaan": "manik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa senang tidak terkendali yang muncul; mania",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

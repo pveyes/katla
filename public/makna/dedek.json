@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.dek",
+    "akarKata": null,
+    "ejaan": "dêdêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dedak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

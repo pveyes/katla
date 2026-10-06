@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ra.cik",
+    "akarKata": null,
+    "ejaan": "racik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "iris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.cik",
+    "akarKata": null,
+    "ejaan": "racik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jerat (dari ijuk, rambut kuda) untuk menangkap burung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.cik",
+    "akarKata": null,
+    "ejaan": "racik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ramu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ko.dok",
+    "akarKata": null,
+    "ejaan": "kodok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "katak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mobil kecil merek VW (Volkswagen)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.dok",
+    "akarKata": null,
+    "ejaan": "kodok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "raba-raba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

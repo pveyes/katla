@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "si.fon",
+    "akarKata": null,
+    "ejaan": "sifon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian berbentuk corong di kepala cumi-cumi yang berfungsi mengarahkan gerak alih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.fon",
+    "akarKata": null,
+    "ejaan": "sifon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama kain (cita) yang halus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.fon",
+    "akarKata": null,
+    "ejaan": "sifon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan berbentuk saluran air, dibuat menyilang melintasi hambatan, letaknya hampir sama tinggi dengan dasar saluran; bangunan yang dibuat di bawah dasar sungai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pipa lengkung mendekati bentuk U, untuk memindahkan cairan dari wadah yang satu ke wadah yang lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

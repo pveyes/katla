@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "isi",
+    "akarKata": null,
+    "ejaan": "isi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang ada (termuat, terkandung, dan sebagainya) di dalam suatu benda dan sebagainya",
+        "contoh": "-- gudang itu pupuk dan alat-alat pertanian",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besarnya suatu ruangan; volume",
+        "contoh": "-- kaleng itu 20 liter",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "apa yang tertulis di dalamnya (tentang buku, surat, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inti atau bagian yang pokok dari suatu wejangan (pidato,pembicaraan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ISI",
+    "akarKata": null,
+    "ejaan": "ISI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Institut Seni Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

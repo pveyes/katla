@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sam.pu",
+    "akarKata": null,
+    "ejaan": "sampu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit (seperti sakit kuning, demam) yang berkepanjangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ga.nih",
+    "akarKata": null,
+    "ejaan": "ganih",
+    "baku": false,
+    "alt": "genis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gading gajah betina",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.nih",
+    "akarKata": null,
+    "ejaan": "ganih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putih (tentang kain)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

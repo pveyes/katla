@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "sa.ban",
+    "akarKata": null,
+    "ejaan": "saban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tiap(-tiap)",
+        "contoh": "-- hari mereka berjualan di pasar",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.ban",
+    "akarKata": null,
+    "ejaan": "saban",
+    "baku": false,
+    "alt": "Syakban",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan ke-8 tahun Hijriah (29 hari)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.ban",
+    "akarKata": null,
+    "ejaan": "Saban",
+    "baku": false,
+    "alt": "Syakban",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan ke-8 tahun Hijriah (29 hari)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.ban",
+    "akarKata": null,
+    "ejaan": "Saban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat Dayak Saban",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

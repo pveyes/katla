@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.rak",
+    "akarKata": null,
+    "ejaan": "rarak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berarakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.rak",
+    "akarKata": null,
+    "ejaan": "rarak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musik tradisional Melayu Riau yang terdiri atas celempong, gong, dan gendang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

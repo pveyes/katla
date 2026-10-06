@@ -1,0 +1,93 @@
+[
+  {
+    "sukuKata": "mar.ga",
+    "akarKata": null,
+    "ejaan": "marga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang liar (tidak diternakkan atau dipelihara)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mar.ga",
+    "akarKata": null,
+    "ejaan": "marga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok kekerabatan yang eksogam dan unilinear, baik secara matrilineal maupun patrilineal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian daerah (sekumpulan dusun) yang agak luas (di Sumatra Selatan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mar.ga",
+    "akarKata": null,
+    "ejaan": "marga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan; dasar (yang dipakai sebagai pegangan hidup, bekerja, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mar.ga",
+    "akarKata": null,
+    "ejaan": "marga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan taksonomi (takson) yang berada di antara suku dan jenis, serta merupakan wadah yang mempersalinkan jenis-jenis yang erat hubungannya, huruf depan nama marga ditulis dengan huruf kapital dan selalu tercantum dalam nama jenis; genus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

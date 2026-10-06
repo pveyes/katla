@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "ser.tu",
+    "akarKata": null,
+    "ejaan": "sèrtu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sersan satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ser.tu",
+    "akarKata": null,
+    "ejaan": "sêrtu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyertu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

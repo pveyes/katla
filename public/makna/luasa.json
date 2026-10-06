@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lu.a.sa",
+    "akarKata": null,
+    "ejaan": "luasa",
+    "baku": false,
+    "alt": "leluasa",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lapang",
+        "contoh": "pekarangannya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bebas",
+        "contoh": "ternaknya -- ke sana ke sini karena lepas dari tambatnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terbatas (terlarang dan sebagainya)",
+        "contoh": "makanannya -- sejak dua bulan terakhir ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "boleh berbuat sesuka hati",
+        "contoh": "karena bapaknya berpengaruh, tampaknya anak itu -- di desanya",
+        "info": []
+      }
+    ]
+  }
+]

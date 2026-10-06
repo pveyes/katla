@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "si.nar",
+    "akarKata": null,
+    "ejaan": "sinar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancaran terang (cahaya)",
+        "contoh": "-- bulan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cahaya (kelip) mata (sangat tajam pada ketika marah); sorot mata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.nar",
+    "akarKata": null,
+    "ejaan": "sinar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat daun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

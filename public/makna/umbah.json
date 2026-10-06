@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "um.bah",
+    "akarKata": null,
+    "ejaan": "umbah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ijuk untuk penapis kopi daun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

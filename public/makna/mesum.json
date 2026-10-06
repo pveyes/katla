@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "me.sum",
+    "akarKata": null,
+    "ejaan": "mêsum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kotor; cemar (tentang pakaian, badan, dan sebagainya)",
+        "contoh": "pakaiannya telah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak senonoh; tidak patut; keji sekali (tentang perbuatan, kelakuan, dan sebagainya); cabul",
+        "contoh": "bacaan yang isinya sangat --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

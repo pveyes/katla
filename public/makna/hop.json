@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hop",
+    "akarKata": null,
+    "ejaan": "hop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala, misalnya kepala regu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

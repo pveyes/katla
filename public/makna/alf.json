@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "alf",
+    "akarKata": null,
+    "ejaan": "alf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "seribu",
+        "contoh": "-- lailah wa lailah",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

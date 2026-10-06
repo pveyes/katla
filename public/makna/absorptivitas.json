@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.sorp.ti.vi.tas",
+    "akarKata": null,
+    "ejaan": "absorptivitas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nisbah radiasi yang terserap oleh suatu luasan terhadap radiasi total yang menimpa luasan tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

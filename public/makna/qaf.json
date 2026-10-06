@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "qaf",
+    "akarKata": null,
+    "ejaan": "qaf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-21 abjad Arab",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surah ke-50 dalam Alquran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

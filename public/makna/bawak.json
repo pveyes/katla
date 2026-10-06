@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.wak",
+    "akarKata": null,
+    "ejaan": "bawak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit kerbau; belulang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

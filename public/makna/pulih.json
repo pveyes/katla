@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pu.lih",
+    "akarKata": null,
+    "ejaan": "pulih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kembali menjadi semula; menjadi baik (baru) lagi",
+        "contoh": "keadaan kota-kota -- seperti sebelum perang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sembuh atau baik kembali (tentang luka, sakit, kesehatan)",
+        "contoh": "kini kesadarannya berangsur --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "la.jur",
+    "akarKata": null,
+    "ejaan": "lajur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deret beberapa benda (orang dan sebagainya) yang merupakan baris atau banjar",
+        "contoh": "empat -- buku-buku baru yang disusun rapi di rak bukunya menambah semarak ruangan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kolom (dalam surat kabar dan sebagainya)",
+        "contoh": "halaman surat kabar itu terbagi atas sembilan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baris tebal memanjang (pada kain dan sebagainya)",
+        "contoh": "kain putih dengan -- hijau",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baris; garis (pertahanan)",
+        "contoh": "-- pertahanan yang terdepan telah dihujani dengan tembakan artileri",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

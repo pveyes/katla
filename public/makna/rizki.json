@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "rizki",
+    "akarKata": null,
+    "ejaan": "rizki",
+    "baku": false,
+    "alt": "rezeki",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang dipakai untuk memelihara kehidupan (yang diberikan oleh Tuhan); makanan (sehari-hari); nafkah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghidupan; pendapatan (uang dan sebagainya untuk memelihara kehidupan); keuntungan; kesempatan mendapat makan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

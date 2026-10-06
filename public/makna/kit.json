@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "kit",
+    "akarKata": null,
+    "ejaan": "kit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah tempat berjualan madat secara legal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kit",
+    "akarKata": null,
+    "ejaan": "kit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat atau perlengkapan untuk keperluan tertentu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seperangkat suku cadang yang akan dirakit menjadi gawai (alat) seperti radio, mainan, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "co.mel",
+    "akarKata": null,
+    "ejaan": "comèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil manis (cantik); mungil; bagus",
+        "contoh": "anak kecil yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.mel",
+    "akarKata": null,
+    "ejaan": "comèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkataan yang dikeluarkan terus-menerus yang tidak jelas maksudnya (karena rasa marah, dongkol, tidak suka, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat suka mengomel (menggerutu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "to.bat",
+    "akarKata": null,
+    "ejaan": "tobat",
+    "baku": true,
+    "alt": "taubat",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sadar dan menyesal akan dosa (perbuatan yang salah atau jahat) dan berniat akan memperbaiki tingkah laku dan perbuatan",
+        "contoh": "sekarang ia sudah -- dari kejahatan yang pernah dilakukan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kembali kepada agama (jalan, hal) yang benar",
+        "contoh": "setelah mendengar khotbah itu banyak orang yang -- kembali ke jalan yang sesuai dengan ajaran Tuhan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merasa tidak sanggup lagi",
+        "contoh": "-- aku mengajar anakmu",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "menyatakan rasa heran, kesal, atau sebal",
+        "contoh": "--! --!, bengal betul anak itu!",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jera (tidak akan berbuat lagi)",
+        "contoh": "ia sudah -- tidak akan mengisap ganja lagi",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "un.tut",
+    "akarKata": null,
+    "ejaan": "untut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bengkak pada kaki (sakit beri-beri, karena kekurangan vitamin B dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaki gajah (kaki membengkak besar sekali); elefantiasis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

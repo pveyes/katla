@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ga.jih",
+    "akarKata": null,
+    "ejaan": "gajih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gemuk; lemak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.jih",
+    "akarKata": null,
+    "ejaan": "gajih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, berwarna putih dengan corak totol-totol cokelat di seluruh tubuh (termasuk kepala), panjang mencapai 100 cm, berat 6,3 kg, hidup di terumbu karang perairan tropis, tersebar di perairan Laut Merah dan Afrika Timur sampai Jepang, bagian selatan sampai Kaledonia Baru",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

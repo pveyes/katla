@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "lu.nak",
+    "akarKata": null,
+    "ejaan": "lunak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lembut; empuk",
+        "contoh": "beliau hanya diperbolehkan menyantap makanan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lekas marah; sabar; tidak terlampau keras mempertahankan pendiriannya dan sebagainya",
+        "contoh": "mereka termasuk golongan kaum nasionalis yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "reda",
+        "contoh": "hatinya -- setelah dinasihati",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

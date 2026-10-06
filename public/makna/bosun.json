@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.sun",
+    "akarKata": null,
+    "ejaan": "bosun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bosman; serang3",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

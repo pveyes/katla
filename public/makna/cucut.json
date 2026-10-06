@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "cu.cut",
+    "akarKata": null,
+    "ejaan": "cucut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut jenis hiu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.cut",
+    "akarKata": null,
+    "ejaan": "cucut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mencucut"
+        ]
+      }
+    ]
+  }
+]

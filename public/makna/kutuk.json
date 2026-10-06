@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ku.tuk",
+    "akarKata": null,
+    "ejaan": "kutuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "doa atau kata-kata yang dapat mengakibatkan kesusahan atau bencana kepada seseorang atau orang lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesusahan atau bencana yang menimpa seseorang atau orang lain yang disebabkan doa atau kata-kata yang diucapkan orang lain; laknat; sumpah",
+        "contoh": "mereka tidak berani berbuat jahat karena takut kena --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.tuk",
+    "akarKata": null,
+    "ejaan": "kutuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sukat beras (sebanyak empat genggam)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.tuk",
+    "akarKata": null,
+    "ejaan": "kutuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak ayam yang baru menetas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

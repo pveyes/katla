@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mik.ro",
+    "akarKata": null,
+    "ejaan": "mikro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil; tipis; sempit",
+        "contoh": "ditinjau secara -- tempat itu hanya pantas untuk pasar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan jumlah yang sedikit atau ukuran yang kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

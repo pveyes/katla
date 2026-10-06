@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "no.nai",
+    "akarKata": null,
+    "ejaan": "nonai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "umpan pancing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu ambon",
+            "sumberTeks": "bahasa di maluku"
+          }
+        ]
+      }
+    ]
+  }
+]

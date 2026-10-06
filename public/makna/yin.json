@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "yin",
+    "akarKata": null,
+    "ejaan": "yin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekuatan feminin, negatif, dan pasif dalam alam semesta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "filsafat",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

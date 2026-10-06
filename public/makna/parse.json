@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "par.se",
+    "akarKata": null,
+    "ejaan": "parsé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bibit kelapa yang pinak daun majemuknya sudah menyirip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HET",
+    "akarKata": null,
+    "ejaan": "HET",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga eceran tertinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

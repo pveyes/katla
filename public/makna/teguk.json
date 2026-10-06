@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.guk",
+    "akarKata": null,
+    "ejaan": "têguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meneguk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.guk",
+    "akarKata": null,
+    "ejaan": "têguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tegar; keras kepala",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

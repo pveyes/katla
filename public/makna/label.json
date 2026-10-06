@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "la.bel",
+    "akarKata": null,
+    "ejaan": "labèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepotong kertas (kain, logam, kayu, dan sebagainya) yang ditempelkan pada barang dan menjelaskan tentang nama barang, nama pemilik, tujuan, alamat, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "etiket; merek dagang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petunjuk singkat tentang zat yang terkandung dalam obat dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petunjuk kelas kata, sumber kata, dan sebagainya dalam kamus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "catatan analisis pengujian mutu fisik, fisiologis, dan genetik dari benih dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karakter atau himpunan karakter yang digunakan untuk mengidentifikasi suatu variabel atau bagian dari data atau berkas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

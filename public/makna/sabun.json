@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sa.bun",
+    "akarKata": null,
+    "ejaan": "sabun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan yang dapat berbuih, digunakan untuk mandi, mencuci pakaian, piring, dan sebagainya, biasanya berupa campuran alkali, garam, dan natrium",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.bun",
+    "akarKata": null,
+    "ejaan": "sabun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "putih atau putih kekuningan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

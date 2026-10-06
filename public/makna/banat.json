@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.nat",
+    "akarKata": null,
+    "ejaan": "banat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain lakan yang halus dibuat dari bulu (domba)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.nat",
+    "akarKata": null,
+    "ejaan": "banat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "membanat"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ro.sok",
+    "akarKata": null,
+    "ejaan": "rosok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "raba; rogoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.sok",
+    "akarKata": null,
+    "ejaan": "rosok",
+    "baku": false,
+    "alt": "rongsok",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak sama sekali; bejat",
+        "contoh": "mobilnya sudah -- sejak beberapa lama",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wai.ma",
+    "akarKata": null,
+    "ejaan": "waima",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "walaupun",
+        "contoh": "apa pun yang dibuatnya, -- dengan meledakkan bom, aku tidak menyerah",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

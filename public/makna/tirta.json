@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tir.ta",
+    "akarKata": null,
+    "ejaan": "tirta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

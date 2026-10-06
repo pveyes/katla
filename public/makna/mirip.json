@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.rip",
+    "akarKata": null,
+    "ejaan": "mirip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir sama atau serupa (dengan)",
+        "contoh": "mukanya -- muka ibunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sama halnya (rupanya) dengan; seolah-olah",
+        "contoh": "bunga mawar plastik itu -- bunga mawar asli",
+        "info": []
+      }
+    ]
+  }
+]

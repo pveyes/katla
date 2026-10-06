@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.dis",
+    "akarKata": null,
+    "ejaan": "abdis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk kepala biara perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

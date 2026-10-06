@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "aking",
+    "akarKata": null,
+    "ejaan": "aking",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa nasi yang sudah kering (karena dijemur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aking",
+    "akarKata": null,
+    "ejaan": "aking",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangsa zaman purba yang pernah mendiami tanah Besemah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "basemah",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

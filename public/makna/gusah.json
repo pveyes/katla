@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.sah",
+    "akarKata": null,
+    "ejaan": "gusah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "halau; usir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ki.mah",
+    "akarKata": null,
+    "ejaan": "kimah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga; nilai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

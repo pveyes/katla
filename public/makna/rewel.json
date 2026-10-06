@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re.wel",
+    "akarKata": null,
+    "ejaan": "rèwèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak bicara (suka membantah, tidak mudah menurut, ada-ada saja yang diminta)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar (tidak mudah mengerjakannya); tidak berjalan lancar (tentang mesin)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

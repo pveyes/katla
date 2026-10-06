@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "su.buh",
+    "akarKata": null,
+    "ejaan": "subuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu antara terbit fajar dan menjelang terbit matahari; waktu subuh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu salat wajib setelah terbit fajar sampai menjelang matahari terbit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(huruf awal ditulis kapital) salat wajib sebanyak dua rakaat pada waktu antara terbit fajar dan menjelang terbit matahari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

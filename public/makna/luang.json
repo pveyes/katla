@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "lu.ang",
+    "akarKata": null,
+    "ejaan": "luang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lowong (tidak dihuni, ditempati, dan sebagainya); kosong",
+        "contoh": "kebetulan ada tempat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senggang; tidak sibuk",
+        "contoh": "dikerjakan dalam waktu --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.ang",
+    "akarKata": null,
+    "ejaan": "luang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meluang"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ta.tib",
+    "akarKata": null,
+    "ejaan": "tatib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tata tertib",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

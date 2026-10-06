@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wa.zan",
+    "akarKata": null,
+    "ejaan": "wazan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola kata dalam bahasa Arab",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.ter",
+    "akarKata": null,
+    "ejaan": "rutêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dihubungkan pada jaringan untuk meneruskan paket data",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "bi.duk",
+    "akarKata": null,
+    "ejaan": "biduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu kecil terbuat dari kayu, tidak berlayar, dipakai untuk menangkap ikan atau mengangkat barang-barang di sungai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.duk",
+    "akarKata": null,
+    "ejaan": "biduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembinaan penduduk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

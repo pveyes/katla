@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "bu.kat",
+    "akarKata": null,
+    "ejaan": "bukat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kotor; hitam; becek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Bu.kat",
+    "akarKata": null,
+    "ejaan": "Bukat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Bukat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

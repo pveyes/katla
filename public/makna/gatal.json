@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ga.tal",
+    "akarKata": null,
+    "ejaan": "gatal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa sangat geli yang merangsang pada kulit tubuh (karena kutu dan sebagainya)",
+        "contoh": "kepalaku -- benar karena banyak ketombe",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mendatangkan perasaan gatal",
+        "contoh": "ulat bulu itu -- bila tersentuh",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka atau ingin bersetubuh (tentang perempuan); gasang",
+        "contoh": "ia dicaci maki, dikatakan perempuan --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ingin sekali hendak berbuat sesuatu (memukul dan sebagainya)",
+        "contoh": "tangannya --, hendak meninju kawannya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

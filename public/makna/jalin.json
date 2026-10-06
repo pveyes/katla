@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.lin",
+    "akarKata": null,
+    "ejaan": "jalin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "susun; rangkai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "anyam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "le.tak",
+    "akarKata": null,
+    "ejaan": "lètak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lemah sekali; tidak bertenaga; payah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lapar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.tak",
+    "akarKata": null,
+    "ejaan": "lêtak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat beradanya sesuatu",
+        "contoh": "di mana -- rumahnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan; keadaan",
+        "contoh": "coba jelaskan bagaimana -- persoalannya",
+        "info": []
+      }
+    ]
+  }
+]

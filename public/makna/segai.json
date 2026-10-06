@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Se.gai",
+    "akarKata": null,
+    "ejaan": "sêgai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah aliran Sungai Kelai dan Long Alai di Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Segai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

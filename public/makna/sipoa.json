@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.poa",
+    "akarKata": null,
+    "ejaan": "sipoa",
+    "baku": false,
+    "alt": "swipoa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menghitung (menjumlah, mengurangi, membagi, dan memperbanyak); dekak-dekak (buatan Cina)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

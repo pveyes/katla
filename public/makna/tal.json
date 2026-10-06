@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "tal",
+    "akarKata": null,
+    "ejaan": "tal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan palem, daunnya disebut rontal (kemudian menjadi lontar), digunakan untuk kertas tulis (zaman dulu dan sekarang masih digunakan di Bali); batang lontar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun tal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tal",
+    "akarKata": null,
+    "ejaan": "tal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang dayung yang terdapat pada sisi kiri dan sisi kanan buritan sampan tempat menyangkutkan gandar dayung pada kilas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "cu.kai",
+    "akarKata": null,
+    "ejaan": "cukai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pajak atau bea yang dikenakan pada barang impor dan barang konsumsi",
+        "contoh": "barang impor tidak boleh dikeluarkan dari pelabuhan sebelum --nya dibayar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebagian dari hasil tanah (seperti sawah, ladang) yang wajib diberikan kepada tuan (pemilik) tanah sebagai ongkos tanah",
+        "contoh": "karena musim kemarau yang lama, panen padi hanya cukup untuk membayar --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "be.rok",
+    "akarKata": null,
+    "ejaan": "bèrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampan kecil, terbuat dari kayu, tidak bertutup, digunakan untuk mengangkut orang",
+        "contoh": "mereka semua naik -- menuju pulau itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.rok",
+    "akarKata": null,
+    "ejaan": "bèrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perut bagian bawah",
+        "contoh": "turun --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.rok",
+    "akarKata": null,
+    "ejaan": "bêrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "perut bagian bawah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

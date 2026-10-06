@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ITS",
+    "akarKata": null,
+    "ejaan": "ITS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Institut Teknologi Sepuluh Nopember",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

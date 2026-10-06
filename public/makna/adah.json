@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "adah",
+    "akarKata": null,
+    "ejaan": "adah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menduga kedalaman air dengan kayu atau kaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

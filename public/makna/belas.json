@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "be.las",
+    "akarKata": null,
+    "ejaan": "bêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasaan iba atau sedih melihat orang lain menderita",
+        "contoh": "muncul rasa --nya melihat pengemis tua itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.las",
+    "akarKata": null,
+    "ejaan": "bêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan bilangan dari 11–19",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

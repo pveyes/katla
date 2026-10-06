@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "po.lan",
+    "akarKata": null,
+    "ejaan": "polan",
+    "baku": true,
+    "alt": "fulan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan kepada orang yang tidak diketahui namanya",
+        "contoh": "si --, si Anu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan kepada orang yang tidak ingin disebutkan nama sebenarnya atau namanya terlupa",
+        "contoh": "bapak si -- itu telah pergi kemarin",
+        "info": []
+      }
+    ]
+  }
+]

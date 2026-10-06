@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.lok",
+    "akarKata": null,
+    "ejaan": "silok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belum terbuka atau belum awas benar (tentang mata, seperti baru saja bangun tidur)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

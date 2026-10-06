@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pe.gas",
+    "akarKata": null,
+    "ejaan": "pêgas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "per (bilah baja tipis yang dapat melenting)",
+        "contoh": "-- jam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rotan dan sebagainya untuk memukul (kasur dan sebagainya)",
+        "contoh": "Ibu mengambil -- untuk memukul kasur yang dijemur",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

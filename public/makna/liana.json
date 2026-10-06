@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "li.a.na",
+    "akarKata": null,
+    "ejaan": "liana",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan merambat dalam hutan tropis, mempunyai batang berkayu panjang, biasanya berbentuk aneh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.a.na",
+    "akarKata": null,
+    "ejaan": "liana",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "habitus dari jenis tumbuhan yang merambat dan melilit yang biasanya berlimpah di hutan tropis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

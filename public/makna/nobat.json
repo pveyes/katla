@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "no.bat",
+    "akarKata": null,
+    "ejaan": "nobat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gendang besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gamelan Melayu yang hanya dibunyikan pada waktu upacara penobatan raja",
+        "contoh": "pukul -- tiup nafiri, hendak tabal raja di Keling",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "no.bat",
+    "akarKata": null,
+    "ejaan": "nobat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keluar dari penghadapan; dihadap",
+        "contoh": "maka empat puluh hari baginda tiada --",
+        "info": []
+      }
+    ]
+  }
+]

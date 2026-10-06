@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "Ka.din",
+    "akarKata": null,
+    "ejaan": "Kadin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kamar Dagang dan Industri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "perdagangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

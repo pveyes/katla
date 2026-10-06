@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BJJ",
+    "akarKata": null,
+    "ejaan": "BJJ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belajar jarak jauh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

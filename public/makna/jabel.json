@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.bel",
+    "akarKata": null,
+    "ejaan": "jabêl",
+    "baku": false,
+    "alt": "jabal",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rampas, begal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

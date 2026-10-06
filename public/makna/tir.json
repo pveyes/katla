@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "tir",
+    "akarKata": null,
+    "ejaan": "tir",
+    "baku": true,
+    "alt": "tar, ter",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah catur (benteng, gajah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tir",
+    "akarKata": null,
+    "ejaan": "tir",
+    "baku": false,
+    "alt": "ter",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang cair yang hitam warnanya untuk mengecat; aspal",
+        "contoh": "lubang kecil di talang itu dapat ditutup dengan --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ab.sti.nen.si",
+    "akarKata": null,
+    "ejaan": "abstinènsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemantangan terhadap makanan, minuman, atau perilaku seksual secara suka rela",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha pengontrolan diri dari hal yang kurang baik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

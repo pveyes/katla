@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "abon",
+    "akarKata": null,
+    "ejaan": "abon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan yang dibuat dari daging atau ikan rebus yang diserat-seratkan, dibumbui, kemudian digoreng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abon",
+    "akarKata": null,
+    "ejaan": "abon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbekalan untuk melaut, biasanya berupa bahan makanan pokok, seperti beras",
+        "contoh": "sebelum pergi melaut, nelayan pasti menyiapkan --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

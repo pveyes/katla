@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "se.put",
+    "akarKata": null,
+    "ejaan": "sêput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekas; segera; cepat",
+        "contoh": "kereta api --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.put",
+    "akarKata": null,
+    "ejaan": "sêput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suram; luntur (tentang warna dan sebagainya)",
+        "contoh": "baju saya baru sekali dicuci sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusam, tidak berkilat (tentang warna logam)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

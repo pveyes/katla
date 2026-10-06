@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pi.sah",
+    "akarKata": null,
+    "ejaan": "pisah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cerai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berpisah; bercerai",
+        "contoh": "sebagai saudara seperguruan yang karib, saya tidak dapat -- dengan kawan-kawan yang lain",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

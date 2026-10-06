@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "de.lap",
+    "akarKata": null,
+    "ejaan": "dêlap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "api dan asap yang keluar dari mulut senapan pada saat ditembakkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.lap",
+    "akarKata": null,
+    "ejaan": "dêlap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka meminta sesuatu kepada orang lain tanpa mempunyai rasa malu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

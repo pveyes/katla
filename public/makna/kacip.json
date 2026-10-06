@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.cip",
+    "akarKata": null,
+    "ejaan": "kacip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gunting tajam sebelah dan sendinya ada di ujung (perkakas untuk membelah pinang, gambir, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat penjepit lembaran kertas (surat dan sebagainya), terbuat dari kawat yang dilipat membentuk lingkaran memanjang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "be.sok",
+    "akarKata": null,
+    "ejaan": "bèsok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari sesudah hari ini; esok hari",
+        "contoh": "hari ini hari Kamis, -- hari Jumat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu yang akan datang; kelak",
+        "contoh": "ia berjanji mengembalikan pinjamannya -- jika sudah ada uang",
+        "info": []
+      }
+    ]
+  }
+]

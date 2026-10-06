@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pu.lau",
+    "akarKata": null,
+    "ejaan": "pulau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah (daratan) yang dikelilingi air (di laut, di sungai, atau di danau)",
+        "contoh": "berlayar di -- kapuk",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

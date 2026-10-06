@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "to.gok",
+    "akarKata": null,
+    "ejaan": "togok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang kayu yang sudah ditebang dahan-dahannya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tubuh yang tidak bertangan dan berkaki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.gok",
+    "akarKata": null,
+    "ejaan": "togok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jermal atau tempat menangkap ikan di tepi pantai atau sungai",
+        "contoh": "sudah lama -- di sana tidak didatangi  nelayan",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

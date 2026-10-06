@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "te.gal",
+    "akarKata": null,
+    "ejaan": "têgal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "karena; sebab",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.gal",
+    "akarKata": null,
+    "ejaan": "têgal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang luas serta rata (yang ditanami palawija dan sebagainya dengan tidak mempergunakan sistem irigasi dan bergantung pada hujan); ladang; huma",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.gal",
+    "akarKata": null,
+    "ejaan": "têgal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang hidup di air payau atau laut, ukurannya mencapai 80 cm, dapat mencapai berat 4 kg, hidup di kolom perairan tropis dengan kedalaman 20–100 m, tersebar di perairan Indo-Pasifik (Afrika Timur hingga Jepang dan Australia)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Te.gal",
+    "akarKata": null,
+    "ejaan": "têgal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota yang terletak di bagian utara Provinsi Jawa Tengah, terkenal dengan sebutan Kota Bahari",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Jawa Tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

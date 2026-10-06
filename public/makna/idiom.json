@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "idi.om",
+    "akarKata": null,
+    "ejaan": "idiom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konstruksi yang maknanya tidak sama dengan gabungan makna unsurnya, misalnya kambing hitam dalam kalimat dalam peristiwa itu hansip menjadi kambing hitam, padahal mereka tidak tahu apa-apa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa dan dialek yang khas menandai suatu bangsa, suku, kelompok, dan lain-lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          },
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

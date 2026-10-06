@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lei",
+    "akarKata": null,
+    "ejaan": "léi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan batu tulis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu tulis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

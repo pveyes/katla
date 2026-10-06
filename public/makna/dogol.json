@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "do.gol",
+    "akarKata": null,
+    "ejaan": "dogol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bertanduk (tentang lembu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berbalung (tentang ayam)",
+        "contoh": "ia lari bagai ayam --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.gol",
+    "akarKata": null,
+    "ejaan": "dogol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bodoh",
+        "contoh": "dia memang --, dua tambah dua saja tidak tahu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.gol",
+    "akarKata": null,
+    "ejaan": "dogol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jendul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

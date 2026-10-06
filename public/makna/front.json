@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "front",
+    "akarKata": null,
+    "ejaan": "front",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian terdepan; garis depan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "medan pertempuran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan kesatuan atau gerakan bersama dalam mencapai suatu tujuan politik atau ideologi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "aji",
+    "akarKata": null,
+    "ejaan": "aji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berharga sekali dan dianggap bertuah (tentang benda keramat)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ternilai kehormatan dan kedudukannya sehingga orang merasa wajib mengagungkan dan menghormati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aji",
+    "akarKata": null,
+    "ejaan": "aji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baginda; raja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Aji",
+    "akarKata": null,
+    "ejaan": "Aji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah di Provinsi Sumatra Selatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialek bahasa Komering yang dituturkan di daerah Aji",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Aji",
+    "akarKata": null,
+    "ejaan": "Aji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar kebangsawanan untuk keturunan bangsawan Kutai, hanya diturunkan oleh pria bangsawan Kutai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

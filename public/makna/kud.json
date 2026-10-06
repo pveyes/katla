@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KUD",
+    "akarKata": null,
+    "ejaan": "KUD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "koperasi unit desa (koperasi di wilayah pedesaan yang bergerak dalam penyediaan kebutuhan masyarakat yang berkaitan dengan kegiatan pertanian)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ca.rik",
+    "akarKata": null,
+    "ejaan": "carik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cabik; robek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong untuk surat, kertas, helai, dan sebagainya",
+        "contoh": "dua -- kertas",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.rik",
+    "akarKata": null,
+    "ejaan": "carik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "juru tulis desa; kerani",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.rik",
+    "akarKata": null,
+    "ejaan": "carik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sawah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

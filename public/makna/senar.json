@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.nar",
+    "akarKata": null,
+    "ejaan": "sênar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali (dawai) alat musik gesek atau petik seperti pada biola, gitar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali raket",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

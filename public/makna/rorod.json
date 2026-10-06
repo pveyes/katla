@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ro.rod",
+    "akarKata": null,
+    "ejaan": "rorod",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merorod",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

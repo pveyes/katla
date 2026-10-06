@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.rum",
+    "akarKata": null,
+    "ejaan": "férum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unsur logam, berwarna putih perak, dengan nomor atom 26, berlambang Fe, dan bobot atom 55,847; besi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

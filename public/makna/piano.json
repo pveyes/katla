@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "pi.a.no",
+    "akarKata": null,
+    "ejaan": "piano",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik berdawai baja, dibunyikan dengan memukulkan palu-paluan pada dawai itu, dan dimainkan dengan menekan tutsnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "istilah musik yang berarti lembut (tentang lagu yang harus dimainkan dengan lembut)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

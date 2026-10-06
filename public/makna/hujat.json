@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "hu.jat",
+    "akarKata": null,
+    "ejaan": "hujat",
+    "baku": true,
+    "alt": "hujah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "caci; cela",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fitnah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

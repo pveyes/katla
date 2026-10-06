@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.dis",
+    "akarKata": null,
+    "ejaan": "kudis",
+    "baku": true,
+    "alt": "kudil",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit yang gatal dan menular",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit yang menular, terutama pada ternak (domba dan sapi), disebabkan oleh sejenis tungau yang hidup di dalam kulit, dapat menular pada manusia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

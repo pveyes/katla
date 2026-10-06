@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "Lib.ra",
+    "akarKata": null,
+    "ejaan": "Libra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasi bintang di belahan langit selatan khatulistiwa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zodiak ke-7 yang digambarkan dengan neraca sebagai lambang bagi orang yang dilahirkan antara 23 September dan 22 Oktober; Tula; Mizan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astrologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kam.ka",
+    "akarKata": null,
+    "ejaan": "kamka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain sutra yang berhiaskan benang emas",
+        "contoh": "lain dari itu dibawa pula sutra benang emas -- dewangga",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

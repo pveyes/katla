@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "un.dak",
+    "akarKata": null,
+    "ejaan": "undak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.dak",
+    "akarKata": null,
+    "ejaan": "undak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tingkat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.dak",
+    "akarKata": null,
+    "ejaan": "undak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "undak-undakan"
+        ]
+      }
+    ]
+  }
+]

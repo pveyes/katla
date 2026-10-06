@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "go.kar",
+    "akarKata": null,
+    "ejaan": "gokar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedati kecil atau kereta kecil (untuk anak-anak) yang didorong atau ditarik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rangka kecil di atas roda-roda untuk membantu anak belajar berjalan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mobil balap kecil yang tidak bertenda",
+        "contoh": "pembalap -- adu cepat di arena balap mobil",
+        "info": []
+      }
+    ]
+  }
+]

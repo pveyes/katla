@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.lah",
+    "akarKata": null,
+    "ejaan": "kalah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak menang atau dalam keadaan tidak menang (dalam perkelahian, perang, pertandingan, pemilihan, dan sebagainya); dapat diungguli lawan",
+        "contoh": "dia -- dalam merebut bola itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kehilangan atau merugi karena tidak menang",
+        "contoh": "kesebelasan ibu kota -- dalam pertandingan sepak bola melawan kesebelasan tamu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak lulus (dalam ujian)",
+        "contoh": "sudah dua kali ia -- dalam ujiannya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak menyamai; kurang dari; tidak sebesar; tidak sekuat",
+        "contoh": "luas stadion kota itu -- dibandingkan dengan luas stadion di kotaku",
+        "info": []
+      }
+    ]
+  }
+]

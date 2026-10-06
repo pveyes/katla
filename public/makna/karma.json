@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "kar.ma",
+    "akarKata": null,
+    "ejaan": "karma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan manusia ketika hidup di dunia",
+        "contoh": "hidup sebagai umat Tuhan itu sekadar melakukan darma dan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hukum sebab-akibat",
+        "contoh": "-- bukan hanya menguasai manusia, melainkan juga merupakan suatu hukum mutlak dalam alam",
+        "info": []
+      }
+    ]
+  }
+]

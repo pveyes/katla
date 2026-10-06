@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "bu.suk",
+    "akarKata": null,
+    "ejaan": "busuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak dan berbau tidak sedap (tentang buah, daging, dan sebagainya)",
+        "contoh": "mangga itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbau tidak sedap (tentang bangkai dan sebagainya)",
+        "contoh": "bangkai tikus itu -- benar baunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buruk; jelek; tidak menyenangkan",
+        "contoh": "kepala daerah itu sudah mendapat nama --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penyakit yang ditandai dengan penghancuran jaringan sebagai hasil kegiatan jamur atau bakteri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

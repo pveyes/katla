@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lu.kah",
+    "akarKata": null,
+    "ejaan": "lukah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menangkap ikan (seperti bubu) yang dipasang di dalam air yang tidak berapa dalam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.kah",
+    "akarKata": null,
+    "ejaan": "lukah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tampak kemaluannya (karena tidak duduk dengan rapi, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu malaysia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

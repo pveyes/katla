@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "klaim",
+    "akarKata": null,
+    "ejaan": "klaim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuntutan pengakuan atas suatu fakta bahwa seseorang berhak (memiliki atau mempunyai) atas sesuatu",
+        "contoh": "pemerintah Indonesia akan mengajukan -- ganti rugi kepada pemilik kapal asing itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan tentang suatu fakta atau kebenaran sesuatu",
+        "contoh": "ia mengajukan -- bahwa barang-barang elektronik itu miliknya",
+        "info": []
+      }
+    ]
+  }
+]

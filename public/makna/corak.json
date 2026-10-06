@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "co.rak",
+    "akarKata": null,
+    "ejaan": "corak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga atau gambar (ada yang berwarna-warna) pada kain (tenunan, anyaman, dan sebagainya)",
+        "contoh": "-- kain sarung ini kurang bagus",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berjenis-jenis warna pada warna dasar (tentang kain, bendera, dan sebagainya)",
+        "contoh": "dasarnya putih, --nya merah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat (paham, macam, bentuk) tertentu",
+        "contoh": "perkumpulan itu tidak tentu --nya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

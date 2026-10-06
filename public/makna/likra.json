@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "lik.ra",
+    "akarKata": null,
+    "ejaan": "likra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serat poliuretan elastis dan ringan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain yang terbuat dari serat poliuretan elastis dan ringan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

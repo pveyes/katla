@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "sen",
+    "akarKata": null,
+    "ejaan": "sèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan uang senilai 1/100 dari nilai satuannya, seperti rupiah, dolar Amerika, dolar Australia, ringgit Malaysia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sen",
+    "akarKata": null,
+    "ejaan": "sèn",
+    "baku": false,
+    "alt": "sein",
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "tanda; isyarat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

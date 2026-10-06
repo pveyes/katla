@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ta.gal",
+    "akarKata": null,
+    "ejaan": "tagal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu-batu besar yang dilemparkan ombak ke tepi pantai pada waktu datang angin ribut dan gelombang besar mengempas ke pantai",
+        "contoh": "orang-orang itu mengangkuti -- dari pantai untuk bahan bangunan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ta.gal",
+    "akarKata": null,
+    "ejaan": "Tagal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat Dayak Tagal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

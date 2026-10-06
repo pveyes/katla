@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ra.cun",
+    "akarKata": null,
+    "ejaan": "racun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat (gas) yang dapat menyebabkan sakit atau mati (kalau dimakan, dihirup)",
+        "contoh": "ia bunuh diri dengan makan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang menurunkan mutu logam atau sepuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang merusak atau menghambat aksi katalis atau enzim",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang merusak batin",
+        "contoh": "banyak bacaan yang menjadi -- jiwa bagi para pemuda",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

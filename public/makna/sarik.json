@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sa.rik",
+    "akarKata": null,
+    "ejaan": "sarik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buluh yang berbatang halus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.rik",
+    "akarKata": null,
+    "ejaan": "sarik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pencuri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

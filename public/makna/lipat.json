@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "li.pat",
+    "akarKata": null,
+    "ejaan": "lipat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "patah dua sehingga bidangnya menjadi seperdua (tentang kertas, kain, dan sebagainya)",
+        "contoh": "pisau --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rangkap",
+        "contoh": "-- dua (tiga, empat)",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ganda",
+        "contoh": "harga barang-barang naik dua kali --",
+        "info": []
+      }
+    ]
+  }
+]

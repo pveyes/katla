@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "wak",
+    "akarKata": null,
+    "ejaan": "wak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uwak; uak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "wak",
+    "akarKata": null,
+    "ejaan": "wak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suara itik, katak, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

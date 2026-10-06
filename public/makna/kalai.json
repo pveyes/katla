@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.lai",
+    "akarKata": null,
+    "ejaan": "kalai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "baring; sandar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lai",
+    "akarKata": null,
+    "ejaan": "kalai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersihkan dengan menggosok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

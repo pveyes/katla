@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ar.sap",
+    "akarKata": null,
+    "ejaan": "arsap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun pisang yang telah layu dan batangnya meliuk ke bawah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

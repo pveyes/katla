@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ase.si",
+    "akarKata": null,
+    "ejaan": "asési",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang atau pihak yang dinilai",
+        "contoh": "tugas asesor adalah melaksanakan asesmen terhadap --",
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

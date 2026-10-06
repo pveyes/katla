@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mud",
+    "akarKata": null,
+    "ejaan": "mud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran isi sama dengan 510 gram",
+        "contoh": "orang yang tua renta itu menggantikan kada puasa yang ditinggalkannya dengan lima -- beras",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

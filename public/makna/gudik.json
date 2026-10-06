@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "gu.dik",
+    "akarKata": null,
+    "ejaan": "gudik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kurap; kudis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.dik",
+    "akarKata": null,
+    "ejaan": "gudik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "tergudik-gudik"
+        ]
+      }
+    ]
+  }
+]

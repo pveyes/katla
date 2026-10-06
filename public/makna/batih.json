@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.tih",
+    "akarKata": null,
+    "ejaan": "batih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang seisi rumah yang menjadi tanggungan seseorang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.tih",
+    "akarKata": null,
+    "ejaan": "batih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan khas Minangkabau seperti kerupuk yang renyah, dibuat dari beras yang dimasak hingga menjadi nasi, dilarut, dibumbui, kemudian dicetak dan dijemur sampai kering lalu digoreng hingga kuning",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

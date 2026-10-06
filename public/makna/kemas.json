@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.mas",
+    "akarKata": null,
+    "ejaan": "kêmas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "teratur (terbungkus) rapi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersih; rapi; beres; kuat",
+        "contoh": "peti -- adalah peti besar dan kuat yang memuat barang dagangan sehingga barang itu dapat sekaligus diangkut",
+        "info": []
+      }
+    ]
+  }
+]

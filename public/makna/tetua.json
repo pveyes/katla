@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "te.tua",
+    "akarKata": "tua",
+    "ejaan": "tetua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tua-tua",
+        "contoh": "sekarang ada obat kosmetik untuk menghilangkan ~",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang tua (tokoh)",
+        "contoh": "pada zaman dahulu para ~ keberatan kalau seorang santri dapat berbahasa Belanda",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "generasi yang terlibat dalam pembuahan yang menghasilkan hibrida",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

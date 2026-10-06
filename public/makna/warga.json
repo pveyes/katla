@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "war.ga",
+    "akarKata": null,
+    "ejaan": "warga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggota (keluarga, perkumpulan, dan sebagainya)",
+        "contoh": "ia pulang ke kampung untuk menengok --nya yang sakit keras",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkatan dalam masyarakat; kasta",
+        "contoh": "Brahmana adalah -- pertama dalam agama Hindu",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

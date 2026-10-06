@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ma.lis",
+    "akarKata": null,
+    "ejaan": "malis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pucat (tentang warna)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang keras (tentang bau)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

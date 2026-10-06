@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.bun",
+    "akarKata": null,
+    "ejaan": "sêbun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak habis-habisnya; terbengkalai (tentang pekerjaan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lekas bermata (tentang bisul)",
+        "contoh": "bisulnya --",
+        "info": []
+      }
+    ]
+  }
+]

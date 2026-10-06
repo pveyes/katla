@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.rub",
+    "akarKata": null,
+    "ejaan": "gurub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh; runtuh; hilang; tenggelam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

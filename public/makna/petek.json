@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pe.tek",
+    "akarKata": null,
+    "ejaan": "pètèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang berbadan amat pipih, bersisik kecil-kecil berkilat, berahang yang dapat menjulur untuk mengisap makanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.tek",
+    "akarKata": null,
+    "ejaan": "pêtèk",
+    "baku": false,
+    "alt": "pepetek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang hidup di air laut atau payau, berbadan amat pipih, bersisik kecil-kecil berkilat, rahangnya dapat menjulur untuk mengisap makanan, ukurannya mencapai 25 cm, hidup di kolom perairan beriklim sedang, tersebar di perairan Jepang bagian selatan, Taiwan, dan Fujian Selatan hingga Teluk Tonkin; ikan petek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "res.mi",
+    "akarKata": null,
+    "ejaan": "rêsmi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sah (dari pemerintah atau dari yang berwajib); ditetapkan (diumumkan, disahkan) oleh pemerintah atau instansi yang bersangkutan",
+        "contoh": "penjelasan -- akan diberikan oleh Presiden",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "formal",
+        "contoh": "pakaian --",
+        "info": []
+      }
+    ]
+  }
+]

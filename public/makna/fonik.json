@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "fo.nik",
+    "akarKata": null,
+    "ejaan": "fonik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "metode mengajar membaca dengan menggunakan konsep fonetik yang sederhana",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

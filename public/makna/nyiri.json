@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "nyi.ri",
+    "akarKata": null,
+    "ejaan": "nyiri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tingginya mencapai 20 m, berkulit kasar tidak rata, bercabang berbentuk garpu, terdapat di hutan dekat pantai, kulit kayunya berwarna merah dipakai sebagai bahan pewarna jaring ikan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu nyiri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

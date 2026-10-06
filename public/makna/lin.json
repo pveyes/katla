@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "lin",
+    "akarKata": null,
+    "ejaan": "lin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lin",
+    "akarKata": null,
+    "ejaan": "lin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pita",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lin",
+    "akarKata": null,
+    "ejaan": "lin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur lalu lintas",
+        "contoh": "dengan dibukanya -- kapal Belawan ke Singapura, para turis asing makin banyak datang ke Sumatra Utara",
+        "info": []
+      }
+    ]
+  }
+]

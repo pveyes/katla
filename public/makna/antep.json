@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "an.tep",
+    "akarKata": null,
+    "ejaan": "antêp",
+    "baku": false,
+    "alt": "antap",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berat (tentang bobot, timbangan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.tep",
+    "akarKata": null,
+    "ejaan": "antêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "percaya; setia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "to.joh",
+    "akarKata": null,
+    "ejaan": "tojoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dorong dengan galah",
+        "contoh": "-- dulu padi itu biar masuk ke karung sedikit demi sedikit",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

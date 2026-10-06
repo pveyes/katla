@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.kun",
+    "akarKata": null,
+    "ejaan": "tukun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu (karang) di bawah permukaan air laut (tidak kelihatan sehingga berbahaya untuk kapal)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

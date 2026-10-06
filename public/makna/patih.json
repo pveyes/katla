@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "pa.tih",
+    "akarKata": null,
+    "ejaan": "patih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menurut (mendengarkan) perintah; patuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.tih",
+    "akarKata": null,
+    "ejaan": "patih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wazir; bendahara; mangkubumi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wakil bupati",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan orang besar berarti tuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

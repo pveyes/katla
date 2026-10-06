@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.kuh",
+    "akarKata": null,
+    "ejaan": "takuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takik-takik; takuk-takuk; bermacam-macam takik (takuk)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tidak rata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

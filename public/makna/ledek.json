@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.dek",
+    "akarKata": null,
+    "ejaan": "lèdèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penari dan penyanyi kesenian tradisional (keliling); ronggeng keliling",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.dek",
+    "akarKata": null,
+    "ejaan": "lèdèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ejek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

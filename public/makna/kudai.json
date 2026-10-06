@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.dai",
+    "akarKata": null,
+    "ejaan": "kudai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakul (dari rotan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat sirih bundar dari perak dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ce.lak",
+    "akarKata": null,
+    "ejaan": "célak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cahaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.lak",
+    "akarKata": null,
+    "ejaan": "cêlak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bubuk (hitam, biru, dan sebagainya) untuk memalit kening (alis mata) atau disapukan di sekeliling mata",
+        "contoh": "mata sipit akan terlihat lebih lebar dan menarik apabila pada pinggir mata itu diberi --",
+        "info": []
+      }
+    ]
+  }
+]

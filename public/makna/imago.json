@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ima.go",
+    "akarKata": null,
+    "ejaan": "imago",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "stadium dewasa sesudah metamorfosis serangga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "entomologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

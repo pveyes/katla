@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "Im.lek",
+    "akarKata": null,
+    "ejaan": "imlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanggalan Cina berdasarkan peredaran bulan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tahun baru Cina yang jatuh pada tanggal satu bulan pertama di awal tahun, berkaitan erat dengan pesta menyambut musim semi; Sin Cia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

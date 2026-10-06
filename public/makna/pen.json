@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pen",
+    "akarKata": null,
+    "ejaan": "pèn",
+    "baku": false,
+    "alt": "pena",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menulis dengan tinta, dibuat dari baja dan sebagainya yang runcing dan belah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pen",
+    "akarKata": null,
+    "ejaan": "pèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyangga dari logam (tembaga dan sebagainya) untuk memperkuat tulang yang retak, patah, rapuh, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

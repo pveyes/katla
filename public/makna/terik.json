@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "te.rik",
+    "akarKata": null,
+    "ejaan": "têrik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "amat; sangat (tentang panas matahari)",
+        "contoh": "panas --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sempit dan tegang mengikat (tentang seluar, ikatan, dan sebagainya)",
+        "contoh": "ikatan kotak sabun itu sangat -- sehingga susah membukanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh padat (tentang sesuatu yang dijejal, diasak, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.rik",
+    "akarKata": null,
+    "ejaan": "têrik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan terbuat dari daging, tempe, atau tahu, dicampur dengan bumbu (ketumbar dan sebagainya, dimasak dengan santan hingga hampir kering)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

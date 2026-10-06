@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.kih",
+    "akarKata": null,
+    "ejaan": "fakih",
+    "baku": true,
+    "alt": "faqih",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli hukum Islam; ahli fikih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

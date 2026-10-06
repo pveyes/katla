@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Gab.si",
+    "akarKata": null,
+    "ejaan": "Gabsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gabungan Bridge Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

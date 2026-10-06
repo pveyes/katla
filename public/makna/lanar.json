@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "la.nar",
+    "akarKata": null,
+    "ejaan": "lanar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "timbunan lumpur di tepi laut (yang dibawa oleh sungai atau air laut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.nar",
+    "akarKata": null,
+    "ejaan": "lanar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit tumbuh-tumbuhan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

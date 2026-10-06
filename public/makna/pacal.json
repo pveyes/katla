@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pa.cal",
+    "akarKata": null,
+    "ejaan": "pacal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "parang4",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.cal",
+    "akarKata": null,
+    "ejaan": "pacal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hamba raja",
+        "contoh": "mereka adalah -- yang setia",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saya (untuk merendahkan diri)",
+        "contoh": "-- mohon beribu-ribu ampun",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

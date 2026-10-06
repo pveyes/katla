@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "kru",
+    "akarKata": null,
+    "ejaan": "kru",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerabat kerja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awak kapal (perahu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

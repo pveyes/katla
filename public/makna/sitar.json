@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.tar",
+    "akarKata": null,
+    "ejaan": "sitar",
+    "baku": false,
+    "alt": "siter",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik petik yang berdawai (bersenar), bentuknya menyerupai cerempung atau kecapi Sunda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

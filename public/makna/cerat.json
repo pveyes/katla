@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ce.rat",
+    "akarKata": null,
+    "ejaan": "cêrat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian pada cerek (kendi, teko, karaf, dan sebagainya) yang berbentuk corong kecil untuk menuang air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "talang yang berbentuk sedemikian rupa sehingga meningkatkan kecepatan air yang melaluinya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

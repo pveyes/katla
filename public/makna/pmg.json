@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PMG",
+    "akarKata": null,
+    "ejaan": "PMG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Pusat Meteorologi dan Geofisika; lihat BMKG",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "acar.ya",
+    "akarKata": null,
+    "ejaan": "acarya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendidik yang bertanggung jawab terhadap keberlangsungan pasraman",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin spiritual yang diteladani",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

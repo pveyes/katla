@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ko.non",
+    "akarKata": null,
+    "ejaan": "konon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "agaknya (biasanya di belakang kata tanya); gerangan",
+        "contoh": "apa -- yang tersimpan di hatinya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kata orang; kabarnya; katanya",
+        "contoh": "begitulah -- nasib orang yang tamak itu",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "barangkali; mungkin",
+        "contoh": "-- ia sudah menjadi kaya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kabar",
+        "contoh": "sekarang Patik dengar kabar yang sah, bukan -- dikarang",
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "istimewa pula; apalagi; jangan lagi",
+        "contoh": "melihat darah saja ia pingsan, -- disuruh membunuh orang",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

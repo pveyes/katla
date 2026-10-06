@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "elung",
+    "akarKata": null,
+    "ejaan": "êlung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lengkung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "elung",
+    "akarKata": null,
+    "ejaan": "êlung",
+    "baku": false,
+    "alt": "lung",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peti mati yang tidak beralas (jadi ditutupkan saja di liang kubur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "pak.sa",
+    "akarKata": null,
+    "ejaan": "paksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengerjakan sesuatu yang diharuskan walaupun tidak mau",
+        "contoh": "kawin --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekerasan; perkosaan",
+        "contoh": "negara diktator memerintah dengan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pak.sa",
+    "akarKata": null,
+    "ejaan": "paksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu (saat, kesempatan) yang baik",
+        "contoh": "menantikan -- yang baik",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pak.sa",
+    "akarKata": null,
+    "ejaan": "paksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sayap; pihak; sisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pak.sa",
+    "akarKata": null,
+    "ejaan": "paksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem penanggalan Jawa Kuno yang mencakupi waktu 15 hari (dalam satu bulan ada dua paksa, yaitu suklapaksa ‘paruh terang’ dan kresnapaksa ‘paruh gelap’)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

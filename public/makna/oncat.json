@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "on.cat",
+    "akarKata": null,
+    "ejaan": "oncat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melarikan diri; berangkat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tar.ra",
+    "akarKata": null,
+    "ejaan": "tarra",
+    "baku": false,
+    "alt": "tara",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selisih antara berat bruto dan neto",
+        "contoh": "berat bruto 100 kg, neto 90 kg, -- 10 kg",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan harga barang yang dinyatakan dengan persen (uang, bobot) dengan pengganti pembungkusnya (petinya dan sebagainya)",
+        "contoh": "tiap peti diperhitungkan --nya 5%",
+        "info": []
+      }
+    ]
+  }
+]

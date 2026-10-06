@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "pe.gal",
+    "akarKata": null,
+    "ejaan": "pêgal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa kaku (tentang tulang sendi dan sebagainya)",
+        "contoh": "karena terlalu banyak bekerja, seluruh anggota badan -- dan ngilu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kesal; jengkel (tentang hati)",
+        "contoh": "-- hati",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

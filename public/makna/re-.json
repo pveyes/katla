@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re-",
+    "akarKata": null,
+    "ejaan": "ré",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "sekali lagi; kembali",
+        "contoh": "reformasi",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "belakang; ke arah belakang",
+        "contoh": "regresi",
+        "info": []
+      }
+    ]
+  }
+]

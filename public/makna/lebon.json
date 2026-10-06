@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "le.bon",
+    "akarKata": null,
+    "ejaan": "lêbon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bersedia masuk penjara menggantikan orang yang sesungguhnya bersalah, asalkan keluarganya ditanggung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.bon",
+    "akarKata": null,
+    "ejaan": "lêbon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pelebon",
+          "pelebonan"
+        ]
+      }
+    ]
+  }
+]

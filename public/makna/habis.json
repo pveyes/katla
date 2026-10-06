@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ha.bis",
+    "akarKata": null,
+    "ejaan": "habis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak ada yang tinggal lagi (karena sudah digunakan, dibagikan, dimakan, dan sebagainya); tidak bersisa",
+        "contoh": "semua barang dalam gudang itu -- terbakar",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selesai",
+        "contoh": "pertunjukan sudah hampir --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tamat",
+        "contoh": "bacalah buku itu sampai --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah sampai pada batas waktu yang ditentukan",
+        "contoh": "kontraknya telah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keluar biaya",
+        "contoh": "untuk pergi ke tempat kerjanya, ia -- enam ribu rupiah setiap hari",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "sesudah; setelah",
+        "contoh": "-- mandi dan sarapan, anak-anak berangkat ke sekolah",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kalau begitu (tidak begitu); maka",
+        "contoh": "--, sampai kapan kita dapat tahan hidup begini",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akhir",
+        "contoh": "ia berjanji akan membayar utangnya -- bulan",
+        "info": []
+      }
+    ]
+  }
+]

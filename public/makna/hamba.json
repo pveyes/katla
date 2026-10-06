@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ham.ba",
+    "akarKata": null,
+    "ejaan": "hamba",
+    "baku": true,
+    "alt": "ambo",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "abdi; budak belian",
+        "contoh": "memerdekakan -- adalah perbuatan yang terpuji",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saya (untuk merendahkan diri)",
+        "contoh": "-- tidak berani mengatakannya, Tuanku",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ya, Tuan (sangat takzim)",
+        "contoh": "“Betulkah ini anakmu?” “--!”",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

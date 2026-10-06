@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "gor",
+    "akarKata": null,
+    "ejaan": "gor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lajur atau panel vertikal pada rok, biasanya bagian bawahnya lebih lebar daripada bagian atas sehingga rok berkesan ramping di atas dan melebar ke bawah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "GOR",
+    "akarKata": null,
+    "ejaan": "GOR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelanggang olahraga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

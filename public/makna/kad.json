@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kad",
+    "akarKata": null,
+    "ejaan": "kad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kartu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu malaysia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

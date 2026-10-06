@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tsu.ru",
+    "akarKata": null,
+    "ejaan": "tsuru",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seni origami berbentuk bangau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

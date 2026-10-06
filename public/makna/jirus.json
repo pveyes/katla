@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ji.rus",
+    "akarKata": null,
+    "ejaan": "jirus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "siram",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ji.rus",
+    "akarKata": null,
+    "ejaan": "jirus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "makin ke ujung makin kecil; meruncing; tirus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

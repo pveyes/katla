@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "aro.ma",
+    "akarKata": null,
+    "ejaan": "aroma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bau-bauan yang harum (yang berasal dari tumbuh-tumbuhan atau akar-akaran)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pewangi makanan atau minuman",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bersifat atau mengandung hal tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

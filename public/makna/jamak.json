@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ja.mak",
+    "akarKata": null,
+    "ejaan": "jamak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lazim; tidak aneh; lumrah; wajar",
+        "contoh": "sudah -- bahwa setiap perjuangan meminta pengorbanan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.mak",
+    "akarKata": null,
+    "ejaan": "jamak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk kata yang menyatakan lebih dari satu atau banyak",
+        "contoh": "siswa-siswa atau para siswa adalah bentuk -- dari kata siswa",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.mak",
+    "akarKata": null,
+    "ejaan": "jamak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggabungan (tentang salat wajib); antara salat Zuhur dan salat Asar atau salat Magrib dan salat Isya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

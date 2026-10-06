@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ga.duh",
+    "akarKata": null,
+    "ejaan": "gaduh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusuh dan gempar karena perkelahian (percekcokan dan sebagainya); ribut; huru-hara",
+        "contoh": "yang membuat -- telah ditahan polisi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.duh",
+    "akarKata": null,
+    "ejaan": "gaduh",
+    "baku": true,
+    "alt": "gado",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem bagi hasil dalam usaha pertanian atau peternakan (biasanya separuh atau sepertiga dari hasil untuk penggaduh)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

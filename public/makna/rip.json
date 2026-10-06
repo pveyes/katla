@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RIP",
+    "akarKata": null,
+    "ejaan": "RIP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rencana induk pembangunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

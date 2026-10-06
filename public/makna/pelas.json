@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pe.las",
+    "akarKata": null,
+    "ejaan": "pélas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan yang dibuat dari parutan kelapa yang dibumbui, dicampur dengan udang, teri, dan sebagainya, dibungkus dengan daun pisang kemudian dikukus",
+        "contoh": "-- udang",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.las",
+    "akarKata": null,
+    "ejaan": "pêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memelas"
+        ]
+      }
+    ]
+  }
+]

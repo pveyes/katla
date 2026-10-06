@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "re.pok",
+    "akarKata": null,
+    "ejaan": "ré.pok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "peruntungan dalam perkawinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.pok",
+    "akarKata": null,
+    "ejaan": "rêpok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perumahan di tengah sawah atau kebun, terdiri atas tiga atau empat rumah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

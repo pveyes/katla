@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "se.dak",
+    "akarKata": null,
+    "ejaan": "sédak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkaran rotan dan sebagainya yang dipasang di bibir gendang (rebana dan sebagainya) untuk menegangkan kulit gendang (rebana dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.dak",
+    "akarKata": null,
+    "ejaan": "sêdak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kesedakan",
+          "tersedak"
+        ]
+      }
+    ]
+  }
+]

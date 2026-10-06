@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "res.ko",
+    "akarKata": null,
+    "ejaan": "résko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "resor kota",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

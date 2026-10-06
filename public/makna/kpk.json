@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "KPK",
+    "akarKata": null,
+    "ejaan": "KPK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Komisi Pemberantasan Korupsi (lembaga negara independen yang berfungsi melakukan pemberantasan korupsi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "KPK",
+    "akarKata": null,
+    "ejaan": "KPK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelipatan persekutuan terkecil (nilai kelipatan terkecil dari persekutuan dua bilangan atau lebih)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

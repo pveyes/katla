@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "amu.ba",
+    "akarKata": null,
+    "ejaan": "amuba",
+    "baku": false,
+    "alt": "ameba",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "protozoa tanpa dinding sel, bentuknya selalu berubah, bergerak dengan kaki semu, biasanya hidup di air atau sebagai parasit pada hewan lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk tidak menetap yang selalu berubah-ubah (seperti binatang ameba yang tidak mempunyai dinding sel)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

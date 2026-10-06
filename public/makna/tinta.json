@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tin.ta",
+    "akarKata": null,
+    "ejaan": "tinta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang cair yang berwarna (hitam, merah, dan sebagainya) untuk menulis; dawat; mangsi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan berwarna yang mengandung lemak yang dioleskan pada gambar cetak untuk mengalihkan gambar cetak itu pada kertas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

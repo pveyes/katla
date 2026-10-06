@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fa.lak",
+    "akarKata": null,
+    "ejaan": "falak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lengkung langit; lingkaran langit; cakrawala",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengetahuan mengenai keadaan (peredaran, perhitungan, dan sebagainya) bintang-bintang; ilmu perbintangan; astronomi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

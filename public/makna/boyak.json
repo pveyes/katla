@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "bo.yak",
+    "akarKata": null,
+    "ejaan": "boyak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hambar (tidak sedap) rasanya (lagi) karena sudah kering atau busuk (tentang tembakau)",
+        "contoh": "tembakau yang sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjemukan; membosankan; tidak menyenangkan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bangkrut; remuk; berantakan",
+        "contoh": "karena resesi, banyak perusahaan yang --",
+        "info": []
+      }
+    ]
+  }
+]

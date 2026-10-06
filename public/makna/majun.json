@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ma.jun",
+    "akarKata": null,
+    "ejaan": "majun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan sisa bahan (bukan kain bekas) yang digunakan sebagai lap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.jun",
+    "akarKata": null,
+    "ejaan": "majun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jamu atau obat kuat untuk lelaki; dibuat dari bermacam-macam ramuan, menjadikan badan terasa hangat, sehat, kuat, dan bersemangat muda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

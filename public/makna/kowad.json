@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ko.wad",
+    "akarKata": null,
+    "ejaan": "Kowad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Korps Wanita Angkatan Darat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hos.ti",
+    "akarKata": null,
+    "ejaan": "hosti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "roti tanpa ragi yang digunakan dalam perayaan ekaristi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

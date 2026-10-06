@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Un.pad",
+    "akarKata": null,
+    "ejaan": "Unpad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Padjadjaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

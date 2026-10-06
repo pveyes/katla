@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "si.hir",
+    "akarKata": null,
+    "ejaan": "sihir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan ajaib yang dilakukan dengan pesona dan kekuatan gaib (guna-guna, mantra, dan sebagainya)",
+        "contoh": "ia terdiam seperti kena --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ilmu tentang penggunaan kekuatan gaib; ilmu gaib (teluh, tuju, dan sebagainya)",
+        "contoh": "ahli -- (orang --)",
+        "info": []
+      }
+    ]
+  }
+]

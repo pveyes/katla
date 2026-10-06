@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pu.sat",
+    "akarKata": null,
+    "ejaan": "pusat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang letaknya di bagian tengah",
+        "contoh": "Istana Merdeka letaknya di -- kota Jakarta",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik yang di tengah-tengah benar (dalam bulatan bola, lingkaran, dan sebagainya)",
+        "contoh": "-- bumi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pokok pangkal atau yang menjadi pumpunan (berbagai-bagai urusan, hal, dan sebagainya)",
+        "contoh": "perguruan tinggi harus menjadi -- berbagai ilmu pengetahuan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang membawahkan berbagai bagian; orang yang menjadi pumpunan dari bagian-bagian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

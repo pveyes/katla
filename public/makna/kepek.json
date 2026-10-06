@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ke.pek",
+    "akarKata": null,
+    "ejaan": "kêpèk",
+    "baku": false,
+    "alt": "kempek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tas kecil dibuat dari barang anyaman (untuk tempat sirih, uang, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pek",
+    "akarKata": null,
+    "ejaan": "kêpèk",
+    "baku": true,
+    "alt": "kepik",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pipih; pesek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk yang tidak dalam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

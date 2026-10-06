@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "am.bil",
+    "akarKata": null,
+    "ejaan": "ambil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pegang lalu dibawa, diangkat, dan sebagainya",
+        "contoh": "salah --",
+        "info": []
+      }
+    ]
+  }
+]

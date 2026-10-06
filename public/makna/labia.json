@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.bia",
+    "akarKata": null,
+    "ejaan": "labia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bibir vagina",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

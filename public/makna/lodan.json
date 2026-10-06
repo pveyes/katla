@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lo.dan",
+    "akarKata": null,
+    "ejaan": "lodan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan paus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

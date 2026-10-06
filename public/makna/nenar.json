@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ne.nar",
+    "akarKata": null,
+    "ejaan": "nênar",
+    "baku": false,
+    "alt": "nanar",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa pusing (karena mabuk, kena pukul, dan sebagainya)",
+        "contoh": "pertimbangan itu akhirnya sampai juga ke otakku yang telah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "agak hilang akal (karena kekalahan dan sebagainya); bingung; tercengang-cengang",
+        "contoh": "-- memandang kegersangan alam di hadapannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "marah sekali (mata gelap); garang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

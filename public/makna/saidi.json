@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.i.di",
+    "akarKata": null,
+    "ejaan": "saidi",
+    "baku": false,
+    "alt": "sayidi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuanku",
+        "contoh": "ya --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "sukuKata": "co.cok",
+    "akarKata": null,
+    "ejaan": "cocok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda yang runcing tajam untuk menusuk sesuatu (seperti penyemat, jarum); tusuk",
+        "contoh": "-- sanggul",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong bilangan bagi barang yang dirangkaikan dengan tusuk",
+        "contoh": "satai lima --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.cok",
+    "akarKata": null,
+    "ejaan": "cocok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sama benar; tidak berlainan",
+        "contoh": "pendapatnya -- dengan pendapatku",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sepadan; sesuai",
+        "contoh": "dia bebas mencari pekerjaan yang -- dengan kecakapannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "betul; tepat",
+        "contoh": "ramalannya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpatutan (dengan); berpadanan (dengan)",
+        "contoh": "warna sepatu ini -- dengan baju yang kaupakai",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senang (suka) dengan; setuju di hati",
+        "contoh": "kalau --, boleh Tuan beli",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "serasi; baik benar untuk",
+        "contoh": "obat itu sudah diminumnya, tetapi tidak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "setuju; sepakat; akur",
+        "contoh": "ia minta berhenti sebab tidak -- dengan atasannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kena benar; pas benar",
+        "contoh": "kunci ini -- juga untuk lemariku",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "seimbang; sepadan",
+        "contoh": "hadiah itu sudah -- dengan jasanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "memenuhi (syarat dan sebagainya) untuk; baik (layak) untuk",
+        "contoh": "tanah ini sangat -- untuk ditanami sayur-sayuran",
+        "info": []
+      }
+    ]
+  }
+]

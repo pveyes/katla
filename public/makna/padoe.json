@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Pa.doe",
+    "akarKata": null,
+    "ejaan": "padoé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Luwu, Provinsi Sulawesi Selatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Padoe",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

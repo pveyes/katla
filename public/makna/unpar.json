@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Un.par",
+    "akarKata": null,
+    "ejaan": "Unpar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Palangkaraya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

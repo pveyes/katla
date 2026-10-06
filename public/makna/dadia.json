@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.dia",
+    "akarKata": null,
+    "ejaan": "dadia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemujaan untuk keluarga besar dalam satu keturunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

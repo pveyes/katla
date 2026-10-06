@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ada",
+    "akarKata": null,
+    "ejaan": "ada",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hadir; telah sedia",
+        "contoh": "ia -- di sana",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mempunyai",
+        "contoh": "ia tidak -- uang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "benar; sungguh (untuk menguatkan sebutan)",
+        "contoh": "ia -- menerima surat itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ada",
+    "akarKata": null,
+    "ejaan": "Ada",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa pemrograman tingkat tinggi yang didesain di bawah pengarahan Departemen Pertahanan Amerika Serikat dan ditujukan untuk menjadi bahasa utama dalam pengembangan perangkat lunak di Departemen Pertahanan Amerika Serikat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

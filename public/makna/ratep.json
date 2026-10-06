@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ra.tep",
+    "akarKata": null,
+    "ejaan": "ratép",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upacara mendatangkan hujan yang ditarikan dengan gamelan tidak berlogam hingga penari utamanya kesurupan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penari utama yang menjadi kesurupan selama berlangsungnya upacara ritual akhir musim kemarau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

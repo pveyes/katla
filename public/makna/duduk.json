@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "du.duk",
+    "akarKata": null,
+    "ejaan": "duduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meletakkan tubuh atau letak tubuhnya dengan bertumpu pada pantat (ada bermacam-macam cara dan namanya seperti bersila dan bersimpuh)",
+        "contoh": "ia -- di tikar",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ada di (dalam peringkat belajar)",
+        "contoh": "ia -- di kelas III SMU",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kawin atau bertunangan",
+        "contoh": "anaknya telah -- dengan anak hakim",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tinggal; diam",
+        "contoh": "ia pernah -- di Bandung selama tiga tahun",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "du.duk",
+    "akarKata": null,
+    "ejaan": "duduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan palma merumpun, tinggi batangnya 5 hingga 6 m",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

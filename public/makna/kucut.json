@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ku.cut",
+    "akarKata": null,
+    "ejaan": "kucut",
+    "baku": false,
+    "alt": "kecut",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masam (seperti rasa cuka)",
+        "contoh": "gulai ini enak sekali, terasa benar -- pedasnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cemberut; keruh (tentang muka dan sebagainya)",
+        "contoh": "-- saja air mukanya pagi ini",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "da.dah",
+    "akarKata": null,
+    "ejaan": "dadah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbagai obat yang tersedia (sudah terkemas, siap pakai)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan narkotika (seperti ganja, heroin) yang membius, meracuni, dan mematikan orang yang menggunakannya secara berlebihan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.dah",
+    "akarKata": null,
+    "ejaan": "dadah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "mengatakan dah (untuk memberi salam pertemuan atau perpisahan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

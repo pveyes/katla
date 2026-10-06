@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.sil",
+    "akarKata": null,
+    "ejaan": "basil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakteri yang berbentuk batang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.sil",
+    "akarKata": null,
+    "ejaan": "basil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selasih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.sis",
+    "akarKata": null,
+    "ejaan": "tèsis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan atau teori yang didukung oleh argumen yang dikemukakan dalam karangan; untuk mendapatkan gelar kesarjanaan pada perguruan tinggi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karangan ilmiah yang ditulis untuk mendapatkan gelar kesarjanaan pada suatu universitas (perguruan tinggi); disertasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

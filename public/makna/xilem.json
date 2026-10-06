@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "xi.lem",
+    "akarKata": null,
+    "ejaan": "silém",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaringan pembuluh kayu, khususnya tumbuhan tinggi, yang merupakan sel penyokong dan pengalir-alir ikatan vaskular",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaringan pembuluh pada tumbuhan tinggi yang terdiri atas trakeid berlignin, unsur pembuluh dan serat yang menghantar air dan garam-garam mineral yang diserap oleh akar ke seluruh bagian, menopang tubuh secara mekanis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

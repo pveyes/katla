@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "aku",
+    "akarKata": null,
+    "ejaan": "aku",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata ganti orang pertama yang berbicara atau yang menulis (dalam ragam akrab); diri sendiri; saya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Aku",
+    "akarKata": null,
+    "ejaan": "Aku",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggaran dan keuangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Aku",
+    "akarKata": null,
+    "ejaan": "Aku",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Li'o",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

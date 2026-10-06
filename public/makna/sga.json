@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SGA",
+    "akarKata": null,
+    "ejaan": "SGA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekolah guru A",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

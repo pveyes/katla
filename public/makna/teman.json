@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "te.man",
+    "akarKata": null,
+    "ejaan": "têman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawan; sahabat",
+        "contoh": "hanya -- dekat yang akan kuundang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bersama-sama bekerja (berbuat, berjalan); lawan (bercakap-cakap)",
+        "contoh": "-- seperjalanan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang menjadi pelengkap (pasangan) atau yang dipakai (dimakan dan sebagainya) bersama-sama",
+        "contoh": "ada jenis lumut yang biasa dimakan untuk -- nasi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saya (di beberapa daerah dipakai dalam bahasa sehari-hari)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

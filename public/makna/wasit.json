@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "wa.sit",
+    "akarKata": null,
+    "ejaan": "wasit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penengah; perantara (dagang dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penentu; pemimpin (dalam pertandingan sepak bola, bola voli, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemisah, pelerai, pendamai (antara yang berselisih dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

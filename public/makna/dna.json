@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "DNA",
+    "akarKata": null,
+    "ejaan": "DNA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "deoxyribonucleic acid; asam deoksiribonukleat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.rab",
+    "akarKata": null,
+    "ejaan": "kirab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perjalanan bersama-sama atau beriring-iring secara teratur dan berurutan dari muka ke belakang dalam suatu rangkaian upacara (adat, keagamaan, dan sebagainya); pawai",
+        "contoh": "untuk menyongsong tahun baru 1 Sura, sebagian masyarakat melakukan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.rab",
+    "akarKata": null,
+    "ejaan": "kirab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabah yang cepat rontok dari tangkai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.tak",
+    "akarKata": null,
+    "ejaan": "latak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ampas (tahi) minyak (cat, gula, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

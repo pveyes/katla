@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "abs",
+    "akarKata": null,
+    "ejaan": "abs",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "otot abdominal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ABS",
+    "akarKata": null,
+    "ejaan": "ABS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asal bapak senang (sebutan untuk kata-kata dan sikap manis yang dilakukan untuk menyenangkan hati atasan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

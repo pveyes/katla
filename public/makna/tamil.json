@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ta.mil",
+    "akarKata": null,
+    "ejaan": "Tamil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku yang berasal dari India bagian selatan, tersebar juga hingga ke Sri Langka",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Tamil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

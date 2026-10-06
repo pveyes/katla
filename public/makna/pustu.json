@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pus.tu",
+    "akarKata": null,
+    "ejaan": "pustu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puskesmas pembantu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

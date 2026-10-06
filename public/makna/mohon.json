@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mo.hon",
+    "akarKata": null,
+    "ejaan": "mohon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "minta dengan hormat; berharap supaya mendapat sesuatu",
+        "contoh": "ia -- agar permintaannya dikabulkan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ampunlah (untuk menyatakan maksud menolak atau mengingkari, jadi berarti tidak mau)",
+        "contoh": "--, hamba membunuh saudara hamba",
+        "info": []
+      }
+    ]
+  }
+]

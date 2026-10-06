@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "angah",
+    "akarKata": null,
+    "ejaan": "angah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan terhadap saudara ayah atau ibu nomor tiga tertua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan terhadap saudara ayah atau ibu nomor dua tertua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "angah",
+    "akarKata": null,
+    "ejaan": "angah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kata sapaan terhadap saudara ayah atau ibu nomor tiga tertua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "kata sapaan terhadap saudara ayah atau ibu nomor dua tertua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

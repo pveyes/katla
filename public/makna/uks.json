@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UKS",
+    "akarKata": null,
+    "ejaan": "UKS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha kesehatan di sekolah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

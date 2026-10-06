@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.jor",
+    "akarKata": null,
+    "ejaan": "kojor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meninggal dunia; mati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kasar",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam yang tidak sopan"
+          }
+        ]
+      }
+    ]
+  }
+]

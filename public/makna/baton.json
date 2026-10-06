@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.ton",
+    "akarKata": null,
+    "ejaan": "baton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serahan atau hadiah yang disampaikan pada upacara pelamaran gadis (adat Madura)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.ton",
+    "akarKata": null,
+    "ejaan": "baton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat kecil di tangan dirigen yang digunakan untuk memberi aba-aba kepada para pemain atau penyanyi yang dipimpinnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

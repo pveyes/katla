@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kan.di",
+    "akarKata": null,
+    "ejaan": "kandi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pundi-pundi; kampil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

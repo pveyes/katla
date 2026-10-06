@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ku.pel",
+    "akarKata": null,
+    "ejaan": "kupêl",
+    "baku": false,
+    "alt": "kopel",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpasangan; bergandengan (saling berhubungan)",
+        "contoh": "rumah -- sederhana itu dapat dihuni oleh keluarga kecil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepasang kakas yang sejajar, sama besar, tetapi berlawanan arah; pasangan kakas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.pel",
+    "akarKata": null,
+    "ejaan": "kupêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kubah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.pel",
+    "akarKata": null,
+    "ejaan": "kupêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu masuk pasar; teras pasar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

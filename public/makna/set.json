@@ -1,0 +1,95 @@
+[
+  {
+    "sukuKata": "set",
+    "akarKata": null,
+    "ejaan": "sèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian permainan yang waktu atau hitungannya tertentu; babak",
+        "contoh": "dia mampu main bulu tangkis selama tiga -- tanpa istirahat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "set panggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "set",
+    "akarKata": null,
+    "ejaan": "sèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengeset",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "istilah untuk seperangkat artistik panggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "set",
+    "akarKata": null,
+    "ejaan": "sèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beberapa benda yang dipakai selalu bersama-sama yang satu menjadi pelengkap yang lain; perangkat; setel",
+        "contoh": "dua -- gamelan Jawa menjadi koleksi terbaru Pemerintah DKI Jaya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "set",
+    "akarKata": null,
+    "ejaan": "sèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "muslihat; tindak; strategi",
+        "contoh": "dia sudah salah -- sehingga dalam waktu dekat dapat dikalahkan oleh lawan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.num",
+    "akarKata": null,
+    "ejaan": "minum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan air (atau benda cair) ke dalam mulut dan meneguknya",
+        "contoh": "hampir setiap pagi ayahku -- susu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengisap",
+        "contoh": "dilarang -- rokok di tempat penjualan bensin",
+        "info": []
+      }
+    ]
+  }
+]

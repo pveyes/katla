@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pal",
+    "akarKata": null,
+    "ejaan": "pal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tonggak batu sebagai tanda jarak, antara satu tonggak dan tonggak yang lain berjarak 1,5 km",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pal",
+    "akarKata": null,
+    "ejaan": "pal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "faal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pal",
+    "akarKata": null,
+    "ejaan": "pal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "faal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

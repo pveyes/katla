@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "no.mad",
+    "akarKata": null,
+    "ejaan": "nomad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok orang yang tidak mempunyai tempat tinggal tetap, berkelana dari satu tempat ke tempat lain, biasanya pindah pada musim tertentu ke tempat tertentu sesuai dengan keperluan kelompok itu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(hidup) berkelana, tidak menetap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

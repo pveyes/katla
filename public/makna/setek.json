@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.tek",
+    "akarKata": null,
+    "ejaan": "sêtèk",
+    "baku": true,
+    "alt": "stek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepotong batang yang akan ditanam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara menanam pohon (jarak, singkong, dan sebagainya) dengan jalan memotong batang yang akan ditanam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "be.lat",
+    "akarKata": null,
+    "ejaan": "bêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilah bambu yang dijalin dengan ijuk atau rotan, dipakai untuk mengurung ikan di laut atau di sungai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerai; bidai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lat",
+    "akarKata": null,
+    "ejaan": "bêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan kecil untuk membalut tulang yang patah dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lat",
+    "akarKata": null,
+    "ejaan": "bêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk membawa ikatan tangkai padi dari sawah, berbentuk tikar atau goni",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

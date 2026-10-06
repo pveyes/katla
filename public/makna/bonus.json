@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bo.nus",
+    "akarKata": null,
+    "ejaan": "bonus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upah tambahan di luar gaji atau upah sebagai hadiah atau perangsang; gaji, upah ekstra yang dibayarkan kepada karyawan; gratifikasi; insentif",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "halaman atau artikel tambahan (pada majalah, koran)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "je.ram",
+    "akarKata": null,
+    "ejaan": "jêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aliran air yang deras dan menurun (air terjun di sungai); penderasan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.ram",
+    "akarKata": null,
+    "ejaan": "jêram",
+    "baku": false,
+    "alt": "jaram",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kompres dingin penurun panas; daun dan sebagainya yang dipakai untuk membasahi kepala (misalnya pada waktu sakit demam)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

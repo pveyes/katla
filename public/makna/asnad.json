@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "as.nad",
+    "akarKata": null,
+    "ejaan": "asnad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyokong",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bukti; nas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

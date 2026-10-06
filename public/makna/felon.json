@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.lon",
+    "akarKata": null,
+    "ejaan": "fèlon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang telah melakukan tindak pidana atau kejahatan yang tergolong berat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

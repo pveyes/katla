@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.nik",
+    "akarKata": null,
+    "ejaan": "sanik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadikan (membuat, menciptakan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

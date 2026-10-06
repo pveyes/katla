@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ca.lon",
+    "akarKata": null,
+    "ejaan": "calon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang akan menjadi",
+        "contoh": "-- menantu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dididik dan dipersiapkan untuk menduduki jabatan atau profesi tertentu",
+        "contoh": "-- guru",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang diusulkan atau dicadangkan untuk dipilih atau diangkat menjadi sesuatu",
+        "contoh": "nama -- anggota Dewan Perwakilan Rakyat sudah disampaikan kepada Panitia Pemilihan",
+        "info": []
+      }
+    ]
+  }
+]

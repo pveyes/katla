@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.cok",
+    "akarKata": null,
+    "ejaan": "bocok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelambu (kain tipis) penutup buaian bayi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

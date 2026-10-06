@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.buk",
+    "akarKata": null,
+    "ejaan": "têbuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang (yang tembus seperti lubang tali sepatu); lubang pada lesung dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berlubang tembus; tembuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

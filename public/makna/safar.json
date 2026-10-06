@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "Sa.far",
+    "akarKata": null,
+    "ejaan": "Safar",
+    "baku": true,
+    "alt": "Sapar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan ke-2 tahun Hijriah (29 hari)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.far",
+    "akarKata": null,
+    "ejaan": "safar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perjalanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.cek",
+    "akarKata": null,
+    "ejaan": "kècèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celoteh, cakap, omong (yang bukan-bukan dan bersifat negatif)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.cek",
+    "akarKata": null,
+    "ejaan": "kècèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan anak-anak dengan buah yang keras atau uang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

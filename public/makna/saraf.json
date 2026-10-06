@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "sa.raf",
+    "akarKata": null,
+    "ejaan": "saraf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan kata-kata",
+        "contoh": "ilmu --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.raf",
+    "akarKata": null,
+    "ejaan": "saraf",
+    "baku": true,
+    "alt": "sarap, syaraf",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaringan yang mengatur kerja sama, menyalurkan rangsangan dari dan ke alat-alat tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

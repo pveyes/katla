@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ba.kut",
+    "akarKata": null,
+    "ejaan": "bakut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "perkosa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kut",
+    "akarKata": null,
+    "ejaan": "bakut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "betutu1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kut",
+    "akarKata": null,
+    "ejaan": "bakut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata sembap karena terlalu lama tidur",
+        "contoh": "matanya -- karena tidur dari pagi hingga sore",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

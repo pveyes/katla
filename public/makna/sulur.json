@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "su.lur",
+    "akarKata": null,
+    "ejaan": "sulur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "julai (dari tumbuhan yang menjalar dan sebagainya); pucuk batang muda (dari beberapa tumbuhan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar yang tumbuh dari cabang dan sebagainya (seperti pada pohon beringin)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis (kawat dan sebagainya) yang berlingkar-lingkar pada suatu pusat hingga menyerupai per rambut pada arloji (alur pada sekrup dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang atau bagian batang (cabang atau ranting), daun, tangkai daun, atau bagian daun lainnya yang telah mengalami perubahan bentuk dan berfungsi sebagai alat pembantu tumbuhan untuk menjalar atau merambat pada sandaran atau penunjang tumbuhan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.lur",
+    "akarKata": null,
+    "ejaan": "sulur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyuluh; pengintai; suluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

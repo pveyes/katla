@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "adad",
+    "akarKata": null,
+    "ejaan": "adad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilangan; jumlah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

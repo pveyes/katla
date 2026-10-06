@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pok.ja",
+    "akarKata": null,
+    "ejaan": "pokja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

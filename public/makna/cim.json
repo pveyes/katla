@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "cim",
+    "akarKata": null,
+    "ejaan": "cim",
+    "baku": false,
+    "alt": "encim",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perempuan keturunan Cina yang sudah bersuami",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada perempuan keturunan Cina yang sudah bersuami",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

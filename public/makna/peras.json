@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "pe.ras",
+    "akarKata": null,
+    "ejaan": "pêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memeras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.ras",
+    "akarKata": null,
+    "ejaan": "pêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "licin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rata; paras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.ras",
+    "akarKata": null,
+    "ejaan": "pêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesajian dari pertunjukan tari seblang, berupa anyaman daun kelapa atau bambu, berisi kelapa yang dikupas sampai batoknya, dihiasi dengan benang lawe dan gula jawa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

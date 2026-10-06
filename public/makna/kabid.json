@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ka.bid",
+    "akarKata": null,
+    "ejaan": "kabid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala bidang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

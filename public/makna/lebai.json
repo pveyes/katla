@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.bai",
+    "akarKata": null,
+    "ejaan": "lêbai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegawai masjid atau orang yang mengurus suatu pekerjaan yang bertalian dengan agama Islam di dusun (kampung)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.bai",
+    "akarKata": null,
+    "ejaan": "lêbai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlebih-lebihan dalam mengekspresikan sesuatu; laku lajak",
+        "contoh": "-- banget sih orang itu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

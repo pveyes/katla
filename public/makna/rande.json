@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ran.de",
+    "akarKata": null,
+    "ejaan": "randé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengangkat sesuatu beramai-ramai dan mendorongnya lambat-lambat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

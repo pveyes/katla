@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lin.di",
+    "akarKata": null,
+    "ejaan": "lindi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alkali",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lin.di",
+    "akarKata": null,
+    "ejaan": "lindi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan yang keluar dari sampah, dapat digunakan sebagai pupuk; kompos cair",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

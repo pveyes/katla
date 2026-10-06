@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "asa.na",
+    "akarKata": null,
+    "ejaan": "asana",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sikap kaki yang berbeda-beda menurut dewa yang diwujudkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk, misalnya singgasana, yogasana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pose; gerakan",
+        "contoh": "tinggal dipilih -- yang tidak terlalu berat",
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

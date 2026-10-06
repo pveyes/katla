@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "nu.jum",
+    "akarKata": null,
+    "ejaan": "nujum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbintangan untuk meramalkan (mengetahui nasib orang dan sebagainya",
+        "contoh": "orang yang mengetahui segala alam --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintang-bintang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

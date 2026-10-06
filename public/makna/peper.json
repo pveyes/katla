@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pe.per",
+    "akarKata": null,
+    "ejaan": "pèpèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membersihkan sisa tahi (kotoran) pada dubur dengan daun atau barang tipis yang lembut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.per",
+    "akarKata": null,
+    "ejaan": "pèpèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "membersihkan sisa tahi (kotoran) pada dubur dengan daun atau barang tipis yang lembut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

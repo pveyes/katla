@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ba.car",
+    "akarKata": null,
+    "ejaan": "bacar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lancar dan banyak (tentang bicara, biasanya dalam arti yang kurang baik)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ramah dan simpatik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

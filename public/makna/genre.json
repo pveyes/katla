@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "gen.re",
+    "akarKata": null,
+    "ejaan": "gènré",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis, tipe, atau kelompok sastra atas dasar bentuknya; ragam sastra",
+        "contoh": "-- prosa",
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gen.re",
+    "akarKata": null,
+    "ejaan": "gènré",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "generasi berencana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

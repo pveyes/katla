@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.sih",
+    "akarKata": null,
+    "ejaan": "kasih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasaan sayang (cinta, suka kepada)",
+        "contoh": "pria itu menaruh -- kepada gadis tetangganya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sih",
+    "akarKata": null,
+    "ejaan": "kasih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beri",
+        "contoh": "siapa yang -- kue ini?",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

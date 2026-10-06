@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.ler",
+    "akarKata": null,
+    "ejaan": "tèlèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keadaan tubuh tidak normal, lemas tidak berdaya (tentang kesadaran saraf) karena pengaruh obat, alkohol, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berkicau terus-menerus dalam jangka waktu tertentu, biasanya disertai dengan menggeleng-gelengkan kepala (tentang burung)",
+        "contoh": "ini video anis merah yang sedang --, doyong kiri-kanan, dan tetap stabil di atas tenggeran",
+        "info": []
+      }
+    ]
+  }
+]

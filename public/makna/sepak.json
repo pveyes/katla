@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "se.pak",
+    "akarKata": null,
+    "ejaan": "sépak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan memukul sesuatu dengan kaki, dengan cara mengayunkan kaki (ke muka atau ke sisi); tendang; depak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pak",
+    "akarKata": null,
+    "ejaan": "sêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi orang memukul sesuatu dengan benda pipih, misalnya dengan telapak tangan (tamparan, tempelengan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pak",
+    "akarKata": null,
+    "ejaan": "sêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jari-jari pada roda (sepeda dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

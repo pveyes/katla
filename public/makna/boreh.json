@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "bo.reh",
+    "akarKata": null,
+    "ejaan": "borèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bedak basah yang kuning warnanya dan harum baunya; burat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bo.reh",
+    "akarKata": null,
+    "ejaan": "borêh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang (atau surat berharga) yang diserahkan oleh orang yang berutang sebagai jaminan utangnya; agunan; jaminan",
+        "contoh": "kalau hendak berutang harus ada --nya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menanggung utang orang lain (dalam hal timbulnya kesulitan dalam pembayaran utang dan sebagainya); penanggung; penjamin",
+        "contoh": "saya sanggup menjadi -- kakakku",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

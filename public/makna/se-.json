@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "se-",
+    "akarKata": null,
+    "ejaan": "sê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "satu",
+        "contoh": "sekamar",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "sama",
+        "contoh": "sepandai",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se-",
+    "akarKata": null,
+    "ejaan": "sê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "dengan",
+        "contoh": "seizinku",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "setelah",
+        "contoh": "sepergimu",
+        "info": []
+      }
+    ]
+  }
+]

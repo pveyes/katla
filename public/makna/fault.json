@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "fault",
+    "akarKata": null,
+    "ejaan": "fault",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "pukulan yang salah (tentang tenis)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

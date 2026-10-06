@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.tos",
+    "akarKata": null,
+    "ejaan": "patos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa simpati atau belas kasihan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang menimbulkan rasa kasihan, simpati, sedih, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

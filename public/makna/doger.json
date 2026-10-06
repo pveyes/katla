@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.ger",
+    "akarKata": null,
+    "ejaan": "dogèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertunjukan tari (tandak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

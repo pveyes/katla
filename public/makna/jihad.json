@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ji.had",
+    "akarKata": null,
+    "ejaan": "jihad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha dengan segala daya upaya untuk mencapai kebaikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha sungguh-sungguh membela agama Islam dengan mengorbankan harta benda, jiwa, dan raga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perang suci melawan orang kafir untuk mempertahankan agama Islam dengan syarat tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

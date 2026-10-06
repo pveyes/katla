@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "arang",
+    "akarKata": null,
+    "ejaan": "arang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan bakar yang hitam warnanya dibuat atau terjadi dari bara kayu dan sebagainya yang dipengap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu (tempurung kelapa, dan sebagainya) yang telah hangus terbakar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "arang",
+    "akarKata": null,
+    "ejaan": "arang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mulut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "A",
+    "akarKata": null,
+    "ejaan": "A",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "huruf pertama abjad Indonesia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf a",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanda pertama dalam urutan (mutu, nilai, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nada keenam dalam tangga nada diatonis C mayor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "à",
+    "akarKata": null,
+    "ejaan": "à",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kira-kira; lebih kurang (antara dua angka untuk memperkirakan panjang, besar, dan sebagainya sesuatu)",
+        "contoh": "ular itu panjangnya 6 -- 7 m",
+        "info": []
+      },
+      {
+        "definisi": "harga tiap-tiap satuan",
+        "contoh": "ia membeli bahan itu 5 m -- Rp20.000,00",
+        "info": []
+      }
+    ]
+  }
+]

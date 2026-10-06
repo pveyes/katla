@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.dar",
+    "akarKata": null,
+    "ejaan": "andar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "urai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

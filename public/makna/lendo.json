@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "len.do",
+    "akarKata": null,
+    "ejaan": "léndo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sawah dengan debit air yang tetap atau cukup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

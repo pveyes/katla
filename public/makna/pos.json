@@ -1,0 +1,153 @@
+[
+  {
+    "sukuKata": "POS",
+    "akarKata": null,
+    "ejaan": "POS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "prosedur operasional standar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pos",
+    "akarKata": null,
+    "ejaan": "pos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jawatan yang menyelenggarakan kirim-mengirim barang, surat, uang, dan sebagainya",
+        "contoh": "pegawai --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantor tempat kirim-mengirim surat, uang, dan sebagainya; kantor pos",
+        "contoh": "ia pergi ke kantor -- untuk membeli prangko",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat-surat dan sebagainya yang dikirim dengan perantaraan pos",
+        "contoh": "kartu (surat, warkat) --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kereta (kuda) pengangkut surat dan sebagainya (pada zaman dahulu); kereta pos; kuda pos",
+        "contoh": "kami menumpang kereta -- dari Semarang",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat perhentian kereta pos (pada zaman dahulu)",
+        "contoh": "tiba di --, kusir kereta pos mengganti kudanya dengan yang masih segar",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhentian (kereta api, trem dan sebagainya)",
+        "contoh": "rumah mereka di belakang -- lama",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tulisan atau unggahan yang disebarkan melalui media sosial",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pos",
+    "akarKata": null,
+    "ejaan": "pos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat penjagaan (tentara, polisi, pengamat gunung berapi, dan sebagainya)",
+        "contoh": "dua regu ditempatkan di -- terdepan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat kedudukan (orang yang melakukan tugas dan sebagainya)",
+        "contoh": "dokter-dokter harus selalu siap di -- masing-masing",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat berkumpul; tempat anggota sekelompok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pos",
+    "akarKata": null,
+    "ejaan": "pos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah uang yang disediakan untuk suatu keperluan (jawatan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari mata anggaran belanja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

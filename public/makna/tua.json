@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "tua",
+    "akarKata": null,
+    "ejaan": "tua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah lama hidup; lanjut usia (tidak muda lagi)",
+        "contoh": "ia lebih -- dua tahun daripada saya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah lama (lawan baru); sudah termasuk dalam waktu yang lampau; kuno",
+        "contoh": "barang-barang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah masak atau sampai waktunya untuk dipetik (tentang buah-buahan dan sebagainya)",
+        "contoh": "buah ini belum --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah mendidih atau sudah masak benar (tentang air, minyak, dan sebagainya)",
+        "contoh": "biarkan minyak itu -- dahulu baru masukkan ikan ke dalamnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kehitam-hitaman atau sangat (tentang warna)",
+        "contoh": "biru --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi mutunya, jadi banyak tulennya (tentang emas)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pemimpin (yang dipandang tua, berpengetahuan, dan berpengalaman); kepala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "sukuKata": "se.rok",
+    "akarKata": null,
+    "ejaan": "sèrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teluk kecil (di sungai atau di pantai laut); serokan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rok",
+    "akarKata": null,
+    "ejaan": "sèrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menyauk atau meraup benda-benda yang di dalam air dan sebagainya; pencedok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rok",
+    "akarKata": null,
+    "ejaan": "sêrok",
+    "baku": false,
+    "alt": "sero",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancang-pancang yang merupakan pagar yang dipasang di tepi laut untuk menahan dan menggiring ikan supaya masuk ke dalam tempat yang terkurung",
+        "contoh": "para nelayan menangkap ikan dengan perahu kecil dan jaring tradisional, atau memasang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rok",
+    "akarKata": null,
+    "ejaan": "sêrok",
+    "baku": false,
+    "alt": "seruk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyimpan beras yang dipakai juga sebagai takaran (isinya sekitar 10 gantang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rok",
+    "akarKata": null,
+    "ejaan": "sêrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menenun berselang-seling dengan benang perak atau benang emas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

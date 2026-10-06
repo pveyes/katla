@@ -1,0 +1,145 @@
+[
+  {
+    "sukuKata": "ka.non",
+    "akarKata": null,
+    "ejaan": "kanon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang pajak untuk tanah sewa yang turun-temurun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.non",
+    "akarKata": null,
+    "ejaan": "kanon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komposisi musik yang dimainkan secara bersahut-sahutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan atau dogma yang dikeluarkan oleh gereja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku-buku autentik yang dianggap bagian Kitab Suci",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karya drama yang dianggap ciptaan asli seorang penulis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.non",
+    "akarKata": null,
+    "ejaan": "kanon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "meriam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.non",
+    "akarKata": null,
+    "ejaan": "kanon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karya drama yang dianggap ciptaan asli seorang penulis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.non",
+    "akarKata": null,
+    "ejaan": "kanon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan atau dogma yang dikeluarkan oleh gereja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku-buku autentik yang dianggap bagian kitab suci",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

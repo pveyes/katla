@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "sa.sap",
+    "akarKata": null,
+    "ejaan": "sasap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cabut; siang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.sap",
+    "akarKata": null,
+    "ejaan": "sasap",
+    "baku": false,
+    "alt": "sesap",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "isap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.sap",
+    "akarKata": null,
+    "ejaan": "sasap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat susup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

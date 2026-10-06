@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ata",
+    "akarKata": null,
+    "ejaan": "ata",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan budak pada masa lampau yang ada dalam suku Bugis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bugis",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan hamba sahaya pada suku Helong di Kupang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

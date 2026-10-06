@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "bi.lik",
+    "akarKata": null,
+    "ejaan": "bilik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anyaman dari bilah bambu (untuk dinding dan sebagainya); gedek; tepas; sasak",
+        "contoh": "rumahnya berdinding --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruangan kecil yang tersekat; kamar",
+        "contoh": "tidurnya di -- samping",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.lik",
+    "akarKata": null,
+    "ejaan": "bilik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesatuan beberapa rumah keluarga yang berpusat pada rumah anak tertua (di Lampung)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

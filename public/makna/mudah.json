@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "mu.dah",
+    "akarKata": null,
+    "ejaan": "mudah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak memerlukan banyak tenaga atau pikiran dalam mengerjakan; tidak sukar; tidak berat; gampang",
+        "contoh": "soal ujian itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekas sekali (menjadi, menderita, dan sebagainya)",
+        "contoh": "anak kecil -- ketularan penyakit",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak teguh imannya (gampang terbujuk atau gampang diajak berzina dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mu.dah",
+    "akarKata": null,
+    "ejaan": "mudah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mudah-mudahan"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "mok",
+    "akarKata": null,
+    "ejaan": "mok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejenis penyakit radang kulit kuda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mok",
+    "akarKata": null,
+    "ejaan": "mok",
+    "baku": true,
+    "alt": "muk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piala dari email",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cangkir besar dari kaleng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mok",
+    "akarKata": null,
+    "ejaan": "mok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue-kue yang dibuat dari kelapa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

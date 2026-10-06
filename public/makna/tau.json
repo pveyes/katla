@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "tau",
+    "akarKata": null,
+    "ejaan": "tau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tau",
+    "akarKata": null,
+    "ejaan": "tau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat daun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tau",
+    "akarKata": null,
+    "ejaan": "tau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-19 abjad Yunani",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

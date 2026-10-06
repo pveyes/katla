@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "abu.an",
+    "akarKata": null,
+    "ejaan": "abuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian hasil sawah yang disediakan untuk yang mengerjakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang simpanan untuk cadangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

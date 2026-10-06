@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "hi.sab",
+    "akarKata": null,
+    "ejaan": "hisab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hitungan; perhitungan; perkiraan",
+        "contoh": "ahli --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peduli",
+        "contoh": "apa --mu kepadanya?",
+        "info": []
+      }
+    ]
+  }
+]

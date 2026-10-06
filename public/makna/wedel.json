@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "we.del",
+    "akarKata": null,
+    "ejaan": "wêdêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mudah robek (tentang tenunan atau anyaman); kuat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "we.del",
+    "akarKata": null,
+    "ejaan": "wêdêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat pewarna biru kehitam-hitaman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

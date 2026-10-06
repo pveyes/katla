@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "su.mur",
+    "akarKata": null,
+    "ejaan": "sumur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumber air buatan, dengan cara menggali tanah; perigi",
+        "contoh": "-- bor",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang yang sengaja dibuat menembus lapisan tanah untuk memperoleh air, minyak, atau gas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang hasil pengeboran, baik dalam tahap eksplorasi maupun eksploitasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan hidraulis berupa lubang yang digali ke dalam bumi yang memungkinkan penyadapan air secara ekonomis dari akuifer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

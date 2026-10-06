@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RSPAD",
+    "akarKata": null,
+    "ejaan": "RSPAD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Rumah Sakit Pusat Angkatan Darat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tis",
+    "akarKata": null,
+    "ejaan": "tis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "panas dingin (penyakit demam malaria)",
+        "contoh": "salah satu gejala terserang penyakit malaria adalah badan terasa panas --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

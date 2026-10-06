@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.ket",
+    "akarKata": null,
+    "ejaan": "jakèt",
+    "baku": true,
+    "alt": "jeket",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju luar berlengan dengan bukaan di depan (untuk penahan dingin atau angin)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampul luar buku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

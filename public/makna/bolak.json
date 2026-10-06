@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.lak",
+    "akarKata": null,
+    "ejaan": "bolak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "salah; keliru; tidak kena",
+        "contoh": "tak -- lagi",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

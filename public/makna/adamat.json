@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ada.mat",
+    "akarKata": null,
+    "ejaan": "adamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengadaan material",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

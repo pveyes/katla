@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ku.mat",
+    "akarKata": null,
+    "ejaan": "kumat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kembali sakit; bentan; angot; kambuh",
+        "contoh": "penyakitnya -- lagi sesudah beberapa lama sembuh",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.mat",
+    "akarKata": null,
+    "ejaan": "kumat",
+    "baku": false,
+    "alt": "komat-kamit",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bergerak-gerak (tentang mulut atau bibir) seperti orang berdoa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak-gerak bibir atau mulut (tanpa mengeluarkan suara)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "em.bel",
+    "akarKata": null,
+    "ejaan": "émbél",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paya-paya yang tertutup oleh rerumputan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "em.bel",
+    "akarKata": null,
+    "ejaan": "êmbêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "paya-paya yang tertutup oleh rerumputan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

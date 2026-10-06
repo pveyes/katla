@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.sip",
+    "akarKata": null,
+    "ejaan": "kasip",
+    "baku": true,
+    "alt": "kasep",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlambat; lewat waktu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sip",
+    "akarKata": null,
+    "ejaan": "kasip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuh-tumbuhan, ada bermacam-macam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

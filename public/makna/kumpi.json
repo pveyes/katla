@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "kum.pi",
+    "akarKata": null,
+    "ejaan": "kumpi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "moyang (laki-laki atau perempuan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kum.pi",
+    "akarKata": null,
+    "ejaan": "kumpi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karung yang dibuat dari daun nipah, digunakan untuk mengangkut barang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "benuaq",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fa.set",
+    "akarKata": null,
+    "ejaan": "fasèt",
+    "baku": true,
+    "alt": "paset",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permukaan yang tergosok rata (pada permata, kaca, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segi atau bagian (dari suatu pembicaraan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

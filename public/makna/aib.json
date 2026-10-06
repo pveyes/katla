@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "aib",
+    "akarKata": null,
+    "ejaan": "aib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "malu",
+        "contoh": "bagimu itu adalah -- yang tiada terhapuskan lagi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cela; noda; salah; keliru",
+        "contoh": "jika ada -- dan bebalnya, hendaklah dimaafkan",
+        "info": []
+      }
+    ]
+  }
+]

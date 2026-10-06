@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.pah",
+    "akarKata": null,
+    "ejaan": "kêpah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerang laut kecil, dagingnya biasa dikeringkan untuk dimakan; bermacam-macam jenisnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pah",
+    "akarKata": null,
+    "ejaan": "kêpah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mamah dan isap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

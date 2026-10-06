@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.nur",
+    "akarKata": null,
+    "ejaan": "tanur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat pembakaran (kapur dan sebagainya); perapian; kompor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

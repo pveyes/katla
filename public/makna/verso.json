@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ver.so",
+    "akarKata": null,
+    "ejaan": "vérso",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "halaman sebelah kiri buku atau naskah yang terbuka, biasanya bernomor halaman genap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian belakang atau bagian kedua lembaran kertas yang akan dicetak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

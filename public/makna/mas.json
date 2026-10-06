@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "mas",
+    "akarKata": null,
+    "ejaan": "mas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "emas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mas",
+    "akarKata": null,
+    "ejaan": "mas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk saudara tua laki-laki atau laki-laki yang dianggap lebih tua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan hormat untuk laki-laki, tanpa memandang usia",
+        "contoh": "apa kabar, --?",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan karib istri kepada suami; bang; kak",
+        "contoh": "--, kemarin Ibu datang",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ta.lek",
+    "akarKata": null,
+    "ejaan": "talêk",
+    "baku": false,
+    "alt": "talk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bedak halus yang mengandung zat tertentu untuk menjaga kesehatan kulit; talek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk kristal yang halus, berwarna putih atau agak keabu-abuan, sebagai bahan pelicin pada pembuatan tablet dan sebagai bahan bermacam-macam serbuk obat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "farmasi dan farmakologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "hu.mor",
+    "akarKata": null,
+    "ejaan": "humor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang lucu",
+        "contoh": "ia mempunyai rasa --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan (dalam cerita dan sebagainya) yang menggelikan hati; kejenakaan; kelucuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "hu.mor",
+    "akarKata": null,
+    "ejaan": "humor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan atau zat setengah cair dalam tubuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

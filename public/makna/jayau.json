@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.yau",
+    "akarKata": null,
+    "ejaan": "jayau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dianggap pandai dalam ilmu pengetahuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.ton",
+    "akarKata": null,
+    "ejaan": "sêton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gombang; guci",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

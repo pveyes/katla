@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.gat",
+    "akarKata": null,
+    "ejaan": "bugat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberontak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

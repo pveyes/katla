@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.lan",
+    "akarKata": null,
+    "ejaan": "dolan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pergi bersenang-senang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

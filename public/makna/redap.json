@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "re.dap",
+    "akarKata": null,
+    "ejaan": "rêdap",
+    "baku": false,
+    "alt": "redup",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berawan (langit); tidak terang (cuaca); mendung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "agak gelap karena terlindung awan; tidak panas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suram",
+        "contoh": "lampu itu makin lama makin -- karena kekurangan minyak",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkurang; merosot (kekayaan, kemegahan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mulai berhenti; reda (badai, cinta kasih, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sayup-sayup; redam (suara, bunyi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak gembira",
+        "contoh": "ia menyahut dengan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.dap",
+    "akarKata": null,
+    "ejaan": "rêdap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gendang (rebana) kecil; dap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

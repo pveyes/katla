@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ili.an",
+    "akarKata": null,
+    "ejaan": "ilian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemindahan massa dengan gerak aliran; konveksi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

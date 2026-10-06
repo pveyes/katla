@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "lok",
+    "akarKata": null,
+    "ejaan": "lok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lokomotif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "Ba.dui",
+    "akarKata": null,
+    "ejaan": "Badui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa pengembara di tanah Arab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.dui",
+    "akarKata": null,
+    "ejaan": "Badui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Rangkasbitung dan Pandeglang, Banten",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialek bahasa Sunda yang dituturkan oleh suku Badui",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

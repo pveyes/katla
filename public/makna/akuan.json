@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "aku.an",
+    "akarKata": "aku",
+    "ejaan": "akuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang telah diakui",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk halus (hantu dan sebagainya) yang dijadikan sebagai pengawal seseorang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk halus yang merasuk ke dalam tubuh seseorang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aku.an",
+    "akarKata": null,
+    "ejaan": "akuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekarangan atau ladang di Pulau Jawa bagian utara yang digunakan oleh seseorang untuk melakukan usaha atas dasar hak kegiatan dalam waktu tidak lebih dari satu tahun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

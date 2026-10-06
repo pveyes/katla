@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "man.ga",
+    "akarKata": null,
+    "ejaan": "manga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komik khas Jepang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

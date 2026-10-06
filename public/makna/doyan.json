@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.yan",
+    "akarKata": null,
+    "ejaan": "doyan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka sekali; gemar sekali",
+        "contoh": "kecil-kecil -- merokok",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

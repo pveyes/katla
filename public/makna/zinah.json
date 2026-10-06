@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "zi.nah",
+    "akarKata": null,
+    "ejaan": "zinah",
+    "baku": false,
+    "alt": "zina",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan bersanggama antara laki-laki dan perempuan yang tidak terikat oleh hubungan pernikahan (perkawinan); fornikasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan bersanggama seorang laki-laki yang terikat perkawinan dengan seorang perempuan yang bukan istrinya, atau seorang perempuan yang terikat perkawinan dengan seorang laki-laki yang bukan suaminya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

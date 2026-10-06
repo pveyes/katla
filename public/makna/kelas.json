@@ -1,0 +1,84 @@
+[
+  {
+    "sukuKata": "ke.las",
+    "akarKata": null,
+    "ejaan": "kêlas",
+    "baku": true,
+    "alt": "klas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkat",
+        "contoh": "ia naik ke -- tiga",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang tempat belajar di sekolah",
+        "contoh": "gedung sekolah itu terdiri atas enam --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok masyarakat berdasarkan pendidikan, penghasilan, kekuasaan, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan, kumpulan (berdasarkan persamaan berbagai sifat tertentu)",
+        "contoh": "manusia termasuk di dalam -- mamalia",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan taksonomi (takson) yang tingkatnya di antara bangsa dan divisi, serta mewadahi bangsa-bangsa yang erat hubungan kekerabatannya, seperti Mammalia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "struktur fundamental dari pemrograman berbasis objek, terdiri atas semua metode (fungsi dan prosedur) dan data yang diperlukan untuk merepresentasikan beberapa objek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.las",
+    "akarKata": null,
+    "ejaan": "kêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "antara pasang dan surut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

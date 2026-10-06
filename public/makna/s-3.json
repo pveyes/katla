@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "S-",
+    "akarKata": null,
+    "ejaan": "S-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "strata tiga; doktor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

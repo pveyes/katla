@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ca.bai",
+    "akarKata": null,
+    "ejaan": "cabai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman perdu yang buahnya berbentuk bulat panjang dengan ujung meruncing, apabila sudah tua berwarna merah kecokelat-cokelatan atau hijau tua, berisi banyak biji yang pedas rasanya; lombok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah cabai (biasa dibuat sambal atau campuran sayur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

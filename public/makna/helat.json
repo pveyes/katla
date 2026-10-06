@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "he.lat",
+    "akarKata": null,
+    "ejaan": "hèlat",
+    "baku": true,
+    "alt": "elat, helah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu muslihat; tipu daya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dalih; alasan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "he.lat",
+    "akarKata": null,
+    "ejaan": "hêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "asing; lain; bukan keluarga",
+        "contoh": "di kota-kota besar banyak orang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "he.lat",
+    "akarKata": null,
+    "ejaan": "hêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang datang menghadiri suatu pesta perkawinan dan sebagainya; tamu",
+        "contoh": "pesta seperti biasanya disertai dengan menyembelih sapi dan memberi makan seluruh --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pesta perkawinan dan sebagainya",
+        "contoh": "banyak tamu yang datang untuk meramaikan -- putri tunggalnya itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhelatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

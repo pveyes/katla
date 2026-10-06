@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "he.mat",
+    "akarKata": null,
+    "ejaan": "hèmat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhati-hati dalam membelanjakan uang, dan sebagainya; tidak boros; cermat",
+        "contoh": "kita harus -- dalam penggunaan bahan bakar",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "he.mat",
+    "akarKata": null,
+    "ejaan": "hèmat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh minat dan perhatian; (dengan) saksama; teliti",
+        "contoh": "ia mendengarkan pelajaran dengan -- dan cermat",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "he.mat",
+    "akarKata": null,
+    "ejaan": "hèmat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pikiran; pendapat",
+        "contoh": "menurut -- kami, dia sebaiknya pulang saja",
+        "info": []
+      }
+    ]
+  }
+]

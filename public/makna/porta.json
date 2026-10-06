@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "por.ta",
+    "akarKata": null,
+    "ejaan": "porta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu masuk, terutama tempat masuk pembuluh yang membawa dan mengangkut darah dari suatu organ",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "por.ta",
+    "akarKata": null,
+    "ejaan": "porta",
+    "baku": true,
+    "alt": "port",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "soket eksternal dalam unit pengolah utama komputer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan mengubah perangkat lunak agar dapat bekerja pada sistem operasi yang berbeda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

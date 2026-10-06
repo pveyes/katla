@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DPR",
+    "akarKata": null,
+    "ejaan": "DPR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Dewan Perwakilan Rakyat (lembaga tinggi negara yang merupakan lembaga perwakilan rakyat, terdiri atas anggota partai politik peserta pemilihan umum yang dipilih melalui pemilihan umum)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

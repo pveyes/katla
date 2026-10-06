@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "no.lam",
+    "akarKata": null,
+    "ejaan": "nolam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puisi tradisional Riau yang berasal dari sastra Arab dan sastra Parsi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ma.pel",
+    "akarKata": null,
+    "ejaan": "mapêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata pelajaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

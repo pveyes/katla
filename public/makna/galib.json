@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ga.lib",
+    "akarKata": null,
+    "ejaan": "galib",
+    "baku": true,
+    "alt": "ralip",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "umum; lazim",
+        "contoh": "pada --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jaya; menang; beruntung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

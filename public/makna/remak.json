@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "re.mak",
+    "akarKata": null,
+    "ejaan": "rêmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "lebih baik; biarlah",
+        "contoh": "-- mati di tanah Pasai ini, jangan mati di tanah Haru",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "aba.kus",
+    "akarKata": null,
+    "ejaan": "abakus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dekak-dekak; swipoa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aba.kus",
+    "akarKata": null,
+    "ejaan": "abakus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lempeng datar di atas kepala tiang dengan pinggiran cekung atau beralur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arsitektur",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

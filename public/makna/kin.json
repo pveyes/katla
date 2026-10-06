@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kin",
+    "akarKata": null,
+    "ejaan": "kin",
+    "baku": false,
+    "alt": "ken",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepalan; jurus (dalam olahraga kempo)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

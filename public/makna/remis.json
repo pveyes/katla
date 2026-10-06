@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "re.mis",
+    "akarKata": null,
+    "ejaan": "rèmis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada yang kalah dan tidak ada yang menang (dalam permainan catur); seri; sama-sama",
+        "contoh": "pertandingan catur itu berakhir --",
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.mis",
+    "akarKata": null,
+    "ejaan": "rèmis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kiriman uang (surat berharga)",
+        "contoh": "di bank itu, ia bekerja pada bagian pengurusan --",
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.mis",
+    "akarKata": null,
+    "ejaan": "rêmis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerang (kepah) yang dapat dimakan, cangkangnya kuat dan simetris, bentuknya agak bundar atau memanjang, bagian dalam berwarna putih dan bagian luar berwarna abu-abu kecokelatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

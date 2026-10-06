@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "re.sor",
+    "akarKata": null,
+    "ejaan": "résor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah kecil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah kuasa",
+        "contoh": "ia menjabat komandan -- kepolisian",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkungan kerja",
+        "contoh": "tenaga kerja yang terdaftar pada kantor -- adalah tenaga kerja yang belum dapat disalurkan",
+        "info": []
+      }
+    ]
+  }
+]

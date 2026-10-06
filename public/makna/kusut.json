@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ku.sut",
+    "akarKata": null,
+    "ejaan": "kusut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tersimpul jalin-menjalin tidak keruan hingga sukar diuraikan (rambut, benang, dan sebagainya)",
+        "contoh": "rambutnya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kacau; tidak teratur",
+        "contoh": "alas tempat tidur itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rumit; rusuh, dan bingung (hati, pikiran, dan sebagainya)",
+        "contoh": "--lah hatinya dan kacaulah pikirannya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

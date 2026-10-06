@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "se.kah",
+    "akarKata": null,
+    "ejaan": "sékah",
+    "baku": false,
+    "alt": "seka",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyeka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kah",
+    "akarKata": null,
+    "ejaan": "sèkah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gagah tangkas (sikapnya); baik sikap tubuhnya; segak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.kah",
+    "akarKata": null,
+    "ejaan": "sêkah",
+    "baku": false,
+    "alt": "serkah",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "patah, belah, terlepas (tentang dahan, cabang kayu, dan sebagainya)",
+        "contoh": "disentaknya cabang kayu itu hingga --",
+        "info": []
+      }
+    ]
+  }
+]

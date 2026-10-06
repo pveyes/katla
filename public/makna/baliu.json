@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.liu",
+    "akarKata": null,
+    "ejaan": "baliu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memenggal kepala (di pedalaman Kalimantan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

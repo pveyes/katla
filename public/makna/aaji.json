@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AAJI",
+    "akarKata": null,
+    "ejaan": "AAJI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Asosiasi Asuransi Jiwa Indonesia (induk organisasi bagi industri asuransi jiwa di Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

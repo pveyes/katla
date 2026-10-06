@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bo.bol",
+    "akarKata": null,
+    "ejaan": "bobol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jebol atau rusak (tentang bendungan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tembus (tentang barisan, pertahanan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

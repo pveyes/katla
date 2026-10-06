@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.dar",
+    "akarKata": null,
+    "ejaan": "ladar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem penjejak rudal yang menggunakan berkas sinar kasatmata sebagai pengganti berkas radar mikrogelombang untuk mengukur laju, tinggi, arah, dan jarak rudal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

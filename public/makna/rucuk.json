@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.cuk",
+    "akarKata": null,
+    "ejaan": "rucuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang pohon berduri untuk menutup pematang sawah yang masih basah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

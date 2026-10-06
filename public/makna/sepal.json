@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.pal",
+    "akarKata": null,
+    "ejaan": "sépal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun yang berubah bentuk menjadi kelopak bunga; daun kelopak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

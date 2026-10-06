@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ka.bin",
+    "akarKata": null,
+    "ejaan": "kabin",
+    "baku": true,
+    "alt": "kebin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kamar di dalam kapal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang di dalam pesawat terbang tempat para penumpang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang penumpang dalam mobil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

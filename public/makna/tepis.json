@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.pis",
+    "akarKata": null,
+    "ejaan": "têpis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tangkis dengan belakang tangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pis",
+    "akarKata": null,
+    "ejaan": "têpis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menepis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

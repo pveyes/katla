@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ab.re.ak.si",
+    "akarKata": null,
+    "ejaan": "abréaksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pencetusan emosi dengan mengingat kembali trauma psikis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses berkurangnya kecemasan dengan melepaskan tekanan dari suatu pengalaman tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

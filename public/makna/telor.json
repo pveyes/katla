@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "te.lor",
+    "akarKata": null,
+    "ejaan": "télor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat mengucapkan kata-kata dengan lafal yang betul (seperti kurang diucapkan kulang); pelat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.lor",
+    "akarKata": null,
+    "ejaan": "têlor",
+    "baku": false,
+    "alt": "telur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sel (terdapat pada wanita) yang akan menjadi bakal anak, jika dibuahi oleh sperma",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda bercangkang yang mengandung zat hidup bakal anak yang dihasilkan oleh unggas (ayam, itik, burung, dan sebagainya), biasanya dimakan (direbus, diceplok, didadar, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda kecil-kecil bercangkang, (biasanya kelompok) mengandung bakal anak, dihasilkan oleh binatang (cecak, buaya, penyu, nyamuk, kutu, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbagai-bagai benda yang bentuknya (rupanya, sifatnya, dan sebagainya) menyerupai telur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

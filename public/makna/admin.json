@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ad.min",
+    "akarKata": null,
+    "ejaan": "admin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "administrator",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

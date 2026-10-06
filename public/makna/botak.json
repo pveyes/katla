@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bo.tak",
+    "akarKata": null,
+    "ejaan": "botak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berambut (tentang kepala orang); gundul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berbulu (tentang kepala binatang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "PIN",
+    "akarKata": null,
+    "ejaan": "PIN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Pusat Informasi Nasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka identifikasi pribadi (kata sandi numerik yang digunakan untuk autentikasi pengguna suatu sistem, misalnya ATM); dari personal identification number",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekan imunisasi nasional (pekan pemberian imunisasi dengan vaksin polio untuk balita)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pin",
+    "akarKata": null,
+    "ejaan": "pin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarum penyemat; peniti; pasak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pin",
+    "akarKata": null,
+    "ejaan": "pin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sasaran berbentuk gada kecil tegak yang harus dijatuhkan dalam permainan boling",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

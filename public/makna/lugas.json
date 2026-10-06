@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lu.gas",
+    "akarKata": null,
+    "ejaan": "lugas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengenai yang pokok-pokok (yang perlu-perlu) saja",
+        "contoh": "pembicaraannya selalu --, tidak pernah menyimpang ke sana sini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat seperti apa adanya; lugu; serba bersahaja; serba sederhana",
+        "contoh": "cara berdandannya --, tidak mencolok",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berbelit-belit",
+        "contoh": "kalimatnya --, tidak berbunga-bunga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bersifat pribadi; objektif",
+        "contoh": "masalah itu dapat diselesaikan secara --",
+        "info": []
+      }
+    ]
+  }
+]

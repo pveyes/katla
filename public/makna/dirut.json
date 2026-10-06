@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "di.rut",
+    "akarKata": null,
+    "ejaan": "dirut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "direktur utama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

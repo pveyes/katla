@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ab.lur",
+    "akarKata": null,
+    "ejaan": "ablur",
+    "baku": false,
+    "alt": "hablur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda keras yang bening seperti kaca; kristal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk padat yang homogen dan bersudut dari suatu zat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang tampak bening berkilau (tentang mata); bersinar-sinar",
+        "contoh": "gadis itu bermata --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

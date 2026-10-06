@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "tak",
+    "akarKata": null,
+    "ejaan": "tak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak",
+        "contoh": "-- kenal maka -- sayang",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "tidak",
+        "contoh": "ragam baku dan --baku",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tak",
+    "akarKata": null,
+    "ejaan": "tak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi tempurung diadu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tak",
+    "akarKata": null,
+    "ejaan": "tak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis mesin (motor bakar) dilihat dari jumlah perputaran untuk setiap perubahan",
+        "contoh": "dua --",
+        "info": []
+      }
+    ]
+  }
+]

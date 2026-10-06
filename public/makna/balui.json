@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ba.lui",
+    "akarKata": null,
+    "ejaan": "balui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sama kuat atau sama banyak mendapat kemenangan dalam permainan; tidak ada yang menang dan tidak ada yang kalah; seri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lui",
+    "akarKata": null,
+    "ejaan": "balui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumput yang berduri dan bermiang, biasanya digunakan sebagai obat untuk benih padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

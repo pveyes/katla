@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MPP",
+    "akarKata": null,
+    "ejaan": "MPP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa persiapan pensiun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

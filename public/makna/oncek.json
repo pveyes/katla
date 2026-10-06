@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "on.cek",
+    "akarKata": null,
+    "ejaan": "oncèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kupas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

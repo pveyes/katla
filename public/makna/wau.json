@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "wau",
+    "akarKata": null,
+    "ejaan": "wau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "layang-layang dari kertas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wau",
+    "akarKata": null,
+    "ejaan": "wau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-27 abjad Arab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wau",
+    "akarKata": null,
+    "ejaan": "wau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung yang berbunyi “wau”",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

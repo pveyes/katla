@@ -1,0 +1,85 @@
+[
+  {
+    "sukuKata": "ba.bat",
+    "akarKata": null,
+    "ejaan": "babat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tebas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bat",
+    "akarKata": null,
+    "ejaan": "babat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan yang sama jenisnya (keadaannya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasangan (jodoh dan sebagainya) yang seimbang atau setara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bat",
+    "akarKata": null,
+    "ejaan": "babat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perut besar pada binatang memamah biak (seperti lembu, kerbau)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging perut besar",
+        "contoh": "soto --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bat",
+    "akarKata": null,
+    "ejaan": "babat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bebat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

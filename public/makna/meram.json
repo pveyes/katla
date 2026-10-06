@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "me.ram",
+    "akarKata": null,
+    "ejaan": "mêram",
+    "baku": false,
+    "alt": "merem",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menutup mata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

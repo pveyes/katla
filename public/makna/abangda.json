@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abang.da",
+    "akarKata": null,
+    "ejaan": "abangda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan hormat kepada kakak laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          }
+        ]
+      }
+    ]
+  }
+]

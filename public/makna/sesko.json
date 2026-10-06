@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ses.ko",
+    "akarKata": null,
+    "ejaan": "sêsko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekolah staf dan komando",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

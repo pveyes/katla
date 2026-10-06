@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "kur.va",
+    "akarKata": null,
+    "ejaan": "kurva",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis lengkung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "grafik yang menggambarkan variabel (misalnya yang memperlihatkan perkembangan) yang dipengaruhi oleh keadaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis yang terdiri atas persambungan titik-titik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

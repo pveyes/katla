@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.kat",
+    "akarKata": null,
+    "ejaan": "rakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertunjukan tari-tarian dengan lawak (pakai topeng)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

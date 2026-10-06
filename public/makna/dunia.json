@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "du.nia",
+    "akarKata": null,
+    "ejaan": "dunia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bumi dengan segala sesuatu yang terdapat di atasnya; planet tempat kita hidup",
+        "contoh": "di seluruh -- ini terdapat kira-kira 4.000 bahasa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alam kehidupan",
+        "contoh": "kita mengharapkan -- baru yang adil dan makmur",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semua manusia yang ada di muka bumi",
+        "contoh": "hampir seluruh -- menghargai cita-cita Mahatma Gandhi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkungan atau lapangan kehidupan",
+        "contoh": "ia sudah lama berkecimpung dalam -- pendidikan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(segala) yang bersifat kebendaan; yang tidak kekal",
+        "contoh": "baginya tiada arti harta -- ini",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peringkat antarbangsa (seluruh jagat atau segenap manusia)",
+        "contoh": "kejuaraan -- bulu tangkis yang pertama diselenggarakan di Malmoe, Swedia",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "du.nia",
+    "akarKata": null,
+    "ejaan": "dunia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembicaraan mengenai perkawinan (di Halmahera)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "du.nia",
+    "akarKata": null,
+    "ejaan": "dunia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peringkat tertinggi dalam klasifikasi makhluk dan fitogeografi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "ce.mar",
+    "akarKata": null,
+    "ejaan": "cêmar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kotor; ternoda",
+        "contoh": "udara menjadi -- karena asap gas yang keluar dari cerobong asap pabrik itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keji; cabul; mesum",
+        "contoh": "perkataan yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buruk (tentang nama baik); tercela",
+        "contoh": "karena perbuatan jahatnya, nama keluarganya menjadi --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "mu.mur",
+    "akarKata": null,
+    "ejaan": "mumur",
+    "baku": false,
+    "alt": "hancur",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pecah menjadi kecil-kecil; remuk",
+        "contoh": "kaca mobil yang bertabrakan itu -- berantakan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak tampak lagi wujudnya; luluh; larut",
+        "contoh": "gula itu -- dalam air panas",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rusak; binasa",
+        "contoh": "pada waktu Perang Dunia II banyak kota besar yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sangat sedih (tentang hati)",
+        "contoh": "-- hatinya mendengar berita bahwa suaminya gugur di medan perang",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

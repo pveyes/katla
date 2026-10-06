@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.ret",
+    "akarKata": null,
+    "ejaan": "barèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "goresan (pada kulit, kaca)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.ret",
+    "akarKata": null,
+    "ejaan": "barèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "topi yang bentuknya bundar pipih (dipakai oleh tentara, mahasiswa, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

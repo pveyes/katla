@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "bu.bul",
+    "akarKata": null,
+    "ejaan": "bubul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bisul pada tumit orang atau pada kuku kuda (ada beberapa jenis seperti -- bubu, -- gantang, -- galai)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bisul di telapak kaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.bul",
+    "akarKata": null,
+    "ejaan": "bubul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tambal (jala, jaring, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.bul",
+    "akarKata": null,
+    "ejaan": "bubul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "membubul"
+        ]
+      }
+    ]
+  }
+]

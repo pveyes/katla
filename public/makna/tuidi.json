@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.i.di",
+    "akarKata": null,
+    "ejaan": "tuidi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wakil lurah pada setiap kampung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

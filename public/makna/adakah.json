@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ada.kah",
+    "akarKata": "ada",
+    "ejaan": "adakah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "apakah ada; benarkah",
+        "contoh": "~ ia berbicara denganmu?",
+        "info": []
+      }
+    ]
+  }
+]

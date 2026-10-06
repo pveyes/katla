@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pok",
+    "akarKata": null,
+    "ejaan": "pok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis kayu yang ulet, mengeluarkan lendir jika kena air, digunakan sebagai bantalan poros baling-baling kapal paling ujung dan rem jangkar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

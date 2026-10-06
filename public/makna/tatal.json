@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.tal",
+    "akarKata": null,
+    "ejaan": "tatal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serpih-serpih kayu yang ditarah (diketam); sampah yang tipis-tipis",
+        "contoh": "-- ketam",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.tal",
+    "akarKata": null,
+    "ejaan": "tatal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tertatal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

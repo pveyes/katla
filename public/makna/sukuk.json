@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "su.kuk",
+    "akarKata": null,
+    "ejaan": "sukuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obligasi berbasis syariah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

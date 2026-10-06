@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lik",
+    "akarKata": null,
+    "ejaan": "lik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebab yang dicari-cari; dalih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "sukuKata": "bis",
+    "akarKata": null,
+    "ejaan": "bis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotak kecil (di tepi jalan, di depan kantor pos), milik kantor pos, tempat memasukkan surat yang akan dikirimkan melalui jasa kantor pos; kotak kecil di depan rumah (kantor), tempat meletakkan surat yang terkirim melalui jasa kantor pos; kotak surat",
+        "contoh": "memasukkan surat ke dalam --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat hinggap (dalam permainan seperti sofbol dan bisbol) pemukul atau pelari yang diletakkan di tiap sudut lapangan, biasanya terbuat dari kain terpal berbentuk segi empat seperti bantal tipis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bis",
+    "akarKata": null,
+    "ejaan": "bis",
+    "baku": false,
+    "alt": "bus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan bermotor angkutan umum yang besar, beroda empat atau lebih, dapat memuat penumpang banyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bis",
+    "akarKata": null,
+    "ejaan": "bis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "dua kali lagi; sekali lagi; diulang atau ditambah lagi (dalam nyanyian dan sebagainya)",
+        "contoh": "penonton berseru gemuruh, “ --! --!”",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tambahan atau susulan pada pasal undang-undang",
+        "contoh": "Pasal 161 -- (pasal yang ditambahkan pada Pasal 161)",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bis",
+    "akarKata": null,
+    "ejaan": "bis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pipa dari besi atau semen, cor, plastik untuk got dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembuluh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bis",
+    "akarKata": null,
+    "ejaan": "bis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain (pita) untuk hiasan pada bagian tepi baju dan sebagainya; pelisir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

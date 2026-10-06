@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.nun",
+    "akarKata": null,
+    "ejaan": "kanun",
+    "baku": false,
+    "alt": "qanun",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "undang-undang; peraturan; hukum; kaidah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kitab undang-undang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

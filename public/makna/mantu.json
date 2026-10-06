@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "man.tu",
+    "akarKata": null,
+    "ejaan": "mantu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menantu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengawinkan anak; mengadakan pesta perkawinan anak",
+        "contoh": "Pak Camat akan -- minggu depan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

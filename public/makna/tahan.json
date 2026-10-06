@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ta.han",
+    "akarKata": null,
+    "ejaan": "tahan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap keadaannya (kedudukannya dan sebagainya) meskipun mengalami berbagai-bagai hal; tidak lekas rusak (berubah, kalah, luntur, dan sebagainya)",
+        "contoh": "kayu seperti ini tidak -- kena panas matahari",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat atau sanggup menderita (menanggung) sesuatu",
+        "contoh": "petapa harus -- lapar dan -menderita",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat menyabarkan (menguasai) diri; betah",
+        "contoh": "ia tidak -- tinggal di asrama",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sanggup dan tidak lekas merasa jijik (kasihan dan sebagainya)",
+        "contoh": "dia tidak -- melihat mayat korban pembunuhan itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cukup (sampai atau hingga)",
+        "contoh": "sediaan air hanya -- untuk lima hari",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.han",
+    "akarKata": null,
+    "ejaan": "tahan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menahankan"
+        ]
+      }
+    ]
+  }
+]

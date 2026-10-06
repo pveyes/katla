@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sol",
+    "akarKata": null,
+    "ejaan": "sol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telapak (alas) sepatu (sandal dan sebagainya)",
+        "contoh": "kerikil di halaman terasa panas menembus -- sepatu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sol",
+    "akarKata": null,
+    "ejaan": "sol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nada ke-5 pada urutan tangga nada diatonik, dilambangkan dengan angka 5",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

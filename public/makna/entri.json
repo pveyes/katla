@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "en.tri",
+    "akarKata": null,
+    "ejaan": "èntri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata atau frasa dalam kamus beserta penjelasan maknanya dengan tambahan penjelasan berupa kelas kata, lafal, etimologi, contoh pemakaian, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata kepala; lema",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "butir informasi atau data yang dimasukkan dalam daftar, buku, komputer, dan sebagainya",
+        "contoh": "aplikasi analisis bisnis ini berisi ratusan ribu -- di beberapa pangkalan data",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses perekaman sesuatu secara tertulis atau pada komputer; pengentrian",
+        "contoh": "kesalahan -- data",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu atau jalan masuk",
+        "contoh": "kata-kata ini menjadi -- bagi pembaca untuk mencari tulisan lewat jaringan komputer",
+        "info": []
+      }
+    ]
+  }
+]

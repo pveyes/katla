@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "li.kat",
+    "akarKata": null,
+    "ejaan": "likat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rekat; lengket; lekat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keruh",
+        "contoh": "kali itu airnya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.kat",
+    "akarKata": null,
+    "ejaan": "likat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "agak malu (tidak mau melihat, selalu tunduk saja, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

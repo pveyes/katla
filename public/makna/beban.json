@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "be.ban",
+    "akarKata": null,
+    "ejaan": "bêban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang (yang berat) yang dibawa (dipikul, dijunjung, dan sebagainya); muatan (yang ditaruhkan di punggung kuda, keledai, dan sebagainya)",
+        "contoh": "mana boleh kuda ini diberi -- yang seberat itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang berat (sukar) yang harus dilakukan (ditanggung); kewajiban; tanggungan; tanggung jawab",
+        "contoh": "urusan ini menjadi -- kita",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.ban",
+    "akarKata": null,
+    "ejaan": "bêban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak terdekat antara lubang tembak dan bidang bebas pada suatu kegiatan peledakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

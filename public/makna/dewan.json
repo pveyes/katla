@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "de.wan",
+    "akarKata": null,
+    "ejaan": "dèwan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "majelis atau badan yang terdiri atas beberapa orang anggota yang pekerjaannya memberi nasihat, memutuskan suatu hal, dan sebagainya dengan jalan berunding",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mahkamah (tinggi)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

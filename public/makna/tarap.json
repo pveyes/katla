@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ta.rap",
+    "akarKata": null,
+    "ejaan": "tarap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deret; baris",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.rap",
+    "akarKata": null,
+    "ejaan": "tarap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.rap",
+    "akarKata": null,
+    "ejaan": "tarap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon buah yang termasuk marga nangka (arto carpus ), dapat tumbuh baik di tanah berpasir dan di wilayah dengan curah hujan cukup tinggi dan merata, berasal dari Kalimantan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah dari pohon tarap, bentuknya seperti nangka tetapi lebih kecil dan berwarna putih susu, berbau harum, warnanya cepat berubah karena oksidasi jika tidak segera dimakan, bijinya dapat dimakan dengan cara dipanggang atau direbus,",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

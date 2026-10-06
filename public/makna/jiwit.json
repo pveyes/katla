@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ji.wit",
+    "akarKata": null,
+    "ejaan": "jiwit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cubit; pulas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

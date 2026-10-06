@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "eli.te",
+    "akarKata": null,
+    "ejaan": "èlité",
+    "baku": true,
+    "alt": "elit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang-orang terbaik atau pilihan dalam suatu kelompok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok kecil orang-orang terpandang atau berderajat tinggi (kaum bangsawan, cendekiawan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

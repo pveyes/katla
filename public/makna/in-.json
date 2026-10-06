@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "in-",
+    "akarKata": null,
+    "ejaan": "in-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "tidak",
+        "contoh": "inkonvensional; indisipliner; infertil",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "-in-",
+    "akarKata": null,
+    "ejaan": "-in-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "hasil",
+        "contoh": "kinerja",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "-in-",
+    "akarKata": null,
+    "ejaan": "-in-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "berlanjut",
+        "contoh": "sinambung",
+        "info": []
+      }
+    ]
+  }
+]

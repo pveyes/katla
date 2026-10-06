@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ika.pi",
+    "akarKata": null,
+    "ejaan": "Ikapi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ikatan Penerbit Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

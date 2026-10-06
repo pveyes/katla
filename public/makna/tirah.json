@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.rah",
+    "akarKata": null,
+    "ejaan": "tirah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tetirah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

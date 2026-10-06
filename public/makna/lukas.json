@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "Lu.kas",
+    "akarKata": null,
+    "ejaan": "Lukas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama kitab Injil ketiga dalam Alkitab Perjanjian Baru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.kas",
+    "akarKata": null,
+    "ejaan": "lukas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "ikan air tawar yang ukurannya dapat mencapai 16 cm, tubuhnya pipih memanjang dan terdapat garis hitam  di pertengahan tubuh yang berakhir membulat di pangkal ekor, tersebar di perairan Indonesia (Sumatra, Jawa, dan Kalimantan) dan Thailand",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

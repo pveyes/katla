@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "je.gog",
+    "akarKata": null,
+    "ejaan": "jègog",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gamelan atau tetabuhan khas Jembrana, terbuat dari bambu, berukuran besar, biasanya dipakai untuk mengiringi pencak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

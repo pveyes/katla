@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "de.des",
+    "akarKata": null,
+    "ejaan": "dèdès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesturi yang harum baunya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.des",
+    "akarKata": null,
+    "ejaan": "dèdès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mendedes"
+        ]
+      }
+    ]
+  }
+]

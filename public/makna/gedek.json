@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ge.dek",
+    "akarKata": null,
+    "ejaan": "gèdèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggelengkan kepala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.dek",
+    "akarKata": null,
+    "ejaan": "gêdèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anyaman yang terbuat dari bilah-bilah bambu untuk dinding rumah dan sebagainya",
+        "contoh": "dinding rumah sederhana itu terbuat dari --",
+        "info": []
+      }
+    ]
+  }
+]

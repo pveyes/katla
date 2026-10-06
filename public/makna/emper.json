@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "em.per",
+    "akarKata": null,
+    "ejaan": "èmpèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serambi (di samping, di muka, atau di belakang rumah atau bangunan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap tambahan yang ber sambung pada rumah induk; sengkuap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

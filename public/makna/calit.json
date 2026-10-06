@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ca.lit",
+    "akarKata": null,
+    "ejaan": "calit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan atau bubuk yang biasa ditempelkan untuk rias muka seperti celak mata, cat alis, cat bibir; palit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengoleskan sesuatu dengan ujung jari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

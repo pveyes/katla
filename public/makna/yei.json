@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Yei",
+    "akarKata": null,
+    "ejaan": "yéi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah perbatasan Papua Nugini dekat pesisir selatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Yei",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

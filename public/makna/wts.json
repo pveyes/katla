@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "WTS",
+    "akarKata": null,
+    "ejaan": "WTS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wanita tunasusila",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

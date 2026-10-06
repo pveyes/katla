@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "pan.ja",
+    "akarKata": null,
+    "ejaan": "panja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panitia kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pan.ja",
+    "akarKata": null,
+    "ejaan": "panja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "panitia kerja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

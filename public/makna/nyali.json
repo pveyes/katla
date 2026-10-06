@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "nya.li",
+    "akarKata": null,
+    "ejaan": "nyali",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "empedu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perasaan",
+        "contoh": "tidak punya -- orang yang memukuli anak kecil itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keberanian",
+        "contoh": "pecah --nya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proliferasi lokal jaringan tumbuhan yang menghasilkan pembengkakan dengan bentuk khas dan amat berbeda dengan organ normal lain, biasa terbentuk sebagai respons terhadap serangan patogen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ja.rak",
+    "akarKata": null,
+    "ejaan": "jarak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang sela (panjang atau jauh) antara dua benda atau tempat",
+        "contoh": "-- antara Mekah dan Madinah kami tempuh dengan bus dalam waktu 5 jam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jari-jari bulatan (lingkaran)",
+        "contoh": "bulatan yang --nya 5 dm",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.rak",
+    "akarKata": null,
+    "ejaan": "jarak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perdu, tinggi 2 m, batangnya mudah patah, daunnya besar berwarna hijau kebiru-biruan, buahnya berbiji polong, bijinya sebesar kacang tanah, ketika tua berwarna hitam, dapat digunakan sebagai bahan minyak pelumas; dulang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji jarak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minyak jarak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

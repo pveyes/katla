@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pu.puk",
+    "akarKata": null,
+    "ejaan": "pupuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyubur tanaman yang ditambahkan ke tanah untuk menyediakan senyawaan unsur yang diperlukan oleh tanaman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.puk",
+    "akarKata": null,
+    "ejaan": "pupuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat dari tumbuh-tumbuhan (daun-daunan dan sebagainya) yang digiling lumat-lumat, dilekatkan di dahi sebelah atas, dekat pada ubun-ubun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "su.luk",
+    "akarKata": null,
+    "ejaan": "suluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan ke arah kesempurnaan batin; tasawuf; tarekat; mistik",
+        "contoh": "ilmu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengasingan diri; khalwat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.luk",
+    "akarKata": null,
+    "ejaan": "suluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nyanyian (tembang) dalang yang dilakukan ketika akan memulai suatu adegan (babak) dalam pertunjukan wayang",
+        "contoh": "upacara pembukaan pekan wayang didahului dengan --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

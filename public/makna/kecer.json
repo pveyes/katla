@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.cer",
+    "akarKata": null,
+    "ejaan": "kècèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik tradisional yang terdiri atas setangkup logam berbentuk bulat atau persegi delapan yang pada bagian atas tengahnya cembung dan berlubang untuk tempat tali pengikat (penggantung) untuk menggerak-gerakkan tangkupan logam itu ke atas dan ke bawah agar dapat berbenturan dan menghasilkan bunyi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.cer",
+    "akarKata": null,
+    "ejaan": "kècèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tercecer; tertinggal",
+        "contoh": "teliti dulu barang bawaanmu sebelum berangkat, jangan sampai ada yang --",
+        "info": []
+      }
+    ]
+  }
+]

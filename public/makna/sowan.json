@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "so.wan",
+    "akarKata": null,
+    "ejaan": "sowan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menghadap (kepada orang yang dianggap harus dihormati, seperti raja, guru, atasan, orang tua); berkunjung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.wan",
+    "akarKata": null,
+    "ejaan": "sowan",
+    "baku": false,
+    "alt": "soang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angsa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

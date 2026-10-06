@@ -1,0 +1,86 @@
+[
+  {
+    "sukuKata": "urang",
+    "akarKata": null,
+    "ejaan": "urang",
+    "baku": false,
+    "alt": "orang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "manusia (dalam arti khusus)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "manusia (ganti diri ketiga yang tidak tentu)",
+        "contoh": "jangan lekas percaya pada mulut --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dirinya sendiri; manusianya sendiri",
+        "contoh": "saya tidak bertemu dengan --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong untuk manusia",
+        "contoh": "lima -- nelayan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak buah (bawahan)",
+        "contoh": "mereka itu --nya Pak Camat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rakyat (dari suatu negara); warga negara",
+        "contoh": "-- Pakistan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "manusia yang berasal dari atau tinggal di suatu daerah (desa, kota, negara, dan sebagainya)",
+        "contoh": "dia -- Bogor",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "manusia lain; bukan diri sendiri; bukan kaum (golongan, kerabat) sendiri",
+        "contoh": "jangankan anak sendiri, anak -- pun saya tolong",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karena (sebenarnya)",
+        "contoh": "mana dapat membayar, -- belum gajian",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

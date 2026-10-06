@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pis",
+    "akarKata": null,
+    "ejaan": "ampis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembatas kanan kiri jalan agar hewan berjalan lurus menuju jebakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

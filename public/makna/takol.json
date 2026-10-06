@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.kol",
+    "akarKata": null,
+    "ejaan": "takol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pukul",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

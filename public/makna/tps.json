@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TPS",
+    "akarKata": null,
+    "ejaan": "TPS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat pemungutan suara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

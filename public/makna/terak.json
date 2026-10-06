@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "te.rak",
+    "akarKata": null,
+    "ejaan": "têrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ampas leburan logam (timah dan sebagainya) yang dilebur dalam tanur tinggi, rupanya sebagai batu kaca",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa kokas atau arang batu yang tidak terbakar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa bara api; kerak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.rak",
+    "akarKata": null,
+    "ejaan": "têrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sarang tempat ayam bertelur dan mengeram; petarangan",
+        "contoh": "tikus itu makan telur yang ada di --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.rak",
+    "akarKata": null,
+    "ejaan": "têrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang badannya panjang dan tipis menyerupai parang, panjang mencapai 100 cm (jantan) dan 36,6 cm (betina), hidup di terumbu karang perairan tropis dengan kedalaman mencapai 120 m",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

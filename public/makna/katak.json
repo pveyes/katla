@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.tak",
+    "akarKata": null,
+    "ejaan": "katak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang amfibi pemakan serangga yang hidup di air tawar atau di daratan, berkulit licin, berwarna hijau atau merah kecokelat-cokelatan, kaki belakang lebih panjang daripada kaki depan, pandai melompat dan berenang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tak",
+    "akarKata": null,
+    "ejaan": "katak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lipit-lipit pada leher dan sebagainya; gelambir",
+        "contoh": "ayam kalkun mempunyai keistimewaan, yaitu mempunyai -- pada lehernya",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tak",
+    "akarKata": null,
+    "ejaan": "katak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pendek",
+        "contoh": "baju --",
+        "info": []
+      }
+    ]
+  }
+]

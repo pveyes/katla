@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ce.kak",
+    "akarKata": null,
+    "ejaan": "cêkak",
+    "baku": true,
+    "alt": "cekap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran lingkar, sebesar lingkaran yang terbentuk dengan merapatkan ujung ibu jari dan ujung jari tengah atau telunjuk",
+        "contoh": "satu -- rambut cukup untuk memperbesar sebuah sanggul",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlalu kecil (tentang ukuran pakaian, jumlah uang); tidak cukup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kak",
+    "akarKata": null,
+    "ejaan": "cêkak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bercekak",
+          "mempercekakkan"
+        ]
+      }
+    ]
+  }
+]

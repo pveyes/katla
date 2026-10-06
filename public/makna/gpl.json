@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GPL",
+    "akarKata": null,
+    "ejaan": "GPL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Garis Perhubungan Laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

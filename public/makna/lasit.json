@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.sit",
+    "akarKata": null,
+    "ejaan": "lasit",
+    "baku": false,
+    "alt": "lesit",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengisap (darah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

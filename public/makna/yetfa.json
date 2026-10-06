@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Yet.fa",
+    "akarKata": null,
+    "ejaan": "yêtfa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah perbatasan dengan Papua Nugini, Kabupaten Pegunungan Bintang, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Yetfa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

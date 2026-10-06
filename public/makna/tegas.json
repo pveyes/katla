@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "te.gas",
+    "akarKata": null,
+    "ejaan": "têgas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jelas dan terang benar; nyata",
+        "contoh": "tanda-tanda lalu lintas itu tidak berapa -- kelihatan pada malam hari",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tentu dan pasti (tidak ragu-ragu lagi, tidak samar-samar)",
+        "contoh": "dengan -- permintaan saya ditolaknya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tandas",
+        "contoh": "perbuatan kedua orang itu tidak ada sangkut pautnya, --nya, masing-masing berbuat menurut kehendak dan kemauan sendiri",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hai.ku",
+    "akarKata": null,
+    "ejaan": "haiku",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puisi Jepang yang biasanya menggunakan ilusi dan perbandingan, terdiri atas 17 suku kata yang terbagi menjadi 3 larik, larik pertama 5 suku, larik kedua 7 suku, dan larik ketiga 5 suku",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

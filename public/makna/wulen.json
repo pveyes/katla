@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wu.len",
+    "akarKata": null,
+    "ejaan": "wulên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ikatan beberapa batang padi yang akan digilas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

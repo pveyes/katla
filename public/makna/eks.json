@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "eks",
+    "akarKata": null,
+    "ejaan": "èks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf x",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "eks",
+    "akarKata": null,
+    "ejaan": "èks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bekas; mantan",
+        "contoh": "orang tuanya -- gubernur",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "eks",
+    "akarKata": null,
+    "ejaan": "èks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dari",
+        "contoh": "-- pabrik",
+        "info": []
+      }
+    ]
+  }
+]

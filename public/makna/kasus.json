@@ -1,0 +1,94 @@
+[
+  {
+    "sukuKata": "ka.sus",
+    "akarKata": null,
+    "ejaan": "kasus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan yang sebenarnya dari suatu urusan atau perkara; keadaan atau kondisi khusus yang berhubungan dengan seseorang atau suatu hal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "contoh",
+        "contoh": "-- itu dapat dipertimbangkan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masalah; soal; perkara",
+        "contoh": "pengacara itu sedang menangani beberapa --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang diselidiki oleh orang profesional (dokter, polisi, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fakta aktual",
+        "contoh": "-- itu sudah diketahui orang banyak",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masalah yang diujikan dalam pengadilan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "argumen dan bukti yang diberikan dalam pengadilan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kategori gramatikal dari nomina, frasa nominal, pronomina, atau adjektiva yang menunjukkan hubungannya dengan kata lain dalam konstruksi sintaksis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan antara argumen dan predikator dalam suatu proposisi (dalam teori kasus)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

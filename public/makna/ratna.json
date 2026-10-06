@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "rat.na",
+    "akarKata": null,
+    "ejaan": "ratna",
+    "baku": true,
+    "alt": "rana",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu mulia; intan; permata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putri (gadis) yang cantik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

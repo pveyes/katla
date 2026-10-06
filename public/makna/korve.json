@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "kor.ve",
+    "akarKata": null,
+    "ejaan": "korvé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerja paksa (diharuskan oleh penguasa, yang diupah sedikit sekali atau tidak sama sekali); kerja rodi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tugas tambahan (misalnya membersihkan senjata)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerja bakti yang dilakukan di lingkungan militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

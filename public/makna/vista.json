@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "vis.ta",
+    "akarKata": null,
+    "ejaan": "vista",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemandangan (dari ujung jalan yang kanan kirinya berpohon)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rangkaian kejadian (pemandangan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

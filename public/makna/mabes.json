@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ma.bes",
+    "akarKata": null,
+    "ejaan": "mabês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "markas besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

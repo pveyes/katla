@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "al.kap",
+    "akarKata": null,
+    "ejaan": "alkap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat perlengkapan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

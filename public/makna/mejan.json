@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "me.jan",
+    "akarKata": null,
+    "ejaan": "méjan",
+    "baku": false,
+    "alt": "nisan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tonggak pendek dan sebagainya yang ditanam di atas kubur sebagai penanda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.jan",
+    "akarKata": null,
+    "ejaan": "mêjan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit berak berdarah dan bercampur lendir; disentri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.jan",
+    "akarKata": null,
+    "ejaan": "mêjan",
+    "baku": true,
+    "alt": "mejen",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat meletus atau meledak (tentang senjata, petasan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

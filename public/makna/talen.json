@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.len",
+    "akarKata": null,
+    "ejaan": "talèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang (uang logam) bernilai 25 sen (pada zaman Hindia Belanda)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.len",
+    "akarKata": null,
+    "ejaan": "talèn",
+    "baku": false,
+    "alt": "talenta",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembawaan seseorang sejak lahir; bakat",
+        "contoh": "Allah telah menganugerahkan --, memberi kekuatan dan petunjuk",
+        "info": []
+      }
+    ]
+  }
+]

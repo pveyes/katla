@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Pos.ma",
+    "akarKata": null,
+    "ejaan": "Posma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekan orientasi studi mahasiswa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

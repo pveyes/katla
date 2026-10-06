@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PPB",
+    "akarKata": null,
+    "ejaan": "PPB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "psikologi pendidikan dan bimbingan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

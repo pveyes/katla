@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "un.jon",
+    "akarKata": null,
+    "ejaan": "unjon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyentak pancing yang umpannya terasa dimakan ikan",
+        "contoh": "sudah dimakan ikan umpan pancingmu itu, -- saja",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

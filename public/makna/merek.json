@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "me.rek",
+    "akarKata": null,
+    "ejaan": "mèrêk",
+    "baku": true,
+    "alt": "merk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda yang dikenakan oleh pengusaha (pabrik, produsen, dan sebagainya) pada barang yang dihasilkan sebagai tanda pengenal; cap (tanda) yang menjadi pengenal untuk menyatakan nama dan sebagainya",
+        "contoh": "pisau ini tidak ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegagahan; keunggulan; kualitas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

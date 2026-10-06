@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.san",
+    "akarKata": null,
+    "ejaan": "kêsan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas (kaki dan sebagainya); jejak",
+        "contoh": "di belakang rumah ditemukan -- kaki pencuri",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang terasa (terpikir) sesudah melihat (mendengar) sesuatu",
+        "contoh": "peristiwa itu menimbulkan -- yang sangat dalam pada dirinya",
+        "info": []
+      }
+    ]
+  }
+]

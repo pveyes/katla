@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.ong",
+    "akarKata": null,
+    "ejaan": "kiong",
+    "baku": false,
+    "alt": "keong",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siput yang besar atau  atau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.ong",
+    "akarKata": null,
+    "ejaan": "kiong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka di kulit kepala karena gigitan kutu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tombulu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.nah",
+    "akarKata": null,
+    "ejaan": "panah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senjata berupa tongkat kecil runcing, panjang, berbulu pada pangkalnya dan tajam pada ujungnya, dilepaskan dengan busur; anak panah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda penunjuk; tanda panah (→)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ji.sim",
+    "akarKata": null,
+    "ejaan": "jisim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jasad; tubuh; badan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

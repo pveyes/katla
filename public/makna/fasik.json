@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fa.sik",
+    "akarKata": null,
+    "ejaan": "fasik",
+    "baku": true,
+    "alt": "pasik",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak peduli terhadap perintah Tuhan (berarti: buruk kelakuan, jahat, berdosa besar)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang percaya kepada Allah Swt., tetapi tidak mengamalkan perintah-Nya, bahkan melakukan perbuatan dosa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

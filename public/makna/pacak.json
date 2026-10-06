@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "pa.cak",
+    "akarKata": null,
+    "ejaan": "pacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "telah terlatih atau mahir dalam mengerjakan sesuatu; cakap",
+        "contoh": "kita memerlukan seorang organisator, orang yang -- memimpin organisasi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.cak",
+    "akarKata": null,
+    "ejaan": "pacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cocok (untuk menusuk satai yang akan dipanggang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat (tiang, pancang) yang tajam pada ujungnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.cak",
+    "akarKata": null,
+    "ejaan": "pacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik-titik air yang berhamburan; percik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.cak",
+    "akarKata": null,
+    "ejaan": "pacak",
+    "baku": false,
+    "alt": "pacek",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berpacek",
+          "memacek",
+          "pemacek",
+          "pemacekan"
+        ]
+      }
+    ]
+  }
+]

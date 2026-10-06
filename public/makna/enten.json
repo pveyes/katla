@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "en.ten",
+    "akarKata": null,
+    "ejaan": "êntèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "setek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "en.ten",
+    "akarKata": null,
+    "ejaan": "êntèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "setek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

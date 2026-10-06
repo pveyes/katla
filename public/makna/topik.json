@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "to.pik",
+    "akarKata": null,
+    "ejaan": "topik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pokok pembicaraan dalam diskusi, ceramah, karangan, dan sebagainya; bahan diskusi",
+        "contoh": "masalah yang akan menjadi -- sidang DPA ke-4 tahun itu ialah “Pemerataan dalam Pembangunan Regional dan Perdesaan”",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal yang menarik perhatian umum pada waktu akhir-akhir ini; bahan pembicaraan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "subjek yang dibahas dalam sebuah teks",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

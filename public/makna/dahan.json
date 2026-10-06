@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "da.han",
+    "akarKata": null,
+    "ejaan": "dahan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang batang pohon; bagian batang pohon yang tumbuh mencuat ke samping (beranting dan berdaun)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.han",
+    "akarKata": null,
+    "ejaan": "dahan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendahan; lembing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

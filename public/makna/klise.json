@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "kli.se",
+    "akarKata": null,
+    "ejaan": "klisé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar negatif pada film potret",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keping atau pelat berisi gambar yang agak menonjol untuk dicetakkan dengan cetak tinggi",
+        "contoh": "penyerahan barang cetakan bergambar itu disertai juga dengan --nya",
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan; hasil meniru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kli.se",
+    "akarKata": null,
+    "ejaan": "klisé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gagasan (ungkapan) yang terlalu sering dipakai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

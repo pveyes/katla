@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IBD",
+    "akarKata": null,
+    "ejaan": "IBD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ilmu Budaya Dasar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

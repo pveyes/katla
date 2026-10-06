@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "ke.ram",
+    "akarKata": null,
+    "ejaan": "kêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kejang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konstraksi otot yang tidak teratur; kejang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ram",
+    "akarKata": null,
+    "ejaan": "kêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kejang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "konstraksi otot yang tidak teratur; kejang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

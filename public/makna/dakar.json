@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "da.kar",
+    "akarKata": null,
+    "ejaan": "dakar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap tidak mau menurut (mengalah, menyerah); keras kepala; tegar hati",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlalu berani (tanpa perhitungan); nekat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.kar",
+    "akarKata": null,
+    "ejaan": "dakar",
+    "baku": false,
+    "alt": "zakar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan laki-laki; penis; pelir",
+        "contoh": "buah --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

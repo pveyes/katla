@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.tua",
+    "akarKata": null,
+    "ejaan": "batua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok masyarakat terendah atau kelompok budak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "wolio",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "su.ruh",
+    "akarKata": null,
+    "ejaan": "suruh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perintah (supaya melakukan sesuatu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.ruh",
+    "akarKata": null,
+    "ejaan": "suruh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sirih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

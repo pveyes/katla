@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "to.gel",
+    "akarKata": null,
+    "ejaan": "togèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berekor (tentang kucing dan sebagainya); dogel",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.gel",
+    "akarKata": null,
+    "ejaan": "togèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "toto gelap; totalitasator tidak resmi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "de.ngu",
+    "akarKata": null,
+    "ejaan": "dêngu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dengkus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.ngu",
+    "akarKata": null,
+    "ejaan": "dêngu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dungu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "hu.man",
+    "akarKata": null,
+    "ejaan": "human",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat manusiawi (seperti manusia yang dibedakan dari binatang, jin, malaikat)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berperikemanusiaan (baik budi, luhur budi, dan sebagainya)",
+        "contoh": "anggota polisi diharapkan menjadi petugas hukum yang --",
+        "info": []
+      }
+    ]
+  }
+]

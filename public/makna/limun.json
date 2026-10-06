@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "li.mun",
+    "akarKata": null,
+    "ejaan": "limun",
+    "baku": true,
+    "alt": "limonade",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman manis dengan rasa sari buah-buahan (dikemas dalam botol)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.mun",
+    "akarKata": null,
+    "ejaan": "limun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "limunan"
+        ]
+      }
+    ]
+  }
+]

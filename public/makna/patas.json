@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pa.tas",
+    "akarKata": null,
+    "ejaan": "patas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cepat dan terbatas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

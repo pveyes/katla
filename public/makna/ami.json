@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ami",
+    "akarKata": null,
+    "ejaan": "ami",
+    "baku": true,
+    "alt": "ammi",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat kebanyakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pasaran; tidak baku",
+        "contoh": "bahasa Arab --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ami",
+    "akarKata": null,
+    "ejaan": "ami",
+    "baku": false,
+    "alt": "umi",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bisa baca tulis; buta aksara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ami",
+    "akarKata": null,
+    "ejaan": "ami",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saudara laki-laki ayah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

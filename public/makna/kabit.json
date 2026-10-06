@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ka.bit",
+    "akarKata": null,
+    "ejaan": "kabit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tukang copet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.bit",
+    "akarKata": null,
+    "ejaan": "kabit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tukang copet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

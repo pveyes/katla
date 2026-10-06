@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DPW",
+    "akarKata": null,
+    "ejaan": "DPW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Dewan Pimpinan Wilayah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

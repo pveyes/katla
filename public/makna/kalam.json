@@ -1,0 +1,85 @@
+[
+  {
+    "sukuKata": "ka.lam",
+    "akarKata": null,
+    "ejaan": "kalam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkataan; kata (terutama bagi Allah Swt.)",
+        "contoh": "dalam hal ini kita tidak perlu berpanjang --, cukup membicarakan yang pokok-pokok saja",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berkata, sifat yang wajib bagi Allah Swt.",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lam",
+    "akarKata": null,
+    "ejaan": "kalam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menulis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat penunjuk (biasanya sejenis lidi) untuk membaca Al-Qur'an; duduh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lam",
+    "akarKata": null,
+    "ejaan": "kalam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan (laki-laki)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lam",
+    "akarKata": null,
+    "ejaan": "kalam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasir hitam yang bercampur emas yang dilimbang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ka.nan",
+    "akarKata": null,
+    "ejaan": "kanan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah, pihak, atau sisi bagian badan kita yang tidak berisi jantung; sisi (pihak) yang merupakan lawan dari kiri",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partai atau golongan yang berhaluan moderat, yaitu berdasarkan asas keagamaan, kebangsaan, atau tradisi yang sudah ada di dalam percaturan politik dalam negeri sebagai lawan golongan kiri yang berhaluan keras dan berdasar pada sosialisme",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "politik dan pemerintahan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

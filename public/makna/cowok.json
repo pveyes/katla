@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "co.wok",
+    "akarKata": null,
+    "ejaan": "cowok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan kepada pria atau laki-laki yang biasanya masih muda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

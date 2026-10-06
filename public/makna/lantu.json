@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lan.tu",
+    "akarKata": null,
+    "ejaan": "lantu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembungkus atau kotak yang terbuat dari pelepah pinang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

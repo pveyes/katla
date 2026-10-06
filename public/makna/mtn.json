@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MTN",
+    "akarKata": null,
+    "ejaan": "MTN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "madrasah tsanawiah negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

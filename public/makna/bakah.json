@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.kah",
+    "akarKata": null,
+    "ejaan": "bakah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk sesuatu yang memenuhi, meliputi atau melumuri sekujur badan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

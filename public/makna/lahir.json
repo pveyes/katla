@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "la.hir",
+    "akarKata": null,
+    "ejaan": "lahir",
+    "baku": true,
+    "alt": "zahir",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keluar dari kandungan",
+        "contoh": "ia -- di Jakarta pada tahun 1951",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "muncul di dunia (masyarakat)",
+        "contoh": "setelah itu, --lah beberapa organisasi politik yang lain",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang tampak dari luar",
+        "contoh": "--nya amat peramah, tetapi batinnya siapa tahu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berupa benda yang kelihatan; keduniaan; jasmani",
+        "contoh": "kemuliaan --",
+        "info": []
+      }
+    ]
+  }
+]

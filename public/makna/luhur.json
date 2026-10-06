@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lu.hur",
+    "akarKata": null,
+    "ejaan": "luhur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi; mulia",
+        "contoh": "demi cita-cita yang --, kami bersedia mengorbankan jiwa dan raga",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.hur",
+    "akarKata": null,
+    "ejaan": "luhur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran tinggi benda yang membumbung tingi-tinggi secara luar biasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

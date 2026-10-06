@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "pe.ran",
+    "akarKata": null,
+    "ejaan": "pêran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemain sandiwara (film)",
+        "contoh": "-- utama",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tukang lawak pada permainan makyong",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat tingkah yang diharapkan dimiliki oleh orang yang berkedudukan dalam masyarakat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.ran",
+    "akarKata": null,
+    "ejaan": "pêran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok yang menghubungkan tiang-tiang rumah di sebelah atas, tempat kasau-kasau bertumpu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

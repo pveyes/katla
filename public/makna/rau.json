@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "Rau",
+    "akarKata": null,
+    "ejaan": "Rau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang termasuk ke dalam salah satu kelompok dari suku bangsa Pamona yang berdiam di sekitar Teluk Tomini dan Kabupaten Poso, Provinsi Sulawesi Tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "rau",
+    "akarKata": null,
+    "ejaan": "rau",
+    "baku": false,
+    "alt": "derau",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi gemuruh hujan dibawa angin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi, getaran, atau isyarat (sinyal) yang tidak diinginkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gangguan yang terjadi dalam sistem transmisi telekomunikasi yang memengaruhi kualitas informasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedirgantaraan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "rau",
+    "akarKata": null,
+    "ejaan": "rau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sengkuang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

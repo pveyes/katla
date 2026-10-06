@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "sum.bu",
+    "akarKata": null,
+    "ejaan": "sumbu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang (kapas dan sebagainya) yang berfungsi sebagai jalan peresapan minyak dan sebagainya ke bagian yang disulut (tentang lampu, kompor, dan sebagainya)",
+        "contoh": "-- pelita",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tunam (pada petasan, meriam kuno, dan sebagainya); murang",
+        "contoh": "-- meriam",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sum.bu",
+    "akarKata": null,
+    "ejaan": "sumbu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gandar roda; poros",
+        "contoh": "pedati itu patah --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis lurus yang di sekelilingnya terdapat simetri",
+        "contoh": "-- torak",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian frasa eksosentris yang berupa kata, frasa, atau klausa, seperti frasa atau klausa yang mengikuti preposisi atau konjungtor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

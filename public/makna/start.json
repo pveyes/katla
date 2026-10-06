@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "start",
+    "akarKata": null,
+    "ejaan": "start",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memulai (melakukan sesuatu)",
+        "contoh": "jarak garis -- dengan garis finis lebih kurang 500 m",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berangkat (melakukan suatu perjalanan)",
+        "contoh": "kita harus -- pagi-pagi benar supaya tidak ketinggalan kereta api",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sikap permulaan pada waktu akan melakukan jalan atau lari (terutama dalam perlombaan) dengan kaki atau tangan tidak boleh menyentuh garis batas (harus berada di belakang garis batas)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

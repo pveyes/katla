@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "par.si",
+    "akarKata": null,
+    "ejaan": "parsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat akar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Par.si",
+    "akarKata": null,
+    "ejaan": "Parsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komunitas atau pengikut Zoroaster, terutama berlokasi di India dan Pakistan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

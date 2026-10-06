@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "flo.ra",
+    "akarKata": null,
+    "ejaan": "flora",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keseluruhan kehidupan jenis tumbuh-tumbuhan di suatu habitat, daerah, atau strata geologi tertentu; alam tumbuh-tumbuhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karya atau terbitan tentang flora",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

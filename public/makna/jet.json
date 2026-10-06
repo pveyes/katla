@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "jet",
+    "akarKata": null,
+    "ejaan": "jèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancaran gas (air, uap, dan sebagainya) dari lubang kecil yang menghasilkan tenaga dorong yang kuat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pesawat terbang bermesin yang digerakkan oleh tenaga pancaran gas; pesawat pancar gas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancaran zat alir termampatkan yang kuat dan berukuran tertentu yang keluar melalui lubang (mulut) kecil ataupun yang mengalir di dalam pipa yang sempit; semburan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

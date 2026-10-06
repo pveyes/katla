@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pos",
+    "akarKata": null,
+    "ejaan": "ampos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keadaan tdk bertenaga; lemas",
+        "contoh": "setelah mencangkul, badan terasa --.",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

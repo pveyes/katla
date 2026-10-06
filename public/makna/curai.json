@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "cu.rai",
+    "akarKata": null,
+    "ejaan": "curai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lepas; tercerai; terurai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terang; nyata",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.nat",
+    "akarKata": null,
+    "ejaan": "sanat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tahun",
+        "contoh": "-- Islam atau Hijriah ditentukan berdasarkan perhitungan peredaran bulan",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

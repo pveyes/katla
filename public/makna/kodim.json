@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.dim",
+    "akarKata": null,
+    "ejaan": "kodim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando distrik militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

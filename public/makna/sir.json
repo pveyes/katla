@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "sir",
+    "akarKata": null,
+    "ejaan": "sir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gaib; rahasia; tersembunyi (dalam ilmu tasawuf)",
+        "contoh": "ia mendengar suara -- dari Allah swt.",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nafsu (akan); keinginan hati",
+        "contoh": "-- berahi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sir",
+    "akarKata": null,
+    "ejaan": "sir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nafsu (akan); keinginan hati",
+        "contoh": "-- berahi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sir",
+    "akarKata": null,
+    "ejaan": "sir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi desir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

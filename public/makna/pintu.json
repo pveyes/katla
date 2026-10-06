@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "pin.tu",
+    "akarKata": null,
+    "ejaan": "pintu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat untuk masuk dan keluar",
+        "contoh": "di -- lubang tikus dipasang perangkap",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(papan dan sebagainya) penutup (pintu)",
+        "contoh": "Ibu membukakan -- untuk tamunya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggolong benda bagi rumah",
+        "contoh": "rumah petaknya yang berjumlah 15 -- habis dimakan api",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "palang (pada) jalan",
+        "contoh": "rumah kira-kira 50 m dari -- kereta api",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan (ke ...); yang menjadi lantaran (untuk mendapat dan sebagainya)",
+        "contoh": "-- ke arah penyelesaian peristiwa itu masih terbuka",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

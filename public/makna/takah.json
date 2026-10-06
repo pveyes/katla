@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ta.kah",
+    "akarKata": null,
+    "ejaan": "takah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tampan; gagah; cakap",
+        "contoh": "-- juga kakak memakai dasi",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sikap; tingkah",
+        "contoh": "perempuan itu --nya masih seperti gadis remaja",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

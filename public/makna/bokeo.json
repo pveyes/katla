@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.keo",
+    "akarKata": null,
+    "ejaan": "bokéo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar raja pada zaman Kerajaan Konawe dan Mekongga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tolaki",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

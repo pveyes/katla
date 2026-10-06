@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pe.kak",
+    "akarKata": null,
+    "ejaan": "pêkak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang baik pendengaran (karena kerap kali mendengar suara keras dan sebagainya); agak tuli",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat berbunyi mendencing atau nyaring (tentang uang perak, gamelan, dan sebagainya); bengap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.kak",
+    "akarKata": null,
+    "ejaan": "pêkak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga lawang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

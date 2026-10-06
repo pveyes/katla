@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "re.bus",
+    "akarKata": null,
+    "ejaan": "rêbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "merebus",
+          "perebus",
+          "perebusan",
+          "rebusan",
+          "terebus"
+        ]
+      }
+    ]
+  }
+]

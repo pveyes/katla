@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "di.git",
+    "akarKata": null,
+    "ejaan": "digit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "letak angka pada bilangan",
+        "contoh": "682 adalah bilangan tiga --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka Arab dari 0–9; setiap angka yang terdapat dalam deret angka yang tidak merujuk kepada sistem desimal, misalnya nomor telepon",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

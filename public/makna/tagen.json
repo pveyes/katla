@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.gen",
+    "akarKata": null,
+    "ejaan": "tagên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu yang kuat dan tidak goyang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

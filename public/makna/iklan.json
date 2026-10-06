@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ik.lan",
+    "akarKata": null,
+    "ejaan": "iklan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berita pesanan untuk mendorong, membujuk khalayak ramai agar tertarik pada barang dan jasa yang ditawarkan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberitahuan kepada khalayak mengenai barang atau jasa yang dijual, dipasang di dalam media massa (seperti surat kabar dan majalah) atau di tempat umum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

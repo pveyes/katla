@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.hat",
+    "akarKata": null,
+    "ejaan": "pahat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat (perkakas) bertukang berupa bilah besi yang tajam pada ujungnya untuk melubangi atau mengukir kayu (ada bermacam-macam, seperti -- bulat, -- jantan, -- ketam, -- kuku)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.hat",
+    "akarKata": null,
+    "ejaan": "pahat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian alat bor, biasanya terbuat dari baja paling keras dengan dua atau tiga pancang tirus dan gerigi tajam untuk memotong batuan atau membuat lubang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "petrologi dan migas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

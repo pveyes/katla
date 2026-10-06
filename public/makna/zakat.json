@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "za.kat",
+    "akarKata": null,
+    "ejaan": "zakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah harta tertentu yang wajib dikeluarkan oleh orang yang beragama Islam dan diberikan kepada golongan yang berhak menerimanya (fakir miskin dan sebagainya) menurut ketentuan yang telah ditetapkan oleh syarak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salah satu rukun Islam yang mengatur harta yang wajib dikeluarkan kepada mustahik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

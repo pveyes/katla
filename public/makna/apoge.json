@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "apo.ge",
+    "akarKata": null,
+    "ejaan": "apogé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik pada garis edar bulan atau satelit bumi lain yang terjauh dari bumi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

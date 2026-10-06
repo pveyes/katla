@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "spi.on",
+    "akarKata": null,
+    "ejaan": "spion",
+    "baku": true,
+    "alt": "sepion",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berusaha mendapatkan keterangan secara rahasia, terutama rahasia militer negara lain; mata-mata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petugas kepolisian yang mengadakan pengusutan secara rahasia terhadap orang-orang yang dicurigai; agen polisi rahasia; detektif",
+        "contoh": "penjagaan itu dimaksudkan untuk mempertahankan rahasia pabrik terhadap -- dari pabrik lain",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.bat",
+    "akarKata": null,
+    "ejaan": "têbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambak untuk menyekat pengaliran air; empang; bendung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat di sungai (di rawa) yang diberi tambak untuk memiara ikan; kolam (balong)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

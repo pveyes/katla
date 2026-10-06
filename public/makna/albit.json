@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "al.bit",
+    "akarKata": null,
+    "ejaan": "albit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "felspar putih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

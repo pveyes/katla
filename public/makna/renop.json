@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "re.nop",
+    "akarKata": null,
+    "ejaan": "rénop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rencana operasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

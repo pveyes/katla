@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mag.ma",
+    "akarKata": null,
+    "ejaan": "magma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lelehan batuan pada kerak bumi yang sangat panas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

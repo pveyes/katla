@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "uni",
+    "akarKata": null,
+    "ejaan": "uni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "uni",
+    "akarKata": null,
+    "ejaan": "uni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perserikatan; persatuan; ikatan",
+        "contoh": "-- Indonesia-Belanda sudah dihapuskan",
+        "info": []
+      }
+    ]
+  }
+]

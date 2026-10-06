@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "pe.u.ji",
+    "akarKata": "uji",
+    "ejaan": "peuji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang diuji",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

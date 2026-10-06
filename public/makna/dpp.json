@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DPP",
+    "akarKata": null,
+    "ejaan": "DPP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Dewan Pimpinan Pusat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

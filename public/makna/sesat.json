@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "se.sat",
+    "akarKata": null,
+    "ejaan": "sêsat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak melalui jalan yang benar; salah jalan",
+        "contoh": "malu bertanya -- di jalan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "salah (keliru) benar; berbuat yang tidak senonoh; menyimpang dari kebenaran (tentang agama dan sebagainya)",
+        "contoh": "ajaran yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

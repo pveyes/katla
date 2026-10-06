@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "alo.in",
+    "akarKata": null,
+    "ejaan": "aloin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa kristal berwarna kuning dan berasa pahit, diperoleh dari lidah buaya dan digunakan sebagai laksatif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

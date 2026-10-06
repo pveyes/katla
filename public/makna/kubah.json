@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.bah",
+    "akarKata": null,
+    "ejaan": "kubah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lengkung (atap)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap yang melengkung merupakan setengah bulatan (kupel)",
+        "contoh": "-- masjid",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sebelah atas pesawat terbang, truk atau tank, yang meninggi dan berbentuk setengah bulatan (tempat senapan mesin dan sebagainya)",
+        "contoh": "-- senapan mesin",
+        "info": []
+      }
+    ]
+  }
+]

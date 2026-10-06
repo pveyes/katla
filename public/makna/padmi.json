@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pad.mi",
+    "akarKata": null,
+    "ejaan": "padmi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permaisuri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

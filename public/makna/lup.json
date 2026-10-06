@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lup",
+    "akarKata": null,
+    "ejaan": "lup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang terdiri atas kaca (lensa) yang diberi gagang dan sebagainya yang dapat membuat sesuatu kelihatan lebih besar daripada benda aslinya; mikroskop",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lup",
+    "akarKata": null,
+    "ejaan": "lup",
+    "baku": false,
+    "alt": "lop",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laras senapan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.jah",
+    "akarKata": null,
+    "ejaan": "jajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pergi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kuasai daerah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

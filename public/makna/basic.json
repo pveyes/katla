@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BASIC",
+    "akarKata": null,
+    "ejaan": "BASIC",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa pemrograman sederhana yang dirancang untuk pemrograman dengan cepat dan mudah oleh mahasiswa dan pemula; dari Beginners' All-purpose Symbolic Instruction Code",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.pat",
+    "akarKata": null,
+    "ejaan": "tipat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketupat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "cip",
+    "akarKata": null,
+    "ejaan": "cip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keping kecil bahan semikonduktor yang mengandung rangkaian elektronika dalam bentuk rangkaian padu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peranti elektronik yang terdiri atas butir kecil kristal semikonduktor yang memadukan sejumlah komponen, seperti transistor, resistor, dan kapasitor yang secara bersama-sama membentuk suatu fungsi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

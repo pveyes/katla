@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KRS",
+    "akarKata": null,
+    "ejaan": "KRS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kartu rencana studi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

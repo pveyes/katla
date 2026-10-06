@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ba.cak",
+    "akarKata": null,
+    "ejaan": "bacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbintik-bintik (tentang bulu)",
+        "contoh": "ayam --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.cak",
+    "akarKata": null,
+    "ejaan": "bacak",
+    "baku": false,
+    "alt": "bacek",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lunak karena mengandung air (tentang tanah dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

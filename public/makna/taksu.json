@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "tak.su",
+    "akarKata": null,
+    "ejaan": "taksu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekuatan gaib yang memberi kecerdasan, keindahan, mukjizat, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan suci di sanggah yang berfungsi memberi kekuatan gaib",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

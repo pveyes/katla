@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "dom.ba",
+    "akarKata": null,
+    "ejaan": "domba",
+    "baku": true,
+    "alt": "merino",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biri-biri",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "umat manusia",
+        "contoh": "Yesus akan menebus dosa-dosa segenap -- yang digembalakannya",
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

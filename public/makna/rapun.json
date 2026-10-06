@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.pun",
+    "akarKata": null,
+    "ejaan": "rapun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hancur; remuk; pecah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.pun",
+    "akarKata": null,
+    "ejaan": "rapun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelim yang berkerut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

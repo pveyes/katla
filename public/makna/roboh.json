@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ro.boh",
+    "akarKata": null,
+    "ejaan": "roboh",
+    "baku": true,
+    "alt": "rubuh",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "runtuh (tentang bangunan yang besar, seperti rumah, tembok)",
+        "contoh": "gedung-gedung -- akibat gempa bumi yang hebat",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rebah; tumbang (tentang pohon, tanaman)",
+        "contoh": "hujan dan angin ribut semalam menyebabkan pohon --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh (dalam berbagai-bagai arti seperti bangkrut, kalah, tidak dapat bertahan lagi, luntur imannya)",
+        "contoh": "pada ronde kedua petinju terkenal itu -- karena mendapat pukulan keras pada pelipisnya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

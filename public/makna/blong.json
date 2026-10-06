@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "blong",
+    "akarKata": null,
+    "ejaan": "blong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berfungsi karena tidak ada tahanan (tentang rem); dol",
+        "contoh": "belum dapat dipastikan sebab-sebab kecelakaan itu, apakah remnya -- atau supirnya mengantuk",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "blong",
+    "akarKata": null,
+    "ejaan": "blong",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berisi apa-apa; kosong",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menganga atau terbuka lebar (tentang lubang dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

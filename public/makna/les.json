@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "les",
+    "akarKata": null,
+    "ejaan": "lès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelajaran tambahan di luar jam sekolah",
+        "contoh": "ia memberi -- musik di rumahnya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belajar kepada seseorang di luar jam sekolah",
+        "contoh": "kau -- matematika kepada siapa?",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "les",
+    "akarKata": null,
+    "ejaan": "lès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali kekang; tali kendali",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "les",
+    "akarKata": null,
+    "ejaan": "lês",
+    "baku": false,
+    "alt": "lis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis pada tepi; bilah papan (pada tembok dan sebagainya); bingkai (gambar dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daftar (nama dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

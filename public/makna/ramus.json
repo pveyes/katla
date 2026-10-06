@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ra.mus",
+    "akarKata": null,
+    "ejaan": "ramus",
+    "baku": true,
+    "alt": "ramulus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "struktur yang lebih kecil daripada sesuatu yang lebih besar atau cabang kecil dari pembuluh darah atau saraf",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.mus",
+    "akarKata": null,
+    "ejaan": "ramus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "struktur yang lebih kecil daripada sesuatu yang lebih besar atau cabang kecil dari pembuluh darah atau saraf",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

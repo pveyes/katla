@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Tur.ki",
+    "akarKata": null,
+    "ejaan": "Turki",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara di kawasan Eurasia, terbentang dari Semenanjung Anatolia di barat daya Asia sampai ke wilayah Balkan di Eropa bagian tenggara, ibukotanya Ankara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan di Turki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

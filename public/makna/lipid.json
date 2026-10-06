@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "li.pid",
+    "akarKata": null,
+    "ejaan": "lipid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat lemak yang tidak larut dalam air, tetapi umumnya larut dalam alkohol dan eter dan yang memberi rasa lemah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

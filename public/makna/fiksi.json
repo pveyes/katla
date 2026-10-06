@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "fik.si",
+    "akarKata": null,
+    "ejaan": "fiksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerita rekaan (roman, novel, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rekaan; khayalan; tidak berdasarkan kenyataan",
+        "contoh": "nama Menak Moncer adalah nama tokoh --, bukan tokoh sejarah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan yang hanya berdasarkan khayalan atau pikiran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

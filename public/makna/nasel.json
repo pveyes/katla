@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "na.sel",
+    "akarKata": null,
+    "ejaan": "nasêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerangka yang berisi mesin pesawat terbang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

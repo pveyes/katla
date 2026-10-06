@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.tis",
+    "akarKata": null,
+    "ejaan": "gutis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "satu ikat besar",
+        "contoh": "saya membawa satu -- padi",
+        "info": [
+          {
+            "sumber": "sumbawa",
+            "sumberTeks": "diubah singkatan label karena ada bahasa"
+          }
+        ]
+      }
+    ]
+  }
+]

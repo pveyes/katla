@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "pra.da",
+    "akarKata": null,
+    "ejaan": "prada",
+    "baku": false,
+    "alt": "perada",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas dari emas (perak, timah) untuk perhiasan, tulisan, dan sebagainya",
+        "contoh": "pakaian kebesaran bertabur --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pra.da",
+    "akarKata": null,
+    "ejaan": "prada",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "prajurit dua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

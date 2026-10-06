@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "si.bur",
+    "akarKata": null,
+    "ejaan": "sibur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pencedok air dibuat dari tempurung kelapa dan sebagainya yang diberi tangkai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.bur",
+    "akarKata": null,
+    "ejaan": "sibur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "sibur-sibur"
+        ]
+      }
+    ]
+  }
+]

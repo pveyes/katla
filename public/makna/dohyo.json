@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "doh.yo",
+    "akarKata": null,
+    "ejaan": "dohyo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ring atau arena gulat sumo",
+        "contoh": "pesumo itu terlempar dari lingkaran --",
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

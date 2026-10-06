@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "gi.gil",
+    "akarKata": null,
+    "ejaan": "gigil",
+    "baku": true,
+    "alt": "gigir",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gemetar karena kedinginan, demam, ketakutan (tentang sikap tubuh atau suara)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gi.gil",
+    "akarKata": null,
+    "ejaan": "gigil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perdu bertahunan dengan tinggi mencapai 2-4 m, batang berkayu, bercabang, berwana putih kehijauan, daun tunggal, membundar telur, silang berhadapan, perbungaan malai, berbulu, akar digunakan sebagai obat demam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

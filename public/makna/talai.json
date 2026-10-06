@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.lai",
+    "akarKata": null,
+    "ejaan": "talai",
+    "baku": false,
+    "alt": "lalai",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang hati-hati; tidak mengindahkan (kewajiban, pekerjaan, dan sebagainya); lengah",
+        "contoh": "karena -- dompetnya hilang disambar copet",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak ingat karena asyik melakukan sesuatu; terlupa",
+        "contoh": "semuanya -- bermain kartu",
+        "info": []
+      }
+    ]
+  }
+]

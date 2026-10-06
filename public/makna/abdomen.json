@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ab.do.men",
+    "akarKata": null,
+    "ejaan": "abdomên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tubuh berupa rongga perut yang berisi alat pencernaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian di antara sekat rongga badan dan pinggul (perut bagian bawah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tubuh di belakang dada (toraks) pada artropoda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

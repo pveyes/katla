@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "wa.jah",
+    "akarKata": null,
+    "ejaan": "wajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian depan dari kepala; roman muka; muka",
+        "contoh": "ketika aku datang tampak -- ibunya berseri-seri",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh (pemain dan sebagainya)",
+        "contoh": "-- baru",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "apa-apa yang tampak lebih dulu",
+        "contoh": "Jakarta adalah -- Indonesia",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambaran; corak",
+        "contoh": "-- remaja sekarang tidak menggembirakan, apalagi dengan banyak remaja yang terlibat penggunaan obat terlarang",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

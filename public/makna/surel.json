@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "sur.el",
+    "akarKata": null,
+    "ejaan": "surèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat elektronik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

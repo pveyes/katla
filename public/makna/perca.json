@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "per.ca",
+    "akarKata": null,
+    "ejaan": "pêrca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sobekan (potongan) kecil kain sisa dari jahitan dan sebagainya; reja kain; carik kain",
+        "contoh": "karena tidak ada kapuk, diisinya bantal itu dengan -- kain",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per.ca",
+    "akarKata": null,
+    "ejaan": "pêrca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

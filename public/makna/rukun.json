@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ru.kun",
+    "akarKata": null,
+    "ejaan": "rukun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang harus dipenuhi untuk sahnya suatu pekerjaan",
+        "contoh": "tidak sah salat yang tidak cukup syarat dan --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asas; dasar; sendi",
+        "contoh": "semuanya terlaksana dengan baik, tidak suatu pun yang menyimpang dari --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.kun",
+    "akarKata": null,
+    "ejaan": "rukun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik dan damai; tidak bertengkar (tentang pertalian persahabatan dan sebagainya)",
+        "contoh": "“Ibu berharap kamu berdua dapat hidup --”",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersatu hati; bersepakat",
+        "contoh": "penduduk kampung ini -- sekali",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Mi.mas",
+    "akarKata": null,
+    "ejaan": "Mimas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satelit milik Saturnus dengan material utama berupa batuan beku, berjarak hanya 185.520 km dengan periode revolusi terhadap Saturnus sekitar 22 jam 37 menit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

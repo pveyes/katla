@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MKS",
+    "akarKata": null,
+    "ejaan": "MKS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa kerja sesungguhnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "dis.ko",
+    "akarKata": null,
+    "ejaan": "disko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaya (irama) dalam musik pop yang lincah dan digemari oleh remaja (bersifat kontemporer)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diskotek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

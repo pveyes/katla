@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pi.ung",
+    "akarKata": null,
+    "ejaan": "piung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegawai polisi",
+        "contoh": "-- dan marinyo pun menangkap orang-orang yang mabuk",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

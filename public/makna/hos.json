@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hos",
+    "akarKata": null,
+    "ejaan": "hos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komputer yang terhubung pada jaringan dan menyediakan fasilitas bagi komputer lain dan penggunanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

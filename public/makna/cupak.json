@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "cu.pak",
+    "akarKata": null,
+    "ejaan": "cupak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takaran beras (biasanya 1 cupak = ¼ gantang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.pak",
+    "akarKata": null,
+    "ejaan": "cupak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala pengudut (tempat candu dibakar)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.pak",
+    "akarKata": null,
+    "ejaan": "cupak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "struktur berbentuk gelembung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.pak",
+    "akarKata": null,
+    "ejaan": "cupak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat dari kain atau semacamnya berbentuk lipatan-lipatan yang kedap cahaya dan/atau kedap udara, dipakai pada kamera atau alat untuk mengembus udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

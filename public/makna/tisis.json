@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.sis",
+    "akarKata": null,
+    "ejaan": "tisis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit yang menyebabkan pengurusan jaringan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu gizi",
+            "sumberTeks": ""
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "po.let",
+    "akarKata": null,
+    "ejaan": "polèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda pangkat pada tentara dan sebagainya berupa sepotong kain atau logam yang dipasang pada bahu baju",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis tebal berwarna atau takik pada batang kayu sebagai tanda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

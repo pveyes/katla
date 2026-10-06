@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.nap",
+    "akarKata": null,
+    "ejaan": "ranap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(hampir) rata dengan tanah (karena tumbang, roboh, dan sebagainya)",
+        "contoh": "rumah itu -- dilanda angin puting beliung",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.nap",
+    "akarKata": null,
+    "ejaan": "ranap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sunyi",
+        "contoh": "daerah terpencil itu sangat --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

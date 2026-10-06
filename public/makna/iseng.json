@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "iseng",
+    "akarKata": null,
+    "ejaan": "isêng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa menganggur (tidak ada yang perlu segera dikerjakan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(berbuat atau mengerjakan sesuatu supaya jangan menganggur) sebagai perintang-rintang waktu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mau menganggur (rewel, suka mengganggu, suka omong, suka makan apa saja, dan sebagainya)",
+        "contoh": "karena tangan anak-anak yang --, dinding sekolah itu penuh corat-coret",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sekadar main-main; tidak bersungguh-sungguh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

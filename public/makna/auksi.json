@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "auk.si",
+    "akarKata": null,
+    "ejaan": "auksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tata cara perdagangan sekuritas atas dasar diskonto untuk menentukan harga jadi tawaran tertinggi sampai terendah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

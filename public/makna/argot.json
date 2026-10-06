@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ar.got",
+    "akarKata": null,
+    "ejaan": "argot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa dan perbendaharaan kata yang bersifat rahasia dari suatu kelompok orang, misalnya bahasa para pencopet",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

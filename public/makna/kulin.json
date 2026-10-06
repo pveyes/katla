@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.lin",
+    "akarKata": null,
+    "ejaan": "kulin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi mencapai 36 m, dikenal karena memberi bau yang tajam seperti bawang putih, teras kayunya lebar, berat, padat, dan keras, berwarna merah tua atau cokelat keabu-abuan, digunakan untuk tiang jembatan, umpak, bahan pembangunan rumah, dan sebagainya, buahnya digunakan juga sebagai pengganti bawang putih untuk masakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kulin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah kulin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

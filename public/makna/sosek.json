@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "sos.ek",
+    "akarKata": null,
+    "ejaan": "sosèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sosial-ekonomi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

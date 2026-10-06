@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Don.do",
+    "akarKata": null,
+    "ejaan": "Dondo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami beberapa desa di Kabupaten Buol Toli-toli, Provinsi Sulawesi Tengah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Dondo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

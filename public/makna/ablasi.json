@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "ab.la.si",
+    "akarKata": null,
+    "ejaan": "ablasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal terlepasnya sesuatu dari sesuatu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghilangan dengan jalan pembedahan jaringan atau organ tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemindahan bahan yang telah lapuk dari batuan induknya oleh arus air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengikisan oleh tiupan angin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggabungan (sublimasi, peleburan, penguapan, dan sebagainya) yang memindahkan salju atau es dari permukaan gletser atau medan salju; kikisan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hidrologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemutusan jalur elektris antara bilik atas dan bilik bawah pada jantung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "re.mah",
+    "akarKata": null,
+    "ejaan": "rémah",
+    "baku": true,
+    "alt": "rimah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bersifat mudah pecah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.mah",
+    "akarKata": null,
+    "ejaan": "rêmah",
+    "baku": true,
+    "alt": "rimah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "repih-repih (roti); sisa-sisa makanan dan sebagainya yang ketinggalan di tempat makan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konsistensi tanah yang bersifat mudah pecah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

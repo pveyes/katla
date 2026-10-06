@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "az.mat",
+    "akarKata": null,
+    "ejaan": "azmat",
+    "baku": true,
+    "alt": "azamat, azemat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hebat; ramai sekali",
+        "contoh": "tempik sorak kawan dan musuh terlalu -- bunyinya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

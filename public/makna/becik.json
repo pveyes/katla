@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "be.cik",
+    "akarKata": null,
+    "ejaan": "bêcik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat pertukangan untuk membuat garis lurus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

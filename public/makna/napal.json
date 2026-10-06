@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "na.pal",
+    "akarKata": null,
+    "ejaan": "napal",
+    "baku": true,
+    "alt": "nampal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah liat merah yang dapat dimakan sebagai obat; ampo",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batuan yang terdiri atas lempung dan kalium-karbonat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.tai",
+    "akarKata": null,
+    "ejaan": "lètai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "letih; lesu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.tai",
+    "akarKata": null,
+    "ejaan": "lêtai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "letah-letai"
+        ]
+      }
+    ]
+  }
+]

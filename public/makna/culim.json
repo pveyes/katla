@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "cu.lim",
+    "akarKata": null,
+    "ejaan": "culim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pipa tembakau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengudut (madat)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tembakau atau madat isi pipa yang diisap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

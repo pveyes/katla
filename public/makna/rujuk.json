@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ru.juk",
+    "akarKata": null,
+    "ejaan": "rujuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kembalinya suami kepada istrinya yang ditalak, talak satu atau talak dua, ketika istri masih dalam masa idah",
+        "contoh": "setelah diberi nasihat oleh saudaranya, ia -- dengan istrinya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kembali bersatu (bersahabat dan sebagainya)",
+        "contoh": "kedua partai yang sudah -- itu ikut dalam kabinet baru",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.juk",
+    "akarKata": null,
+    "ejaan": "rujuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "acu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "uak",
+    "akarKata": null,
+    "ejaan": "uak",
+    "baku": true,
+    "alt": "uwak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan terhadap kakak dari ayah atau ibu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uak",
+    "akarKata": null,
+    "ejaan": "uak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi suara kerbau",
+        "contoh": "pagi-pagi sudah terdengar suara -- dari kandang kerbau di belakang rumah",
+        "info": []
+      }
+    ]
+  }
+]

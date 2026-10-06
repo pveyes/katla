@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ta.kak",
+    "akarKata": null,
+    "ejaan": "takak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bertakak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.kak",
+    "akarKata": null,
+    "ejaan": "takak",
+    "baku": false,
+    "alt": "takik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "torehan yang agak dalam pada batang pohon untuk memudahkan pijakan orang memanjat; takuk kecil; gubang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "torehan pada kulit pohon (untuk mendapatkan getah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan V kecil pada jahitan longgar agar lapisan pakaian tidak menggembung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

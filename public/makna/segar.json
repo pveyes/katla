@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "se.gar",
+    "akarKata": null,
+    "ejaan": "sêgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa nyaman dan ringan (tentang perasaan badan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa nyaman (tentang udara)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyaman dan sehat (tentang kesehatan badan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik tumbuhnya (tentang tumbuhan dan sebagainya, dipakai juga dalam arti kiasan)",
+        "contoh": "tanaman kebunnya selalu -- karena ia rajin menyirami",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masih baru; tidak layu (tentang sayuran dan sebagainya, dipakai juga dalam arti kiasan)",
+        "contoh": "warung itu menjual sayur-sayuran yang masih --",
+        "info": []
+      }
+    ]
+  }
+]

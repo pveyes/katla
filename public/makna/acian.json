@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "aci.an",
+    "akarKata": "aci",
+    "ejaan": "acian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil mengaci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

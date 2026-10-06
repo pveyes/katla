@@ -1,0 +1,101 @@
+[
+  {
+    "sukuKata": "bu.nga",
+    "akarKata": null,
+    "ejaan": "bunga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tumbuhan yang akan menjadi buah, biasanya elok warnanya dan harum baunya; kembang",
+        "contoh": "-- mangga",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis untuk berbagai-bagai bunga",
+        "contoh": "-- melati",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar hiasan (pada kain, pamor ukiran, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambahan untuk memperindah",
+        "contoh": "ceritanya itu sudah banyak --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda-tanda baik",
+        "contoh": "sudah tampak --nya bahwa tuntutan kita akan berhasil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dianggap elok (cantik) seperti bunga",
+        "contoh": "gadis itu adalah -- di kampungnya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama yang dipakai untuk beberapa jenis tumbuhan yang tidak berkerabat satu sama lain, seperti -- bangkai, -- ketongkeng, -- manila",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.nga",
+    "akarKata": null,
+    "ejaan": "bunga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "imbalan jasa untuk penggunaan uang atau modal yang dibayar pada waktu tertentu berdasarkan ketentuan atau kesepakatan, umumnya dinyatakan sebagai persentase dari modal pokok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapatan atas setiap investasi modal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

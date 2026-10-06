@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ta.ras",
+    "akarKata": null,
+    "ejaan": "taras",
+    "baku": false,
+    "alt": "teras",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kayu yang keras; inti kayu",
+        "contoh": "pada irisan penampang kelihatan -- yang dikelilingi lingkaran-lingkaran kayu yang dapat menunjukkan umurnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inti sari; isi yang terutama; sesuatu yang terbaik; sesuatu yang terpenting",
+        "contoh": "pasukan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

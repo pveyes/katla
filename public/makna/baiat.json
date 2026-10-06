@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bai.at",
+    "akarKata": null,
+    "ejaan": "baiat",
+    "baku": true,
+    "alt": "bayat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelantikan secara resmi; pengangkatan; pengukuhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengucapan sumpah setia kepada imam (pemimpin)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

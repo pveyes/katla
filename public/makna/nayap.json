@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "na.yap",
+    "akarKata": null,
+    "ejaan": "nayap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencuri pada siang hari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

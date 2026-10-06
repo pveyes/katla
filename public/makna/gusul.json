@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.sul",
+    "akarKata": null,
+    "ejaan": "gusul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membersihkan seluruh bagian tubuh; mandi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Su.mut",
+    "akarKata": null,
+    "ejaan": "Sumut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Sumatra Utara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

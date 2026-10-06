@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.cok",
+    "akarKata": null,
+    "ejaan": "gacok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mengikuti ujian atas nama orang lain dengan mendapatkan bayaran; joki",
+        "contoh": "di antara -- itu ada yang sarjana",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

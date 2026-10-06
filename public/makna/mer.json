@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "mer",
+    "akarKata": null,
+    "ejaan": "mèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan monomer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Mer",
+    "akarKata": null,
+    "ejaan": "mêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Fakfak dan Kabupaten Manokwari, Papua; Muri; Miere",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

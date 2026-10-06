@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.cir",
+    "akarKata": null,
+    "ejaan": "kucir",
+    "baku": true,
+    "alt": "kuncit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seberkas rambut (terkepang atau tidak) yang sengaja dibiarkan tumbuh di kepala yang tercukur, sedangkan rambut di bagian kepala yang lain dicukur; kuncit; taucang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seberkas rambut (terkepang atau tidak) yang diikat dengan ikat penghias (seperti pita)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

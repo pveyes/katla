@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PKT",
+    "akarKata": null,
+    "ejaan": "PKT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengembangan kawasan terpadu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

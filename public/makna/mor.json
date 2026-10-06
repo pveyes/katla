@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Mor",
+    "akarKata": null,
+    "ejaan": "Mor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah timur laut Semenanjung Bomberai di Kabupaten Fakfak, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Kepulauan Mor di Teluk Cenderawasih, Kabupaten Paniai, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

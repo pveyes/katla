@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "kri.da",
+    "akarKata": null,
+    "ejaan": "krida",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "olah; perbuatan; tindakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "olahraga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

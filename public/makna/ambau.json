@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "am.bau",
+    "akarKata": null,
+    "ejaan": "ambau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rakit yang dipasang di kiri kanan perahu agar perahu tidak mudah terbalik; pelampung perahu; gandung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bau",
+    "akarKata": null,
+    "ejaan": "ambau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengambau",
+          "terambau"
+        ]
+      }
+    ]
+  }
+]

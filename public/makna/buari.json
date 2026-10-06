@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.a.ri",
+    "akarKata": null,
+    "ejaan": "buari",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging yang dijemur di panas matahari; dendeng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

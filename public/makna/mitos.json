@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "mi.tos",
+    "akarKata": null,
+    "ejaan": "mitos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerita suatu bangsa tentang dewa dan pahlawan zaman dahulu, mengandung penafsiran tentang asal-usul semesta alam, manusia, dan bangsa tersebut, mengandung arti mendalam yang diungkapkan dengan cara gaib",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerita tentang dewa-dewa dan pahlawan pada masa lalu yang memiliki tafsir dan makna tentang kejadian asal usul manusia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sa.bat",
+    "akarKata": null,
+    "ejaan": "sabat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari ketujuh (hari Tuhan beristirahat sesudah menciptakan alam semesta, menurut kitab Taurat), biasanya dikhususkan untuk beribadah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.bat",
+    "akarKata": null,
+    "ejaan": "Sabat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "hari ketujuh (hari Tuhan beristirahat sesudah menciptakan alam semesta, menurut kitab Taurat), biasanya dikhususkan untuk beribadah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "Wis.nu",
+    "akarKata": null,
+    "ejaan": "Wisnu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salah satu dewa Trimurti (Brahma, Syiwa, Wisnu) yang berperan sebagai dewa pemelihara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "wis.nu",
+    "akarKata": null,
+    "ejaan": "wisnu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wisatawan nusantara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

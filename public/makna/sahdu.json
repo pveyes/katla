@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "sah.du",
+    "akarKata": null,
+    "ejaan": "sahdu",
+    "baku": false,
+    "alt": "syahda",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "elok; cantik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mulia; terutama; syahdu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sah.du",
+    "akarKata": null,
+    "ejaan": "sahdu",
+    "baku": false,
+    "alt": "syahdu",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "khidmat; mulia; agung",
+        "contoh": "suasana -- pada malam lailatulkadar menambah khusyuk hatiku",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "em.bok",
+    "akarKata": null,
+    "ejaan": "êmbok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk ibu-ibu (dari kalangan rendah di Jawa)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada wanita pembantu rumah tangga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "noa",
+    "akarKata": null,
+    "ejaan": "noa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penghalus yang dipakai sebagai pengganti kata tabu, misalnya penghuni untuk menggantikan hantu, kalau orang takut pada hantu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

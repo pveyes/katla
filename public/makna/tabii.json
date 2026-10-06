@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.bii",
+    "akarKata": null,
+    "ejaan": "tabii",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menurut sifat (pembawaan, kodrat) yang asli",
+        "contoh": "ilmu --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

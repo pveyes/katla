@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "let.tu",
+    "akarKata": null,
+    "ejaan": "lèttu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "letnan satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

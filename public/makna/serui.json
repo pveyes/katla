@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "se.rui",
+    "akarKata": null,
+    "ejaan": "sêrui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susut sedikit",
+        "contoh": "bisulnya sudah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Se.ru.i",
+    "akarKata": null,
+    "ejaan": "sêrui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu kota Kabupaten Kepulauan Yapen, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Serui",
+    "akarKata": null,
+    "ejaan": "sêrui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Yapen bagian tengah, Pulau Nau, dan Teluk Cendrawasih di Papua; Arui",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Serui",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

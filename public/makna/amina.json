@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ami.na",
+    "akarKata": null,
+    "ejaan": "amina",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan senyawa organik yang mengandung nitrogen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

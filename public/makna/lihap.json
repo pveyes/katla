@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "li.hap",
+    "akarKata": null,
+    "ejaan": "lihap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selimut tebal berisi kapuk, dapat digunakan sebagai kasur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

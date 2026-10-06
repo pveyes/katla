@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "da.lil",
+    "akarKata": null,
+    "ejaan": "dalil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keterangan yang dijadikan bukti atau alasan suatu kebenaran (terutama berdasarkan ayat Al-Qur'an)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patokan dalam matematika dan sebagainya",
+        "contoh": "salah satu -- segitiga sama sisi adalah bahwa ketiga sudutnya sama besar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapat yang dikemukakan dan dipertahankan sebagai suatu kebenaran",
+        "contoh": "ia tidak dapat mempertahankan --nya yang dikemukakan pada rapat itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda; penunjukan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

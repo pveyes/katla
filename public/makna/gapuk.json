@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.puk",
+    "akarKata": null,
+    "ejaan": "gapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambun; gemuk",
+        "contoh": "dua pesumo -- saling banting",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

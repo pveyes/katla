@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "lak.sa",
+    "akarKata": null,
+    "ejaan": "laksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "sepuluh ribu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "ukuran tembakau, 10 lempeng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lak.sa",
+    "akarKata": null,
+    "ejaan": "laksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lauk yang mengandung banyak kuah bercampur soun, daging ayam, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

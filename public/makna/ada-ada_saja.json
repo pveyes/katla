@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ada-ada saja",
+    "akarKata": "ada",
+    "ejaan": "ada-ada saja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "cakapan",
+        "tipeTeks": "menandai kata yang digunakan dalam ragam takbaku",
+        "definisi": "selalu mempunyai sesuatu untuk dikatakan (diminta dan sebagainya)",
+        "contoh": "-- kamu ini, masak ada kuda yang bertanduk",
+        "info": []
+      }
+    ]
+  }
+]

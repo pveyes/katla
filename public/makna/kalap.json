@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.lap",
+    "akarKata": null,
+    "ejaan": "kalap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lupa diri (ketika marah)",
+        "contoh": "ia marah sekali sampai --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gila; bingung",
+        "contoh": "karena putus asa, ia menjadi --",
+        "info": []
+      }
+    ]
+  }
+]

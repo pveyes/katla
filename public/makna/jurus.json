@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ju.rus",
+    "akarKata": null,
+    "ejaan": "jurus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah yang lurus (langsung)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sikap (tegak dan sebagainya) dalam permainan pencak silat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.rus",
+    "akarKata": null,
+    "ejaan": "jurus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "arah yang lurus (langsung)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "bagian sikap (tegak dan sebagainya) dalam permainan pencak silat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

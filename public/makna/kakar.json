@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ka.kar",
+    "akarKata": null,
+    "ejaan": "kakar",
+    "baku": false,
+    "alt": "kekar",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kembang; mekar",
+        "contoh": "bunga --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bercerai-berai (tidak berkumpul atau berdekatan lagi)",
+        "contoh": "nasinya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rekah (tentang batuan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

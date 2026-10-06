@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.sap",
+    "akarKata": null,
+    "ejaan": "kasap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak halus; tidak lembut (jika diraba); kesat",
+        "contoh": "kulitnya berbulu --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sap",
+    "akarKata": null,
+    "ejaan": "kasap",
+    "baku": true,
+    "alt": "kasab",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awak kapal yang bertanggung jawab atas gudang, perlengkapan, bahan kerja atau peralatan kapal dan lain-lain",
+        "contoh": "seorang -- harus teliti dalam hal keluar masuknya bahan makanan",
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sap",
+    "akarKata": null,
+    "ejaan": "kasap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kasap jantan"
+        ]
+      }
+    ]
+  }
+]

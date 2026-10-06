@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.rid",
+    "akarKata": null,
+    "ejaan": "barid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "utusan (yang mengantarkan surat dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pos",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

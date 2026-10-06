@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ju.jah",
+    "akarKata": null,
+    "ejaan": "jujah",
+    "baku": true,
+    "alt": "jujat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fitnah; umpat; penghinaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

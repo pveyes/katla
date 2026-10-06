@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "da.rat",
+    "akarKata": null,
+    "ejaan": "darat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian permukaan bumi yang padat; tanah yang tidak digenangi air (sebagai lawan dari laut atau air)",
+        "contoh": "bukan main senangnya hati kami naik ke -- setelah lima hari terapung-apung di laut",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah atau bumi (sebagai lawan dari angkasa)",
+        "contoh": "beberapa detik sebelum tiba di --, payungnya baru mengembang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang tinggi (sebagai lawan dari tanah yang rendah di pantai, biasanya berpaya-paya atau sebagai lawan tanah persawahan dan rawa-rawa)",
+        "contoh": "⅔ bagian terdiri atas rawa-rawa dan ⅓ bagian adalah tanah --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah pedalaman (sebagai lawan dari daerah pantai)",
+        "contoh": "ia bekerja di pelabuhan, padahal rumahnya jauh di --",
+        "info": []
+      }
+    ]
+  }
+]

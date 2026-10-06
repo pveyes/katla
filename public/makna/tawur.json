@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ta.wur",
+    "akarKata": null,
+    "ejaan": "tawur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkelahian beramai-ramai; perkelahian massal",
+        "contoh": "tiba-tiba terjadi -- antara kedua keluarga yang berselisih itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.wur",
+    "akarKata": null,
+    "ejaan": "tawur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ragam hias batik Cirebon berupa titik-titik acak yang mengisi bidang yang lebih besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.wur",
+    "akarKata": null,
+    "ejaan": "tawur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun kawung basah yang disusun dan ditusuk dengan lidi untuk perlengkapan upacara adat Ngalaksa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

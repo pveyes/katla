@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ke.kah",
+    "akarKata": null,
+    "ejaan": "kèkah",
+    "baku": false,
+    "alt": "akikah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyembelihan kambing atau domba sebagai pernyataan syukur orang tua atas kelahiran anaknya, dua ekor untuk anak laki-laki dan satu ekor untuk anak perempuan, lazimnya dilaksanakan pada hari ketujuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tradisi penyembelihan ternak pada upacara pencukuran rambut bayi ketika berusia tujuh hari sebagai pernyataan syukur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.kah",
+    "akarKata": null,
+    "ejaan": "kêkah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kera hitam bertangan panjang; siamang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.kah",
+    "akarKata": null,
+    "ejaan": "kêkah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kangkang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

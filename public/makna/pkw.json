@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PKW",
+    "akarKata": null,
+    "ejaan": "PKW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panti keterampilan wanita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

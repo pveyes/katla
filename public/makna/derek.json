@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "de.rek",
+    "akarKata": null,
+    "ejaan": "dèrèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deret; leret; baris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.rek",
+    "akarKata": null,
+    "ejaan": "dèrèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerek untuk menarik, mengangkat, menaikkan, atau menurunkan muatan dari kapal dan sebagainya",
+        "contoh": "gerbong kereta api itu diangkat dengan -- dari palka kapal",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.rek",
+    "akarKata": null,
+    "ejaan": "dêrêk",
+    "baku": false,
+    "alt": "derik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi papan bergesekan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ko.rum",
+    "akarKata": null,
+    "ejaan": "korum",
+    "baku": false,
+    "alt": "kuorum",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah minimum anggota yang harus hadir dalam rapat, majelis, dan sebagainya (biasanya lebih dari separuh jumlah anggota) agar dapat mengesahkan suatu putusan",
+        "contoh": "sidang kemarin tidak dapat mengubah anggaran dasar yayasan karena tidak mencapai --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.pon",
+    "akarKata": null,
+    "ejaan": "kupon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat kecil atau karcis yang dapat ditukarkan dengan barang atau untuk membeli barang dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat kecil tanda mendapat bunga uang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat kecil yang dapat disobek dari buku atau majalah untuk memesan barang dan sebagainya untuk memperoleh hadiah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

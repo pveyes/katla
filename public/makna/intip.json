@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "in.tip",
+    "akarKata": null,
+    "ejaan": "intip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lihat dengan cara sembunyi-sembunyi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "in.tip",
+    "akarKata": null,
+    "ejaan": "intip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian (nasi tanak dan sebagainya) yang keras dan gosong yang melekat pada dasar periuk; kerak (nasi dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

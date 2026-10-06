@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "go.sok",
+    "akarKata": null,
+    "ejaan": "gosok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses mengeluarkan komponen suatu campuran gas dengan jalan melewatkan ke arah atas yang berlawanan dengan aliran zat cair yang mampu menyerap komponen yang diingini secara memilih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "geser; sentuh; gesek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

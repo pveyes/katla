@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.dir",
+    "akarKata": null,
+    "ejaan": "sadir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garam amonium",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

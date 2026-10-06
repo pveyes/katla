@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pal.su",
+    "akarKata": null,
+    "ejaan": "palsu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak tulen; tidak sah; lancung (tentang ijazah, surat keterangan, uang, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tiruan (tentang gigi, kunci, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gadungan (tentang polisi, tentara, wartawan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "curang; tidak jujur (tentang permainan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sumbang (tentang suara dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

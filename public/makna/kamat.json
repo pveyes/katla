@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.mat",
+    "akarKata": null,
+    "ejaan": "kamat",
+    "baku": false,
+    "alt": "ikamah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan atau seruan segera berdiri untuk salat (berjemaah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.mat",
+    "akarKata": null,
+    "ejaan": "kamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang biasa digunakan untuk membuat cap (tera)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

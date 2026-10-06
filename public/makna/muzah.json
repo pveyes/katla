@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mu.zah",
+    "akarKata": null,
+    "ejaan": "muzah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaos (kaki)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

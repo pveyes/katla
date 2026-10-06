@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.mem",
+    "akarKata": null,
+    "ejaan": "sêmèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan makna terkecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

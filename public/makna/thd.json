@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "thd",
+    "akarKata": null,
+    "ejaan": "thd",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terhadap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

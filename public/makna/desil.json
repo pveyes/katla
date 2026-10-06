@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "de.sil",
+    "akarKata": null,
+    "ejaan": "dèsil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai yang menandai batas interval dari sebaran frekuensi yang berderet dalam sepuluh bagian sebaran yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "statistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "radikal bervalensi satu yang diturunkan dari dekanal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

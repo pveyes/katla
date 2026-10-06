@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "alung",
+    "akarKata": null,
+    "ejaan": "alung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang (gundu, mata uang, bola kecil, atau keping logam) yang dilemparkan pada sasaran dalam permainan anak-anak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "alung",
+    "akarKata": null,
+    "ejaan": "alung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berteduh spy sejuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sabu",
+            "sumberTeks": "ditambahkan karena cukup banyak sumbangan dari bahasa ini"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang tumbuh di bawah pohon lain sehingga tumbuhnya tidak normal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sabu",
+            "sumberTeks": "ditambahkan karena cukup banyak sumbangan dari bahasa ini"
+          }
+        ]
+      }
+    ]
+  }
+]

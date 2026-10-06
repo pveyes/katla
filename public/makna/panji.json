@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pan.ji",
+    "akarKata": null,
+    "ejaan": "panji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar bangsawan di Jawa, lebih tinggi daripada gelar raden, tetapi lebih rendah daripada gelar raden mas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pan.ji",
+    "akarKata": null,
+    "ejaan": "panji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "gelar bangsawan di Jawa, lebih tinggi daripada gelar raden, tetapi lebih rendah daripada gelar raden mas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pan.ji",
+    "akarKata": null,
+    "ejaan": "panji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh cerita sastra Nusantara lama yang dalam pengembangannya menunjukkan sifat kepahlawanan yang mampu mengatasi segala tantangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

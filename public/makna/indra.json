@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "in.dra",
+    "akarKata": null,
+    "ejaan": "indra",
+    "baku": true,
+    "alt": "deria, dria, indera, indria",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk merasa, mencium bau, mendengar, melihat, meraba, dan merasakan sesuatu secara naluri (intuitif)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "in.dra",
+    "akarKata": null,
+    "ejaan": "indra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "raja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(ditulis dengan huruf kapital) nama seorang dewa yang menguasai angkasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

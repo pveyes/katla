@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.lia",
+    "akarKata": null,
+    "ejaan": "sêlia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "teratur rapi; elok (buatannya dan sebagainya); apik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lia",
+    "akarKata": null,
+    "ejaan": "sêlia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melihat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

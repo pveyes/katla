@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "vi.sum",
+    "akarKata": null,
+    "ejaan": "visum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda pernyataan atau keterangan telah mengetahui atau menyetujui",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "visa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

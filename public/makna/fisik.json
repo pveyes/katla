@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fi.sik",
+    "akarKata": null,
+    "ejaan": "fisik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jasmani; badan",
+        "contoh": "seorang karateka harus terlatih, baik -- maupun mentalnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jasmaniah; badaniah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

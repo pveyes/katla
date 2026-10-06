@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "mak.ro",
+    "akarKata": null,
+    "ejaan": "makro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar; tebal",
+        "contoh": "kajian --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan jumlah yang banyak atau ukuran yang besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mak.ro",
+    "akarKata": null,
+    "ejaan": "makro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "instruksi program yang mengawali rangkaian operasi tambahan pada komputer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

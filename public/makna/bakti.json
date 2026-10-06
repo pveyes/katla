@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bak.ti",
+    "akarKata": null,
+    "ejaan": "bakti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan tunduk dan hormat; perbuatan yang menyatakan setia (kasih, hormat, tunduk)",
+        "contoh": "-- kepada Tuhan Yang Maha Esa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "memperhambakan diri; setia",
+        "contoh": "sebagai tanda -- kepada nusa dan bangsa, ia berusaha berprestasi sebaik-baiknya",
+        "info": []
+      }
+    ]
+  }
+]

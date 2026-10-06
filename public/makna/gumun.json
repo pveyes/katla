@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.mun",
+    "akarKata": null,
+    "ejaan": "gumun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk pada bagian bibir atas, tepat di bawah sekat hidung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

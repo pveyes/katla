@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "da.yah",
+    "akarKata": null,
+    "ejaan": "dayah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang perempuan (ibu) yang diserahi mengasuh atau menyusui anak orang lain; inang pengasuh; ibu susu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat pengajian khusus untuk perempuan di Aceh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.yah",
+    "akarKata": null,
+    "ejaan": "dayah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaga pendidikan agama Islam di Aceh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ce.rap",
+    "akarKata": null,
+    "ejaan": "cêrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "acuh; memperhatikan",
+        "contoh": "kurang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.rap",
+    "akarKata": null,
+    "ejaan": "cêrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencangkul bersama dengan posisi berderet ke samping",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

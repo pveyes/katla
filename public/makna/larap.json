@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "la.rap",
+    "akarKata": null,
+    "ejaan": "larap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "laku; laris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rap",
+    "akarKata": null,
+    "ejaan": "larap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jodoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rap",
+    "akarKata": null,
+    "ejaan": "larap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jodoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

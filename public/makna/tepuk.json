@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "te.puk",
+    "akarKata": null,
+    "ejaan": "têpuk",
+    "baku": true,
+    "alt": "tapuk, tepok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi yang dihasilkan oleh kedua tangan yang ditamparkan",
+        "contoh": "-- dan tawa terdengar dari permainan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tamparan tidak keras dari belakang dan dari samping",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

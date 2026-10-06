@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "na.qal",
+    "akarKata": null,
+    "ejaan": "naqal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutipan berdasarkan Al-Qur'an dan hadis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

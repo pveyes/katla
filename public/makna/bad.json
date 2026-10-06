@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bad",
+    "akarKata": null,
+    "ejaan": "bad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angin",
+        "contoh": "bala --, zir --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

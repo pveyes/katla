@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "bu.tir",
+    "akarKata": null,
+    "ejaan": "butir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang kecil-kecil seperti beras, intan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong bagi barang yang bulat-bulat atau kecil-kecil",
+        "contoh": "dua -- peluru bersarang di tubuhnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salah satu bagian dari keseluruhan; perincian",
+        "contoh": "keputusan musyawarah partai itu terdiri atas delapan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

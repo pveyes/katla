@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "aca.ra",
+    "akarKata": null,
+    "ejaan": "acara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal atau pokok yang akan dibicarakan (dalam rapat, perundingan, dan sebagainya); agenda",
+        "contoh": "-- kongres akan disusun oleh panitia khusus",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal atau pokok isi karangan",
+        "contoh": "untuk ujian mengarang disediakan empat --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan yang dipertunjukkan, disiarkan, atau diperlombakan; programa (televisi, radio, dan sebagainya)",
+        "contoh": "-- televisi dan radio setiap hari dimuat dalam surat kabar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemeriksaan dalam pengadilan; perkara",
+        "contoh": "dia sedang menyaksikan -- di mahkamah tinggi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara",
+        "contoh": "setiap orang mempunyai -- berpikir yang berlainan",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "aca.ra",
+    "akarKata": null,
+    "ejaan": "acara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengacarakan"
+        ]
+      }
+    ]
+  }
+]

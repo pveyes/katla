@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Dom.pu",
+    "akarKata": null,
+    "ejaan": "Dompu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Sumbawa bagian timur, Kabupaten Bima, Provinsi Nusa Tenggara Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di bagian tengah Pulau Sumbawa, Provinsi Nusa Tenggara Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

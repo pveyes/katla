@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "aring",
+    "akarKata": null,
+    "ejaan": "aring",
+    "baku": false,
+    "alt": "urang-aring",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terna kecil; bunganya kecil berwarna putih, digunakan sebagai pencuci rambut dan sebagai obat kejang perut; oring-aring; daun sipat; kermah jantan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerendang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aring",
+    "akarKata": null,
+    "ejaan": "aring",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jebakan untuk menangkap kijang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aring",
+    "akarKata": null,
+    "ejaan": "aring",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbau seperti air kencing; pesing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aring",
+    "akarKata": null,
+    "ejaan": "aring",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukiran pada pangkal mata keris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

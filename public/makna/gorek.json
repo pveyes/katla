@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "go.rek",
+    "akarKata": null,
+    "ejaan": "gorèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "korek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gorek",
+    "akarKata": null,
+    "ejaan": "gorèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menggorek-gorek"
+        ]
+      }
+    ]
+  }
+]

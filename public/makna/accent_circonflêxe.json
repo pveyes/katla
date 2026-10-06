@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "accent circonflêxe",
+    "akarKata": null,
+    "ejaan": "accent circonflêxe",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "tanda diakritik ( ˆ ), seperti yang terdapat pada kata pâte, fête, côte, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "prancis",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

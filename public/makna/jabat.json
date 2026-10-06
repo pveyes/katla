@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ja.bat",
+    "akarKata": null,
+    "ejaan": "jabat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pegang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

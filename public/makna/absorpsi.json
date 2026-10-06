@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ab.sorp.si",
+    "akarKata": null,
+    "ejaan": "absorpsi",
+    "baku": true,
+    "alt": "absorbsi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyerapan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daya jaringan untuk menyerap benda-benda lain dari luar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hilangnya zat energi atau foton ke dalam suatu bahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

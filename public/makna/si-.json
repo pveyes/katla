@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "si-",
+    "akarKata": null,
+    "ejaan": "si-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat sin-2",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sin-",
+    "akarKata": null,
+    "ejaan": "sin-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "dengan; bersama",
+        "contoh": "sinklimal",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "sama",
+        "contoh": "sinonim",
+        "info": []
+      }
+    ]
+  }
+]

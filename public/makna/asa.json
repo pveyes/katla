@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "asa",
+    "akarKata": null,
+    "ejaan": "asa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harap(an); semangat",
+        "contoh": "ia sudah putus -- dalam menghadapi persoalan itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "asa",
+    "akarKata": null,
+    "ejaan": "asa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sangka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sengaja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "asa",
+    "akarKata": null,
+    "ejaan": "asa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu pelipit atap yang terbuat dari daun kelapa",
+        "contoh": "atap yang terbuat dari daun kelapa tidak akan mudah bocor jika ikatan di bagian --nya kuat",
+        "info": [
+          {
+            "sumber": "serua",
+            "sumberTeks": "bahasa di maluku, ditambahkan pd pemutakhiran oktober 2020"
+          }
+        ]
+      }
+    ]
+  }
+]

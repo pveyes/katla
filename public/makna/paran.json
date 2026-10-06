@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "pa.ran",
+    "akarKata": null,
+    "ejaan": "paran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah; tujuan",
+        "contoh": "ke mana -- anak panah tadi?",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ran",
+    "akarKata": null,
+    "ejaan": "paran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok bubungan (rumah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.tik",
+    "akarKata": null,
+    "ejaan": "lêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi gelas retak kena air panas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.tik",
+    "akarKata": null,
+    "ejaan": "lêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan badan; loncatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

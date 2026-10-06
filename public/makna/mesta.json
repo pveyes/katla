@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mes.ta",
+    "akarKata": null,
+    "ejaan": "mêsta",
+    "baku": false,
+    "alt": "semesta",
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "seluruh; segenap; semuanya",
+        "contoh": "semua yang ada di alam -- ini tidak dapat lepas dari takdirnya masing-masing",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(berlaku untuk) seluruh dunia; universal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

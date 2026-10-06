@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "isa.ma",
+    "akarKata": null,
+    "ejaan": "isama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "istirahat, salat, dan makan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

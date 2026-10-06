@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ru.yup",
+    "akarKata": null,
+    "ejaan": "ruyup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa mengantuk atau tampak sangat mengantuk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "turun atau masuk (tentang matahari)",
+        "contoh": "matahari belum -- benar",
+        "info": []
+      }
+    ]
+  }
+]

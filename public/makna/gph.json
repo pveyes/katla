@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GPH",
+    "akarKata": null,
+    "ejaan": "GPH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gusti Pangeran Harya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

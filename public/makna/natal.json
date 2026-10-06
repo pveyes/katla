@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "na.tal",
+    "akarKata": null,
+    "ejaan": "natal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelahiran seseorang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelahiran Isa Almasih (Yesus Kristus)",
+        "contoh": "hari --",
+        "info": []
+      }
+    ]
+  }
+]

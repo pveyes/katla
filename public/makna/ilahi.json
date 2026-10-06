@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ila.hi",
+    "akarKata": null,
+    "ejaan": "Ilahi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Tuhanku",
+        "contoh": "aku memohon ampun kepada --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat ketuhanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

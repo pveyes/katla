@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "nyi",
+    "akarKata": null,
+    "ejaan": "nyi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nyai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

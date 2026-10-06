@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "pe.lak",
+    "akarKata": null,
+    "ejaan": "pélak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hantu jahat (dipakai juga untuk memaki); pilak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.lak",
+    "akarKata": null,
+    "ejaan": "pélak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "salah; keliru; luput",
+        "contoh": "tidak -- lagi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.lak",
+    "akarKata": null,
+    "ejaan": "pêlak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa panas; gerah; palak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

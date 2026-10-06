@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "EPO",
+    "akarKata": null,
+    "ejaan": "EPO",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "eritropoietin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

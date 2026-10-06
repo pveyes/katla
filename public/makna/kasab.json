@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.sab",
+    "akarKata": null,
+    "ejaan": "kasab",
+    "baku": false,
+    "alt": "kasap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awak kapal yang bertanggung jawab atas gudang, perlengkapan, bahan kerja atau peralatan kapal dan lain-lain",
+        "contoh": "seorang -- harus teliti dalam hal keluar masuknya bahan makanan",
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sab",
+    "akarKata": null,
+    "ejaan": "kasab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang emas (perak dan sebagainya)",
+        "contoh": "pakaian mempelai biasanya dijahit dengan -- agar lebih menarik dan bercahaya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.sab",
+    "akarKata": null,
+    "ejaan": "kasab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha atau ikhtiar yang dilakukan sesuai dengan kemampuannya sebagai manusia dan sejalan dengan kehendak hatinya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

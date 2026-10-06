@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kas.du",
+    "akarKata": null,
+    "ejaan": "kasdu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudi; suka (akan); berkenan; mau",
+        "contoh": "barang siapa yang -- silakan mencicipi masakan itu",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

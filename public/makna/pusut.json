@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pu.sut",
+    "akarKata": null,
+    "ejaan": "pusut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarum penusuk; mesin pelubang; penggerek; penusuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

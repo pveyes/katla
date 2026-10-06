@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "we.las",
+    "akarKata": null,
+    "ejaan": "wêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belas; kasih",
+        "contoh": "ibu-ibu di panti asuhan merawat anak-anak asuhannya dengan penuh -- asih",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "we.las",
+    "akarKata": null,
+    "ejaan": "wêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "welasan"
+        ]
+      }
+    ]
+  }
+]

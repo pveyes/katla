@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ab.sen.te",
+    "akarKata": null,
+    "ejaan": "absénté",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seseorang yang tidak hadir",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketidakhadiran seseorang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ab.sen.te",
+    "akarKata": null,
+    "ejaan": "absénté",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkebunan, tanah, perusahaan, dan sebagainya yang jauh dari pemiliknya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "te.pat",
+    "akarKata": null,
+    "ejaan": "têpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "betul atau lurus (arah, jurusan); berbetulan benar",
+        "contoh": "gang ini -- menuju rumah guruku",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kena benar (pada sasaran, tujuan, maksud, dan sebagainya)",
+        "contoh": "tembakan itu -- mengenai jantungnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada selisih sedikit pun; tidak kurang dan tidak lebih; persis",
+        "contoh": "-- di tengah jalan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "betul atau cocok (tentang dugaan, ramalan, dan sebagainya)",
+        "contoh": "perhitungannya kurang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jitu (tentang tindakan, aturan, kritik, dan sebagainya)",
+        "contoh": "segera diambil tindakan yang tegas dan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "betul atau mengena tentang perkataan, jawaban, dan sebagainya",
+        "contoh": "isilah titik-titik di bawah ini dengan kata-kata yang --",
+        "info": []
+      }
+    ]
+  }
+]

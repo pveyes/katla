@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "flu.or",
+    "akarKata": null,
+    "ejaan": "fluor",
+    "baku": false,
+    "alt": "fosfor",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat, organik ataupun anorganik, cair atau kristal yang mampu berpendar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

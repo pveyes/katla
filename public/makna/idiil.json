@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "idi.il",
+    "akarKata": null,
+    "ejaan": "idiil",
+    "baku": false,
+    "alt": "ideal",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat sesuai dengan yang dicita-citakan atau diangan-angankan atau dikehendaki",
+        "contoh": "gadis itu sangat -- untuk menjadi peragawati",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "subhimpunan gelanggang yang terdiri atas hasil kali unsur dalam subhimpunan dengan tiap unsur gelanggang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ha.ram",
+    "akarKata": null,
+    "ejaan": "haram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlarang (oleh agama Islam); tidak halal",
+        "contoh": "-- hukumnya apabila makan bangkai",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suci; terpelihara; terlindung",
+        "contoh": "tanah -- di Mekah itu adalah semulia-mulia tempat di atas bumi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sama sekali tidak; sungguh-sungguh tidak",
+        "contoh": "selangkah -- aku surut",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlarang oleh undang-undang; tidak sah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

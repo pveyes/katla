@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ke.kar",
+    "akarKata": null,
+    "ejaan": "kêkar",
+    "baku": true,
+    "alt": "kakar",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kembang; mekar",
+        "contoh": "bunga --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bercerai-berai (tidak berkumpul atau berdekatan lagi)",
+        "contoh": "nasinya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rekah (tentang batuan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.kar",
+    "akarKata": null,
+    "ejaan": "kêkar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kerap dan padat (tentang anyaman, tenunan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tegap kuat (tentang tubuh)",
+        "contoh": "walaupun usianya sudah tua, badannya masih --",
+        "info": []
+      }
+    ]
+  }
+]

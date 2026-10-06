@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ji.hat",
+    "akarKata": null,
+    "ejaan": "jihat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah; sisi; pihak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

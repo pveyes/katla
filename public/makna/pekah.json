@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.kah",
+    "akarKata": null,
+    "ejaan": "pêkah",
+    "baku": false,
+    "alt": "nafkah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belanja untuk hidup; (uang) pendapatan",
+        "contoh": "suami wajib memberi -- kepada istrinya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekal hidup sehari-hari; rezeki",
+        "contoh": "terasa sulit mencari -- di negeri yang tandus itu",
+        "info": []
+      }
+    ]
+  }
+]

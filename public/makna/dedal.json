@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.dal",
+    "akarKata": null,
+    "ejaan": "dêdal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sarung (selubung) jari dari logam; bidal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.bib",
+    "akarKata": null,
+    "ejaan": "tabib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang pekerjaannya mengobati orang sakit secara tradisional, seperti dukun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dokter",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

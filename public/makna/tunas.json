@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.nas",
+    "akarKata": null,
+    "ejaan": "tunas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan muda yang baru timbul (dari tunggul, ketiak daun, buku batang induk, batang kayu yang ditebang, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakal cabang (ranting) yang baru mulai tumbuh",
+        "contoh": "-- padi",
+        "info": []
+      }
+    ]
+  }
+]

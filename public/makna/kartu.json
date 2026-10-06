@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "kar.tu",
+    "akarKata": null,
+    "ejaan": "kartu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas tebal, berbentuk persegi panjang (untuk berbagai keperluan, hampir sama dengan karcis)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembar empat persegi panjang untuk permainan beragam, memiliki gambar, tanda, dan nomor di sisinya dan terbagi dalam empat macam rupa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan sirkuit terbuat dari plastik, biasanya dipakai sebagai dasar tempel untuk cip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "pa.kai",
+    "akarKata": null,
+    "ejaan": "pakai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengenakan; ber-...",
+        "contoh": "pelajar SLTP -- seragam putih biru",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dibubuhi dengan ...; diberi ...; dengan",
+        "contoh": "satu gelas es teh -- gula",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

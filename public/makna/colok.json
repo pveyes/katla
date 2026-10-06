@@ -1,0 +1,124 @@
+[
+  {
+    "sukuKata": "co.lok",
+    "akarKata": null,
+    "ejaan": "colok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suluh yang dibuat dari kain usang dan sebagainya yang terpilin dan dicelupkan ke dalam minyak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lidi dan sebagainya yang diberi damar atau belerang untuk pelita (pengganti gores api dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belang putih pada anjing yang berbulu hitam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.lok",
+    "akarKata": null,
+    "ejaan": "colok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celupan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "derajat (kedudukan dan sebagainya)",
+        "contoh": "jatuh (turun) --nya",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.lok",
+    "akarKata": null,
+    "ejaan": "colok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampan kecil untuk menangkap ikan, dilengkapi dengan tangguk, kail, dan lampu petromaks",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.lok",
+    "akarKata": null,
+    "ejaan": "colok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "sampan kecil untuk menangkap ikan, dilengkapi dengan tangguk, kail, dan lampu petromaks",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "colok",
+    "akarKata": null,
+    "ejaan": "colok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan goreng khas Tonsea, dibuat dari adonan tepung beras, gula aren, kayu manis, dan telur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minahasa tonsea",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

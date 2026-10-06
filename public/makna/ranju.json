@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ran.ju",
+    "akarKata": null,
+    "ejaan": "ranju",
+    "baku": false,
+    "alt": "ranjau",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancang kecil-kecil dan tajam (dari besi, buluh, dan sebagainya) yang ditancapkan di tanah untuk melukai kaki orang atau untuk membunuh binatang",
+        "contoh": "jalan itu penuh dengan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat peledak yang ditanam di tanah atau ditempatkan di laut",
+        "contoh": "kapal itu tenggelam karena melanggar -- laut",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang sengaja dibuat untuk mencelakakan orang; tipu muslihat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ab.re.vi.a.si",
+    "akarKata": null,
+    "ejaan": "abréviasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemendekan bentuk sebagai pengganti bentuk yang lengkap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk singkatan tertulis sebagai pengganti kata atau frasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

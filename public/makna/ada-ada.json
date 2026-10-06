@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.ada",
+    "akarKata": null,
+    "ejaan": "adaada",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serat daun pada tulang daun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

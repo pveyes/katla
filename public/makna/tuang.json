@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tu.ang",
+    "akarKata": null,
+    "ejaan": "tuang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "curah; tumpah (tentang benda cair)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.ang",
+    "akarKata": null,
+    "ejaan": "tuang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak datang belajar (tanpa seizin guru); bolos",
+        "contoh": "hari ini hanya beberapa murid yang ikut kursus, yang lainnya --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

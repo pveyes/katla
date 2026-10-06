@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "sug.ra",
+    "akarKata": null,
+    "ejaan": "sugra",
+    "baku": false,
+    "alt": "kiamat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari kebangkitan sesudah mati (orang yang telah meninggal dihidupkan kembali untuk diadili perbuatannya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari akhir zaman (dunia seisinya rusak binasa dan lenyap)",
+        "contoh": "sampai -- ia tidak akan dapat mengerjakannya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berakhir; tidak akan muncul lagi",
+        "contoh": "kekalahan yang beruntun, baik dalam perebutan Piala Thomas maupun dalam Asian Games baru-baru ini, membuat dunia bulu tangkis Indonesia seperti akan --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "celaka sekali; bencana besar; rusak binasa",
+        "contoh": "rumah tanggamu akan -- kalau kauceraikan istrimu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

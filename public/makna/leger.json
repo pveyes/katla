@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "le.ger",
+    "akarKata": null,
+    "ejaan": "lègèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok penyangga lantai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ger",
+    "akarKata": null,
+    "ejaan": "lègèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pipa air; tempat air; tong (anggur dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ger",
+    "akarKata": null,
+    "ejaan": "lègêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(buku) daftar nilai asli siswa (sebelum dipindahkan ke dalam buku laporan pendidikan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pendidikan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

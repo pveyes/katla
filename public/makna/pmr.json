@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PMR",
+    "akarKata": null,
+    "ejaan": "PMR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "palang merah remaja (wadah pembinaan dan pengembangan anggota PMI yang masih remaja)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

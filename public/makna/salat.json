@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "sa.lat",
+    "akarKata": null,
+    "ejaan": "salat",
+    "baku": true,
+    "alt": "solat, shalat, sholat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rukun Islam kedua, berupa ibadah kepada Allah Swt., wajib dilakukan oleh setiap muslim mukalaf, dengan syarat, rukun, dan bacaan tertentu, dimulai dengan takbir dan diakhiri dengan salam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "doa kepada Allah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RUU",
+    "akarKata": null,
+    "ejaan": "RUU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rancangan undang-undang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

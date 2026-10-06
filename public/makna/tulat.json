@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.lat",
+    "akarKata": null,
+    "ejaan": "tulat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari sesudah lusa (tiga hari sesudah hari ini); langkat1",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

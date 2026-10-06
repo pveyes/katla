@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "je.bot",
+    "akarKata": null,
+    "ejaan": "jêbot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "waktu dahulu",
+        "contoh": "susah juga mengikuti lagu-lagu zaman --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

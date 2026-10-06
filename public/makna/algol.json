@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "al.gol",
+    "akarKata": null,
+    "ejaan": "algol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa pemrograman yang berorientasi pada prosedur dan algoritma yang biasanya digunakan pada pemrograman masalah sains",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

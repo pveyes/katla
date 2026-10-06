@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "aco",
+    "akarKata": null,
+    "ejaan": "aco",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik awal; batas awal (tentang permainan, perlombaan, atau pertandingan)",
+        "contoh": "para pemain sudah berbaris di garis --",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mulai (tentang permainan, perlombaan, atau pertandingan)",
+        "contoh": "para pelari akan -- dari balai kota",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "aco",
+    "akarKata": null,
+    "ejaan": "aco",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "titik awal; batas awal (tentang permainan, perlombaan, atau pertandingan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "mulai (tentang permainan, perlombaan, atau pertandingan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KFR",
+    "akarKata": null,
+    "ejaan": "KFR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedokteran fisik dan rehabilitasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -442,7 +442,7 @@ function WordDefinition({ answer }) {
       </p>
       <a
         className="color-accent text-sm"
-        href={`https://kbbi.kemdikbud.go.id/entri/${answer}`}
+        href={`https://kbbi.kemendikdasmen.go.id/entri/${answer}`}
       >
         Lihat di KBBI
       </a>

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ki.dar",
+    "akarKata": null,
+    "ejaan": "kidar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kisar; kitar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re.sep",
+    "akarKata": null,
+    "ejaan": "rêsèp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keterangan dokter tentang obat serta takarannya, yang harus dipakai oleh si sakit dan dapat ditukar dengan obat di apotek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keterangan tentang bahan dan cara meracik obat (memasak makanan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

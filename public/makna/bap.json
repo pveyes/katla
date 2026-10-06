@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "bap",
+    "akarKata": null,
+    "ejaan": "bap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi barang jatuh di tanah lembut dan sebagainya; debap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "BAP",
+    "akarKata": null,
+    "ejaan": "BAP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berita acara pemeriksaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

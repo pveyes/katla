@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "To.nga",
+    "akarKata": null,
+    "ejaan": "Tonga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara yang terletak di Pasifik, beribu kota Nukualofa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "To.nga",
+    "akarKata": null,
+    "ejaan": "Tonga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara kepulauan yang terletak di selatan Samudra Pasifik, beribu kota Nukualofa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan di Tonga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

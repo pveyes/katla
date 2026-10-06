@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.rak",
+    "akarKata": null,
+    "ejaan": "karak",
+    "baku": false,
+    "alt": "kerak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan yang kering (keras) atau hangus yang melekat pada benda lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.rak",
+    "akarKata": null,
+    "ejaan": "karak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerupuk nasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

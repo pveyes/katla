@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "bo.leh",
+    "akarKata": null,
+    "ejaan": "bolèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "diizinkan; tidak dilarang",
+        "contoh": "anak-anak -- menonton",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "dapat",
+        "contoh": "ia belum -- berdiri karena belum sehat benar",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "beroleh; mendapat",
+        "contoh": "berdoalah, biar -- anak raja",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

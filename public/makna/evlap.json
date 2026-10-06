@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ev.lap",
+    "akarKata": null,
+    "ejaan": "èvlap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "evaluasi lapangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "il.ham",
+    "akarKata": null,
+    "ejaan": "ilham",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petunjuk Tuhan yang timbul di hati",
+        "contoh": "ibu Nabi Musa mendapat -- supaya memasukkan anaknya ke dalam peti dan menghanyutkannya ke Sungai Nil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pikiran (angan-angan) yang timbul dari hati; bisikan hati",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menggerakkan hati untuk mencipta (mengarang syair, lagu, dan sebagainya)",
+        "contoh": "di tempat pengasingan ia mendapat -- untuk mencipta lagu-lagu perjuangan",
+        "info": []
+      }
+    ]
+  }
+]

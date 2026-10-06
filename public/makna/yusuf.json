@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "Yu.suf",
+    "akarKata": null,
+    "ejaan": "Yusuf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nabi dan rasul kesebelas yang diutus Allah Swt. untuk Bani Israil Mesir, putra Nabi Yakub, dikenal dengan ketampanannya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surah ke-12 dalam Al-Qur'an",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

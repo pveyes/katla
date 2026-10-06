@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "po.len",
+    "akarKata": null,
+    "ejaan": "polên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk sari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

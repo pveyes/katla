@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Da.nuh",
+    "akarKata": null,
+    "ejaan": "Danuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Sagitarius; kaus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "busur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

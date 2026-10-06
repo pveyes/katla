@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ko.cok",
+    "akarKata": null,
+    "ejaan": "kocok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "guncang (tentang obat dalam botol dan sebagainya)",
+        "contoh": "-- dulu obat itu sebelum diminum",
+        "info": []
+      }
+    ]
+  }
+]

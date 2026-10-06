@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "ngo.yo",
+    "akarKata": null,
+    "ejaan": "ngoyo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memaksakan diri melakukan sesuatu tanpa mempertimbangkan kemampuan, kondisi, dan waktu",
+        "contoh": "Presiden meminta kepada perajin rotan agar tidak -- melakukan ekspor jika belum memiliki kemampuan untuk itu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

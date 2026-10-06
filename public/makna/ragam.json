@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ra.gam",
+    "akarKata": null,
+    "ejaan": "ragam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkah; laku; ulah",
+        "contoh": "lain orang lain --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "macam; jenis",
+        "contoh": "di toko itu banyak -- permainan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagu langgam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna; corak; ragi",
+        "contoh": "kain yang bagus --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laras (tentang bahasa)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.gam",
+    "akarKata": null,
+    "ejaan": "ragam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersatu hati; rukun",
+        "contoh": "penduduk kampung itu kurang -- rupanya",
+        "info": []
+      }
+    ]
+  }
+]

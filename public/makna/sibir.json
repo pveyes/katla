@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "si.bir",
+    "akarKata": null,
+    "ejaan": "sibir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kerat; cabik; potong",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.bir",
+    "akarKata": null,
+    "ejaan": "sibir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fragmen",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

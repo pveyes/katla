@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "yak.sa",
+    "akarKata": null,
+    "ejaan": "yaksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk kahyangan yang khusus menjaga kekayaan dan kesuburan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

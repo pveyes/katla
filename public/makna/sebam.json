@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.bam",
+    "akarKata": null,
+    "ejaan": "sêbam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berwarna agak biru atau kelabu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak jernih atau tidak terang warnanya; suram",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

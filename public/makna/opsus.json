@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "op.sus",
+    "akarKata": null,
+    "ejaan": "opsus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "operasi khusus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

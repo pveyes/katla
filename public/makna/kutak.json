@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.tak",
+    "akarKata": null,
+    "ejaan": "kutak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "guncang kuat-kuat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

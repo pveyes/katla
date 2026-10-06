@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.tat",
+    "akarKata": null,
+    "ejaan": "batat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tumbuh dan berkembang dengan sendirinya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.kik",
+    "akarKata": null,
+    "ejaan": "têkik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menekik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.kik",
+    "akarKata": null,
+    "ejaan": "têkik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bengkarung; kadal",
+        "contoh": "-- besar banyak terdapat di semak-semak",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "an.dan",
+    "akarKata": null,
+    "ejaan": "andan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang putih kulitnya karena lapisan kulitnya tidak mengandung atau kekurangan zat warna tubuh (pigmen); bulai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.dan",
+    "akarKata": null,
+    "ejaan": "andan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berkerabat (bersanak) dekat karena perkawinan, bukan karena hubungan darah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

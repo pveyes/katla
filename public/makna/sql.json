@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SQL",
+    "akarKata": null,
+    "ejaan": "SQL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dirancang hanya untuk digunakan pada aplikasi pangkalan data; dari Structured Query Language",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

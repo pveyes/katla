@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "re.hab",
+    "akarKata": null,
+    "ejaan": "rèhab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rehabilitasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

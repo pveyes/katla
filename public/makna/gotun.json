@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.tun",
+    "akarKata": null,
+    "ejaan": "gotun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "lima",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

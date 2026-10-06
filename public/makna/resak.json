@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re.sak",
+    "akarKata": null,
+    "ejaan": "rêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang kayunya kuat dan awet",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu resak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

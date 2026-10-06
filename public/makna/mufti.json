@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "muf.ti",
+    "akarKata": null,
+    "ejaan": "mufti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberi fatwa untuk memutuskan masalah yang berhubungan dengan hukum Islam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

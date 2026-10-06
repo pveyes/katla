@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "so.gan",
+    "akarKata": null,
+    "ejaan": "sogan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tusuk konde yang kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.gan",
+    "akarKata": null,
+    "ejaan": "sogan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis batik klasik yang didominasi oleh nuansa warna cokelat, putih, dan hitam, terutama terdapat pada corak batik Yogyakarta dan Solo",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tata warna pada batik yang didominasi nuansa warna cokelat, putih, dan hitam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

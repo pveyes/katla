@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.o.ca",
+    "akarKata": null,
+    "ejaan": "sioca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nona",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

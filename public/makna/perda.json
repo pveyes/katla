@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "per.da",
+    "akarKata": null,
+    "ejaan": "pêrda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

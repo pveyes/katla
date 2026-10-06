@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.cap",
+    "akarKata": null,
+    "ejaan": "gocap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "lima puluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

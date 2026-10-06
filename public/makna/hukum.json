@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "hu.kum",
+    "akarKata": null,
+    "ejaan": "hukum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan atau adat yang secara resmi dianggap mengikat, yang dikukuhkan oleh penguasa atau pemerintah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "undang-undang, peraturan, dan sebagainya untuk mengatur pergaulan hidup masyarakat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patokan (kaidah, ketentuan) mengenai peristiwa (alam dan sebagainya) yang tertentu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keputusan (pertimbangan) yang ditetapkan oleh hakim (dalam pengadilan); vonis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

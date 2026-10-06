@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "je.pit",
+    "akarKata": null,
+    "ejaan": "jêpit",
+    "baku": true,
+    "alt": "cepit, jepet",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "apit, tekan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjepit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

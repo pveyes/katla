@@ -1,0 +1,21 @@
+[
+  {
+    "sukuKata": "de.bar",
+    "akarKata": null,
+    "ejaan": "dêbar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berdebar",
+          "berdebar-debar",
+          "debaran",
+          "mendebarkan"
+        ]
+      }
+    ]
+  }
+]

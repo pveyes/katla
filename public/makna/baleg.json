@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "ba.leg",
+    "akarKata": null,
+    "ejaan": "balèg",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badan legislatif",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.leg",
+    "akarKata": null,
+    "ejaan": "balêg",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerangka rumah batu yang posisinya melintang, terbuat dari campuran semen, split, pasir, dan kerangka besi, berfungsi sebagai penguat tekanan dari atas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "tap",
+    "akarKata": null,
+    "ejaan": "tap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tuang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sadap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tap",
+    "akarKata": null,
+    "ejaan": "tap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumbat untuk menutup lubang dalam tong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tap",
+    "akarKata": null,
+    "ejaan": "tap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang berfungsi untuk membuat ulir dalam (ulir untuk mur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

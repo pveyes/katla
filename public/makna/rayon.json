@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.yon",
+    "akarKata": null,
+    "ejaan": "rayon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian daerah atau wilayah yang dibentuk berdasarkan perjanjian",
+        "contoh": "wilayah kantor kita dibagi atas beberapa --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.yon",
+    "akarKata": null,
+    "ejaan": "rayon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serat tekstil sintetis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

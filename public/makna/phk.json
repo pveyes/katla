@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PHK",
+    "akarKata": null,
+    "ejaan": "PHK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemutusan hubungan kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

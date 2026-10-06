@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "hu.bad",
+    "akarKata": null,
+    "ejaan": "hubad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhubungan Angkatan Darat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.juh",
+    "akarKata": null,
+    "ejaan": "tujuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "bilangan yang dilambangkan dengan angka 7 (Arab) atau VII (Romawi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "urutan ke-7 sesudah ke-6 dan sebelum ke-8",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

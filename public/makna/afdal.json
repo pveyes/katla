@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "af.dal",
+    "akarKata": null,
+    "ejaan": "afdal",
+    "baku": true,
+    "alt": "afdol",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebih baik; lebih utama",
+        "contoh": "salat baru -- apabila dilaksanakan dengan baik dan tidak menyimpang dari rukunnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lengkap; komplet",
+        "contoh": "bagi mereka rasanya kurang -- apabila berbuka puasa tidak ada buah kurma",
+        "info": []
+      }
+    ]
+  }
+]

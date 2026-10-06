@@ -1,0 +1,115 @@
+[
+  {
+    "sukuKata": "ka.kap",
+    "akarKata": null,
+    "ejaan": "kakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, payau, atau air tawar, ukuran panjang mencapai 200 cm, berat 60 kg, hidup di perairan tropis dengan kedalaman 10–40 m, tersebar di perairan Teluk Persia sampai Cina, Taiwan dan Jepang Selatan, ke selatan sampai Papua Nugini dan Australia Utara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berukuran besar atau tinggi secara fisik atau kualitas (tentang penjahat, perusahaan, dan sebagainya); penting (tentang berita dan sebagainya)",
+        "contoh": "pengusaha --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.kap",
+    "akarKata": null,
+    "ejaan": "kakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu yang sempit dan rendah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal perang lama, bentuknya seperti kakap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.kap",
+    "akarKata": null,
+    "ejaan": "kakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat sirih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.kap",
+    "akarKata": null,
+    "ejaan": "kakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat sirih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.kap",
+    "akarKata": null,
+    "ejaan": "kakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pegang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.kap",
+    "akarKata": null,
+    "ejaan": "kakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kelas1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

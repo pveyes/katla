@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "te.lap",
+    "akarKata": null,
+    "ejaan": "têlap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "makan (mempan tentang senjata tajam)",
+        "contoh": "keris itu tiada -- pada tubuhnya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(dapat) kena luka; (dapat) dilukai",
+        "contoh": "tiada --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.lap",
+    "akarKata": null,
+    "ejaan": "têlap",
+    "baku": true,
+    "alt": "telapa, telepa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas (tempat sesuatu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas dari tembikar, kaca, dan sebagainya (tempat bau-bauan, gambir, tembakau, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

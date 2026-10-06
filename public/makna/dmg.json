@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DMG",
+    "akarKata": null,
+    "ejaan": "DMG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dimetilglisina",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

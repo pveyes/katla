@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ad.ven",
+    "akarKata": null,
+    "ejaan": "advèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peringatan kedatangan Yesus dalam inkarnasinya serta pengharapan akan kedatangan-Nya kembali; parousia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa yang dimulai empat minggu sebelum Natal dan diisi dengan acara kebaktian dan puasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(ditulis dengan huruf kapital) nama sebuah sekte dalam agama Kristen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

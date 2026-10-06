@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ma.mat",
+    "akarKata": null,
+    "ejaan": "mamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upacara adat di Kalimantan Tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.mat",
+    "akarKata": null,
+    "ejaan": "mamat",
+    "baku": false,
+    "alt": "mamut",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluarga gajah prasejarah, berbulu panjang dengan punggung tinggi, gading melengkung, besar dan kuat, serta panjangnya dapat mencapai 5 m, hidup dalam kelompok kawanan besar atau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

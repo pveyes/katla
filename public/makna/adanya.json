@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ada.nya",
+    "akarKata": "ada",
+    "ejaan": "adanya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan; hal ada",
+        "contoh": "~ pertentangan paham itu menimbulkan kesukaran",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "demikianlah keadaannya",
+        "contoh": "sekalian kaum keluarga selamat ~",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orangnya",
+        "contoh": "dia juga ~",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

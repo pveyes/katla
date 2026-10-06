@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.pai",
+    "akarKata": null,
+    "ejaan": "kêpai",
+    "baku": false,
+    "alt": "kapai",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terkapai-kapai"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pai",
+    "akarKata": null,
+    "ejaan": "kêpai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "udang pepat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

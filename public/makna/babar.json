@@ -1,0 +1,85 @@
+[
+  {
+    "sukuKata": "ba.bar",
+    "akarKata": null,
+    "ejaan": "babar",
+    "baku": false,
+    "alt": "bebar",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lari ke sana kemari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bar",
+    "akarKata": null,
+    "ejaan": "babar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bentang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bar",
+    "akarKata": null,
+    "ejaan": "babar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi banyak; membiak; bertambah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bar",
+    "akarKata": null,
+    "ejaan": "babar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "menjadi banyak; membiak; bertambah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.bar",
+    "akarKata": null,
+    "ejaan": "babar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kebabaran"
+        ]
+      }
+    ]
+  }
+]

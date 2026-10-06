@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ka.div",
+    "akarKata": null,
+    "ejaan": "kadiv",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala divisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

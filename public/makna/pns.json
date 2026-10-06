@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PNS",
+    "akarKata": null,
+    "ejaan": "PNS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegawai negeri sipil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

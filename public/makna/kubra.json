@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "kub.ra",
+    "akarKata": null,
+    "ejaan": "kubra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gagal; batal; tidak jadi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak putus (tentang perkara dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bubar (tentang perkumpulan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menceraikan (tentang perkawinan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kub.ra",
+    "akarKata": null,
+    "ejaan": "kubra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kiamat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

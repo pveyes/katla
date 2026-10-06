@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.pat",
+    "akarKata": null,
+    "ejaan": "pêpat",
+    "baku": true,
+    "alt": "papat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rata (karena dikerat, dipangkas, didabung tentang gigi, dipenggal puncaknya, dan sebagainya)",
+        "contoh": "kukunya dikerat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh; genap; tidak kurang sedikit pun",
+        "contoh": "tiga hari --",
+        "info": []
+      }
+    ]
+  }
+]

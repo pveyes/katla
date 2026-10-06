@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aba.sia",
+    "akarKata": null,
+    "ejaan": "abasia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gangguan koordinasi motorik yang menyebabkan kesulitan dalam berjalan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

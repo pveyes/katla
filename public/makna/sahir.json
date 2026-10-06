@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.hir",
+    "akarKata": null,
+    "ejaan": "sahir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli sihir; tukang tenung",
+        "contoh": "dengan mantra-mantranya, seorang -- dapat mencelakakan orang lain dari jauh",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

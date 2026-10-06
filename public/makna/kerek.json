@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rek",
+    "akarKata": null,
+    "ejaan": "kèrèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "roda kecil bersumbu yang bertali atau berantai (untuk menaikturunkan barang); kapi; katrol; tahal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rek",
+    "akarKata": null,
+    "ejaan": "kèrèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susunan keratan gula enau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

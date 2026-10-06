@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "pa.tet",
+    "akarKata": null,
+    "ejaan": "patêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem dalam permainan gamelan yang menentukan tingkat nada dan tanggapan pendengar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

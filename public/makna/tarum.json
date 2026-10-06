@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.rum",
+    "akarKata": null,
+    "ejaan": "tarum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang daunnya dibuat nila atau bahan cat biru",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun tarum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

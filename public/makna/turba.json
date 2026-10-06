@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "tur.ba",
+    "akarKata": null,
+    "ejaan": "turba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "turun ke bawah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

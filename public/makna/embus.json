@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "em.bus",
+    "akarKata": null,
+    "ejaan": "êmbus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "enyah; pergi",
+        "contoh": "-- kau dari sini",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "em.bus",
+    "akarKata": null,
+    "ejaan": "êmbus",
+    "baku": true,
+    "alt": "hembus, rembus",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tiup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

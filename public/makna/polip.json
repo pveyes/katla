@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "po.lip",
+    "akarKata": null,
+    "ejaan": "polip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang laut yang berbentuk tabung pendek dengan ujung tertutup yang hidup melekat pada benda lain (karang, batu, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumor bertangkai yang melekat pada selaput lendir (pada hidung, kadang-kadang juga pada kulit, plasenta, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

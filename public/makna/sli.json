@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SLI",
+    "akarKata": null,
+    "ejaan": "SLI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sambungan langsung internasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

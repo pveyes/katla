@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "or.gan",
+    "akarKata": null,
+    "ejaan": "organ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang mempunyai tugas tertentu di dalam tubuh manusia (binatang dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "or.gan",
+    "akarKata": null,
+    "ejaan": "organ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "majalah atau surat kabar milik perkumpulan (partai dan sebagainya) sebagai sarana untuk mengemukakan pendapatnya (suara perkumpulannya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "or.gan",
+    "akarKata": null,
+    "ejaan": "organ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik besar seperti piano yang menghasilkan nada dari udara yang diembuskan ke dalam pipa yang berbeda bentuk dan ukuran; orgel; harmonium",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik yang nadanya dihasilkan melalui dawai elektronik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

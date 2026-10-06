@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ce.los",
+    "akarKata": null,
+    "ejaan": "cêlos",
+    "baku": false,
+    "alt": "celus",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat lolos (masuk) ke dalam lubang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat lepas (seperti cincin di jari tangan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.los",
+    "akarKata": null,
+    "ejaan": "cêlos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membelah-belah daun pandan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "gan.da",
+    "akarKata": null,
+    "ejaan": "ganda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(tentang hitungan) kali; lipat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbayang (seakan-akan ada dua)",
+        "contoh": "dengan teknik pemotretan tertentu kita dapat menghasilkan gambar --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpasangan (terdiri atas dua); berpasangan dua-dua (dalam bulu tangkis, tenis, dan sebagainya)",
+        "contoh": "pemain --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gan.da",
+    "akarKata": null,
+    "ejaan": "ganda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gan.da",
+    "akarKata": null,
+    "ejaan": "ganda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berani melawan (meskipun tidak seimbang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sanggup mengerjakan sesuatu dengan tenaga yang lebih sedikit (meremehkan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

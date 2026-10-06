@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pel",
+    "akarKata": null,
+    "ejaan": "pèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain yang dipakai menyeka (mengesat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pel",
+    "akarKata": null,
+    "ejaan": "pèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(helai) kertas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaran kertas yang dicetak (8 atau 16 halaman)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

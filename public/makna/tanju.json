@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tan.ju",
+    "akarKata": null,
+    "ejaan": "tanju",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lampu dinding",
+        "contoh": "hari pun malam, -- terpasang",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

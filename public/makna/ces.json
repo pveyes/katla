@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ces",
+    "akarKata": null,
+    "ejaan": "cès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak panah yang terbuat dari jali-jali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "asmat",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ces",
+    "akarKata": null,
+    "ejaan": "cês",
+    "baku": false,
+    "alt": "cus",
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan gerakan yang sangat cepat dan sebagainya",
+        "contoh": "--, kilat itu telah melintas",
+        "info": []
+      }
+    ]
+  }
+]

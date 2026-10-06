@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pu.dek",
+    "akarKata": null,
+    "ejaan": "pudèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembantu dekan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

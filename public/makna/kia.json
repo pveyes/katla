@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "kia",
+    "akarKata": null,
+    "ejaan": "kia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jahit (dengan tangan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kia",
+    "akarKata": null,
+    "ejaan": "kia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang bermoncong panjang, ukurannya mencapai 100 cm, hidup di dasar perairan subtropis dengan kedalaman lebih dari 100 m, tersebar di perairan Teluk Biscay sampai Angola, termasuk Laut Mediterania",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

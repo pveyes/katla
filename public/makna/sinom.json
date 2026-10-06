@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "si.nom",
+    "akarKata": null,
+    "ejaan": "sinom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rambut pendek dan halus (anak rambut) yang tumbuh di antara wajah dan rambut kepala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.nom",
+    "akarKata": null,
+    "ejaan": "sinom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tembang (Jawa) macapat, biasanya romantis (berisi percintaan), tiap bait terdiri atas sembilan baris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.nom",
+    "akarKata": null,
+    "ejaan": "sinom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pucuk daun asam; daun asam yang masih muda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "la.pik",
+    "akarKata": null,
+    "ejaan": "lapik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alas (seperti tikar atau kain)",
+        "contoh": "-- tempat duduk",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ganjal (pada bagian bawah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

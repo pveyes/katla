@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.gil",
+    "akarKata": null,
+    "ejaan": "têgil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalu pada ayam jago",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

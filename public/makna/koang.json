@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.ang",
+    "akarKata": null,
+    "ejaan": "koang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "layang-layang hias",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

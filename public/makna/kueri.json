@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.e.ri",
+    "akarKata": null,
+    "ejaan": "kuèri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekumpulan instruksi khusus untuk mengekstraksi data dari pangkalan data",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BRH",
+    "akarKata": null,
+    "ejaan": "BRH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bendara Raden Harya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

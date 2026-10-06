@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "is.lah",
+    "akarKata": null,
+    "ejaan": "islah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perdamaian (tentang penyelesaian pertikaian dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

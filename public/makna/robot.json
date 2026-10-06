@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "ro.bot",
+    "akarKata": null,
+    "ejaan": "robot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat berupa orang-orangan dan sebagainya yang dapat bergerak (berbuat seperti manusia) yang dikendalikan oleh mesin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menurut saja perintah orang lain",
+        "contoh": "pakailah otakmu, jangan menjadi -- saja",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bertindak tanpa pikiran dan perasaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.bot",
+    "akarKata": null,
+    "ejaan": "robot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "alat berupa orang-orangan dan sebagainya yang dapat bergerak (berbuat seperti manusia) yang dikendalikan oleh mesin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "orang yang menurut saja perintah orang lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "orang yang bertindak tanpa pikiran dan perasaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

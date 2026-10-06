@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sim.pe",
+    "akarKata": null,
+    "ejaan": "simpé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa kayu gergajian atau sisa kayu yang sudah dibelah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

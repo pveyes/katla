@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "bu.but",
+    "akarKata": null,
+    "ejaan": "bubut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali bubut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.but",
+    "akarKata": null,
+    "ejaan": "bubut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat pemusing besi (kayu) untuk dibulatkan dan dilicinkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.but",
+    "akarKata": null,
+    "ejaan": "bubut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung, bentuknya seperti gagak, tetapi mempunyai sayap yang lebar dan berwarna cokelat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.but",
+    "akarKata": null,
+    "ejaan": "bubut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cabut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

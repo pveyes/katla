@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "te.bal",
+    "akarKata": null,
+    "ejaan": "têbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berjarak lebih besar antara permukaan yang berlawanan jika dibandingkan dengan benda lainnya yang sejenis (tentang barang yang pipih atau berhelai-helai, seperti kertas, papan, kain, lapisan)",
+        "contoh": "kertas --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kasar atau nyata kelihatan (tentang garis, huruf cetak, dan sebagainya)",
+        "contoh": "garis --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat dan banyak (tentang awan, mendung)",
+        "contoh": "awan bergumpal-gumpal --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebat (tentang rambut, janggut, tanaman)",
+        "contoh": "rambutnya -- dan ikal",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "teguh dan kuat sekali (tentang iman, kepercayaan, keyakinan, keinsafan, dan sebagainya)",
+        "contoh": "iman yang --",
+        "info": []
+      }
+    ]
+  }
+]

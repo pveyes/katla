@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lak.ri",
+    "akarKata": null,
+    "ejaan": "lakri",
+    "baku": false,
+    "alt": "lakeri",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lak1",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

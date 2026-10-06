@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ke.pik",
+    "akarKata": null,
+    "ejaan": "kêpik",
+    "baku": false,
+    "alt": "kepek",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pipih; pesek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk yang tidak dalam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pik",
+    "akarKata": null,
+    "ejaan": "kêpik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serangga dengan mulut berbentuk seperti jarum untuk menusuk dan kemudian menghisap cairan makanannya, memiliki sayap depan yang bagian pangkalnya keras spt kulit dan bagian belakangnya tipis seperti membran; hemiptera",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

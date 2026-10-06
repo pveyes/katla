@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ge.mas",
+    "akarKata": null,
+    "ejaan": "gêmas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat jengkel (marah) dalam hati",
+        "contoh": "saya sangat -- pada anak itu karena selalu mengotori lantai",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat suka (cinta) bercampur jengkel; jengkel-jengkel cinta",
+        "contoh": "-- aku melihat anak ini",
+        "info": []
+      }
+    ]
+  }
+]

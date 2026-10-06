@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "bum",
+    "akarKata": null,
+    "ejaan": "bum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu palang penghalang (perintang) di pelabuhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pabean",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bum",
+    "akarKata": null,
+    "ejaan": "bum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peningkatan (perluasan, penambahan, dan sebagainya) yang pesat (tentang ekonomi dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

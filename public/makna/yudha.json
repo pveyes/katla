@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "yu.dha",
+    "akarKata": null,
+    "ejaan": "yudha",
+    "baku": false,
+    "alt": "yuda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perang",
+        "contoh": "Bharata --",
+        "info": [
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

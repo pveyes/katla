@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.las",
+    "akarKata": null,
+    "ejaan": "palas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon palem yang daunnya seperti kipas, daun yang tua dapat dibuat atap, yang muda dipakai sebagai kertas rokok atau pembungkus kue",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.las",
+    "akarKata": null,
+    "ejaan": "palas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "geladak (termasuk anjungan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

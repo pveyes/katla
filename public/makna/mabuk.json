@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ma.buk",
+    "akarKata": null,
+    "ejaan": "mabuk",
+    "baku": true,
+    "alt": "mabok",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa pening atau hilang kesadaran (karena terlalu banyak minum minuman keras, makan gadung, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbuat di luar kesadaran; lupa diri",
+        "contoh": "rupa-rupanya dia sudah --, tergoda rayuan sehingga lupa bahwa dia sudah berkeluarga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat gemar (suka)",
+        "contoh": "dia sedang -- berhias",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tergila-gila; sangat berahi",
+        "contoh": "bentuk wajah yang mungil dengan sinar mata yang lembut itulah yang membuat aku -- kepadanya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

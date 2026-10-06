@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pe.tuk",
+    "akarKata": null,
+    "ejaan": "pêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat keterangan pemerintah yang menunjukkan jumlah milik seseorang untuk menentukan pajak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.tuk",
+    "akarKata": null,
+    "ejaan": "pêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat gamelan jenis ketuk (dalam gamelan Jawa), dimainkan secara berpasangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

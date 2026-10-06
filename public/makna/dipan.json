@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "di.pan",
+    "akarKata": null,
+    "ejaan": "dipan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangku panjang rendah (untuk duduk-duduk atau berbaring)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat tidur terbuat dari papan yang tidak berkelambu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ve.lum",
+    "akarKata": null,
+    "ejaan": "vèlum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "struktur atau selaput mirip kudung kepala, terdapat di rahang bagian atas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian belakang dari langit-langit lunak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ve.lum",
+    "akarKata": null,
+    "ejaan": "vèlum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan naskah yang biasa ditemukan di Timur Tengah, terbuat dari kulit biri-biri atau kambing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "filologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ve.lum",
+    "akarKata": null,
+    "ejaan": "vèlum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penutup kepala biarawati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

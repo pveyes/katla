@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "le.gap",
+    "akarKata": null,
+    "ejaan": "lêgap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi debaran jantung (papan dipukul dan sebagainya); degap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.gap",
+    "akarKata": null,
+    "ejaan": "lêgap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suram, tidak bercahaya, dan memberi kesan tidak rata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak tembus pandang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

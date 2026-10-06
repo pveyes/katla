@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "uk.tab",
+    "akarKata": null,
+    "ejaan": "uktab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rajawali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

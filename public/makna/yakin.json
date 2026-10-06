@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ya.kin",
+    "akarKata": null,
+    "ejaan": "yakin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "percaya (tahu, mengerti) sungguh-sungguh; (merasa) pasti (tentu, tidak salah lagi)",
+        "contoh": "hakim -- akan kesalahan terdakwa itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sungguh; sungguh-sungguh",
+        "contoh": "-- bukan saya yang mengambil, kalau perlu saya berani bersumpah",
+        "info": []
+      }
+    ]
+  }
+]

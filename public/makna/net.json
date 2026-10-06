@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "net",
+    "akarKata": null,
+    "ejaan": "nèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaring yang dibuat khusus untuk permainan olahraga, seperti bulu tangkis, tenis, dipasang melintang membagi lapangan permainan menjadi dua bagian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rajut untuk pelindung rambut (sanggul dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

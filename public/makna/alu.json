@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "alu",
+    "akarKata": null,
+    "ejaan": "alu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menumbuk padi dan sebagainya yang dibuat dari kayu; antan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengaduk yang terbuat dari porselen yang berujung membesar, untuk menggerus, mencampur, dan meracik sediaan obat di dalam lumpang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "alu",
+    "akarKata": null,
+    "ejaan": "alu",
+    "baku": false,
+    "alt": "elu",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "longok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

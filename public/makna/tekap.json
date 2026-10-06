@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.kap",
+    "akarKata": null,
+    "ejaan": "têkap",
+    "baku": true,
+    "alt": "tekup",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penudung (penutup) yang melingkupi seperti telapak tangan pada mulut, saputangan pada muka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.kap",
+    "akarKata": null,
+    "ejaan": "têkap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekerjaan lama yang ditinggalkan (berladang dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "spa.si",
+    "akarKata": null,
+    "ejaan": "spasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak (antara huruf cetak atau antara baris tulisan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keping timah kecil-kecil untuk memberi jarak huruf-huruf atau baris di percetakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

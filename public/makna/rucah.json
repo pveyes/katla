@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ru.cah",
+    "akarKata": null,
+    "ejaan": "rucah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sebarang saja (bukan pilihan); sembarangan",
+        "contoh": "ia selalu membeli penganan --, tanpa menghiraukan kebersihan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hina; kotor; keji",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senang mengumbar nafsu syahwat atau perbuatan hina",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

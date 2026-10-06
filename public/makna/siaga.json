@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "si.a.ga",
+    "akarKata": null,
+    "ejaan": "siaga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "siap sedia",
+        "contoh": "mereka dalam keadaan -- untuk menolong korban kecelakaan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggota gerakan pramuka yang berusia  7-10 tahun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pramuka",
+            "sumberTeks": "usulan untuk penambahan bidang baru"
+          }
+        ]
+      }
+    ]
+  }
+]

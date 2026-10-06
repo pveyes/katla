@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "si.ung",
+    "akarKata": null,
+    "ejaan": "siung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taring",
+        "contoh": "-- raksasa",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.ung",
+    "akarKata": null,
+    "ejaan": "siung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong bagi bawang, dihitung per ulas",
+        "contoh": "dua -- bawang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak atau kuncup samping umbi lapis yang tumbuh dari dasar umbi lapis yang lebih besar, seperti pada bawang putih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.ung",
+    "akarKata": null,
+    "ejaan": "siung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi lebah terbang, peluru melayang, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

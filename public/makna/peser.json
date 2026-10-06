@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pe.ser",
+    "akarKata": null,
+    "ejaan": "pèsèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang tembaga yang bernilai setengah sen zaman Belanda; rimis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

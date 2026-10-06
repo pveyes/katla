@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "be.tul",
+    "akarKata": null,
+    "ejaan": "bêtul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "benar; sesungguhnya; tidak bohong",
+        "contoh": "--, dia adalah kemenakan saya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "benar; tidak salah; tidak keliru",
+        "contoh": "pendapatan hitungan ini --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sejati; bukan tiruan; bukan campuran; tulen",
+        "contoh": "perhiasan yang dipakainya seperti emas --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tepat; persis",
+        "contoh": "tembakannya -- mengenai jantungnya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "langsung (tidak serong)",
+        "contoh": "rumahku dengan rumahmu berhadapan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lurus (tegak) benar",
+        "contoh": "jalan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sangat; sekali; sungguh",
+        "contoh": "banyak -- barang yang kaubawa",
+        "info": []
+      }
+    ]
+  }
+]

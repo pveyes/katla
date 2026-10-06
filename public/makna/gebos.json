@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ge.bos",
+    "akarKata": null,
+    "ejaan": "gêbos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hardik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.bos",
+    "akarKata": null,
+    "ejaan": "gêbos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gejala atmosfer yang ditandai dengan perubahan kecepatan angin yang sangat besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hidrometeorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.bos",
+    "akarKata": null,
+    "ejaan": "gêbos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "gejala atmosfer yang ditandai dengan perubahan kecepatan angin yang sangat besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

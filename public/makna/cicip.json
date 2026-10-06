@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ci.cip",
+    "akarKata": null,
+    "ejaan": "cicip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "coba untuk merasai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ci.cip",
+    "akarKata": null,
+    "ejaan": "cicip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mencicip"
+        ]
+      }
+    ]
+  }
+]

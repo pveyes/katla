@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.lik",
+    "akarKata": null,
+    "ejaan": "milik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepunyaan; hak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peruntungan; nasib baik",
+        "contoh": "dasar --, barangnya yang hilang akhirnya ditemukan lagi",
+        "info": []
+      }
+    ]
+  }
+]

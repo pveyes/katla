@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "taq.wa",
+    "akarKata": null,
+    "ejaan": "taqwa",
+    "baku": false,
+    "alt": "takwa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terpeliharanya diri dari siksa Allah Swt. dengan tetap taat melaksanakan perintah-Nya dan menjauhi segala larangan-Nya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keinsafan diri yang diikuti dengan kepatuhan dan ketaatan dalam melaksanakan perintah Allah Swt. dan menjauhi segala larangan-Nya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesalehan hidup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

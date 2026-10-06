@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "la.sak",
+    "akarKata": null,
+    "ejaan": "lasak",
+    "baku": true,
+    "alt": "lesak, lesek",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu dipakai (digunakan) sehari-hari; lasah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.sak",
+    "akarKata": null,
+    "ejaan": "lasak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu ingin bergerak; tidak dapat tenang (diam)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu ingin mengerjakan sesuatu",
+        "contoh": "jangan --, duduklah baik-baik",
+        "info": []
+      }
+    ]
+  }
+]

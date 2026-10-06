@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "su.dut",
+    "akarKata": null,
+    "ejaan": "sudut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjuru; pojok",
+        "contoh": "-- bilik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangun yang dibuat oleh dua garis yang berpotongan di sekitar titik potongnya",
+        "contoh": "-- tumpul",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang jauh-jauh dan tidak mudah dikunjungi; pelosok",
+        "contoh": "bendera merah putih berkibar sampai ke -- kota",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segi (arah pandangan, pokok, atau dasar pandangan yang tentu)",
+        "contoh": "ditinjau dari -- keamanan, daerah itu boleh dijadikan permukiman",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

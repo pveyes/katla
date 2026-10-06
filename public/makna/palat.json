@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.lat",
+    "akarKata": null,
+    "ejaan": "palat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu penjepit kaki yang dahulu biasanya dipakai untuk menghukum anak-anak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.lat",
+    "akarKata": null,
+    "ejaan": "palat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zakar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

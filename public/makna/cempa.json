@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "cem.pa",
+    "akarKata": null,
+    "ejaan": "cêmpa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padi yang tidak berbulu atau berbulu pendek sekali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ha.roa",
+    "akarKata": null,
+    "ejaan": "haroa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidangan berupa makanan lambang bekal bagi roh orang mati yang dianggap akan menempuh suatu perjalanan yang jauh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidangan berupa makanan (lauk-pauk, kue tradisional) yang disiapkan untuk menyambut malam pada bulan Ramadan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

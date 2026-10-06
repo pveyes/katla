@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "en.cok",
+    "akarKata": null,
+    "ejaan": "èncok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit pada tulang; sengal; reumatik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa kejang atau pegal (pada kaki atau tangan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

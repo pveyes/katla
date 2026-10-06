@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.hak",
+    "akarKata": null,
+    "ejaan": "rahak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dahak; riak",
+        "contoh": "kalau ia batuk, --nya tidak dapat keluar",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

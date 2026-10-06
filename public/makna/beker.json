@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "be.ker",
+    "akarKata": null,
+    "ejaan": "bèkêr",
+    "baku": true,
+    "alt": "weker",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jam yang dilengkapi dengan alat yang dapat berdering pada waktu yang dikehendaki (untuk membangunkan orang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.ker",
+    "akarKata": null,
+    "ejaan": "bèkêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piala",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

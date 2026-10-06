@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Bu.ton",
+    "akarKata": null,
+    "ejaan": "Buton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pulau di daerah Sulawesi Tenggara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Buton",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.lat",
+    "akarKata": null,
+    "ejaan": "adalat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebajikan; keadilan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.lak",
+    "akarKata": null,
+    "ejaan": "têlak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kena benar; tepat",
+        "contoh": "ia melakukan sundulan dengan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mutlak; penuh",
+        "contoh": "kesebelasan kami menang -- atas kesebelasan lawan",
+        "info": []
+      }
+    ]
+  }
+]

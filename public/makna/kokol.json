@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ko.kol",
+    "akarKata": null,
+    "ejaan": "kokol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan semacam resam (pakis)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.kol",
+    "akarKata": null,
+    "ejaan": "kokol",
+    "baku": true,
+    "alt": "kukul",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tubuh melengkung (karena kedinginan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

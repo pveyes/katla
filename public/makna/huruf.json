@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hu.ruf",
+    "akarKata": null,
+    "ejaan": "huruf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda aksara dalam tata tulis yang merupakan anggota abjad yang melambangkan bunyi bahasa; aksara",
+        "contoh": "-- Arab",
+        "info": []
+      }
+    ]
+  }
+]

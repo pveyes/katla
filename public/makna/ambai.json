@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "am.bai",
+    "akarKata": null,
+    "ejaan": "ambai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaring yang dipasang pada belat dan sebagainya",
+        "contoh": "pencari ikan menahan --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bai",
+    "akarKata": null,
+    "ejaan": "ambai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Ambai, sebelah selatan Pulau Yapen, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Ambai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Am.bai",
+    "akarKata": null,
+    "ejaan": "Ambai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "suku bangsa yang mendiami Pulau Ambai, sebelah selatan Pulau Yapen, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "bahasa yang dituturkan oleh suku Ambai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bai",
+    "akarKata": null,
+    "ejaan": "ambai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upacara mengambil anak angkat pada suku Dayak dengan cara menorehkan dan mempertukarkan darah, dilakukan oleh orang tua kandung dan calon orang tua angkat",
+        "contoh": "keluargaku mengadakan upacara --",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

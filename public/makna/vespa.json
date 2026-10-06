@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ves.pa",
+    "akarKata": null,
+    "ejaan": "vèspa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan bermotor beroda dua, rodanya lebih kecil daripada roda sepeda motor, tidak berjeruji kawat; skuter",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "merek dagang kendaraan bermotor beroda dua dari Italia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

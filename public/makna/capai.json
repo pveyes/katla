@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ca.pai",
+    "akarKata": null,
+    "ejaan": "capai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "raih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sampai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.pai",
+    "akarKata": null,
+    "ejaan": "capai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lelah; letih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

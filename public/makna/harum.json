@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ha.rum",
+    "akarKata": null,
+    "ejaan": "harum",
+    "baku": true,
+    "alt": "arun, rum",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "wangi; sedap (baunya)",
+        "contoh": "bunga mawar -- baunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mendapat banyak pujian; masyhur",
+        "contoh": "namanya makin -- karena tindakannya itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

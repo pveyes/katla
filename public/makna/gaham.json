@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.ham",
+    "akarKata": null,
+    "ejaan": "gaham",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gertakan; ancaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

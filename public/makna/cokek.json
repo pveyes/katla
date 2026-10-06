@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "co.kek",
+    "akarKata": null,
+    "ejaan": "cokèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesenian tradisional Betawi yang diiringi gambang keromong dengan penari wanita yang juga bersedia diajak menari bersama para tamu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penari wanita dari rombongan tontonan cokek yang dapat diajak menari bersama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

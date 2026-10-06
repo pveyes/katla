@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.sorp.si.o.me.ter",
+    "akarKata": null,
+    "ejaan": "absorpsiométêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengukur absorpsi gas oleh cairan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

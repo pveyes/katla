@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "bu.sur",
+    "akarKata": null,
+    "ejaan": "busur",
+    "baku": true,
+    "alt": "busar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilah kayu, bambu, dan sebagainya yang direntangkan dengan tali untuk melepaskan anak panah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat (perkakas) untuk membersihkan kapas (kapuk) yang bentuknya seperti busur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat berbentuk setengah lingkaran untuk mengukur derajat (dalam matematika)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.sur",
+    "akarKata": null,
+    "ejaan": "busur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak milik atas tanah perkebunan kopi (di Jawa Timur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

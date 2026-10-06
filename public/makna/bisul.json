@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "bi.sul",
+    "akarKata": null,
+    "ejaan": "bisul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintil yang membengkak pada kulit yang berisi nanah dan bermata; barah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menyusahkan (menyulitkan)",
+        "contoh": "kehadirannya merupakan -- dalam kehidupan rumah tangga adikku",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

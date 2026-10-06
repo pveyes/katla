@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lam.pu",
+    "akarKata": null,
+    "ejaan": "lampu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menerangi; pelita",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Lam.pu",
+    "akarKata": null,
+    "ejaan": "Lampu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah di Kabupaten Poso, Sulawesi Tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

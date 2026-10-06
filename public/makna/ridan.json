@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ri.dan",
+    "akarKata": null,
+    "ejaan": "ridan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon kecil, tingginya 6–8 m, kayunya berwarna cokelat, cocok dibuat papan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu ridan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

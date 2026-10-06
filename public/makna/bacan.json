@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ba.can",
+    "akarKata": null,
+    "ejaan": "Bacan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Bacan di sebelah barat daya Pulau Halmahera, Provinsi Maluku Utara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Bacan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

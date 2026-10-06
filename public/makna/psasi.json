@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PSASI",
+    "akarKata": null,
+    "ejaan": "PSASI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Ski Air Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

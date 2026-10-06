@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.jun",
+    "akarKata": null,
+    "ejaan": "anjun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang pekerjaannya membuat barang gerabah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ge.let",
+    "akarKata": null,
+    "ejaan": "gêlêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis melingkar pada benda bulat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

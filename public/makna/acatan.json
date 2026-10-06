@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "acat.an",
+    "akarKata": "acat",
+    "ejaan": "acatan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pakaian sisa penjualan yang panjangnya kurang dari satu meter yang dijual dengan harga lebih murah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

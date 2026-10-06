@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BKSDA",
+    "akarKata": null,
+    "ejaan": "BKSDA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Balai Konservasi Sumber Daya Alam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

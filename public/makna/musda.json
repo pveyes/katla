@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mus.da",
+    "akarKata": null,
+    "ejaan": "musda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musyawarah daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

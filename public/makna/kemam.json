@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ke.mam",
+    "akarKata": null,
+    "ejaan": "kêmam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menahan (makanan, air, perkataan) di dalam mulut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengunyah dengan mulut terkatup (tembakau, sirih, permen)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berkumur dan menyemprotkan air ke luar mulut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

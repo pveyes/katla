@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "bu.yar",
+    "akarKata": null,
+    "ejaan": "buyar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengalir atau meresap mengembang (seperti tinta pada kertas yang kurang baik)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terserak; tercerai; berantakan (tentang awan, barang-barang yang berkumpul, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak terpusat lagi (tentang pikiran)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

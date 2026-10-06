@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "wag.yu",
+    "akarKata": null,
+    "ejaan": "wagyu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapi khas Jepang, diternak khusus dengan pakan gandum berkualitas, rumput pilihan, dan vitamin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging sapi khas Jepang, persebaran lemaknya merata, dan biasa diolah untuk steik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

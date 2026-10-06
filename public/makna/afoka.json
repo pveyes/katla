@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "afo.ka",
+    "akarKata": null,
+    "ejaan": "afoka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah pisang yang terlepas dari tangkainya karena sangat matang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tobelo",
+            "sumberTeks": "bahasa di maluku utara"
+          }
+        ]
+      }
+    ]
+  }
+]

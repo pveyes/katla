@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "tu.kik",
+    "akarKata": null,
+    "ejaan": "tukik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menukik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.kik",
+    "akarKata": null,
+    "ejaan": "tukik",
+    "baku": true,
+    "alt": "tungkik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.kik",
+    "akarKata": null,
+    "ejaan": "tukik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak penyu",
+        "contoh": "untuk mencegah musnahnya penyu-penyu di pantai, pihak perlindungan dan pelestarian alam terus-menerus menetaskan telur penyu hingga menjadi --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.kik",
+    "akarKata": null,
+    "ejaan": "tukik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pantik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "had.ro",
+    "akarKata": null,
+    "ejaan": "hadro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik yang terdiri atas empat buah rebana dan sebuah gendang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

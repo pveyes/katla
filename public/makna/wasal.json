@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "wa.sal",
+    "akarKata": null,
+    "ejaan": "wasal",
+    "baku": true,
+    "alt": "waslah",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "perangkaian dua buah kata yang menghilangkan bunyi huruf alif (yaitu a) dari kata kedua, misalnya khalifat + Allah menjadi khalifatullah, masjid + alharam menjadi masjidilharam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "perangkaian; penghubungan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

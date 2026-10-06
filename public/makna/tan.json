@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "tan",
+    "akarKata": null,
+    "ejaan": "tan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sutan",
+        "contoh": "-- Malaka",
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

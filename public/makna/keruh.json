@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ke.ruh",
+    "akarKata": null,
+    "ejaan": "kêruh",
+    "baku": true,
+    "alt": "keroh",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buram karena kotor; tidak bening; tidak jernih (tentang air dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusut tidak keruan; kalut; kacau; tidak beres",
+        "contoh": "pikirannya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ruh",
+    "akarKata": null,
+    "ejaan": "kêruh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dengkur; dengkus; dengus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

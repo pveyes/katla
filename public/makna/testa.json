@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tes.ta",
+    "akarKata": null,
+    "ejaan": "tèsta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selaput yang melindungi embrio tumbuhan berbiji dan berfungsi sebagai kulit biji",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

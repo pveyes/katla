@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "cis",
+    "akarKata": null,
+    "ejaan": "cis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk mencemoohkan dan sebagainya",
+        "contoh": "--, tidak tahu malu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cis",
+    "akarKata": null,
+    "ejaan": "cis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat senapan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

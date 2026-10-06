@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "por.si",
+    "akarKata": null,
+    "ejaan": "porsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian (yang menjadi tanggung jawab atau yang harus dikerjakan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selengkap atau sepiring makanan (di rumah makan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

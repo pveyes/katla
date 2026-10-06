@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ra.jin",
+    "akarKata": null,
+    "ejaan": "rajin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka bekerja (belajar dan sebagainya); getol; sungguh-sungguh bekerja; selalu berusaha giat",
+        "contoh": "-- lah belajar supaya naik kelas",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kerap kali; terus-menerus",
+        "contoh": "ia -- ke masjid",
+        "info": []
+      }
+    ]
+  }
+]

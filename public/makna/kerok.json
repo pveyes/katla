@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ke.rok",
+    "akarKata": null,
+    "ejaan": "kèrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat menghitung (berpikir dan sebagainya) dengan baik; kacau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persoalan; masalah; keributan",
+        "contoh": "biang --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rok",
+    "akarKata": null,
+    "ejaan": "kêrok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggaruk (untuk membersihkan bulu kuda dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

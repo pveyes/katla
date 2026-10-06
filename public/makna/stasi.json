@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sta.si",
+    "akarKata": null,
+    "ejaan": "stasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wilayah keuskupan yang akan menjadi paroki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

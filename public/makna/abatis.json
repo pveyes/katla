@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "aba.tis",
+    "akarKata": null,
+    "ejaan": "abatis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rintangan dari pohon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ko.hor",
+    "akarKata": null,
+    "ejaan": "kohor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengikut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

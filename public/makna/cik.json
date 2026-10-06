@@ -1,0 +1,99 @@
+[
+  {
+    "sukuKata": "cik",
+    "akarKata": null,
+    "ejaan": "cik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "encik",
+        "contoh": "-- Amat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecik (berarti kecil, muda)",
+        "contoh": "mak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cik",
+    "akarKata": null,
+    "ejaan": "cik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tahi; cirit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cik",
+    "akarKata": null,
+    "ejaan": "cik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rapi, bagus, dan menarik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cik",
+    "akarKata": null,
+    "ejaan": "cik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "jumlah besar bubuk morfin sebanyak 300 cekak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cik",
+    "akarKata": null,
+    "ejaan": "cik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi untuk mengusir anjing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

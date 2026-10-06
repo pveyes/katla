@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "as.wad",
+    "akarKata": null,
+    "ejaan": "aswad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hitam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

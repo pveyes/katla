@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "de.but",
+    "akarKata": null,
+    "ejaan": "début",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penampilan untuk pertama kali di depan umum (tentang penyanyi, artis, dan sebagainya)",
+        "contoh": "dia memulai --nya pada tahun 50-an",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.but",
+    "akarKata": null,
+    "ejaan": "dêbut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kentut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

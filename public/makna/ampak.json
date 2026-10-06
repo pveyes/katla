@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pak",
+    "akarKata": null,
+    "ejaan": "ampak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padi yang tidak ada isinya",
+        "contoh": "hasil panen kali ini banyak --",
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

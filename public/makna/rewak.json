@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "re.wak",
+    "akarKata": null,
+    "ejaan": "réwak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ada sesuatu yang hendak dikatakan (diberitahukan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.wak",
+    "akarKata": null,
+    "ejaan": "réwak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "ada sesuatu yang hendak dikatakan (diberitahukan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

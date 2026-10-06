@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pul.pa",
+    "akarKata": null,
+    "ejaan": "pulpa",
+    "baku": false,
+    "alt": "pulp",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging buah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran bahan selulosa, seperti kayu, kertas, kain bekas yang dilumatkan dan dimasukkan ke dalam air untuk membuat kertas; bubur kertas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

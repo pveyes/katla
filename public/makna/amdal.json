@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "am.dal",
+    "akarKata": null,
+    "ejaan": "amdal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "analisis mengenai dampak lingkungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

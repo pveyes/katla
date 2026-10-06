@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "wa.dah",
+    "akarKata": null,
+    "ejaan": "wadah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat untuk menaruh, menyimpan sesuatu",
+        "contoh": "dia mengambilkan -- nasi itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat berhimpun; perhimpunan",
+        "contoh": "dulu PWI merupakan -- tunggal bagi para wartawan Indonesia",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

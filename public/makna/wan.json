@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "wan",
+    "akarKata": null,
+    "ejaan": "wan",
+    "baku": true,
+    "alt": "uan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuan",
+        "contoh": "-- Malini",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "-wan",
+    "akarKata": null,
+    "ejaan": "-wan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang ahli dalam bidang",
+        "contoh": "ilmuwan",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang bergerak dalam",
+        "contoh": "karyawati",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "orang yang memiliki barang atau sifat khusus",
+        "contoh": "dermawan",
+        "info": []
+      }
+    ]
+  }
+]

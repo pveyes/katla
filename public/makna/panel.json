@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "pa.nel",
+    "akarKata": null,
+    "ejaan": "panèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari permukaan pintu (dinding, langit-langit, dan sebagainya) berupa papan tipis dan sebagainya, biasanya berbentuk persegi panjang, dipasang di dalam bingkai, terletak lebih rendah atau lebih tinggi daripada permukaan sekitarnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan bahan dari jenis atau warna yang berbeda yang disisipkan pada pakaian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaran tipis (dari papan atau logam) tempat melekatkan alat (peranti) pengontrol",
+        "contoh": "di dekat kemudi ada -- berisi tombol-tombol untuk mengontrol lampu dan oli",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan peraga untuk pameran, berbentuk persegi panjang, terbuat dari papan lapis, logam, atau bahan lain, digunakan untuk menempelkan foto, gambar, teks yang dipamerkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotak atau kerangka dalam komik yang berisi gambar atau adegan yang terangkai menjadi suatu cerita",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.nel",
+    "akarKata": null,
+    "ejaan": "panèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok pembicara yang dipilih untuk berbicara dalam diskusi dan menjawab pertanyaan di depan hadirin (penonton, pendengar)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

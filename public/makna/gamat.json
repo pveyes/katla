@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ga.mat",
+    "akarKata": null,
+    "ejaan": "gamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teripang berukuran besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.mat",
+    "akarKata": null,
+    "ejaan": "gamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagu; dendang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.mat",
+    "akarKata": null,
+    "ejaan": "gamat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sentuh; gamit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

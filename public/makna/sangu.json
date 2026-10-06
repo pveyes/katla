@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.ngu",
+    "akarKata": null,
+    "ejaan": "sangu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekal, biasanya berupa uang; sangon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

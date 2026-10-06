@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BBM",
+    "akarKata": null,
+    "ejaan": "BBM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan bakar minyak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

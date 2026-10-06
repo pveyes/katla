@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.tus",
+    "akarKata": null,
+    "ejaan": "fétus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "janin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

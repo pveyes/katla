@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "So.lor",
+    "akarKata": null,
+    "ejaan": "Solor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Solor di Provinsi Nusa Tenggara Timur; Holo; Solot",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lamaholot",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Solor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

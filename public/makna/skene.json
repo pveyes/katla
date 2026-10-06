@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ske.ne",
+    "akarKata": null,
+    "ejaan": "skénê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan bagian belakang teater Yunani Kuno yang biasanya untuk tempat pemain beristirahat atau memakai pakaian, dindingnya sekaligus menjadi latar belakang pentas dan mempunyai tiga pintu tempat keluar masuk pemain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gedung yang berada di balik prosenium yang digunakan sebagai ruang kostum dan rias pada masa Yunani kuno",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

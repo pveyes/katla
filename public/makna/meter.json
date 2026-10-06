@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "meter",
+    "akarKata": null,
+    "ejaan": "meter",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "ibu pembaptis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.ter",
+    "akarKata": null,
+    "ejaan": "mètêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan dasar ukuran panjang sama dengan 39,37 inci",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

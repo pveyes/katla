@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lu.rik",
+    "akarKata": null,
+    "ejaan": "lurik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain tenun yang coraknya berjalur-jalur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kurik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

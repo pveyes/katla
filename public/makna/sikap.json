@@ -1,0 +1,104 @@
+[
+  {
+    "sukuKata": "si.kap",
+    "akarKata": null,
+    "ejaan": "sikap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh atau bentuk tubuh",
+        "contoh": "--nya tegap",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara berdiri (tegak, teratur, atau dipersiapkan untuk bertindak); kuda-kuda (tentang pencak dan sebagainya)",
+        "contoh": "hebat sekali --nya ketika akan mengucapkan sumpah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan dan sebagainya yang berdasarkan pada pendirian, keyakinan",
+        "contoh": "rakyat akan selalu mengutuk -- pemimpin-pemimpinnya yang kurang adil itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perilaku; gerak-gerik",
+        "contoh": "--nya di panggung sangat berbeda dengan --nya sehari-hari",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.kap",
+    "akarKata": null,
+    "ejaan": "sikap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sigap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.kap",
+    "akarKata": null,
+    "ejaan": "sikap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat burung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.kap",
+    "akarKata": null,
+    "ejaan": "sikap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat baju",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.kap",
+    "akarKata": null,
+    "ejaan": "sikap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "peluk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

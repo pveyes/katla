@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "ba.lon",
+    "akarKata": null,
+    "ejaan": "balon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bola atau pundi-pundi besar dibuat dari karet (kertas, kain, dan sebagainya) yang diisi udara (gas yang ringan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mainan anak-anak terbuat dari karet yang dikembangkan (dengan ditiup atau diisi gas)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabar (pernyataan dan sebagainya) yang disiarkan untuk mengajuk pikiran atau pendapat pihak lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lon",
+    "akarKata": null,
+    "ejaan": "balon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelacur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lon",
+    "akarKata": null,
+    "ejaan": "balon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakal calon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

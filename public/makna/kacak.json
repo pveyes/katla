@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ka.cak",
+    "akarKata": null,
+    "ejaan": "kacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tampak gagah; cegak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "angkuh; pongah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.cak",
+    "akarKata": null,
+    "ejaan": "kacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(satuan) ukuran besar selingkung ujung ibu jari yang dipertemukan dengan ujung jari yang lain",
+        "contoh": "sayuran se--",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.cak",
+    "akarKata": null,
+    "ejaan": "kacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "(satuan) ukuran besar selingkung ujung ibu jari yang dipertemukan dengan ujung jari yang lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

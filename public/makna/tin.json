@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "tin",
+    "akarKata": null,
+    "ejaan": "tin",
+    "baku": true,
+    "alt": "tim",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaleng; belek",
+        "contoh": "buah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tin",
+    "akarKata": null,
+    "ejaan": "tin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang berasal dari Timur Tengah, menghasilkan cairan lateks yang keluar dari batangnya, bisa tumbuh sampai 10 m, daunnya mirip daun ubi atau pepaya, ketika mentah, buahnya berwarna hijau dan berubah menjadi ungu ketika matang, jika digigit menimbulkan aroma semerbak serta rasa seperti buah jambu biji, berkhasiat mengobati pembengkakan karena berbagai sebab, disebut juga buah dari surga",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah dari pohon tin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

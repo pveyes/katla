@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "se.sil",
+    "akarKata": null,
+    "ejaan": "sésil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hewan yang melekat atau menempel pada dahan atau batang tanpa dihubungkan oleh tangkai)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hewan yang melekat atau menempel pada benda-benda mati atau pada hewan hidup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

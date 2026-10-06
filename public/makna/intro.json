@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "in.tro",
+    "akarKata": null,
+    "ejaan": "intro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "introduksi; pengantar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

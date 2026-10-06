@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fi.nal",
+    "akarKata": null,
+    "ejaan": "final",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tahap (babak) terakhir dari rangkaian pemeriksaan (pekerjaan, pertandingan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tahap penyelesaian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

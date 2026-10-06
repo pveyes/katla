@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "su.dah",
+    "akarKata": null,
+    "ejaan": "sudah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "telah jadi; telah sedia; selesai",
+        "contoh": "setelah --, kirimkan lekas-lekas baju itu",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "habis, berakhir",
+        "contoh": "tidak sudah(-sudah)nya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "telah lalu (lampau, terjadi); terdahulu",
+        "contoh": "apa gunanya menyusahkan perkara yang --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "telah (menyatakan perbuatan yang telah terjadi)",
+        "contoh": "ia -- pandai membaca",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "cukuplah sekian saja",
+        "contoh": "-- jangan dibangkit-bangkit lagi perkara itu",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "memang demikian (halnya, keadaannya, dan sebagainya); begitulah (halnya) sejak semula",
+        "contoh": "-- saudagar, nakhoda pula",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sehabis; setelah",
+        "contoh": "-- itu lalu dipanggil oleh ayahnya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "telah berpihak",
+        "contoh": "-- ke sana",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

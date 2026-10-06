@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bo.ron",
+    "akarKata": null,
+    "ejaan": "boron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang sekaligus meredam dan menetralkan neutron",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unsur bukan logam dengan nomor atom 5, berlambang B, dan bobot atom 10,81",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

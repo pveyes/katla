@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.lih",
+    "akarKata": null,
+    "ejaan": "salih",
+    "baku": false,
+    "alt": "saleh",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "taat dan sungguh-sungguh menjalankan ibadah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suci dan beriman",
+        "contoh": "mudah-mudahan ia akan menjadi anak yang --",
+        "info": []
+      }
+    ]
+  }
+]

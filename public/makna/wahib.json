@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wahib",
+    "akarKata": null,
+    "ejaan": "wahib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberi (Tuhan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

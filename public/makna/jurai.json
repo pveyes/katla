@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ju.rai",
+    "akarKata": null,
+    "ejaan": "jurai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "secarik yang panjang (kain dan sebagainya); lajur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seikat barang yang berjuntai seperti benang, rambut, kacang panjang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rentetan; deretan yang berturut-turut",
+        "contoh": "-- keturunan raja-raja dan orang-orang besar",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.rai",
+    "akarKata": null,
+    "ejaan": "jurai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis sambungan antara bidang atap yang satu dengan bidang atap yang lain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

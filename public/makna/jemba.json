@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "jem.ba",
+    "akarKata": null,
+    "ejaan": "jêmba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran panjang 8 (hasta)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jem.ba",
+    "akarKata": null,
+    "ejaan": "jêmba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ulur (tentang tangan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

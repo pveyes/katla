@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ti.tel",
+    "akarKata": null,
+    "ejaan": "titêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar yang diperoleh setelah menamatkan tingkat pendidikan dan sebagainya; gelar kesarjanaan",
+        "contoh": "dia akan pulang membawa -- doktor dalam bidang teknik",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "judul (buku dan sebagainya)",
+        "contoh": "-- karangan ini ialah “Pembangunan dan Masyarakat”",
+        "info": []
+      }
+    ]
+  }
+]

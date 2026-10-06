@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "as.pel",
+    "akarKata": null,
+    "ejaan": "as.pêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tusuk sanggul dari logam berbentuk seperti garpu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

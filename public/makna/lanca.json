@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "lan.ca",
+    "akarKata": null,
+    "ejaan": "lanca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu besar yang bertiang tiga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lan.ca",
+    "akarKata": null,
+    "ejaan": "lanca",
+    "baku": false,
+    "alt": "lancia",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kereta beroda dua yang dihela oleh orang; angkong; langca",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

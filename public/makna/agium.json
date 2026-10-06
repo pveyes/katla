@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "agi.um",
+    "akarKata": null,
+    "ejaan": "agium",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komunitas pantai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

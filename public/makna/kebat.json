@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ke.bat",
+    "akarKata": null,
+    "ejaan": "kêbat",
+    "baku": true,
+    "alt": "kerbat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikat; balut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.bat",
+    "akarKata": null,
+    "ejaan": "kêbat",
+    "baku": true,
+    "alt": "kebit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain panjang yang biasa dipakai perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.bat",
+    "akarKata": null,
+    "ejaan": "kêbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kain panjang yang biasa dipakai perempuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

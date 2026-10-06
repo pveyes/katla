@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.ban",
+    "akarKata": null,
+    "ejaan": "lêban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi hingga 25 m, bercabang dekat tanah, kayunya putih kekuning-kuningan dan awet, digunakan untuk bajak, bahan bangunan dan perkakas rumah tangga, kulit kayu dan daunnya biasa digunakan untuk obat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu leban",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

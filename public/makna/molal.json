@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mo.lal",
+    "akarKata": null,
+    "ejaan": "molal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satu mol larutan per 1000 gram pelarut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

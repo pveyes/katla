@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "san.to",
+    "akarKata": null,
+    "ejaan": "santo",
+    "baku": true,
+    "alt": "santu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk orang laki-laki kudus",
+        "contoh": "-- Yosef",
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

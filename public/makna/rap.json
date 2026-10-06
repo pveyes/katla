@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "rap",
+    "akarKata": null,
+    "ejaan": "rap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kayu bergesek dengan kayu dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "rap",
+    "akarKata": null,
+    "ejaan": "rap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "percakapan tunggal atau monolog yang dilakukan secara berirama dengan diiringi musik",
+        "contoh": "dia dikenal sebagai penyanyi --",
+        "info": []
+      }
+    ]
+  }
+]

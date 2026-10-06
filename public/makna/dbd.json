@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DBD",
+    "akarKata": null,
+    "ejaan": "DBD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "demam berdarah dengue",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

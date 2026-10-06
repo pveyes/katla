@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "tu.suk",
+    "akarKata": null,
+    "ejaan": "tusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan (dengan cara menikamkan) suatu benda yang runcing (jarum, pisau, dan sebagainya) ke benda lain; cocok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "teknik jahit; jahitan",
+        "contoh": "-- jelujur; -- silang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda runcing, biasanya untuk dimasukkan ke benda lain",
+        "contoh": "-- konde",
+        "info": []
+      }
+    ]
+  }
+]

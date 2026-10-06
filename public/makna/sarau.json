@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.rau",
+    "akarKata": null,
+    "ejaan": "sarau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "celaka; sial",
+        "contoh": "aduh, -- anak ini",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.rau",
+    "akarKata": null,
+    "ejaan": "sarau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keranjang besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

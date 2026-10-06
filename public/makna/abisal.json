@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "abi.sal",
+    "akarKata": null,
+    "ejaan": "abisal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "endapan lumpur atau tanah dari dasar laut pada kedalaman 2.200—5.500 m",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teluk atau palung (lembah) yang sangat dalam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhubungan dengan wilayah dasar laut antara zona batial dan hadal dari kedalaman sekitar sekitar 3.000 sampai dengan 6.000 meter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "oseanografi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

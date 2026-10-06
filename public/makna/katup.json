@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.tup",
+    "akarKata": null,
+    "ejaan": "katup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penutup (biasanya hanya dapat terbuka ke satu arah saja) yang dibuat (diciptakan) pas dengan lubangnya sehingga tidak bocor; klep (pada pompa dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk membuka atau menutup saluran sehingga fluida yang mengalir di dalamnya dapat diteruskan atau dihentikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

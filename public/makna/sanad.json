@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "sa.nad",
+    "akarKata": null,
+    "ejaan": "sanad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sandaran, hubungan, atau rangkaian perkara yang dapat dipercayai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rentetan rawi hadis sampai kepada Nabi Muhammad saw.",
+        "contoh": "hadis itu telah diriwayatkan oleh Imam Bukhari dengan -- yang baik",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

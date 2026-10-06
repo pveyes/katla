@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "se.nak",
+    "akarKata": null,
+    "ejaan": "sênak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa sesak dalam perut atau dada (karena terlalu kenyang, masuk angin, dan sebagainya)",
+        "contoh": "-- rasa dadanya sesudah berlari kencang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedih; susah (tentang perasaan atau pikiran)",
+        "contoh": "-- rasa hatinya memikirkan anaknya itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tergenang dan menjadi penuh (air) karena tidak dapat mengalir",
+        "contoh": "selokan yang -- airnya menyebabkan banyak nyamuk",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

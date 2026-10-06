@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ba.per",
+    "akarKata": null,
+    "ejaan": "bapêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(ter)bawa perasaan; berlebihan atau terlalu sensitif dalam menanggapi suatu hal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

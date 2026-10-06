@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "nya.la",
+    "akarKata": null,
+    "ejaan": "nyala",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "massa gas yang berpijar yang timbul dari benda yang terbakar",
+        "contoh": "-- api itu masih terus berlangsung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cahaya yang keluar dari api (sesuatu yang terbakar)",
+        "contoh": "dari jauh kelihatan kelap-kelip -- lampu di rumah itu",
+        "info": []
+      }
+    ]
+  }
+]

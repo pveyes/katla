@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "put.ra",
+    "akarKata": null,
+    "ejaan": "putra",
+    "baku": true,
+    "alt": "putera",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak laki-laki raja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kandung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak laki-laki",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "khusus (untuk) laki-laki",
+        "contoh": "ia menjadi juara untuk lomba lari 100 m --",
+        "info": []
+      }
+    ]
+  }
+]

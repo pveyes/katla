@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "op.tuh",
+    "akarKata": null,
+    "ejaan": "optuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "operasi patuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

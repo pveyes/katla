@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "be.lam",
+    "akarKata": null,
+    "ejaan": "bêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kabur; suram",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lam",
+    "akarKata": null,
+    "ejaan": "bêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kabur; suram",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lam",
+    "akarKata": null,
+    "ejaan": "bêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "palang atau kancing pintu (pagar dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

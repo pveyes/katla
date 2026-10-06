@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ro.dan",
+    "akarKata": null,
+    "ejaan": "rodan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat nyeri (sakit)",
+        "contoh": "bertambah -- rasanya hati, putih kuning tolonglah tuan",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

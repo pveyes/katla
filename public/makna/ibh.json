@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IBH",
+    "akarKata": null,
+    "ejaan": "IBH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "indeks biaya hidup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "Sik.ka",
+    "akarKata": null,
+    "ejaan": "Sikka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Kabupaten Sikka di Pulau Flores, Provinsi Nusa Tenggara Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Pulau Flores, Provinsi Nusa Tenggara Timur, ibu kotanya Maumere",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Sikka",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama kerajaan di Pulau Flores",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

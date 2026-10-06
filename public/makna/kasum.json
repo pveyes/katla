@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ka.sum",
+    "akarKata": null,
+    "ejaan": "kasum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala staf umum",
+        "contoh": "-- TNI memberikan arahan pada acara itu",
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

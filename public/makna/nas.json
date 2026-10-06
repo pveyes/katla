@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "nas",
+    "akarKata": null,
+    "ejaan": "nas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkataan atau kalimat dari Al-Qur'an atau hadis yang dipakai sebagai alasan atau dasar untuk memutuskan suatu masalah (sebagai pegangan dalam hukum syarak)",
+        "contoh": "saya dapat mengubah pendirian ini kalau saya diberi -- yang sahih",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teks",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

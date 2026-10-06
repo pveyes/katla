@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ja.lak",
+    "akarKata": null,
+    "ejaan": "jalak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beo kecil, bulunya hitam, kaki dan paruhnya berwarna kuning",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberani; nama ayam sabungan (ayam jantan yang berbulu hitam kurik-kurik); ayam jalak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berkaki agak kekuning-kuningan (tentang ayam sabungan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

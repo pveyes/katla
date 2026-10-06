@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MKK",
+    "akarKata": null,
+    "ejaan": "MKK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata kuliah kejuruan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

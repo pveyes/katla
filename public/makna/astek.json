@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "as.tek",
+    "akarKata": null,
+    "ejaan": "astêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asuransi sosial tenaga kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

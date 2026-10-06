@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ti.lap",
+    "akarKata": null,
+    "ejaan": "tilap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menilap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

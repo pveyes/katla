@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "fluks",
+    "akarKata": null,
+    "ejaan": "fluks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cucuran cairan dari tubuh (diare)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan bersinambung atau gerakan terus-menerus (misalnya arus)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah besaran (misalnya massa, bahang) yang mengalir melalui luasan tertentu yang tegak lurus terhadap aliran itu per satuan waktu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

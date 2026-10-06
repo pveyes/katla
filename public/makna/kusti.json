@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "kus.ti",
+    "akarKata": null,
+    "ejaan": "kusti",
+    "baku": false,
+    "alt": "gusti",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk bangsawan",
+        "contoh": "ke mana pun -- pergi hamba akan ikut",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk Tuhan (atau yang dianggap Tuhan)",
+        "contoh": "aduh --, saya mohon ampun, saya bertobat",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

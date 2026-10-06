@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ti.rai",
+    "akarKata": null,
+    "ejaan": "tirai",
+    "baku": true,
+    "alt": "mirai",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain (sutra dan sebagainya) berumbai-umbai yang dipakai untuk perhiasan langit-langit tempat tidur atau tempat duduk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain penutup pintu (jendela dan sebagainya); gorden",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain pemisah ruangan (yang tergantung)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

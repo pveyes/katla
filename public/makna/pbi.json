@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PBI",
+    "akarKata": null,
+    "ejaan": "PBI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Boling Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "si.rip",
+    "akarKata": null,
+    "ejaan": "sirip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat gerak pada ikan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balung jengger pada buaya dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

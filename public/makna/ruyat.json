@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ru.yat",
+    "akarKata": null,
+    "ejaan": "ruyat",
+    "baku": false,
+    "alt": "rukyat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perihal melihat bulan tanggal satu untuk menentukan hari permulaan dan penghabisan puasa Ramadan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penglihatan; pengamatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

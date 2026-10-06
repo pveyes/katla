@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ra.cau",
+    "akarKata": null,
+    "ejaan": "racau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lincah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.cau",
+    "akarKata": null,
+    "ejaan": "racau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lincah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

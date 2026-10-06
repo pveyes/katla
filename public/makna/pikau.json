@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pi.kau",
+    "akarKata": null,
+    "ejaan": "pikau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis puyuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.kau",
+    "akarKata": null,
+    "ejaan": "pikau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jenis puyuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

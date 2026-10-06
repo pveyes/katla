@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GKR",
+    "akarKata": null,
+    "ejaan": "GKR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gusti Kanjeng Ratu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.dua",
+    "akarKata": "dua",
+    "ejaan": "kedua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "nomor dua",
+        "contoh": "anaknya yang ~ lahir kemarin",
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "kelompok yang terdiri atas dua (orang dan barang)",
+        "contoh": "~ mobilnya disita kejaksaan",
+        "info": []
+      }
+    ]
+  }
+]

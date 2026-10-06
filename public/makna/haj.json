@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "haj",
+    "akarKata": null,
+    "ejaan": "haj",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beribadah dan berziarah ke Tanah Suci (Makkah); naik haji",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

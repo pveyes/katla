@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Un.dip",
+    "akarKata": null,
+    "ejaan": "Undip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Diponegoro",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.sam",
+    "akarKata": null,
+    "ejaan": "tusam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon berbatang lurus, tingginya mencapai 60 m, dan garis penampang 1 m, kulitnya bergetah sangat lekat, digunakan sebagai bahan terpentin, daunnya berbentuk jarum-jarum kaku, semula ditemukan di Sumatra Utara, kini banyak ditanam di seluruh Indonesia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit tusam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

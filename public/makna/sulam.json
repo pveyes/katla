@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "su.lam",
+    "akarKata": null,
+    "ejaan": "sulam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bordir; suji; tekat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tato",
+        "contoh": "-- alis; -- bibir",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.lam",
+    "akarKata": null,
+    "ejaan": "sulam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tukar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.kup",
+    "akarKata": null,
+    "ejaan": "cêkup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menangkupkan kedua telapak tangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kup",
+    "akarKata": null,
+    "ejaan": "cêkup",
+    "baku": false,
+    "alt": "cekut",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jumput",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

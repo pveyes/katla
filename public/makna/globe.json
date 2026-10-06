@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "glo.be",
+    "akarKata": null,
+    "ejaan": "globê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bola bumi buatan; peta bumi yang bulat seperti bola (tiruan bumi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dunia (planet bumi)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

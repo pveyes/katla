@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "no.ken",
+    "akarKata": null,
+    "ejaan": "nokèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tas tradisional dari Papua yang terbuat dari serat kayu",
+        "contoh": "sebanyak 11 ekor ayam dan 5 buah -- dipersembahkan sebagai maskawin",
+        "info": [
+          {
+            "sumber": "papua",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

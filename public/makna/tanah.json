@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "ta.nah",
+    "akarKata": null,
+    "ejaan": "tanah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permukaan bumi atau lapisan bumi yang di atas sekali",
+        "contoh": "hujan membasahi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan bumi di suatu tempat",
+        "contoh": "--nya gersang, tidak dapat ditanami",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permukaan bumi yang diberi batas",
+        "contoh": "pemerintah menyediakan -- seluas tiga hektar untuk permukiman para transmigran",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daratan",
+        "contoh": "penerjun payung itu tewas setelah jatuh terempas di --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permukaan bumi yang terbatas yang ditempati suatu bangsa yang diperintah suatu negara atau menjadi daerah negara; negeri; negara",
+        "contoh": "-- Eropa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan-bahan dari bumi; bumi sebagai bahan sesuatu (pasir, napal, cadas, dan sebagainya)",
+        "contoh": "bata dan genting dibuat dari --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar (warna, cat, dan sebagainya)",
+        "contoh": "kain itu --nya putih, coraknya cokelat dan hitam",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.nah",
+    "akarKata": null,
+    "ejaan": "tanah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran panjang yang sama dengan depa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

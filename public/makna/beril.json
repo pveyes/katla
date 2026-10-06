@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "be.ril",
+    "akarKata": null,
+    "ejaan": "bèril",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mineral yang sangat keras terdiri atas silikat dari berilium dan aluminium",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

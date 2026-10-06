@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "re.kam",
+    "akarKata": null,
+    "ejaan": "rêkam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas atau kesan dari sesuatu yang diucapkan; bekas yang dituliskan (seperti garis-garis atau gambar berwarna pada kain, garis-garis berwarna pada kain tenun, huruf, tanda, yang diterakan pada kopor, cetakan stensil)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sulam (suji) dengan warna yang lain (dengan benang emas)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alur-alur bunyi (suara) pada piringan hitam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alur-alur (magnetik) pada piringan (atau pita kaset) yang dapat menghasilkan bunyi dan/atau gambar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

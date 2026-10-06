@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ab.jad",
+    "akarKata": null,
+    "ejaan": "abjad",
+    "baku": true,
+    "alt": "abjat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan huruf (aksara) berdasarkan urutan yang lazim dalam bahasa tertentu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem aksara yang melambangkan bunyi bahasa yang dipakai untuk menuliskan bahasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

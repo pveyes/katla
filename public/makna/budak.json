@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bu.dak",
+    "akarKata": null,
+    "ejaan": "budak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak; kanak-kanak",
+        "contoh": "-- bermain layang-layang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "antek; hamba; jongos; orang gajian",
+        "contoh": "aku bukan --mu",
+        "info": []
+      }
+    ]
+  }
+]

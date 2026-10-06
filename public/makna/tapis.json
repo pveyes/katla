@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ta.pis",
+    "akarKata": null,
+    "ejaan": "tapis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang dibuat dari kain dan sebagainya untuk memisahkan benda cair dari benda padat pencemar atau endapan untuk memisahkan benda padat yang berbeda ukurannya; penyaring",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.pis",
+    "akarKata": null,
+    "ejaan": "tapis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gesit; tangkas (dalam bersilat dan sebagainya)",
+        "contoh": "ia tidak kalah -- dengan pamannya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.pis",
+    "akarKata": null,
+    "ejaan": "tapis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain tenunan bersulamkan benang emas untuk upacara adat di Lampung, biasanya dipakai oleh wanita",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

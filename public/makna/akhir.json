@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "akhir",
+    "akarKata": null,
+    "ejaan": "akhir",
+    "baku": true,
+    "alt": "ahir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belakang; yang belakang sekali; kemudian",
+        "contoh": "suku kata yang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesudahan; penghabisan",
+        "contoh": "pada -- tahun ini",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ga.yam",
+    "akarKata": null,
+    "ejaan": "gayam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi hingga 20 m, bunganya harum, daunnya lebat dan dapat digunakan sebagai pembungkus, buahnya yang masak berwarna kuning, dimakan setelah direbus; tolok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah gayam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.yam",
+    "akarKata": null,
+    "ejaan": "gayam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang badannya lebar, warna badannya perpaduan antara garis-garis hitam, putih, dan kuning, panjang mencapai 24 cm, hidup di terumbu karang perairan tropis, tersebar di perairan Afrika Timur sampai Kepulauan Tuamoto, bagian utara sampai Jepang Selatan, bagian selatan sampai Tonga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

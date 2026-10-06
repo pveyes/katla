@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "war.na",
+    "akarKata": null,
+    "ejaan": "warna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesan yang diperoleh mata dari cahaya yang dipantulkan oleh benda-benda yang dikenainya; corak rupa, seperti biru dan hijau",
+        "contoh": "dia sering memakai baju yang biru --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kasta; golongan; tingkatan (dalam masyarakat)",
+        "contoh": "masyarakat Hindu membagi manusia menjadi empat --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "corak; ragam (sifat sesuatu)",
+        "contoh": "usaha partai itu tidak jelas --nya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

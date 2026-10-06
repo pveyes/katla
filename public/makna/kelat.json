@@ -1,0 +1,99 @@
+[
+  {
+    "sukuKata": "ke.lat",
+    "akarKata": null,
+    "ejaan": "kêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali besar berpilin empat, dibuat dari sabut kelapa atau rami untuk tali-temali perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lat",
+    "akarKata": null,
+    "ejaan": "kêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sepat (berasa seperti rasa pinang, salak mentah, pisang mentah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lat",
+    "akarKata": null,
+    "ejaan": "kêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang keras kayunya, banyak macamnya seperti kelat api, kelat kuning, kelat merah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kelat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lat",
+    "akarKata": null,
+    "ejaan": "kêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekat",
+        "contoh": "setelah matanya mulai --, mereka berhenti berbual",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.lat",
+    "akarKata": null,
+    "ejaan": "kêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa kimia logam dan nonlogam, biasanya organik, atom-atomnya berkombinasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

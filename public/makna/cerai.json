@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ce.rai",
+    "akarKata": null,
+    "ejaan": "cêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pisah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "putus hubungan sebagai suami istri; talak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

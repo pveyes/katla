@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.pak",
+    "akarKata": null,
+    "ejaan": "dopak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "dua ikat kecil",
+        "contoh": "saya membawa se-- pelepah pisang untuk membuat jajan",
+        "info": [
+          {
+            "sumber": "sumbawa",
+            "sumberTeks": "diubah singkatan label karena ada bahasa"
+          }
+        ]
+      }
+    ]
+  }
+]

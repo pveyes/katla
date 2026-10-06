@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LKT",
+    "akarKata": null,
+    "ejaan": "LKT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapangan kekuasaan teknik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

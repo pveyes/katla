@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Ha.mal",
+    "akarKata": null,
+    "ejaan": "Hamal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Aries; Mesa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

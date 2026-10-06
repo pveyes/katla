@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "Ba.bel",
+    "akarKata": null,
+    "ejaan": "babèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerajaan kuno di Tigris dan Eufrat yang sering kali mengancam bangsa Israel dan akhirnya merebut Yerusalem (586 SM)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuasa yang menguasai dunia, melawan kerajaan Allah, dan akan disingkirkan pada akhir zaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.bel",
+    "akarKata": null,
+    "ejaan": "babêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bangka Belitung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

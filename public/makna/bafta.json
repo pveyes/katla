@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "baf.ta",
+    "akarKata": null,
+    "ejaan": "bafta",
+    "baku": false,
+    "alt": "baftah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain belacu yang halus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

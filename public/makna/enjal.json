@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "en.jal",
+    "akarKata": null,
+    "ejaan": "ênjal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jejal mulut (dengan makanan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "en.jal",
+    "akarKata": null,
+    "ejaan": "ênjal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jejal mulut (dengan makanan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

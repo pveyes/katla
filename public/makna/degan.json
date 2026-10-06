@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.gan",
+    "akarKata": null,
+    "ejaan": "dêgan",
+    "baku": true,
+    "alt": "duwegan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah kelapa muda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

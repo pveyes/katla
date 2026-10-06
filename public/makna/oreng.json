@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "oreng",
+    "akarKata": null,
+    "ejaan": "orèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alur antara hidung dan bibir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

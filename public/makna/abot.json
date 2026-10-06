@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abot",
+    "akarKata": null,
+    "ejaan": "abot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak pohon sagu",
+        "contoh": "-- banyak ditemukan di daerah kepulauan Meranti",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

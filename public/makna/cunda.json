@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "cun.da",
+    "akarKata": null,
+    "ejaan": "cunda",
+    "baku": false,
+    "alt": "cucunda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cucu Anda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cucu (untuk menyatakan takzim atau hormat)",
+        "contoh": "Baginda terlalu kasih akan --",
+        "info": []
+      }
+    ]
+  }
+]

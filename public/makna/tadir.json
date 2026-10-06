@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.dir",
+    "akarKata": null,
+    "ejaan": "tadir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dinding dari bambu yang dianyam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

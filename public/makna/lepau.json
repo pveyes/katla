@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "le.pau",
+    "akarKata": null,
+    "ejaan": "lêpau",
+    "baku": true,
+    "alt": "lapo",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warung kecil; kedai nasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beranda di belakang rumah (untuk dapur dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.bel",
+    "akarKata": null,
+    "ejaan": "kabêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawat (penghantar arus listrik) berbungkus karet, plastik, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawat besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "koa",
+    "akarKata": null,
+    "ejaan": "koa",
+    "baku": true,
+    "alt": "kua",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan kartu ceki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "koa",
+    "akarKata": null,
+    "ejaan": "koa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue kering khas Sangir, terbuat dari adonan sagu, kacang hijau, kacang tanah atau kenari yang dihaluskan, gula putih, dicetak, dan kemudian dipanggang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sangir",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

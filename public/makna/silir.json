@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "si.lir",
+    "akarKata": null,
+    "ejaan": "silir",
+    "baku": true,
+    "alt": "semilir",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sejuk karena ada angin yang bertiup perlahan-lahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.lir",
+    "akarKata": null,
+    "ejaan": "silir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kemeja",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

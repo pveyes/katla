@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pa.cuk",
+    "akarKata": null,
+    "ejaan": "pacuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tabung buluh untuk tempat air dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.cuk",
+    "akarKata": null,
+    "ejaan": "pacuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tabung buluh untuk tempat air dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

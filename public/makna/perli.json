@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "per.li",
+    "akarKata": null,
+    "ejaan": "pêrli",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sindiran; ejekan",
+        "contoh": "kata-kata -- itu kian lama kian terasa menggores hatinya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "goda; rayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

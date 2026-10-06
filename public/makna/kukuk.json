@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ku.kuk",
+    "akarKata": null,
+    "ejaan": "kukuk",
+    "baku": false,
+    "alt": "kokok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi ayam jantan",
+        "contoh": "ketika fajar mulai merekah, terdengarlah -- ayam memecah kesunyian",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.kuk",
+    "akarKata": null,
+    "ejaan": "kukuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan kecil atau rumah-rumahan yang digunakan sebagai jalan keluar masuk atau lubang dari geladak cuaca ke ruangan di bawahnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "nap.si",
+    "akarKata": null,
+    "ejaan": "napsi",
+    "baku": false,
+    "alt": "nafsi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diri sendiri; orang seorang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat mementingkan diri sendiri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

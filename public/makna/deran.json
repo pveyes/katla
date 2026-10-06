@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.ran",
+    "akarKata": null,
+    "ejaan": "dêran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi, getaran, atau sinyal (isyarat) yang tidak diinginkan atau yang mengganggu suatu sistem",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

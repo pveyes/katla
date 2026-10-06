@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MPASI",
+    "akarKata": null,
+    "ejaan": "MPASI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan pendamping asi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

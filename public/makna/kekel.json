@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.kel",
+    "akarKata": null,
+    "ejaan": "kèkèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kikir; pelit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.kel",
+    "akarKata": null,
+    "ejaan": "kêkêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan tawar, mempunyai sungut di sekitar mulutnya, panjang mencapai 4,3 cm, hidup di perairan tropis, tersebar di perairan Kalimantan bagian utara dan Sungai Mekong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

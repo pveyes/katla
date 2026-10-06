@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Fo.bos",
+    "akarKata": null,
+    "ejaan": "Fobos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan milik Mars yang berdiameter sekitar 22 km, berbentuk tidak teratur, merupakan bulan yang berjarak terdekat dengan planet induknya di tata surya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

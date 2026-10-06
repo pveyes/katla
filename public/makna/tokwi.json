@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tok.wi",
+    "akarKata": null,
+    "ejaan": "tokwi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain penutup meja altar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

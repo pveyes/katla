@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "je.nak",
+    "akarKata": null,
+    "ejaan": "jênak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejenak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.nak",
+    "akarKata": null,
+    "ejaan": "jênak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyenyak; pulas (tentang tidur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.nak",
+    "akarKata": null,
+    "ejaan": "jênak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "nyenyak; pulas (tentang tidur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

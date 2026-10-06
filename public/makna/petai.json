@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.tai",
+    "akarKata": null,
+    "ejaan": "pêtai",
+    "baku": true,
+    "alt": "pete",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon tinggi rindang, buahnya berbentuk bilah pedang yang panjangnya 30 cm, tiap bilah berisikan 10–18 biji yang tersusun pada sepanjang bilah itu, berbau kurang sedap, dimakan sebagai sayur atau lalap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji petai (berbentuk polong, berwarna hijau, berkulit ari kuning); buah petai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

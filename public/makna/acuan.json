@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "acu.an",
+    "akarKata": "acu",
+    "ejaan": "acuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cetakan (kue, peluru, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acu.an",
+    "akarKata": "acu",
+    "ejaan": "acuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rujukan; referensi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola dasar penafsiran yang ditetapkan terlebih dahulu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

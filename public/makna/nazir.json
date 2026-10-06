@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "na.zir",
+    "akarKata": null,
+    "ejaan": "nazir",
+    "baku": false,
+    "alt": "nadir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengawas; inspektur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.zir",
+    "akarKata": null,
+    "ejaan": "nazir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyampai berita duka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.zir",
+    "akarKata": null,
+    "ejaan": "nazir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok orang atau badan hukum yang bertugas memelihara dan mengurus benda wakaf",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

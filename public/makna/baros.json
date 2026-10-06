@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.ros",
+    "akarKata": null,
+    "ejaan": "baros",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "manglid",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

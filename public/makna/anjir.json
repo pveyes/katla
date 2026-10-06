@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "an.jir",
+    "akarKata": null,
+    "ejaan": "anjir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terusan; saluran (air); kanal",
+        "contoh": "-- yang dibangun tidak dapat digunakan lagi untuk lalu lintas kendaraan air yang besar",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.jir",
+    "akarKata": null,
+    "ejaan": "anjir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "parsi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.jir",
+    "akarKata": null,
+    "ejaan": "anjir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanda letak jebakan rajungan, biasanya berupa sebatang kayu atau balok yang diberi warna mencolok",
+        "contoh": "ketika gelombang besar, banyak -- yang hilang",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

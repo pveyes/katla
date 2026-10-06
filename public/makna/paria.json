@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pa.ria",
+    "akarKata": null,
+    "ejaan": "paria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan masyarakat yang terendah atau hina dina (dalam masyarakat Hindu) yang tidak mempunyai kelas (kasta)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ria",
+    "akarKata": null,
+    "ejaan": "paria",
+    "baku": false,
+    "alt": "peria",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan menjalar, bunganya kecil-kecil berwarna kuning hampir serupa dengan bunga mentimun, buahnya seperti mentimun mempunyai permukaan kulit yang tidak licin, berbintil-bintil kecil, agak pahit rasanya, daunnya berwarna hijau dan bergerigi, bermanfaat untuk menyembuhkan sakit encok; pepare; pare",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah peria",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

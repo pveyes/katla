@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "la.pah",
+    "akarKata": null,
+    "ejaan": "lapah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotak tempat rokok (tembakau dan sebagainya); selepa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.pah",
+    "akarKata": null,
+    "ejaan": "lapah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kotak tempat rokok (tembakau dan sebagainya); selepa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

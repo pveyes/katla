@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "ka.bur",
+    "akarKata": null,
+    "ejaan": "kabur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat melihat sesuatu dengan jelas (tentang mata)",
+        "contoh": "matanya telah -- dimakan umur",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang terang (tentang pemandangan); kurang nyata (tentang lukisan); kurang jernih (tentang kaca); kurang jelas (tentang pertanyaan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan atmosfer yang tampak berkabut akibat adanya partikel yang sangat kecil dan kering yang cukup banyak terdapat di dalamnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.bur",
+    "akarKata": null,
+    "ejaan": "kabur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berlari cepat-cepat; melarikan diri",
+        "contoh": "pengebut -- dikejar Polantas",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meninggalkan tugas (pekerjaan, keluarga, dan sebagainya) tanpa pamit; menghilang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.bur",
+    "akarKata": null,
+    "ejaan": "kabur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumbang tanduk; kumbang kelapa; bangbung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

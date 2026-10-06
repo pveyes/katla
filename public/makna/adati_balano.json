@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.ti ba.la.no",
+    "akarKata": null,
+    "ejaan": "adati balano",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mahar pokok dalam tradisi pernikahan masyarakat Muna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "dak.sa",
+    "akarKata": null,
+    "ejaan": "daksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badan; tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sanskerta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "kal",
+    "akarKata": null,
+    "ejaan": "kal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran isi (untuk beras dan sebagainya) yang banyaknya setengah cupak",
+        "contoh": "ia membeli beras empat -- untuk bekal selama dua hari",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "KAL",
+    "akarKata": null,
+    "ejaan": "KAL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal angkatan laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

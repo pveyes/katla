@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ni.hil",
+    "akarKata": null,
+    "ejaan": "nihil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kosong sama sekali; tidak ada apa-apa",
+        "contoh": "hasilnya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada yang tidak hadir",
+        "contoh": "dalam daftar hadir untuk hari ini tertulis --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

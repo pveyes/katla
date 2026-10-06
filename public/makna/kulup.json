@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.lup",
+    "akarKata": null,
+    "ejaan": "kulup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelopak kulit yang menutupi ujung kemaluan laki-laki sebelum dikhitan; kulit khitan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan kepada anak laki-laki (terutama murid pertapaan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.yur",
+    "akarKata": null,
+    "ejaan": "sayur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun-daunan (seperti sawi), tumbuh-tumbuhan (taoge), polongan (kapri, buncis) dan sebagainya, yang dapat dimasak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan yang berkuah (seperti gulai, sup)",
+        "contoh": "-- asam",
+        "info": []
+      }
+    ]
+  }
+]

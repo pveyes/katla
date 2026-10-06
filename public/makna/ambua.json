@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.bua",
+    "akarKata": null,
+    "ejaan": "ambua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung gagak yang bersuara merdu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

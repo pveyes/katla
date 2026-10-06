@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "uda.ra",
+    "akarKata": null,
+    "ejaan": "udara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran berbagai gas yang tidak berwarna dan tidak berbau (seperti oksigen dan nitrogen) yang memenuhi ruang di atas bumi seperti yang kita hirup apabila kita bernapas; hawa",
+        "contoh": "berjalan-jalan menghirup -- segar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang di atas bumi yang berisi hawa; angkasa",
+        "contoh": "asap hitam mengepul ke --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan hawa (cuaca, hari)",
+        "contoh": "-- dalam bulan ini sangat panas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang berhubungan dengan penerbangan",
+        "contoh": "hubungan -- antara Jakarta dan kota-kota besar di seluruh Indonesia sudah lancar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suasana",
+        "contoh": "-- desa itu sedang tegang menjelang pemilihan lurah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "udara yang tidak berawan dan tidak berkabut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "udara yang bebas dari partikel padat atau cair yang dapat menyebabkan terhalangnya pandangan mendatar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

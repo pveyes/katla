@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "de.tik",
+    "akarKata": null,
+    "ejaan": "dêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi arloji dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.tik",
+    "akarKata": null,
+    "ejaan": "dêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran satuan waktu 1/60 menit; sekon",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ru.bik",
+    "akarKata": null,
+    "ejaan": "rubik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan seperti keripik yang dibuat dari singkong",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

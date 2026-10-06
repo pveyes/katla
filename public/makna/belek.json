@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "be.lek",
+    "akarKata": null,
+    "ejaan": "bèlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit yang menyebabkan mata merah dan berair serta banyak mengeluarkan kotoran mata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lek",
+    "akarKata": null,
+    "ejaan": "bèlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaleng; blek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lek",
+    "akarKata": null,
+    "ejaan": "bêlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kaleng; blek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lek",
+    "akarKata": null,
+    "ejaan": "bêlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

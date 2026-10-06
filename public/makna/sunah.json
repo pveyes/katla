@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "su.nah",
+    "akarKata": null,
+    "ejaan": "sunah",
+    "baku": true,
+    "alt": "sunat, sunnah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan yang biasa ditempuh; kebiasaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aturan agama yang didasarkan atas segala apa yang dinukilkan dari Nabi Muhammad saw., baik perbuatan, perkataan, sikap, maupun kebiasaan yang tidak pernah ditinggalkannya; hadis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan yang apabila dilakukan mendapat pahala dan apabila tidak dikerjakan tidak berdosa",
+        "contoh": "ia rajin berpuasa -- setiap hari Senin dan Kamis",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

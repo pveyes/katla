@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.lam",
+    "akarKata": null,
+    "ejaan": "gêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, kayunya agak keras dan berat, berwarna putih kelabu, digunakan dalam pembuatan perahu-perahu kecil; daun yang muda menghasilkan sedikit minyak; kayu putih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.lam",
+    "akarKata": null,
+    "ejaan": "gêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna cokelat kemerah-merahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ca.mar",
+    "akarKata": null,
+    "ejaan": "camar",
+    "baku": true,
+    "alt": "cakmar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung laut berwarna putih keabu-abuan, berparuh panjang dan runcing, bersayap panjang yang ujungnya meruncing, ekornya bercanggah seperti garpu, badannya langsing, berkaki pendek kemerah-merahan dan berselaput renang; dara laut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.mar",
+    "akarKata": null,
+    "ejaan": "camar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lahap; rakus; sangat gemar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ji.lid",
+    "akarKata": null,
+    "ejaan": "jilid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jahitan buku (majalah dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggalan atau bagian buku",
+        "contoh": "buku sejarah Indonesia untuk SMP terbagi menjadi tiga --",
+        "info": []
+      }
+    ]
+  }
+]

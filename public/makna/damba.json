@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "dam.ba",
+    "akarKata": null,
+    "ejaan": "damba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat ingin; rindu",
+        "contoh": "suami istri itu -- seorang anak laki-laki",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dam.ba",
+    "akarKata": null,
+    "ejaan": "damba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "diam, tidak bercakap-cakap karena kurang senang hati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dam.ba",
+    "akarKata": null,
+    "ejaan": "damba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "diam, tidak bercakap-cakap karena kurang senang hati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

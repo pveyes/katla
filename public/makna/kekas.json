@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.kas",
+    "akarKata": null,
+    "ejaan": "kêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kais",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.kas",
+    "akarKata": null,
+    "ejaan": "kêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebidang tanah di antara ladang baru dan ladang yang telah ditanami",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

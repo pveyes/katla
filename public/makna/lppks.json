@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LPPKS",
+    "akarKata": null,
+    "ejaan": "LPPKS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lembaga Pengembangan dan Pemberdayaan Kepala Sekolah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

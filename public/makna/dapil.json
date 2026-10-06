@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "da.pil",
+    "akarKata": null,
+    "ejaan": "dapil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah pemilihan",
+        "contoh": "calon legislator bertarung di -- masing-masing",
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

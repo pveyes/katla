@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "te.gap",
+    "akarKata": null,
+    "ejaan": "têgap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kokoh kuat (tentang badan); gagah kuat (tentang sikap badan)",
+        "contoh": "badannya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat; kukuh; teguh",
+        "contoh": "-- dan tegas pendiriannya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.gap",
+    "akarKata": null,
+    "ejaan": "têgap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(ikan) parang (4)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

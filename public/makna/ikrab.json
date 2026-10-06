@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "ik.rab",
+    "akarKata": null,
+    "ejaan": "ikrab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan bentuk kata berkenaan dengan perbedaan, posisi, waktu, persona, dan jumlah (dalam kalimat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ik.rab",
+    "akarKata": null,
+    "ejaan": "ikrab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang rapat benar; karib; akrab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

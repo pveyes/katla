@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ali.no",
+    "akarKata": null,
+    "ejaan": "alino",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggambarkan sesuatu dengan contoh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jayawijaya",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

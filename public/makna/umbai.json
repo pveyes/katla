@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "um.bai",
+    "akarKata": null,
+    "ejaan": "umbai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumbai; rumbai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambahan; embel-embel",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "um.bai",
+    "akarKata": null,
+    "ejaan": "umbai",
+    "baku": false,
+    "alt": "umbuk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bujuk(an); tipu (dengan kata-kata manis atau janji yang muluk-muluk)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

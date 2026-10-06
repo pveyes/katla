@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.yir",
+    "akarKata": null,
+    "ejaan": "payir",
+    "baku": false,
+    "alt": "pair",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu peronda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal penjelajah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "mu.kah",
+    "akarKata": null,
+    "ejaan": "mukah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan sanggama secara tidak sah antara laki-laki atau perempuan yang telah menikah dan seseorang yang berlainan jenis yang belum menikah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zina",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

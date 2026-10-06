@@ -10,7 +10,9 @@
     "test": "vitest run",
     "update": "node ./.scripts/update.js",
     "format": "prettier --write '**/*.{js,md,json,yml,yaml,css,ts,tsx}'",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "makna": "node ./.scripts/makna.mjs",
+    "makna:words": "node ./.scripts/makna-words.mjs"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"

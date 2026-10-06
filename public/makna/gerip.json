@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.rip",
+    "akarKata": null,
+    "ejaan": "gêrip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak batu tulis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rip",
+    "akarKata": null,
+    "ejaan": "gêrip",
+    "baku": false,
+    "alt": "gerit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi benda keras (pena dan sebagainya) digariskan dan sebagainya",
+        "contoh": "saya mendengar -- kursi",
+        "info": []
+      }
+    ]
+  }
+]

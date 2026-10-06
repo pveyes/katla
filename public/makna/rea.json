@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Rea",
+    "akarKata": null,
+    "ejaan": "réa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satelit milik Saturnus dengan diameter 1.528 km yang seluruh permukaannya dipenuhi kawah dan patahan yang memanjang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

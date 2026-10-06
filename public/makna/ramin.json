@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ra.min",
+    "akarKata": null,
+    "ejaan": "ramin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang kayunya berwarna kuning ketika dibelah, sesudah itu berubah menjadi putih, tumbuh di daerah rawa-rawa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu pohon ramin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.min",
+    "akarKata": null,
+    "ejaan": "ramin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anyaman yang berbelit-belit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.min",
+    "akarKata": null,
+    "ejaan": "ramin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyembelih hewan dan sebagainya untuk dimakan bersama-sama di alam terbuka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

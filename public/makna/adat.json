@@ -1,0 +1,79 @@
+[
+  {
+    "sukuKata": "adat",
+    "akarKata": null,
+    "ejaan": "adat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aturan (perbuatan dan sebagainya) yang lazim diturut atau dilakukan sejak dahulu kala",
+        "contoh": "menurut -- daerah ini, laki-lakilah yang berhak mengatur ahli waris",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara (kelakuan dan sebagainya) yang sudah menjadi kebiasaan; kebiasaan",
+        "contoh": "demikianlah --nya apabila ia marah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wujud gagasan kebudayaan yang terdiri atas nilai-nilai budaya, norma, hukum, dan aturan yang satu dengan yang lain berkaitan menjadi suatu sistem",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cukai menurut peraturan yang berlaku (di pelabuhan dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "adat",
+    "akarKata": null,
+    "ejaan": "adat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gotong royong membangun rumah pada suku Kur, Provinsi Maluku",
+        "contoh": "masyarakat melakukan -- untuk warga desa yang baru menikah",
+        "info": [
+          {
+            "sumber": "kur",
+            "sumberTeks": "bahasa di maluku, ditambahkan pd pemutakhiran oktober 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "adat",
+    "akarKata": null,
+    "ejaan": "adat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "gotong royong membangun rumah pada suku Kur, Provinsi Maluku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

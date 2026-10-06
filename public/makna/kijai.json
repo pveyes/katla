@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ki.jai",
+    "akarKata": null,
+    "ejaan": "kijai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, kayunya agak keras dan awet, berwarna kuning atau merah, dibuat bahan bangunan rumah dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kijai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.jai",
+    "akarKata": null,
+    "ejaan": "kijai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kibas jari atau tangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

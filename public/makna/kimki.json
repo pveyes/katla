@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Kim.ki",
+    "akarKata": null,
+    "ejaan": "Kimki",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah perbatasan dengan Papua Nugini, sekitar daerah aliran sungai Sepik, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Kimki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

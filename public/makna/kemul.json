@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ke.mul",
+    "akarKata": null,
+    "ejaan": "kêmul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selimut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

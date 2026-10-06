@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Wo.lio",
+    "akarKata": null,
+    "ejaan": "Wolio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Buton dan Bau-bau, Sulawesi Tenggara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Wolio",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "go.tik",
+    "akarKata": null,
+    "ejaan": "gotik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaya arsitektur (seni pahat dan seni lukis) pada abad XII–XVI di Eropa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "barbar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "serba hitam (tentang busana)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

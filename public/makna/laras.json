@@ -1,0 +1,108 @@
+[
+  {
+    "sukuKata": "la.ras",
+    "akarKata": null,
+    "ejaan": "laras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(tinggi rendah) nada (suara, bunyi musik, dan sebagainya); tala",
+        "contoh": "kecapi ini agak rendah --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesesuaian; kesamaan",
+        "contoh": "bentuk dan isi sajak itu menunjukkan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.ras",
+    "akarKata": null,
+    "ejaan": "laras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bulat panjang dan lurus (seperti batang pohon, bambu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.ras",
+    "akarKata": null,
+    "ejaan": "laras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembuluh senapan (bedil) tempat lewat peluru",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong untuk senapan",
+        "contoh": "mereka membawa lima -- senapan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.ras",
+    "akarKata": null,
+    "ejaan": "laras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "distrik di Minangkabau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar pemerintahan menurut adat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.ras",
+    "akarKata": null,
+    "ejaan": "laras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gugur; luruh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

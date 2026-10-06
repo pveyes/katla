@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ke.rap",
+    "akarKata": null,
+    "ejaan": "kêrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkali-kali; berulang kali; sering",
+        "contoh": "ia -- datang ke rumahku",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak jarang (tentang anyaman, tenunan, dan sebagainya); rapat",
+        "contoh": "anyamannya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak jauh antaranya (tentang barang yang berderet-deret)",
+        "contoh": "jarak penanaman bibit itu sangat --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rap",
+    "akarKata": null,
+    "ejaan": "kêrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "derit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

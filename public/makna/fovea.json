@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "fo.vea",
+    "akarKata": null,
+    "ejaan": "fovèa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kecil yang melekuk pada retina mata yang menghasilkan penglihatan yang tajam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "fo.vea",
+    "akarKata": null,
+    "ejaan": "fovèa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar polinia pada tanaman anggrek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cekungan pada dasar daun paku Isoetales yang mengandung sporangium",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

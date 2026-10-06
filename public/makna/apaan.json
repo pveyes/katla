@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "apa.an",
+    "akarKata": "apa",
+    "ejaan": "apaan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya yang digunakan untuk menanyakan tindakan, tanpa mengharapkan jawaban",
+        "contoh": "mainan ~ ini?",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.hul",
+    "akarKata": null,
+    "ejaan": "tihul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa kayu yang sudah terbakar sebagian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

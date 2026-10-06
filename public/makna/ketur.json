@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.tur",
+    "akarKata": null,
+    "ejaan": "kêtur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat ludah (ketika makan sirih dan sebagainya); peludahan; tempolong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tur",
+    "akarKata": null,
+    "ejaan": "kêtur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berketur"
+        ]
+      }
+    ]
+  }
+]

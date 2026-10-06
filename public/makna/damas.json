@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "da.mas",
+    "akarKata": null,
+    "ejaan": "damas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "habis uang karena boros",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.mas",
+    "akarKata": null,
+    "ejaan": "damas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain sutra, linen, atau beludru yang berbunga-bunga dan berwarna",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

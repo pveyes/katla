@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "Pa.pua",
+    "akarKata": null,
+    "ejaan": "Papua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pulau yang terletak di bagian timur Indonesia, berbatasan dengan Papua Nugini",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan di daerah Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "provinsi yang terletak di Pulau Papua, beribu kota Jayapura",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

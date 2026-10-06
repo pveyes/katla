@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.der",
+    "akarKata": null,
+    "ejaan": "radêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat jahit berupa batang dengan roda di bagian ujungnya, digunakan untuk memberi tanda jahitan pada kain sesuai pola yang diinginkan, biasanya dipasangkan dengan kapur jahit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.der",
+    "akarKata": null,
+    "ejaan": "radêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat berupa batang dengan roda berujung juri di ujungnya, digunakan untuk menandai pola jahitan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "VOC",
+    "akarKata": null,
+    "ejaan": "VOC",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persekutuan dagang asal Belanda yang memiliki hak monopoli atas perdagangan di Asia pada abad ke-17 hingga ke-18; dari Verenigde Oostindische Compagnie",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

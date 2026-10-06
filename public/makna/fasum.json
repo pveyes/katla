@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "fa.sum",
+    "akarKata": null,
+    "ejaan": "fasum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fasilitas umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "fas.um",
+    "akarKata": null,
+    "ejaan": "fasum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fasilitas umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

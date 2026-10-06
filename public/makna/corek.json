@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "co.rek",
+    "akarKata": null,
+    "ejaan": "corèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis panjang; coret",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.rek",
+    "akarKata": null,
+    "ejaan": "corèk",
+    "baku": false,
+    "alt": "curik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golok pendek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

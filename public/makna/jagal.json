@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ja.gal",
+    "akarKata": null,
+    "ejaan": "jagal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedagang kecil (di kedai dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.gal",
+    "akarKata": null,
+    "ejaan": "jagal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bertugas menyembelih (memotong) binatang ternak (seperti lembu, kambing, kerbau) di rumah pemotongan hewan; pembantai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang berusaha di bidang potong-memotong hewan atau sebagai agen penjual daging hewan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembunuh orang yang tidak bersalah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

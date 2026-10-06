@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UPT",
+    "akarKata": null,
+    "ejaan": "UPT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unit pelaksana teknis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

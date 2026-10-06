@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "APERD",
+    "akarKata": null,
+    "ejaan": "APERD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "agen penjual efek reksa dana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

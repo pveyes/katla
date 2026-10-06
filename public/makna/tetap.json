@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "te.tap",
+    "akarKata": null,
+    "ejaan": "têtap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selalu berada (tinggal, berdiri, dan sebagainya) di tempatnya",
+        "contoh": "orang tuanya -- tinggal di dusun",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berubah (keadaannya, kedudukannya, dan sebagainya)",
+        "contoh": "kalimat itu terbentuk menurut pola-pola -- dan tertentu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak berpindah-pindah; tidak beranjak",
+        "contoh": "bertiup angin timur yang -- arahnya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "selalu demikian halnya (tentang keadaan, perbuatan, dan sebagainya)",
+        "contoh": "sampai kini ia masih -- menjadi bupati",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak putus-putusnya; selalu; terus",
+        "contoh": "matanya -- melihat pada satu tempat saja",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "untuk selamanya (tidak untuk sementara)",
+        "contoh": "bangunan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kekal selama-lamanya; lestari",
+        "contoh": "di dunia ini tiada sesuatu pun yang --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sudah pasti (tentu)",
+        "contoh": "tempat dan harinya sudah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.tap",
+    "akarKata": null,
+    "ejaan": "têtap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menetap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

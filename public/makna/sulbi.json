@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sul.bi",
+    "akarKata": null,
+    "ejaan": "sulbi",
+    "baku": true,
+    "alt": "sulub",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tulang rusuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "sukuKata": "BAK",
+    "akarKata": null,
+    "ejaan": "BAK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buang air kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Biro Administrasi Keuangan (unsur pelaksana administrasi keuangan di perguruan tinggi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bak",
+    "akarKata": null,
+    "ejaan": "bak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menyatakan perbandingan; bagaikan",
+        "contoh": "kedua anak muda itu wajahnya mirip, -- pinang dibelah dua",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bak",
+    "akarKata": null,
+    "ejaan": "bak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotak besar (tempat sampah, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kolam tempat air di kamar mandi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bak",
+    "akarKata": null,
+    "ejaan": "bak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tinta cina (hitam warnanya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bak",
+    "akarKata": null,
+    "ejaan": "bak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi tamparan (pukulan dan sebagainya); debak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

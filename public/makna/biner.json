@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bi.ner",
+    "akarKata": null,
+    "ejaan": "binèr",
+    "baku": true,
+    "alt": "binari",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terjadi dari atau ditandai oleh dua benda atau dua bagian; serba dua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berdasar dua (tentang bilangan pada sistem bilangan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

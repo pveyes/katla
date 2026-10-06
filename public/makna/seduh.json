@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "se.duh",
+    "akarKata": null,
+    "ejaan": "sêduh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyeduh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.duh",
+    "akarKata": null,
+    "ejaan": "sêduh",
+    "baku": true,
+    "alt": "sedu",
+    "makna": [
+      {
+        "definisi": "menyeduh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

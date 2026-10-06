@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pi.tot",
+    "akarKata": null,
+    "ejaan": "pitot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tabung untuk mengukur kecepatan aliran zat-alir atau kecepatan pesawat terbang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

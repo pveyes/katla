@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pa.kem",
+    "akarKata": null,
+    "ejaan": "pakêm",
+    "baku": true,
+    "alt": "pekam",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat mencekam (tentang rem)",
+        "contoh": "rem sepeda motor itu sangat --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.kem",
+    "akarKata": null,
+    "ejaan": "pakêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerita asli (tentang wayang dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedoman pokok (tentang aturan, tata cara, dan sebagainya)",
+        "contoh": "pemangkasan dilakukan di luar -- yang telah ditetapkan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keaslian; kemurnian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

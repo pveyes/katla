@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "kal.bu",
+    "akarKata": null,
+    "ejaan": "kalbu",
+    "baku": true,
+    "alt": "kolbu, qalbu, qolbu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pangkal perasaan batin; hati yang suci (murni); hati",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kal.bu",
+    "akarKata": null,
+    "ejaan": "kalbu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengelompokan sosial dalam masyarakat pada masa Kesultanan Jambi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

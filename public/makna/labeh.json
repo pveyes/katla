@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "la.beh",
+    "akarKata": null,
+    "ejaan": "labèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak enak (tentang makanan) karena terlalu banyak bumbu atau salah resep",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berasa",
+        "contoh": "lidahnya terasa -- karena sedang demam",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

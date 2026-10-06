@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.tus",
+    "akarKata": null,
+    "ejaan": "tutus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali kecil-kecil dan pendek terbuat dari belahan bambu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

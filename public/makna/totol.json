@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "to.tol",
+    "akarKata": null,
+    "ejaan": "totol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "totol-totol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

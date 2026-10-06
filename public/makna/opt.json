@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "OPT",
+    "akarKata": null,
+    "ejaan": "OPT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organisme pengganggu tumbuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

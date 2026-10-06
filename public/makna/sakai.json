@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "Sa.kai",
+    "akarKata": null,
+    "ejaan": "Sakai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Indonesia yang tinggal di Kepulauan Riau dan di Tanah Melayu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh masyarakat Sakai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.kai",
+    "akarKata": null,
+    "ejaan": "sakai",
+    "baku": true,
+    "alt": "sagai",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang bawahan (hamba, pengiring, rakyat, dan sebagainya)",
+        "contoh": "hulubalang itu pun berangkat dengan membawa sejumlah --nya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

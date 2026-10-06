@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ban.do",
+    "akarKata": null,
+    "ejaan": "bando",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda pipih melengkung (setengah lingkaran) terbuat dari plastik dan sebagainya untuk mengatur rambut bagian depan (terutama pada anak perempuan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ban.do",
+    "akarKata": null,
+    "ejaan": "bando",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bendu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

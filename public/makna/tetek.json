@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.tek",
+    "akarKata": null,
+    "ejaan": "tètèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susu; payudara",
+        "contoh": "babu --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.tek",
+    "akarKata": null,
+    "ejaan": "tètèk",
+    "baku": true,
+    "alt": "tektek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(masalah) yang kecil-kecil dan yang remeh-remeh (kurang penting, kurang berguna, dan sebagainya)",
+        "contoh": "masalah -- dalam keluarga perlu juga diselesaikan",
+        "info": []
+      }
+    ]
+  }
+]

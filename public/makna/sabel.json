@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.bel",
+    "akarKata": null,
+    "ejaan": "sabêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat atau senjata dalam olahraga anggar, terbuat dari besi, berbentuk panjang kecil yang bagian depannya lancip, digunakan untuk menusuk dan memarang dengan bidang sasaran terbatas, biasanya hanya untuk putra",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

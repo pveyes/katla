@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ja.mik",
+    "akarKata": null,
+    "ejaan": "jamik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masjid",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

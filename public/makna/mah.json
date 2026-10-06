@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "mah",
+    "akarKata": null,
+    "ejaan": "mah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "maha (misalnya mahraja, maharaja)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mah",
+    "akarKata": null,
+    "ejaan": "mah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata untuk menyatakan penegasan ucapan, biasanya digunakan setelah kata ganti orang; sih",
+        "contoh": "dia -- jarang di rumah",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

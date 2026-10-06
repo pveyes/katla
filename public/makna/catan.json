@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "cat.an",
+    "akarKata": "cat",
+    "ejaan": "catan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil mengecat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

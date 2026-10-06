@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bui",
+    "akarKata": null,
+    "ejaan": "bui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bui",
+    "akarKata": null,
+    "ejaan": "bui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelampung yang dirantai ke dasar laut, dipakai sebagai petunjuk lalu lintas (untuk kapal) dan tanda tempat dangkal (karang) di bawah permukaan air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

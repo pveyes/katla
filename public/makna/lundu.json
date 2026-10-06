@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lun.du",
+    "akarKata": null,
+    "ejaan": "lundu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan sungai yang bentuknya seperti belut, tetapi pendek, panjang mencapai 150 cm, berat 15 kg, hidup di dasar perairan tropis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lun.du",
+    "akarKata": null,
+    "ejaan": "lundu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi 20 m, kayunya digunakan untuk bahan bangunan sementara, barang-barang kecil seperti tongkat dan gagang peralatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

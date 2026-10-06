@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pol.ka",
+    "akarKata": null,
+    "ejaan": "polka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian cepat (dari negeri Bohemia) dengan tempo 2/4",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musik tarian polka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.mis",
+    "akarKata": null,
+    "ejaan": "komis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jabatan kantor di atas juru tulis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

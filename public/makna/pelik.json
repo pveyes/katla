@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pe.lik",
+    "akarKata": null,
+    "ejaan": "pêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jarang ada; aneh; tidak biasa",
+        "contoh": "peneliti itu mencari barang yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "amat indah",
+        "contoh": "itu adalah suatu kisah yang -- dalam hidupnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat rumit; sulit",
+        "contoh": "soal yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.lik",
+    "akarKata": null,
+    "ejaan": "pêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerabu; subang kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

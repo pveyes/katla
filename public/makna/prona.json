@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pro.na",
+    "akarKata": null,
+    "ejaan": "prona",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "program nasional agraria",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

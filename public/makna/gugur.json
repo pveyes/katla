@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "gu.gur",
+    "akarKata": null,
+    "ejaan": "gugur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh sebelum masak (tentang buah-buahan); lahir sebelum waktunya (tentang bayi); runtuh (tentang tanah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "batal; tidak jadi; tidak berlaku lagi",
+        "contoh": "calon yang tidak datang dinyatakan -- sebagai peserta",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mati dalam pertempuran",
+        "contoh": "dua orang prajurit -- dalam pertempuran itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kalah; rontok",
+        "contoh": "petinju harapan kita -- pada ronde kedua",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "dan.ki",
+    "akarKata": null,
+    "ejaan": "danki",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komandan kompi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

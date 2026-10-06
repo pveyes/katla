@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.cak",
+    "akarKata": null,
+    "ejaan": "racak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tunggang; naik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

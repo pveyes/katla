@@ -1,0 +1,19 @@
+[
+  {
+    "sukuKata": "be.num",
+    "akarKata": null,
+    "ejaan": "bênum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "benuman",
+          "membenum"
+        ]
+      }
+    ]
+  }
+]

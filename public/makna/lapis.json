@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "la.pis",
+    "akarKata": null,
+    "ejaan": "lapis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susun; bagian",
+        "contoh": "-- tanah yang di bawah terdiri atas pasir",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saf; deretan; banjar",
+        "contoh": "untuk pertahanan, pasukan terdiri atas lima --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda tipis digunakan untuk menyadur atau menyalut benda lain",
+        "contoh": "-- hulu pisau (cincin, gelang, dan sebagainya) itu dibuat dari emas",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.pis",
+    "akarKata": null,
+    "ejaan": "lapis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersayat (tentang daging dan sebagainya); beriris-iris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lu.gut",
+    "akarKata": null,
+    "ejaan": "lugut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "miang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

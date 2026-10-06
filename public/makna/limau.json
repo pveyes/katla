@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.mau",
+    "akarKata": null,
+    "ejaan": "limau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan dan buahnya, termasuk keluarga Citrus dan mempunyai berbagai jenis dan varietas; jeruk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah limau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

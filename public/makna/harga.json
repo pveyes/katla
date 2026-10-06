@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "har.ga",
+    "akarKata": null,
+    "ejaan": "harga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai barang yang ditentukan atau dirupakan dengan uang",
+        "contoh": "mobil ini sangat mahal --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah uang atau alat tukar lain yang senilai, yang harus dibayarkan untuk produk atau jasa, pada waktu tertentu dan di pasar tertentu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kehormatan (diri)",
+        "contoh": "tahu akan -- dirinya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guna (arti, kepentingan, kabar, dan sebagainya)",
+        "contoh": "saran itu dianggap tidak ada --nya untuk diperhatikan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

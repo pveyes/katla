@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KRD",
+    "akarKata": null,
+    "ejaan": "KRD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kereta rel diesel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "me.gar",
+    "akarKata": null,
+    "ejaan": "mêgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mekar; berkembang",
+        "contoh": "payungnya tidak mau --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

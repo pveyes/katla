@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bak.da",
+    "akarKata": null,
+    "ejaan": "bakda",
+    "baku": true,
+    "alt": "bada",
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "sesudah",
+        "contoh": "-- magrib",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bak.da",
+    "akarKata": null,
+    "ejaan": "bakda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permulaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

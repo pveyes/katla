@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "tu.lis",
+    "akarKata": null,
+    "ejaan": "tulis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menulis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

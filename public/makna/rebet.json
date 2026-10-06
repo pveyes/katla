@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "re.bet",
+    "akarKata": null,
+    "ejaan": "rèbèt",
+    "baku": false,
+    "alt": "rembet",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rambat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.bet",
+    "akarKata": null,
+    "ejaan": "rèbèt",
+    "baku": false,
+    "alt": "ribut",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kencang, gemuruh, dan tidak tentu arahnya (tentang angin)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

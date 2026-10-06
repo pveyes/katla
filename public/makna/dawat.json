@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.wat",
+    "akarKata": null,
+    "ejaan": "dawat",
+    "baku": true,
+    "alt": "dakwat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tinta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

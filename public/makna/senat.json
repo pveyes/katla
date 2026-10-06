@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "se.nat",
+    "akarKata": null,
+    "ejaan": "sènat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dewan perwakilan rakyat yang tertinggi (seperti di Amerika Serikat, Prancis)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dewan pengajar di perguruan tinggi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organisasi mahasiswa pada tingkat fakultas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

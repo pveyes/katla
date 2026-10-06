@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "Ndu.ga",
+    "akarKata": null,
+    "ejaan": "Nduga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama lain suku Ndugwa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Ndugwa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

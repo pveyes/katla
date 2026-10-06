@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "lu.buk",
+    "akarKata": null,
+    "ejaan": "lubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang dalam di sungai (laut, danau, dan sebagainya)",
+        "contoh": "menangkap ikan di --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berlekuk dalam; jeluk",
+        "contoh": "piring --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "daerah hidrosfer yang kedalamannya dapat mencapai 6.000 kaki atau lebih di lautan dan 1.000 kaki atau lebih di danau dan yang tidak tertembus oleh cahaya matahari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hidrologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

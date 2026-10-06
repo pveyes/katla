@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HTI",
+    "akarKata": null,
+    "ejaan": "HTI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hutan tanaman industri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

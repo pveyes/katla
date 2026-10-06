@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "sel",
+    "akarKata": null,
+    "ejaan": "sèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian atau bentuk terkecil dari organisme, terdiri atas satu atau lebih inti, protoplasma, dan zat-zat mati yang dikelilingi oleh selaput sel",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sel",
+    "akarKata": null,
+    "ejaan": "sèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilik kecil dan sempit (dalam penjara, biara, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sel",
+    "akarKata": null,
+    "ejaan": "sèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petak pada alat penghasil tenaga listrik dengan reaksi kimia, biasanya pada baterai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang memuat elektrolit yang dapat menghasilkan arus listrik atau digunakan dalam elektrolisis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

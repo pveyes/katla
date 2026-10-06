@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.cau",
+    "akarKata": null,
+    "ejaan": "pacau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang berbau busuk, dapat digunakan untuk menakut-nakuti burung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guna-guna yang digantungkan di pohon supaya buah pohon itu tidak dipetik orang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

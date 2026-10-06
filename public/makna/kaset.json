@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.set",
+    "akarKata": null,
+    "ejaan": "kasèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah plastik dengan pita magnetik yang dapat berputar dari satu gelendong ke gelendong yang lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah tertutup untuk menyimpan film atau bahan yang peka cahaya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

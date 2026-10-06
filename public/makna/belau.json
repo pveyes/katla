@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "be.lau",
+    "akarKata": null,
+    "ejaan": "bêlau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepung biru sebagai bahan pencampur air pembilas cucian agar warna pakaian menjadi kebiru-biruan, biasanya untuk pakaian putih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lau",
+    "akarKata": null,
+    "ejaan": "bêlau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beledang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, payau, atau air tawar, hidup di perairan tropis, pada daerah muara dan pantai, merupakan ikan yang beruaya dari laut ke air tawar, panjang mencapai 22 cm, tersebar di perairan Indo-Pasifik Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.lau",
+    "akarKata": null,
+    "ejaan": "bêlau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berbelau-belauan"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ri.ung",
+    "akarKata": null,
+    "ejaan": "riung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meriung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ri.ung",
+    "akarKata": null,
+    "ejaan": "Riung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Flores bagian tengah, Provinsi Nusa Tenggara Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Riung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

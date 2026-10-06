@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ju.rit",
+    "akarKata": null,
+    "ejaan": "jurit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

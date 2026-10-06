@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "abau",
+    "akarKata": null,
+    "ejaan": "abau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kura-kura yang hidup di rawa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Abau",
+    "akarKata": null,
+    "ejaan": "Abau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah sekitar perbatasan Indonesia dan Papua Nugini di Kabupaten Jayapura, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Abau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

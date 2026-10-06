@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UPM",
+    "akarKata": null,
+    "ejaan": "UPM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "usaha pertanian menetap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

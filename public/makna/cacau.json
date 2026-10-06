@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ca.cau",
+    "akarKata": null,
+    "ejaan": "cacau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lincah; selalu berpindah-pindah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak tetap (tentang pikiran, pendapat)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gugup (kebingungan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sebentar-sebentar kawin (tentang laki-laki)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak bicara, cerewet (tentang orang); banyak, senang, atau sering berkicau (tentang burung dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

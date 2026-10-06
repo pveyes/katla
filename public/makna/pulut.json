@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pu.lut",
+    "akarKata": null,
+    "ejaan": "pulut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah (dari tumbuhan yang dipulaskan pada ranting kayu untuk menangkap burung)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.lut",
+    "akarKata": null,
+    "ejaan": "pulut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padi yang berasnya menjadi lengket dan kenyal jika dimasak; beras ketan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari beras ketan seperti -- kinca, -- panggang, -- udang, -- urap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "mo.dal",
+    "akarKata": null,
+    "ejaan": "modal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang dipakai sebagai pokok (induk) untuk berdagang, melepas uang, dan sebagainya; harta benda (uang, barang, dan sebagainya) yang dapat dipergunakan untuk menghasilkan sesuatu yang menambah kekayaan dan sebagainya",
+        "contoh": "ia menanam --nya dalam perusahaaan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang digunakan sebagai dasar atau bekal untuk bekerja (berjuang dan sebagainya)",
+        "contoh": "keberanian merupakan -- pertama dalam ujian",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

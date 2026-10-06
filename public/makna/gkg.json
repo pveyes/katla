@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GKG",
+    "akarKata": null,
+    "ejaan": "GKG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabah kering giling",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

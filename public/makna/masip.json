@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.sip",
+    "akarKata": null,
+    "ejaan": "masip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengambil air dari sungai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

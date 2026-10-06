@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "ke.jar",
+    "akarKata": null,
+    "ejaan": "kêjar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "susul dengan berlari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.jar",
+    "akarKata": null,
+    "ejaan": "kêjar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok belajar (program pendidikan kesetaraan yang difasilitasi oleh pemerintah bagi peserta didik yang tidak mampu bersekolah formal dan yang putus sekolah tetapi ingin melanjutkan pendidikan kembali, terdiri atas kejar paket A setara SD/MI, B setara SMP/MT, dan C setara SMA/MA)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

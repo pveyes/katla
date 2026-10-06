@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "su.kun",
+    "akarKata": null,
+    "ejaan": "sukun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak bergigi (tentang gusi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak berbiji (untuk buah-buahan yang biasanya berbiji)",
+        "contoh": "jambu --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.kun",
+    "akarKata": null,
+    "ejaan": "sukun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon seperti keluih yang buahnya tidak berbiji",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.kun",
+    "akarKata": null,
+    "ejaan": "sukun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanda hilangnya vokal dalam ejaan bahasa Arab yang diletakkan di atas konsonan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

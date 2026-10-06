@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ra.ker",
+    "akarKata": null,
+    "ejaan": "rakêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rapat kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

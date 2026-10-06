@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pra.mi",
+    "akarKata": null,
+    "ejaan": "prami",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pramugari kereta api",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

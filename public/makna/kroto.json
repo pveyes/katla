@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kro.to",
+    "akarKata": null,
+    "ejaan": "kroto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telur semut kerengga, biasanya digunakan sebagai pakan burung atau ikan",
+        "contoh": "bibit -- biasanya dijual dalam kemasan stoples atau botol plastik bening",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

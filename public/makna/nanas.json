@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "na.nas",
+    "akarKata": null,
+    "ejaan": "nanas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman tropis dan subtropis, buahnya berbentuk bulat panjang, kira-kira sebesar kepala orang, kulit buahnya bersusun sisik, berbiji mata banyak, daunnya panjang, berserat, dan berduri pada kedua belah sisinya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah nanas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "sukuKata": "in.duk",
+    "akarKata": null,
+    "ejaan": "induk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu (terutama tentang binatang); emak",
+        "contoh": "-- ayam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konstituen terpenting dalam konstruksi modifikasi yang berkemampuan menempati fungsi sintaktis yang sama dengan seluruh konstruksi itu, misalnya berjalan dalam berjalan cepat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang terutama; yang menjadi pokok atau pangkal yang menjadi asal",
+        "contoh": "-- keributan itu adalah diganggunya gadis lugu itu oleh pemuda berandal",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inti; pati; bibit; biang",
+        "contoh": "-- cuka",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusat (yang menjadi penyatu bagian, cabang, dan sebagainya)",
+        "contoh": "-- perusahaan",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

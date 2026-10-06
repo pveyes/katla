@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PPD",
+    "akarKata": null,
+    "ejaan": "PPD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panitia pemilihan daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

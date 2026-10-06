@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lin.da",
+    "akarKata": null,
+    "ejaan": "linda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tari tradisional Karia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.top",
+    "akarKata": null,
+    "ejaan": "sêtop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhenti; terhenti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.top",
+    "akarKata": null,
+    "ejaan": "sêtop",
+    "baku": false,
+    "alt": "setup",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah-buahan dan sebagainya yang dimasak dengan dikukus atau direbus dan dibubuhi gula",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

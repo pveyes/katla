@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ev.dem",
+    "akarKata": null,
+    "ejaan": "évdém",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "evaluasi demografi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

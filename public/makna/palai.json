@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.lai",
+    "akarKata": null,
+    "ejaan": "palai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pepes ikan kecil-kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

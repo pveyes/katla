@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "guf.ra",
+    "akarKata": null,
+    "ejaan": "gufra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah air yang ada di dalam cakupan tangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

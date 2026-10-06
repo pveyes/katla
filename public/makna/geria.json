@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ge.ria",
+    "akarKata": null,
+    "ejaan": "gêria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah tempat tinggal golongan Brahmana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

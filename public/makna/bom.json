@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "bom",
+    "akarKata": null,
+    "ejaan": "bom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senjata yang bentuknya seperti peluru besar yang berisi bahan peledak untuk menimbulkan kerusakan besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bom",
+    "akarKata": null,
+    "ejaan": "bom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu penarik pedati (dokar dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu palang (perintang pelabuhan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelabuhan; pabean",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bom",
+    "akarKata": null,
+    "ejaan": "bom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombak yang dipakai untuk maskawin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

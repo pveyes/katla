@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "zo.nal",
+    "akarKata": null,
+    "ejaan": "zonal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan zona",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan atau bersifat seperti tanah yang  ditandai oleh karakteristik yang berkembang dengan baik dan ditentukan terutama oleh tindakan iklim dan organisme (seperti vegetasi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu tanah",
+            "sumberTeks": "ilmu tanah"
+          }
+        ]
+      }
+    ]
+  }
+]

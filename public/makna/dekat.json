@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "de.kat",
+    "akarKata": null,
+    "ejaan": "dêkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pendek, tidak jauh (jarak atau antaranya)",
+        "contoh": "tinggalnya -- dari sini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir",
+        "contoh": "sudah -- malam",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhampiran (dengan",
+        "contoh": "rumahnya -- rumah saya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "akrab; rapat (tentang hubungan persahabatan, persaudaraan, dan sebagainya)",
+        "contoh": "pertemuan itu hanya dihadiri oleh sahabat --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjelang",
+        "contoh": "ia baru pulang -- dinihari",
+        "info": []
+      }
+    ]
+  }
+]

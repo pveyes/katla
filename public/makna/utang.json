@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "utang",
+    "akarKata": null,
+    "ejaan": "utang",
+    "baku": true,
+    "alt": "hutang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang dipinjam dari orang lain",
+        "contoh": "membayar -- di bank",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kewajiban membayar kembali apa yang sudah diterima",
+        "contoh": "-- budi dibawa mati",
+        "info": []
+      }
+    ]
+  }
+]

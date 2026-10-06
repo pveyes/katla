@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.tir",
+    "akarKata": null,
+    "ejaan": "katir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu ringan atau buluh, dipasang di kanan-kiri perahu untuk menjaga keseimbangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tir",
+    "akarKata": null,
+    "ejaan": "katir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian semah yang berfungsi melampungkan, terdiri atas buluh bambu panjang yang dipegang oleh cadik di kedua sisi jukung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

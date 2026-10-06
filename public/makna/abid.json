@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "abid",
+    "akarKata": null,
+    "ejaan": "abid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berkesudahan; kekal; abadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abid",
+    "akarKata": null,
+    "ejaan": "abid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beribadah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang taat kepada Tuhan; orang yang saleh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

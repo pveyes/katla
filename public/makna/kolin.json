@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.lin",
+    "akarKata": null,
+    "ejaan": "kolin",
+    "baku": false,
+    "alt": "kolina",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "basa organik, penyusun vitamin B kompleks, terdapat dalam kuning telur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

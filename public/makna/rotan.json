@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ro.tan",
+    "akarKata": null,
+    "ejaan": "rotan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan menjalar yang batangnya digunakan untuk berbagai barang atau perabot (seperti kursi, tali, gelang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pukulan sebagai hukuman",
+        "contoh": "hukumannya 6 tahun buangan dan 200 --",
+        "info": []
+      }
+    ]
+  }
+]

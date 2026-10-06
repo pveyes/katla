@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ujung",
+    "akarKata": null,
+    "ejaan": "ujung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian penghabisan dari suatu benda (yang panjang)",
+        "contoh": "serangga itu merusakkan -- akar anggrek",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian barang yang diruncingkan (lancip, tajam, dan sebagainya); puncak",
+        "contoh": "-- hidung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian darat yang menjorok (jauh) ke laut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(bagian) akhir (pembicaraan, percakapan, tahun, dan sebagainya)",
+        "contoh": "-- pembicaraan baginda masih terhadap hal itu jua",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maksud dan tujuan (perkataan dan sebagainya)",
+        "contoh": "saya maklum akan -- perkataannya itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

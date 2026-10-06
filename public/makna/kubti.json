@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Kub.ti",
+    "akarKata": null,
+    "ejaan": "Kubti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama mazhab Kristen di Mesir",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dipakai pada upacara agama dalam mazhab Kristen di Mesir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

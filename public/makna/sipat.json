@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "si.pat",
+    "akarKata": null,
+    "ejaan": "sipat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah",
+        "contoh": "tali --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.pat",
+    "akarKata": null,
+    "ejaan": "sipat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celak",
+        "contoh": "-- mata",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.pat",
+    "akarKata": null,
+    "ejaan": "sipat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat daun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

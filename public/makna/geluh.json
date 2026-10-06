@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ge.luh",
+    "akarKata": null,
+    "ejaan": "gêluh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumpur yang lekat; tanah pekat",
+        "contoh": "periuk itu dibuat dari --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "liat; pekat",
+        "contoh": "tanah --",
+        "info": []
+      }
+    ]
+  }
+]

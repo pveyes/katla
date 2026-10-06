@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "is.tri",
+    "akarKata": null,
+    "ejaan": "istri",
+    "baku": true,
+    "alt": "isteri",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wanita (perempuan) yang telah menikah atau yang bersuami",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wanita yang dinikahi",
+        "contoh": "almarhum meninggalkan seorang -- dan dua orang anak",
+        "info": []
+      }
+    ]
+  }
+]

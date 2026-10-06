@@ -10,10 +10,13 @@ interface KategloResponse {
   };
 }
 
-export async function getDefinitions(word: string): Promise<string[] | null> {
+export async function getDefinitions(
+  assets: Fetcher,
+  word: string
+): Promise<string[] | null> {
   try {
     try {
-      return await fetchFromMakna(word);
+      return await fetchFromMakna(assets, word);
     } catch (err) {
       console.log(`Failed to fetch from makna, using KBBI for word ${word}`, {
         err,
@@ -36,19 +39,24 @@ export async function getDefinitions(word: string): Promise<string[] | null> {
   }
 }
 
-async function fetchFromMakna(word: string): Promise<string[]> {
-  const res = await fetch(`https://makna.fatihkalifa.workers.dev/${word}.json`);
-  if (!res.ok) {
-    throw new Error(`makna responded with ${res.status}`);
+// definitions are static assets built by .scripts/makna.mjs
+async function fetchFromMakna(
+  assets: Fetcher,
+  word: string
+): Promise<string[]> {
+  const res = await assets.fetch(`https://assets.local/makna/${word}.json`);
+  // unknown words fall back to the SPA shell, which is html
+  if (!res.ok || !res.headers.get("Content-Type")?.includes("json")) {
+    throw new Error(`no stored definition for ${word}`);
   }
   const json: { makna: { definisi: string }[] }[] = await res.json();
   return json.flatMap((entry) => entry.makna.map((makna) => makna.definisi));
 }
 
 async function fetchFromKbbi(word: string): Promise<string[]> {
-  const html = await fetch(`https://kbbi.kemdikbud.go.id/entri/${word}`).then(
-    (res) => res.text()
-  );
+  const html = await fetch(
+    `https://kbbi.kemendikdasmen.go.id/entri/${word}`
+  ).then((res) => res.text());
   const $ = cheerio.load(html);
 
   const definitions: string[] = [];

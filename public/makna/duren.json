@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "du.ren",
+    "akarKata": null,
+    "ejaan": "durèn",
+    "baku": false,
+    "alt": "durian",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang batangnya lurus, tingginya sekitar 20–40 m, dahannya jarang, kulit batangnya kasar dan berwarna kelabu, bunga tersusun dalam malai, berwarna kuning",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah durian, berkulit tebal dan berduri, berbentuk bundar lonjong atau bundar telur, dagingnya berwarna putih, kuning tua atau putih kekuning-kuningan, berbau tajam dan dapat memabukkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "du.ren",
+    "akarKata": null,
+    "ejaan": "durèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "duda keren",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "cun",
+    "akarKata": null,
+    "ejaan": "cun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran panjang 1/10 kaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "va.kum",
+    "akarKata": null,
+    "ejaan": "vakum",
+    "baku": true,
+    "alt": "fakum",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampa udara",
+        "contoh": "supaya benda yang akan ditaruh di ruang bola kaca itu tidak cepat rusak, ruang itu harus --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kosong (tidak ada petugasnya, pejabatnya, dan sebagainya)",
+        "contoh": "supaya tidak --, pengurus lama tetap menjalankan tugasnya sehari-hari sampai terbentuk pengurus baru",
+        "info": []
+      }
+    ]
+  }
+]

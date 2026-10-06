@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "al.bum",
+    "akarKata": null,
+    "ejaan": "album",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku tempat menyimpan kumpulan foto (potret), prangko, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan piringan hitam, kaset lagu-lagu, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan lagu dalam rekaman kaset",
+        "contoh": "-- terbarunya yang sudah muncul tahun ini berisi lagu ciptaannya sendiri",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku yang berisi antologi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

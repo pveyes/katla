@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "je.mah",
+    "akarKata": null,
+    "ejaan": "jêmah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelak kemudian; di belakang hari",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "pernah",
+        "contoh": "tidak --",
+        "info": []
+      }
+    ]
+  }
+]

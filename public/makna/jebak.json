@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "je.bak",
+    "akarKata": null,
+    "ejaan": "jêbak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sangkar untuk memikat (menangkap) binatang; perangkap",
+        "contoh": "merak itu kena --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat (rayuan dan sebagainya) yang digunakan untuk memikat atau melemahkan musuh dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

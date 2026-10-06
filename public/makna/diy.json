@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DIY",
+    "akarKata": null,
+    "ejaan": "DIY",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Daerah Istimewa Yogyakarta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

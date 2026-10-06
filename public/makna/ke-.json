@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "ke-",
+    "akarKata": null,
+    "ejaan": "kê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang mempunyai sifat atau ciri",
+        "contoh": "ketua",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang dituju dengan",
+        "contoh": "kekasih",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke-",
+    "akarKata": null,
+    "ejaan": "kê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "telah mengalami atau menderita keadaan atau kejadian (dengan tidak sengaja atau dengan tiba-tiba)",
+        "contoh": "ketabrak",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "dapat atau sanggup",
+        "contoh": "kebaca",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke-",
+    "akarKata": null,
+    "ejaan": "kê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "tingkat atau urutan",
+        "contoh": "ketiga",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "kumpulan",
+        "contoh": "kedua (buku)",
+        "info": []
+      }
+    ]
+  }
+]

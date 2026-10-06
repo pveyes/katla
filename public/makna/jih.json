@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jih",
+    "akarKata": null,
+    "ejaan": "jih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang menjadi tujuan; sasaran; jir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

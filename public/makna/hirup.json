@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hi.rup",
+    "akarKata": null,
+    "ejaan": "hirup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menghirup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

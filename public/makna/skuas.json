@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sku.as",
+    "akarKata": null,
+    "ejaan": "skuas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "olahraga yang menggunakan raket, dimainkan oleh dua orang dalam ruangan berdinding dengan cara memukulkan bola ke dinding sampai salah satu pemain tidak bisa memukul kembali bola yang memantul dari dinding",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sku.as",
+    "akarKata": null,
+    "ejaan": "skuas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman jus sitrun, bergula, biasanya ditambah air soda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

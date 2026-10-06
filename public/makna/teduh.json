@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "te.duh",
+    "akarKata": null,
+    "ejaan": "têduh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "reda (tentang angin ribut, ombak); berhenti (tentang hujan)",
+        "contoh": "mereka bersenda gurau sambil menanti hujan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlindung atau tidak kena panas matahari; lindap",
+        "contoh": "setelah bermain-main, anak-anak beristirahat di tempat yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak turun hujan (tentang hari); redup atau tidak memancarkan sinar yang terik (tentang matahari)",
+        "contoh": "sudah beberapa hari ini matahari --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tenang; aman",
+        "contoh": "Lautan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ke.fir",
+    "akarKata": null,
+    "ejaan": "kèfir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil fermentasi susu kambing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

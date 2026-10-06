@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.pih",
+    "akarKata": null,
+    "ejaan": "tapih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain panjang untuk wanita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

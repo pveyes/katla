@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.nga",
+    "akarKata": null,
+    "ejaan": "banga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat minum, terbuat dari tempurung kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kaili",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

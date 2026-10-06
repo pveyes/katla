@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "au.rat",
+    "akarKata": null,
+    "ejaan": "aurat",
+    "baku": true,
+    "alt": "urat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian badan yang tidak boleh kelihatan (menurut hukum Islam)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organ untuk mengadakan perkembangbiakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

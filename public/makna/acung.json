@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "acung",
+    "akarKata": null,
+    "ejaan": "acung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "badur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acung",
+    "akarKata": null,
+    "ejaan": "acung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "badur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acung",
+    "akarKata": null,
+    "ejaan": "acung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "badur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acung",
+    "akarKata": null,
+    "ejaan": "acung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna ungu lembayung atau ungu kelabu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ba.han",
+    "akarKata": null,
+    "ejaan": "bahan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pecahan kayu (yang terbuang ketika menarah); tatal kayu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.han",
+    "akarKata": null,
+    "ejaan": "bahan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang akan dibuat menjadi satu benda tertentu; bakal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(segala) sesuatu yang dapat dipakai atau diperlukan untuk tujuan tertentu, seperti untuk pedoman atau pegangan, untuk mengajar, memberi ceramah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadi sebab (pangkal) atau sikap (perbuatan)",
+        "contoh": "-- tertawaan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang akan dipakai untuk bukti (keterangan, alasan, dan sebagainya)",
+        "contoh": "ia sedang mengumpulkan -- untuk menyusun tesisnya",
+        "info": []
+      }
+    ]
+  }
+]

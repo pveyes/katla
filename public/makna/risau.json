@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ri.sau",
+    "akarKata": null,
+    "ejaan": "risau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buruk kelakuan (suka berbuat jahat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ri.sau",
+    "akarKata": null,
+    "ejaan": "risau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gelisah; rusuh hati",
+        "contoh": "hatinya merasa -- bercampur cemas",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusuh (kacau, tidak aman)",
+        "contoh": "selama keadaan masih --, tidak mungkin kita dapat hidup dengan tenteram",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "sam.pa",
+    "akarKata": null,
+    "ejaan": "sampa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat ubi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sam.pa",
+    "akarKata": null,
+    "ejaan": "sampa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paku besi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

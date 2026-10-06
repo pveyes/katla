@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "le.bat",
+    "akarKata": null,
+    "ejaan": "lêbat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbuah banyak (tentang pohon)",
+        "contoh": "pohon mangga itu -- buahnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tebal dan rapat sekali (tentang rambut, daun, hutan, dan sebagainya)",
+        "contoh": "rambutnya hitam dan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "deras dan banyak (tentang hujan, embun, dan sebagainya)",
+        "contoh": "semalam hujan sangat -- seperti dicurahkan dari langit",
+        "info": []
+      }
+    ]
+  }
+]

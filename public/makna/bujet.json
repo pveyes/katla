@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "bu.jet",
+    "akarKata": null,
+    "ejaan": "bujèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggaran pemasukan dan pengeluaran uang; anggaran belanja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rencana anggaran terperinci sebagai pedoman untuk menjalankan operasi pada masa yang akan datang dan juga digunakan sebagai dasar untuk melakukan penilaian atas pelaksanaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

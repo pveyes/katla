@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "im.pak",
+    "akarKata": null,
+    "ejaan": "impak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benturan; tumbukan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengaruh yang kuat; dampak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "sukuKata": "si.kat",
+    "akarKata": null,
+    "ejaan": "sikat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembersih yang dibuat dari bulu (ijuk, serabut, dan sebagainya) diberi dasar dan pegangan (bermacam-macam rupanya)",
+        "contoh": "-- gigi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisir rambut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggaruk untuk menggemburkan tanah sesudah dibajak atau dicangkul; garu",
+        "contoh": "koperasi tani menjual alat-alat pertanian, seperti --, bajak, dan pacul",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rampas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "makan sampai habis-habisan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.kat",
+    "akarKata": null,
+    "ejaan": "sikat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat pohon1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.kat",
+    "akarKata": null,
+    "ejaan": "sikat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rangkaian (pisang) yang tumbuh dalam satu sisir (bagian dari tandan)",
+        "contoh": "membeli se-- pisang di warung",
+        "info": []
+      }
+    ]
+  }
+]

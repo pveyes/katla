@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "vi.o.la",
+    "akarKata": null,
+    "ejaan": "viola",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biola besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "vi.o.la",
+    "akarKata": null,
+    "ejaan": "viola",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman perdu berbunga ungu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

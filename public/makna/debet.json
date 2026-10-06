@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "de.bet",
+    "akarKata": null,
+    "ejaan": "débêt",
+    "baku": false,
+    "alt": "debit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang harus ditagih dari orang lain; piutang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "catatan pada pos pembukuan yang menambah nilai aktiva atau mengurangi jumlah kewajiban; jumlah yang mengurangi deposito pemegang rekening pada banknya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "manajemen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

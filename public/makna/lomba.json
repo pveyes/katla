@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lom.ba",
+    "akarKata": null,
+    "ejaan": "lomba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adu kecepatan (berlari, berenang, dan sebagainya)",
+        "contoh": "dalam rangka memperingati Hari Proklamasi, desa kami mengadakan -- lari karung untuk anak-anak dan orang dewasa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adu keterampilan (ketangkasan, kekuatan, dan sebagainya)",
+        "contoh": "ia telah keluar sebagai juara pertama dalam -- deklamasi tingkat Daerah Khusus Ibu Kota Jakarta",
+        "info": []
+      }
+    ]
+  }
+]

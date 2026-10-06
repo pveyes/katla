@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AFK",
+    "akarKata": null,
+    "ejaan": "AFK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli fisiologi kedokteran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

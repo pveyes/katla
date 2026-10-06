@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ke.dut",
+    "akarKata": null,
+    "ejaan": "kêdut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lipatan pada kulit, kain, dan sebagainya; renyuk-renyuk (pada kertas dan sebagainya); kerut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.dut",
+    "akarKata": null,
+    "ejaan": "kêdut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "renggut; rebut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.dut",
+    "akarKata": null,
+    "ejaan": "kêdut",
+    "baku": true,
+    "alt": "kerdut",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak jaringan karena tarikan urat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

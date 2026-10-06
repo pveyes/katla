@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "nis.ta",
+    "akarKata": null,
+    "ejaan": "nista",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hina; rendah",
+        "contoh": "perbuatan itu sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak enak didengar",
+        "contoh": "kata-kata --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "aib; cela; noda",
+        "contoh": "-- yang tidak terhapuskan lagi",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

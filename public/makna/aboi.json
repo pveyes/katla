@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "aboi",
+    "akarKata": null,
+    "ejaan": "aboi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada pembesar orang Cina",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala kampung orang Cina pada sebuah luak (misalnya di Kalimantan Barat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

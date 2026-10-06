@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ih.ram",
+    "akarKata": null,
+    "ejaan": "ihram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suci; dalam keadaan bersuci diri (pada waktu melakukan ibadah haji dan umrah di Makkah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meniatkan dan melakukan pekerjaan ihram untuk tujuan ibadah haji dan/atau umrah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

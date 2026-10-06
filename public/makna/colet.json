@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "co.let",
+    "akarKata": null,
+    "ejaan": "colèt",
+    "baku": false,
+    "alt": "colek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sentuhan dengan ujung jari dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggolong sesuatu yang lembut dan sedikit sekali (sebanyak yang diambil dengan ujung jari)",
+        "contoh": "taruhlah sambal barang dua --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "toh",
+    "akarKata": null,
+    "ejaan": "toh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "noda hitam atau hitam kemerah-merahan pada kulit (biasanya sudah ada sejak lahir)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "toh",
+    "akarKata": null,
+    "ejaan": "toh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata afektif sebagai penguat maksud",
+        "contoh": "walaupun begitu, Tuan -- harus hadir",
+        "info": []
+      }
+    ]
+  }
+]

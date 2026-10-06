@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "la.min",
+    "akarKata": null,
+    "ejaan": "lamin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan (rumah) kolektif pada suku Dayak Kenyan, bentuknya besar memanjang dan bertingkat, dihuni oleh banyak keluarga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.min",
+    "akarKata": null,
+    "ejaan": "lamin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "bangunan (rumah) kolektif pada suku Dayak Kenyan, bentuknya besar memanjang dan bertingkat, dihuni oleh banyak keluarga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.min",
+    "akarKata": null,
+    "ejaan": "lamin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "periode menyusui pada mamalia dan manusia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

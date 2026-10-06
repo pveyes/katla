@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.luh",
+    "akarKata": null,
+    "ejaan": "baluh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu rangka tempat duduk (di punggung gajah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu rangka gendang (tabuh-tabuhan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

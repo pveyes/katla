@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ina.pu",
+    "akarKata": null,
+    "ejaan": "inapu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perang yang didasarkan atas perintah leluhur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dani",
+            "sumberTeks": "bahasa di papua"
+          }
+        ]
+      }
+    ]
+  }
+]

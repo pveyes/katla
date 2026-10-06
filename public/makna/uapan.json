@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "uap.an",
+    "akarKata": "uap",
+    "ejaan": "uapan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang sudah berubah menjadi uap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lam.pa",
+    "akarKata": null,
+    "ejaan": "lampa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berguling-guling di lantai dengan tangan dan kaki telentang",
+        "contoh": "kalau sedang merengek adikku sering --",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "su.bal",
+    "akarKata": null,
+    "ejaan": "subal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang baik buatannya; kasar",
+        "contoh": "pukat --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang (yang kurang baik) yang dicampurkan (supaya kelihatan banyak, bertambah berat, dan sebagainya)",
+        "contoh": "keranjang yang berisi arang itu diberinya -- agar kelihatan penuh",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

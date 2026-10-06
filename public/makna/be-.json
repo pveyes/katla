@@ -1,0 +1,88 @@
+[
+  {
+    "sukuKata": "be-",
+    "akarKata": null,
+    "ejaan": "bê-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat ber-",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ber-",
+    "akarKata": null,
+    "ejaan": "bêr-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "mempunyai",
+        "contoh": "beratap",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "menggunakan atau memakai",
+        "contoh": "berlayar",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "menghasilkan",
+        "contoh": "bertelur",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "dalam jumlah atau kelipatan",
+        "contoh": "bertiga",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "mengakui dan/atau memanggil sebagai",
+        "contoh": "beradik",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "bertindak atau bekerja sebagai",
+        "contoh": "bertani",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "berada dalam keadaan",
+        "contoh": "bergembira",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "menyatakan perbuatan timbal balik",
+        "contoh": "bergulat",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "menyatakan perbuatan mengenai diri sendiri",
+        "contoh": "berhias",
+        "info": []
+      }
+    ]
+  }
+]

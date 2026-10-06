@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pi.jar",
+    "akarKata": null,
+    "ejaan": "pijar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "percikan nyala merah kekuning-kuningan karena panas atau terbakar; nyala api",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "percikan logam (besi dan sebagainya) yang menyala ketika ditempa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.jar",
+    "akarKata": null,
+    "ejaan": "pijar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pijar-pijar"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "an.jak",
+    "akarKata": null,
+    "ejaan": "anjak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit bayi yang diiringi sawan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.jak",
+    "akarKata": null,
+    "ejaan": "anjak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "penyakit bayi yang diiringi sawan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

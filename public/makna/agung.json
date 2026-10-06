@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "agung",
+    "akarKata": null,
+    "ejaan": "agung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar; mulia; luhur",
+        "contoh": "kita kedatangan tamu -- dari negara tetangga",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "agung",
+    "akarKata": null,
+    "ejaan": "agung",
+    "baku": false,
+    "alt": "gung",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "canang besar; gong",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi canang besar dipukul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

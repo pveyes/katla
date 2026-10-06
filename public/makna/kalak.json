@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ka.lak",
+    "akarKata": null,
+    "ejaan": "kalak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan memanjat, panjang hingga 10 m, batangnya liat dan awet, digunakan sebagai tali pengikat rakit; akar layak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lak",
+    "akarKata": null,
+    "ejaan": "kalak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan atau lauk semacam satai yang dimasak atau dipanggang dengan rempahnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

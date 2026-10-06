@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "sa.mir",
+    "akarKata": null,
+    "ejaan": "samir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun pisang yang digunting berbentuk bulat dengan aneka ukuran, biasa digunakan sebagai alas nasi untuk selamatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.mir",
+    "akarKata": null,
+    "ejaan": "samir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selampai sutra kuning (dipakai untuk menutup barang-barang yang akan dipersembahkan kepada raja atau sultan)",
+        "contoh": "persembahan itu ditutup dengan --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selempang2",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

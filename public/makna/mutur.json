@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mu.tur",
+    "akarKata": null,
+    "ejaan": "mutur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makan di antara waktu sarapan dan waktu makan siang (biasanya ketan tumis, ketupat sayur)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

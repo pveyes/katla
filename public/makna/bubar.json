@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bu.bar",
+    "akarKata": null,
+    "ejaan": "bubar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bercerai-berai ke mana-mana (tentang orang ramai yang berkumpul); berserak-serak ke sana kemari",
+        "contoh": "demonstran -- setelah petugas melepaskan tembakan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selesai; usai (tentang pasar, rapat, upacara, dan sebagainya)",
+        "contoh": "upacara -- pukul sepuluh siang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selesai tugas; berhenti bertugas (tentang panitia, dewan, kabinet, dan sebagainya)",
+        "contoh": "panitia perayaan -- setelah upacara selesai",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ditiadakan (tentang perserikatan, kongsi, dan sebagainya)",
+        "contoh": "kalau suatu perkumpulan --, harta bendanya dapat didermakan kepada badan sosial",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pa.rut",
+    "akarKata": null,
+    "ejaan": "parut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengukur kelapa, keju, wortel, dan sebagainya dibuat dari papan, logam, dan sebagainya berpaku kawat banyak; kukur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekas luka pada kulit (karena tergores dan sebagainya); barut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memarut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

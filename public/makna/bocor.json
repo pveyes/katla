@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "bo.cor",
+    "akarKata": null,
+    "ejaan": "bocor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berlubang sehingga air (udara) dapat keluar atau masuk; tiris",
+        "contoh": "gantilah cepat-cepat genting yang -- itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tersiar sedikit-sedikit (tentang rahasia dan sebagainya)",
+        "contoh": "hasil perundingan yang dirahasiakan itu akhirnya -- juga",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kerap kali buang air",
+        "contoh": "karena banyak makan sambal, semalam anakku --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengeluarkan darah",
+        "contoh": "dia jatuh sehingga -- kepalanya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "datang bulan; haid",
+        "contoh": "hari ini aku tidak puasa karena sedang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

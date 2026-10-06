@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "pa.pak",
+    "akarKata": null,
+    "ejaan": "papak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "papar; tidak lancip; rata; tidak merunjung (tentang atap dan sebagainya)",
+        "contoh": "rumah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.pak",
+    "akarKata": null,
+    "ejaan": "papak",
+    "baku": true,
+    "alt": "mapak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman keras; tuak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.pak",
+    "akarKata": null,
+    "ejaan": "papak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "minuman keras; tuak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.pak",
+    "akarKata": null,
+    "ejaan": "papak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem taruhan dalam aduan ketika kedua lawan dinilai seimbang, yang kalah membayar sama besar dengan nilai taruhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

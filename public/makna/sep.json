@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "sep",
+    "akarKata": null,
+    "ejaan": "sèp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala (kantor, stasiun, dan sebagainya)",
+        "contoh": "kalau --nya orang baik, senanglah ia bekerja",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sep",
+    "akarKata": null,
+    "ejaan": "sèp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan yang dimasak dengan batu panas yang telah dibakar",
+        "contoh": "acara adat itu disemarakkan dengan pesta --",
+        "info": [
+          {
+            "sumber": "bian marind deg",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

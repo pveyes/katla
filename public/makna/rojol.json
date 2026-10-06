@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ro.jol",
+    "akarKata": null,
+    "ejaan": "rojol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merojol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

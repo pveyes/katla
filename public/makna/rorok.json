@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ro.rok",
+    "akarKata": null,
+    "ejaan": "rorok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merorok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

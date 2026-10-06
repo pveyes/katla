@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lu.nau",
+    "akarKata": null,
+    "ejaan": "lunau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumpur (yang dihanyutkan banjir)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "urung",
+    "akarKata": null,
+    "ejaan": "urung",
+    "baku": true,
+    "alt": "wurung",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "batal; tidak jadi",
+        "contoh": "ada kecemasan di kalangan calon haji kalau-kalau -- naik haji karena adanya penipuan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "urung",
+    "akarKata": null,
+    "ejaan": "urung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berurung"
+        ]
+      }
+    ]
+  }
+]

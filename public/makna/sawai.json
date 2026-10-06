@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "sa.wai",
+    "akarKata": null,
+    "ejaan": "sawai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung cawi; cawi-cawi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.wai",
+    "akarKata": null,
+    "ejaan": "Sawai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah pesisir barat pantai Pulau Halmahera, Provinsi Maluku Utara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Sawai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

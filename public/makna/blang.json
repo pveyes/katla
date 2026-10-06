@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "blang",
+    "akarKata": null,
+    "ejaan": "blang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "upacara kesuburan yang biasa dilakukan setiap tahun oleh masyarakat petani Aceh dan Gayo",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

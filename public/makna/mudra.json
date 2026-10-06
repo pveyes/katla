@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mud.ra",
+    "akarKata": null,
+    "ejaan": "mudra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sikap jari-jari tangan dalam bersemadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

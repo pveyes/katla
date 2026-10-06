@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ste.ma",
+    "akarKata": null,
+    "ejaan": "stèma",
+    "baku": true,
+    "alt": "stemma",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "silsilah yang menggambarkan asal-usul naskah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

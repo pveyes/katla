@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "se.rah",
+    "akarKata": null,
+    "ejaan": "sérah",
+    "baku": false,
+    "alt": "sirah",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merah",
+        "contoh": "tanah --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biografi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rah",
+    "akarKata": null,
+    "ejaan": "sêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyerah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rah",
+    "akarKata": null,
+    "ejaan": "sêrah",
+    "baku": false,
+    "alt": "sera",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "tersera-sera"
+        ]
+      }
+    ]
+  }
+]

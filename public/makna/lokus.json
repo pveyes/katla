@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "lo.kus",
+    "akarKata": null,
+    "ejaan": "lokus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian atau tempat pada kromosom yang diduduki oleh gen; lokus gen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat kedudukan titik-titik atau himpunan titik yang koordinatnya memenuhi persamaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

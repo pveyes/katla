@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "li.mar",
+    "akarKata": null,
+    "ejaan": "limar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "motif yang terdapat pada batik Garut, terdiri atas susunan bidang belah ketupat, di dalamnya diisi garis-garis horizontal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.mar",
+    "akarKata": null,
+    "ejaan": "limar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain sutra bercorak, biasa dipakai untuk sabuk dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.mar",
+    "akarKata": null,
+    "ejaan": "limar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama motif songket",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "pu.tus",
+    "akarKata": null,
+    "ejaan": "putus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak berhubungan (bersambung) lagi (karena terpotong dan sebagainya)",
+        "contoh": "kawat telepon itu --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "habis",
+        "contoh": "modalnya telah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selesai; rampung; berakhir",
+        "contoh": "perundingan sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ada kepastian (ketentuan, ketetapan, penyelesaian); mendapat kepastian",
+        "contoh": "sampai sekarang perkaranya belum --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; tidak ada lagi; tidak mempunyai lagi (tentang harapan, pikiran)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mendapat; menang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah mendapat atau memperoleh (dalam permufakatan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak ada hubungan lagi; berpisah (tentang hubungan persahabatan, jalinan cinta, dan sebagainya)",
+        "contoh": "hubungan cinta mereka berdua sudah --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

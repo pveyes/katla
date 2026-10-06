@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "je.rat",
+    "akarKata": null,
+    "ejaan": "jêrat",
+    "baku": true,
+    "alt": "jirat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali yang ujungnya disimpulkan membentuk lubang yang dapat disempitkan atau dilonggarkan (untuk menangkap burung, kijang, dan sebagainya); kala4",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu muslihat untuk menyusahkan atau mencelakakan orang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "bu.buk",
+    "akarKata": null,
+    "ejaan": "bubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang kecil yang berkulit keras, berupa kumbang yang suka makan kayu, balok, beras, dan sebagainya",
+        "contoh": "tiang itu rusak dimakan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.buk",
+    "akarKata": null,
+    "ejaan": "bubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk dari barang yang lapuk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang ditumbuk menjadi tepung halus",
+        "contoh": "-- kopi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.buk",
+    "akarKata": null,
+    "ejaan": "bubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rebus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.buk",
+    "akarKata": null,
+    "ejaan": "bubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengambil air, dibuat dari tempurung kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "benuaq",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "spt",
+    "akarKata": null,
+    "ejaan": "spt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seperti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

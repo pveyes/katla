@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.bul",
+    "akarKata": null,
+    "ejaan": "kibul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pantat; dubur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.bul",
+    "akarKata": null,
+    "ejaan": "kibul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bohong; tipu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

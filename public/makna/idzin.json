@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "idzin",
+    "akarKata": null,
+    "ejaan": "idzin",
+    "baku": false,
+    "alt": "izin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan mengabulkan (tidak melarang dan sebagainya); persetujuan membolehkan",
+        "contoh": "ia telah mendapat -- untuk mendirikan perusahaan mebel",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meminta izin; memohon izin",
+        "contoh": "hari ini saya -- tidak masuk kuliah karena ada keperluan",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

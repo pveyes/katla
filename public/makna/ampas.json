@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "am.pas",
+    "akarKata": null,
+    "ejaan": "ampas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa barang yang telah diambil sarinya atau patinya",
+        "contoh": "-- kecap",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa hasil proses pengolahan bahan galian yang tidak dikehendaki karena sudah tidak mengandung mineral berharga lagi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "mineralogi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Am.pas",
+    "akarKata": null,
+    "ejaan": "Ampas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Molof",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "so.dor",
+    "akarKata": null,
+    "ejaan": "sodor",
+    "baku": true,
+    "alt": "sudur",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyodorkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.dor",
+    "akarKata": null,
+    "ejaan": "sodor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombak (bambu dan sebagainya) panjang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "sa.ber",
+    "akarKata": null,
+    "ejaan": "sabêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapu bersih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

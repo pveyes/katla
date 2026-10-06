@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "sa.sak",
+    "akarKata": null,
+    "ejaan": "sasak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anyaman (bilah bambu) kasar untuk pagar, dinding, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buluh bambu atau kayu yang disusun menjadi satu; rakit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.sak",
+    "akarKata": null,
+    "ejaan": "sasak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyasak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.sak",
+    "akarKata": null,
+    "ejaan": "Sasak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang berasal atau mendiami sebagai besar daerah Nusa Tenggara Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Sasak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

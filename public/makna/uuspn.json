@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UUSPN",
+    "akarKata": null,
+    "ejaan": "UUSPN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Undang-Undang Sistem Pendidikan Nasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

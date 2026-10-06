@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "EEG",
+    "akarKata": null,
+    "ejaan": "EEG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengukuran aktivitas kelistrikan otak untuk mendeteksi kelainan pada otak; dari \n electroencephalogram",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

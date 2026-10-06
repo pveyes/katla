@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "te.kek",
+    "akarKata": null,
+    "ejaan": "tèkèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menekek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.kek",
+    "akarKata": null,
+    "ejaan": "tèkèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pekak; tuli",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.kek",
+    "akarKata": null,
+    "ejaan": "têkèk",
+    "baku": false,
+    "alt": "tokek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang merayap, kulitnya kasap berbintik-bintik, suaranya keras, hidup di rumah (pohon dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.rah",
+    "akarKata": null,
+    "ejaan": "parah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berat (tentang luka)",
+        "contoh": "lukanya cukup --, ia harus segera dibawa ke rumah sakit",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "payah (tentang penyakit)",
+        "contoh": "sakitnya sudah --, sudah tidak ada harapan lagi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam keadaan kesulitan yang sangat",
+        "contoh": "akibat kehilangan pekerjaan, kehidupannya sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar diatasi",
+        "contoh": "masalah kenakalan remaja akhir-akhir ini makin --",
+        "info": []
+      }
+    ]
+  }
+]

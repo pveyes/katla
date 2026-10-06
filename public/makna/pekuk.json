@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "pe.kuk",
+    "akarKata": null,
+    "ejaan": "pêkuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mencong atau bengkok ke luar (tentang tangan, kaki); bengkok",
+        "contoh": "tangannya --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.kuk",
+    "akarKata": null,
+    "ejaan": "pêkuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat pekik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.kuk",
+    "akarKata": null,
+    "ejaan": "pêkuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat pekik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

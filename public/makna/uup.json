@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UUP",
+    "akarKata": null,
+    "ejaan": "UUP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Undang-Undang Perkawinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

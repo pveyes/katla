@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.yur",
+    "akarKata": null,
+    "ejaan": "buyur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "guyur; siram",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

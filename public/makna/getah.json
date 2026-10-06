@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ge.tah",
+    "akarKata": null,
+    "ejaan": "gêtah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat cair pekat dari batang kayu, buah-buahan, dan sebagainya yang bersifat melekat",
+        "contoh": "-- jarak",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat cair pekat dari pohon karet (perca)",
+        "contoh": "-- karet mentah sering kali dibuat bola oleh anak-anak",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.tah",
+    "akarKata": null,
+    "ejaan": "gêtah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat cair dari kelenjar (dalam tubuh)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

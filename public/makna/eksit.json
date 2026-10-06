@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ek.sit",
+    "akarKata": null,
+    "ejaan": "èksit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keluar",
+        "contoh": "tol itu memiliki jalur -- di Brebes Timur",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhenti dari pekerjaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu keluar",
+        "contoh": "mobil tersebut meluncur ke -- hotel dengan terburu-buru",
+        "info": []
+      }
+    ]
+  }
+]

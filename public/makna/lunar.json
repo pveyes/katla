@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lu.nar",
+    "akarKata": null,
+    "ejaan": "lunar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhubungan dengan bulan atau pergerakannya mengelilingi bumi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

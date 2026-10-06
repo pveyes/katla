@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "ham",
+    "akarKata": null,
+    "ejaan": "ham",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging bagian atas kaki belakang babi yang digarami, dikeringkan atau diasapi, dan siap untuk dimakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "HAM",
+    "akarKata": null,
+    "ejaan": "HAM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak asasi manusia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

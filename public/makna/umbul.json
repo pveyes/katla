@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "um.bul",
+    "akarKata": null,
+    "ejaan": "umbul",
+    "baku": true,
+    "alt": "umbur-umbur",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekas menjadi besar; subur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "um.bul",
+    "akarKata": null,
+    "ejaan": "umbul",
+    "baku": true,
+    "alt": "umbur",
+    "makna": [
+      {
+        "definisi": "lekas menjadi besar; subur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "um.bul",
+    "akarKata": null,
+    "ejaan": "umbul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumber air (minum)",
+        "contoh": "soal retribusi penggunaan -- masih dalam pembahasan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "um.bul",
+    "akarKata": null,
+    "ejaan": "umbul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kampung kecil yang berisi 1—3  rumah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

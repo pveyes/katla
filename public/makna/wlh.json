@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "WLH",
+    "akarKata": null,
+    "ejaan": "WLH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wahana lingkungan hidup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

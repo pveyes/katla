@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "si.buk",
+    "akarKata": null,
+    "ejaan": "sibuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak yang dikerjakan",
+        "contoh": "ayah tidak dapat hadir karena beliau sedang -- hari ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "giat dan rajin (mengerjakan sesuatu)",
+        "contoh": "dia sedang -- mengatur perjalanannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh dengan kegiatan (misalnya orang yang lalu-lalang, mobil-mobil bersimpang siur)",
+        "contoh": "pasar itu -- sekali",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.buk",
+    "akarKata": null,
+    "ejaan": "sibuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menyibuk"
+        ]
+      }
+    ]
+  }
+]

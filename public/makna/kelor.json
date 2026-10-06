@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ke.lor",
+    "akarKata": null,
+    "ejaan": "kèlor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang cepat tumbuh, tinggi hingga 8 m, akarnya membesar, kulit akar dan daun memiliki rasa atau sifat khusus, digunakan sebagai obat; merunggai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar kelor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun kelor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

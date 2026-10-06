@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lis",
+    "akarKata": null,
+    "ejaan": "lis",
+    "baku": true,
+    "alt": "les",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis pada tepi; bilah papan (pada tembok dan sebagainya); bingkai (gambar dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daftar (nama dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

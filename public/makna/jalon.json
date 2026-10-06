@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.lon",
+    "akarKata": null,
+    "ejaan": "jalon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilah bambu penjepit atap alang-alang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

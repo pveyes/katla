@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ho.nor",
+    "akarKata": null,
+    "ejaan": "honor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "honorarium",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

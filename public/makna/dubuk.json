@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "du.buk",
+    "akarKata": null,
+    "ejaan": "dubuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiena yang memiliki tutul hitam atau cokelat di seluruh tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

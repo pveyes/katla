@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "jo.jol",
+    "akarKata": null,
+    "ejaan": "jojol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang (pancang, cerocok) yang ditancapkan di sungai untuk membendung air dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jo.jol",
+    "akarKata": null,
+    "ejaan": "jojol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menjojol"
+        ]
+      }
+    ]
+  }
+]

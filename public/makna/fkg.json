@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FKG",
+    "akarKata": null,
+    "ejaan": "FKG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Fakultas Kedokteran Gigi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

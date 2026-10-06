@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.pem",
+    "akarKata": null,
+    "ejaan": "bopêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jendela yang ukurannya relatif pendek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

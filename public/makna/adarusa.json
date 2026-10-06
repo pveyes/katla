@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.ru.sa",
+    "akarKata": null,
+    "ejaan": "adarusa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang meminjam sesuatu (tentang uang atau barang), tetapi tidak ada kemauan untuk mengembalikan uang atau barang tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

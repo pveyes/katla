@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "go.lok",
+    "akarKata": null,
+    "ejaan": "golok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisau besar terbuat dari besi atau baja digunakan untuk membelah atau memotong; parang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedang yang pendek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

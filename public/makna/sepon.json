@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.pon",
+    "akarKata": null,
+    "ejaan": "sêpon",
+    "baku": false,
+    "alt": "spons",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga karang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda serupa bunga karang (dari karet busa dan sebagainya) yang dapat mengisap air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

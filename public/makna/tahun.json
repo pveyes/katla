@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "ta.hun",
+    "akarKata": null,
+    "ejaan": "tahun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa yang lamanya dua belas bulan",
+        "contoh": "ia pernah bekerja di luar negeri selama dua --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilangan yang menyatakan tarikh",
+        "contoh": "ia dilahirkan -- 1940",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa dua belas bulan yang ke ...",
+        "contoh": "majalah Tempo -- II Nomor 6",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa dua belas bulan untuk ...",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musim (dalam arti masa selama tanaman atau tumbuh-tumbuhan hidup)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.hun",
+    "akarKata": null,
+    "ejaan": "tahun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bertahun",
+          "pertahunan"
+        ]
+      }
+    ]
+  }
+]

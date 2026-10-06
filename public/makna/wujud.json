@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "wu.jud",
+    "akarKata": null,
+    "ejaan": "wujud",
+    "baku": true,
+    "alt": "ujud",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rupa dan bentuk yang dapat diraba",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adanya sesuatu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda yang nyata (bukan roh dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ada, sifat yang wajib bagi Allah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wu.jud",
+    "akarKata": null,
+    "ejaan": "wujud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maksud; tujuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

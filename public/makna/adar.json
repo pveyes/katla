@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "adar",
+    "akarKata": null,
+    "ejaan": "adar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat tua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "adar",
+    "akarKata": null,
+    "ejaan": "adar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "sangat tua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "adar",
+    "akarKata": null,
+    "ejaan": "adar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan utk orang yang sering menakuti orang lain dengan kekuatan magis pada suku Woirara di Maluku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

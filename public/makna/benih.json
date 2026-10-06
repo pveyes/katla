@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "be.nih",
+    "akarKata": null,
+    "ejaan": "bênih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biji atau buah yang disediakan untuk ditanam atau disemaikan",
+        "contoh": "yang akan dijadikan -- haruslah buah yang baik dan cukup tua",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bibit atau semaian yang akan ditanam",
+        "contoh": "-- cengkih itu sebaiknya dipindahkan setelah setengah meter tingginya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sperma untuk bibit pengembangbiakan ternak dan sebagainya",
+        "contoh": "-- sapi pejantan unggul dapat disimpan lama di tempat yang bersuhu dingin",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadi sebab; asal mula",
+        "contoh": "ucapan yang kasar dapat menjadi -- perkelahian",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keturunan; turunan; asal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang akan tumbuh atau akan menjadi",
+        "contoh": "-- penyakit cacar",
+        "info": []
+      }
+    ]
+  }
+]

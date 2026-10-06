@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NIG",
+    "akarKata": null,
+    "ejaan": "NIG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor induk guru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

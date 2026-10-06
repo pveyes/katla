@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ti.tir",
+    "akarKata": null,
+    "ejaan": "titir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi lesung (beduk, canang, kentungan, dan sebagainya) yang dipukul dengan gencar sebagai tanda bahaya dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.tir",
+    "akarKata": null,
+    "ejaan": "titir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "titiran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.tir",
+    "akarKata": null,
+    "ejaan": "titir",
+    "baku": false,
+    "alt": "ketitir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung kecil yang suaranya nyaring dan panjang, biasa dipertandingkan suaranya; merbuk; perkutut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

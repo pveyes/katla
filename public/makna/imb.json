@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IMB",
+    "akarKata": null,
+    "ejaan": "IMB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "izin mendirikan bangunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ku.kur",
+    "akarKata": null,
+    "ejaan": "kukur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengukur (menggaruk, memarut, mengorek) kelapa dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.kur",
+    "akarKata": null,
+    "ejaan": "kukur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi burung tekukur (balam)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

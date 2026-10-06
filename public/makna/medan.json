@@ -1,0 +1,113 @@
+[
+  {
+    "sukuKata": "me.dan",
+    "akarKata": null,
+    "ejaan": "mèdan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah lapang; tempat yang luas (untuk berpacu kuda dan sebagainya); alun-alun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkungan; ruang lingkup",
+        "contoh": "-- juang tentara mencakupi pula -- pembangunan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lokasi; daerah",
+        "contoh": "untuk mencapai tempat pesawat jatuh amat sulit karena berada di hutan lebat dan --nya menanjak",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batas sentuhan antara dua massa udara yang berbeda keadaannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang yang mengandung pengaruh gaya, misalnya -- magnet, -- listrik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "himpunan takkosong dengan dua operasi biner, yaitu penjumlahan dan perkalian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lokasi dalam rekaman tempat jenis data tertentu disimpan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Me.dan",
+    "akarKata": null,
+    "ejaan": "mèdan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota (madya) yang juga menjadi ibu kota Provinsi Sumatra Utara, terkenal dengan sebutan Kota Melayu Deli",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

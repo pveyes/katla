@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ta.rof",
+    "akarKata": null,
+    "ejaan": "Tarof",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah pesisir selatan Kepala Burung Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Tarof",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ebo.ni",
+    "akarKata": null,
+    "ejaan": "èboni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang keras dan berat berwarna kehitam-hitaman yang dihasilkan berbagai pohon genus Diospyros dari famili Ebenaceae",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang menghasilkan kayu eboni",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

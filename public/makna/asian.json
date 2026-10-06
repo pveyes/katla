@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "asi.an",
+    "akarKata": "asi",
+    "ejaan": "asian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bernasib baik; beroleh untung; mujur dalam berdagang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "manjur (tentang obat)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "ta.puk",
+    "akarKata": null,
+    "ejaan": "tapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menapuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.puk",
+    "akarKata": null,
+    "ejaan": "tapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedok, topeng (pertunjukan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.puk",
+    "akarKata": null,
+    "ejaan": "tapuk",
+    "baku": false,
+    "alt": "tepuk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan menamparkan kedua telapak tangan untuk menimbulkan bunyi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi yang dihasilkan oleh kedua tangan yang ditamparkan",
+        "contoh": "-- dan tawa terdengar dari permainan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tamparan tidak keras dari belakang dan dari samping",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.puk",
+    "akarKata": null,
+    "ejaan": "tapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersama-sama mulai; mulai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

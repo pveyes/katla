@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ra.pim",
+    "akarKata": null,
+    "ejaan": "rapim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rapat pimpinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

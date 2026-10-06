@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.tap",
+    "akarKata": null,
+    "ejaan": "gatap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun sirih yang sudah tua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

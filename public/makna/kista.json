@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "kis.ta",
+    "akarKata": null,
+    "ejaan": "kista",
+    "baku": true,
+    "alt": "sista",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembengkakan pada jaringan tubuh yang di dalamnya berongga dan berisi cairan kental menyerupai bubur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selaput yang membentuk kantong tertutup, berisi kuman, tumbuh secara tidak normal dalam suatu jaringan atau rongga badan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

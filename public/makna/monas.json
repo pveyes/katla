@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Mo.nas",
+    "akarKata": null,
+    "ejaan": "Monas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "monumen nasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

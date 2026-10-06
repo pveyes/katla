@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "ca.tur",
+    "akarKata": null,
+    "ejaan": "catur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan oleh dua orang, dilengkapi dengan buah catur sebanyak 16 buah berwarna hitam dan 16 buah berwarna putih, masing-masing terdiri atas 8 bidak (pion), 2 benteng, 2 gajah (menteri), 2 kuda, 1 permaisuri atau wazir, dan 1 raja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekak dan papan catur yang berpetak-petak (64 petak) hitam putih atau kuning putih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.tur",
+    "akarKata": null,
+    "ejaan": "catur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialog",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.tur",
+    "akarKata": null,
+    "ejaan": "catur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jahitan pembatas pada tengah kasur yang berfungsi untuk meratakan kapuk dan membentuk tonjolan pada kasur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

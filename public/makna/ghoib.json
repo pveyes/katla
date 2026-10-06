@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "gho.ib",
+    "akarKata": null,
+    "ejaan": "ghoib",
+    "baku": false,
+    "alt": "gaib",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak kelihatan; tersembunyi; tidak nyata",
+        "contoh": "para ilmuwan mencoba meneliti hal-hal yang -- di alam semesta ini",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; lenyap",
+        "contoh": "sekalian dewa-dewa itu pun --lah",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak diketahui sebab-sebabnya (halnya dan sebagainya)",
+        "contoh": "banyak peristiwa -- yang belum diselidiki",
+        "info": []
+      }
+    ]
+  }
+]

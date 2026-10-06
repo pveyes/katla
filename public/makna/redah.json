@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "re.dah",
+    "akarKata": null,
+    "ejaan": "rêdah",
+    "baku": false,
+    "alt": "reda",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersedia dengan ikhlas hati",
+        "contoh": "aku -- mati membela tanah tumpah darahku",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "izin (persetujuan); perkenan",
+        "contoh": "kedatangan saya ini hendak meminta -- tuan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dapat diterima dengan senang hati",
+        "contoh": "semua itu kuberikan kepadamu dengan --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak mengharap imbalan, dengan kehendak atau kemauan sendiri",
+        "contoh": "dengan suka --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.dah",
+    "akarKata": null,
+    "ejaan": "rêdah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tebang; tebas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.dah",
+    "akarKata": null,
+    "ejaan": "rêdah",
+    "baku": true,
+    "alt": "redas",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meredah"
+        ]
+      }
+    ]
+  }
+]

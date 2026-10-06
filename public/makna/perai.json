@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "pe.rai",
+    "akarKata": null,
+    "ejaan": "pêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memerai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.rai",
+    "akarKata": null,
+    "ejaan": "pêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak masuk bekerja, sekolah, dan sebagainya; libur",
+        "contoh": "pada hari besar nasional karyawan --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak usah membayar; gratis",
+        "contoh": "makan dan tempat tinggal --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.rai",
+    "akarKata": null,
+    "ejaan": "pêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berperai-perai"
+        ]
+      }
+    ]
+  }
+]

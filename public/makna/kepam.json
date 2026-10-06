@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ke.pam",
+    "akarKata": null,
+    "ejaan": "kêpam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lembap dan mudah robek karena lama tersimpan atau tertutup rapat (tentang kain, sengkelat, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lembap dan susah dinyalakan (tentang mesiu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusam; hilang cahaya atau warnanya (karena panas matahari)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

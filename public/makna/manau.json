@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.nau",
+    "akarKata": null,
+    "ejaan": "manau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah dari pohon rotan/manau yang kulitnya bersisik seperti kulit salak, dagingnya berasa masam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

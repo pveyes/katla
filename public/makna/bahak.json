@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ba.hak",
+    "akarKata": null,
+    "ejaan": "bahak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "elang laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.hak",
+    "akarKata": null,
+    "ejaan": "bahak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "elang laut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pi.vot",
+    "akarKata": null,
+    "ejaan": "pivot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putaran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "poros; inti",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berputar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

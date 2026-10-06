@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "set.ti",
+    "akarKata": null,
+    "ejaan": "sètti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedagang; tukang kredit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

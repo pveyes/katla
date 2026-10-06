@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FFI",
+    "akarKata": null,
+    "ejaan": "FFI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Festival Film Indonesia (ajang penghargaan tertinggi dunia perfilman Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

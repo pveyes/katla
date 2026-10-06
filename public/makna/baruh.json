@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ba.ruh",
+    "akarKata": null,
+    "ejaan": "baruh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang lebih rendah; kaki gunung, hilir, tanah dekat pantai dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bawah",
+        "contoh": "orang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sawah",
+        "contoh": "padi --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "nya.wa",
+    "akarKata": null,
+    "ejaan": "nyawa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberi hidup kepada badan wadak (organisme fisik) yang menyebabkan hidup (pada manusia, binatang, dan sebagainya)",
+        "contoh": "darah tertumpah -- melayang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jiwa; roh; semangat",
+        "contoh": "--nya sudah pergi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidup; kehidupan",
+        "contoh": "--nya ada di tangan saya",
+        "info": []
+      }
+    ]
+  }
+]

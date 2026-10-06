@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "le.pap",
+    "akarKata": null,
+    "ejaan": "lêpap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu kecil yang leper (ceper) lunasnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.pap",
+    "akarKata": null,
+    "ejaan": "lêpap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "perahu kecil yang leper (ceper) lunasnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

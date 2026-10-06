@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "so.sok",
+    "akarKata": null,
+    "ejaan": "sosok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang (pada jerat dan sebagainya); lubang kancing baju; kelim (pelipit) yang berlubang (untuk memasukkan tali, tongkat, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.sok",
+    "akarKata": null,
+    "ejaan": "sosok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk wujud atau rupa; rangka (perahu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk (rupa) tubuh",
+        "contoh": "-- tubuhnya sama seperti ayahnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bayangan badan",
+        "contoh": "baru saja ia keluar, dua -- mengendap-endap mengikutinya dari belakang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakal (ladang, negeri, dan sebagainya); permulaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh; pribadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "sak",
+    "akarKata": null,
+    "ejaan": "sak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saku; kantong (baju dan sebagainya)",
+        "contoh": "-- baju itu ada dua",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karung (dari kertas untuk semen dan sebagainya)",
+        "contoh": "ayah membeli dua -- semen",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sak",
+    "akarKata": null,
+    "ejaan": "sak",
+    "baku": false,
+    "alt": "syak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa kurang percaya (sangsi, curiga, tidak yakin, ragu-ragu)",
+        "contoh": "menaruh --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang percaya, ragu, curiga, tidak yakin, ragu-ragu",
+        "contoh": "jangan -- lagi",
+        "info": []
+      }
+    ]
+  }
+]

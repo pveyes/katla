@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.tes",
+    "akarKata": null,
+    "ejaan": "tètès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda cair (air dan sebagainya) yang jatuh menitik karena berat; titik",
+        "contoh": "beberapa -- air matanya menitik dari kedua kelopak matanya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan kental hasil ikutan pemurnian gula yang merupakan sisa nira yang telah mengalami proses kristalisasi",
+        "contoh": "-- dapat dibuat alkohol",
+        "info": []
+      }
+    ]
+  }
+]

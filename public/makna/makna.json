@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mak.na",
+    "akarKata": null,
+    "ejaan": "makna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arti",
+        "contoh": "ia memperhatikan -- setiap kata yang terdapat dalam tulisan kuno itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maksud pembicara atau penulis; pengertian yang diberikan kepada suatu bentuk kebahasaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pe.nak",
+    "akarKata": null,
+    "ejaan": "pènak",
+    "baku": false,
+    "alt": "pinak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keturunan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.nak",
+    "akarKata": null,
+    "ejaan": "pènak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terasa enak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

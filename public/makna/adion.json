@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ad.ion",
+    "akarKata": null,
+    "ejaan": "adion",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ion yang dijerap pada suatu permukaan dan menempel sehingga ion itu bebas bergerak, tetapi tidak lepas dari permukaan tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

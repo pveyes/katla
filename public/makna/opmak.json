@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "op.mak",
+    "akarKata": null,
+    "ejaan": "opmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyusunan jenis huruf dari isi surat kabar, majalah beserta judul-judulnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rias muka dengan alat kecantikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

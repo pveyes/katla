@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "asing",
+    "akarKata": null,
+    "ejaan": "asing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "aneh; tidak biasa",
+        "contoh": "hal itu sangat -- bagiku",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum biasa; kaku",
+        "contoh": "bagiku masih terasa -- kalau bergaul dengan mereka",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "datang dari luar (negeri, daerah, lingkungan)",
+        "contoh": "Pulau Bali banyak dikunjungi wisatawan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tersendiri; terpisah sendiri; terpencil",
+        "contoh": "ia merasa -- di daerah yang baru itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lain; berlainan; berbeda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

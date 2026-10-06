@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tah",
+    "akarKata": null,
+    "ejaan": "tah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk bertanya pada diri sendiri",
+        "contoh": "apa -- salahku, maka ia meninggalkan daku",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ma.nis",
+    "akarKata": null,
+    "ejaan": "manis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa seperti rasa gula",
+        "contoh": "campurkan madu supaya rasanya lebih --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "elok; mungil (tentang gadis, benda)",
+        "contoh": "ia akan dipertunangkan dengan gadis yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat menarik hati (tentang muka, senyum, perkataan, dan sebagainya); sangat ramah dan lemah lembut",
+        "contoh": "ia tidak cantik, tetapi senyumnya sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "indah; menyenangkan",
+        "contoh": "lagu itu menimbulkan kenangan yang -- baginya",
+        "info": []
+      }
+    ]
+  }
+]

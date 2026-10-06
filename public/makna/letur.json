@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "le.tur",
+    "akarKata": null,
+    "ejaan": "lêtur",
+    "baku": false,
+    "alt": "lentur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluk (pada benda yang dilengkungkan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patahan (biasan) sinar (seperti sinar yang jatuh ke dalam air)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah dikeluk-kelukkan (tidak kaku, tidak mudah patah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat (mudah) disesuaikan dengan keadaan (kebutuhan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.tur",
+    "akarKata": null,
+    "ejaan": "lêtur",
+    "baku": false,
+    "alt": "lecur",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melecur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

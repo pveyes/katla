@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ram.bu",
+    "akarKata": null,
+    "ejaan": "rambu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumbai; jumbai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ram.bu",
+    "akarKata": null,
+    "ejaan": "rambu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patok atau tiang (untuk batas); pancang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda atau petunjuk; rambu-rambu lalu lintas",
+        "contoh": "-- jalan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda atau petunjuk bagi kapal yang sedang berlayar, dipasang di tempat tertentu untuk menghindari kecelakaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

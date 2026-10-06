@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "wa.jib",
+    "akarKata": null,
+    "ejaan": "wajib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "harus dilakukan; tidak boleh tidak dilaksanakan (ditinggalkan)",
+        "contoh": "seorang muslim -- salat lima kali dalam sehari semalam",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah semestinya; harus",
+        "contoh": "kalau kita ingin berhasil dalam usaha, kita -- berikhtiar",
+        "info": []
+      }
+    ]
+  }
+]

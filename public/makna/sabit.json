@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "sa.bit",
+    "akarKata": null,
+    "ejaan": "sabit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk memotong rumput, padi, dan sebagainya, berupa pisau bergagang, bentuknya melengkung; arit",
+        "contoh": "dengan -- di pinggang petani itu pergi ke kebunnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk lengkung menyerupai sabit",
+        "contoh": "bulan --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyabit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.bit",
+    "akarKata": null,
+    "ejaan": "sabit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang (tentang perbuatan dan sebagainya); tetap; pasti; tentu",
+        "contoh": "nyata kesalahannya dan -- perbuatannya",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pro.sa",
+    "akarKata": null,
+    "ejaan": "prosa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karangan bebas (tidak terikat oleh kaidah yang terdapat dalam puisi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

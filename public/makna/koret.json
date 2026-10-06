@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ko.ret",
+    "akarKata": null,
+    "ejaan": "korèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kikir",
+        "contoh": "jadi orang kaya itu malah --, mereka hitung-hitungan",
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.ret",
+    "akarKata": null,
+    "ejaan": "korêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kikir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Nggem",
+    "akarKata": null,
+    "ejaan": "nggèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku yang mendiami daerah aliran Sungai Haflifoeri tengah, sebelah utara kota Wamena, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Nggem",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

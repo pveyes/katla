@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.mal",
+    "akarKata": null,
+    "ejaan": "jamal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keelokan; keindahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

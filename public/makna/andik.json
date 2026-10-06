@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "an.dik",
+    "akarKata": null,
+    "ejaan": "andik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak didik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pramuka",
+            "sumberTeks": "usulan untuk penambahan bidang baru"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

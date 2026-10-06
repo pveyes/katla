@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.dar",
+    "akarKata": null,
+    "ejaan": "kêdar",
+    "baku": false,
+    "alt": "kadar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuasa; kekuatan",
+        "contoh": "ala --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketentuan Tuhan (takdir)",
+        "contoh": "percaya kepada -- dan takdir Tuhan bukan berarti kita tidak perlu lagi bekerja keras untuk mencapai cita-cita",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "untung malang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kodrat; sifat bawaan",
+        "contoh": "menyalahi -- hidupnya",
+        "info": []
+      }
+    ]
+  }
+]

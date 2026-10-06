@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "to.rek",
+    "akarKata": null,
+    "ejaan": "torèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit telinga bernanah yang menyebabkan tuli",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuli",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

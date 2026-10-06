@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NKK",
+    "akarKata": null,
+    "ejaan": "NKK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "normalisasi kehidupan kampus (kebijakan pemerintah pada tahun 1978 untuk membekukan aktivitas mahasiswa dan kegiatan politik di kampus)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

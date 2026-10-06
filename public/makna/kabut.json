@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "ka.but",
+    "akarKata": null,
+    "ejaan": "kabut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kelam; suram; tidak nyata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awan lembap yang melayang di dekat permukaan tanah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uap air sebagai hasil kondensasi yang masih dekat dengan tanah yang terjadi karena peristiwa pemanasan atau pendinginan udara, biasanya menyebabkan jarak pandang di permukaan bumi berkurang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kombinasi beberapa macam gas yang terjadi di dalam tambang bawah tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "mineralogi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.but",
+    "akarKata": null,
+    "ejaan": "kabut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengabutkan"
+        ]
+      }
+    ]
+  }
+]

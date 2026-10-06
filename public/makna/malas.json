@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ma.las",
+    "akarKata": null,
+    "ejaan": "malas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mau bekerja atau mengerjakan sesuatu",
+        "contoh": "orang yang -- itu lebih senang mengemis daripada bekerja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bernafsu; tidak suka; segan; enggan",
+        "contoh": "-- rasanya mengunjungi rapat seperti itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.las",
+    "akarKata": null,
+    "ejaan": "malas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(ikan) betutu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

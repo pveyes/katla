@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ka.tan",
+    "akarKata": null,
+    "ejaan": "katan",
+    "baku": false,
+    "alt": "khitan",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sunat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tan",
+    "akarKata": null,
+    "ejaan": "katan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka yang disebabkan oleh senjata tajam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

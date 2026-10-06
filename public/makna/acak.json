@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "acak",
+    "akarKata": null,
+    "ejaan": "acak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tanpa pola; sebarang",
+        "contoh": "responden kuis itu diambil secara --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggambaran suatu pemilihan yang tidak dibatasi atau kalau dibatasi haruslah diwujudkan dengan menggunakan pemilihan peluang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "statistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "acak",
+    "akarKata": null,
+    "ejaan": "acak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "acap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

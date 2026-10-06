@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "no.dus",
+    "akarKata": null,
+    "ejaan": "nodus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian batang (tanaman yang agak membengkok, tempat tumbuh daun dan tunas)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

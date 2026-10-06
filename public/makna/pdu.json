@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PDU",
+    "akarKata": null,
+    "ejaan": "PDU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pakaian dinas upacara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

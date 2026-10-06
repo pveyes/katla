@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lom.po",
+    "akarKata": null,
+    "ejaan": "lompo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menggantungkan papan penggulung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hi.lum",
+    "akarKata": null,
+    "ejaan": "hilum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusar biji berupa lampang bekas tempat pelekatan tali pusar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

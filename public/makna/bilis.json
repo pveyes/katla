@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bi.lis",
+    "akarKata": null,
+    "ejaan": "bilis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sakit dan merah matanya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.lis",
+    "akarKata": null,
+    "ejaan": "bilis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan payau atau laut yang ukurannya mencapai 15,5 cm, hidup di perairan tropis dengan kedalaman 20–50 m, tersebar di perairan Indo-Pasifik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

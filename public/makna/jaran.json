@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.ran",
+    "akarKata": null,
+    "ejaan": "jaran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

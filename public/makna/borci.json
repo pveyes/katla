@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bor.ci",
+    "akarKata": null,
+    "ejaan": "borci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kertas emas untuk hiasan, sulaman, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

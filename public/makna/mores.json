@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "mo.res",
+    "akarKata": null,
+    "ejaan": "morés",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun pandan yang telah diolah kecil-kecil untuk bahan anyaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.res",
+    "akarKata": null,
+    "ejaan": "morês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adat istiadat yang mengandung arti hukum susila",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sopan santun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.res",
+    "akarKata": null,
+    "ejaan": "morês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna campuran (tentang bulu dan tubuh binatang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

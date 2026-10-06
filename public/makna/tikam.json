@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ti.kam",
+    "akarKata": null,
+    "ejaan": "tikam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tusukan (dengan barang yang tajam, misalnya keris atau tombak)",
+        "contoh": "luka kena --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.kam",
+    "akarKata": null,
+    "ejaan": "tikam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menikam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

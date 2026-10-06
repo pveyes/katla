@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "wa.kil",
+    "akarKata": null,
+    "ejaan": "wakil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dikuasakan menggantikan orang lain",
+        "contoh": "Paman bertindak sebagai -- ayah dalam persidangan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dipilih sebagai utusan negara; duta",
+        "contoh": "dia merupakan salah seorang -- Indonesia dalam perebutan Piala Thomas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menguruskan perdagangan dan sebagainya untuk orang lain; agen",
+        "contoh": "ia sebagai -- tunggal di kotanya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jabatan yang kedua setelah yang tersebut di depannya",
+        "contoh": "-- ketua",
+        "info": []
+      }
+    ]
+  }
+]

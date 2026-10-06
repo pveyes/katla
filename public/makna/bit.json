@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bit",
+    "akarKata": null,
+    "ejaan": "bit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan kecepatan transfer data terkecil dalam sistem informasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bit",
+    "akarKata": null,
+    "ejaan": "bit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sayuran yang umbinya berwarna merah keunguan, daunnya bisa dibuat sayur, umbinya biasa digunakan sebagai bahan minuman kesehatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

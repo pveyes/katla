@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "be.nur",
+    "akarKata": null,
+    "ejaan": "bênur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benih udang yang hampir tidak kasatmata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak udang windu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

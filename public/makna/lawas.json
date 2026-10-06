@@ -1,0 +1,75 @@
+[
+  {
+    "sukuKata": "la.was",
+    "akarKata": null,
+    "ejaan": "lawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.was",
+    "akarKata": null,
+    "ejaan": "lawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.was",
+    "akarKata": null,
+    "ejaan": "lawas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lama",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "tua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

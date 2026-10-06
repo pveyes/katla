@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ru.bah",
+    "akarKata": null,
+    "ejaan": "rubah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mamalia karnivor terkecil dari kelompok anjing, bermoncong panjang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.bah",
+    "akarKata": null,
+    "ejaan": "rubah",
+    "baku": false,
+    "alt": "ubah",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tukar; ganti",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

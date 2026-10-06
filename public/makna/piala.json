@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.a.la",
+    "akarKata": null,
+    "ejaan": "piala",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cawan berkaki dibuat dari emas, perak, dan sebagainya dipakai sebagai tempat minum raja-raja dan orang-orang besar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cawan berkaki, kadang-kadang bertelinga, biasanya diberi tulisan, sebagai tanda peringatan, dibuat dari emas, perak, dan sebagainya, dipakai sebagai hadiah para pemenang perlombaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

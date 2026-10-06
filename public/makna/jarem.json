@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ja.rem",
+    "akarKata": null,
+    "ejaan": "jarêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masih terasa agak nyeri (bekas dipijat, dipukul, bekas luka, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.rem",
+    "akarKata": null,
+    "ejaan": "jarêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat rumput",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

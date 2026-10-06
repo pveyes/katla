@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pe.gat",
+    "akarKata": null,
+    "ejaan": "pêgat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "putus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.gat",
+    "akarKata": null,
+    "ejaan": "pêgat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tahan; hadang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

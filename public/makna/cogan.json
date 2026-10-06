@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "co.gan",
+    "akarKata": null,
+    "ejaan": "cogan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panji-panji sebagai tanda; lencana yang mengandung semboyan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata-kata semboyan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

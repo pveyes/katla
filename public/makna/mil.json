@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "mil",
+    "akarKata": null,
+    "ejaan": "mil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran jarak, ada beberapa macam, seperti -- Belanda = 1.000 m, -- Jerman = 7.420 m, -- Inggris = 1.609 m; batu; pal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mil",
+    "akarKata": null,
+    "ejaan": "mil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat-surat pos",
+        "contoh": "kapal --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

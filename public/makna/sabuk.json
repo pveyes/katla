@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "sa.buk",
+    "akarKata": null,
+    "ejaan": "sabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikat pinggang; tali pengikat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.buk",
+    "akarKata": null,
+    "ejaan": "sabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cawat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.buk",
+    "akarKata": null,
+    "ejaan": "sabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalur",
+        "contoh": "sepanjang pantai terdapat sebuah -- dataran rendah",
+        "info": []
+      }
+    ]
+  }
+]

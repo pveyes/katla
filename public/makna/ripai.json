@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ri.pai",
+    "akarKata": null,
+    "ejaan": "ripai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rebana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

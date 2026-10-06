@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "sum",
+    "akarKata": null,
+    "ejaan": "sum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal Siam",
+        "contoh": "maka Baginda pun menyuruh menyiapkan delapan ratus --, selain perahu kecil-kecil yang tiada terbilang jumlahnya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sum",
+    "akarKata": null,
+    "ejaan": "Sum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat Dayak Sum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

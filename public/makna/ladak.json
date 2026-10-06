@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.dak",
+    "akarKata": null,
+    "ejaan": "ladak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karakter dinamis dalam tari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ti.mor",
+    "akarKata": null,
+    "ejaan": "timor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teknologi industri mobil rakyat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

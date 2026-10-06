@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.ris",
+    "akarKata": null,
+    "ejaan": "taris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lantai (dari plester, semen, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.ris",
+    "akarKata": null,
+    "ejaan": "taris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ikat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ko.yok",
+    "akarKata": null,
+    "ejaan": "koyok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anjing yang tidak dipiara orang; anjing liar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.yok",
+    "akarKata": null,
+    "ejaan": "koyok",
+    "baku": true,
+    "alt": "koyo",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat tempel (seperti plester) yang berkhasiat menyembuhkan reumatik, keseleo, dan masuk angin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

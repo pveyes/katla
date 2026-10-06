@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "so.lok",
+    "akarKata": null,
+    "ejaan": "solok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumbangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.lok",
+    "akarKata": null,
+    "ejaan": "solok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembah yang terletak di antara dua buah gunung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "So.lok",
+    "akarKata": null,
+    "ejaan": "Solok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota di Provinsi Sumatra Barat, tempat penghasil beras di Sumatra Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Sumatra Barat, ibukotanya Arosuka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.hap",
+    "akarKata": null,
+    "ejaan": "sahap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penutup; penudung",
+        "contoh": "-- periuk",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

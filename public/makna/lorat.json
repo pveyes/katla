@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "lo.rat",
+    "akarKata": null,
+    "ejaan": "lorat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam kebingungan (kesulitan dan sebagainya)",
+        "contoh": "sekalian orang itu di dalam -- belaka, ke sana kemari tiada berketentuan",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rewel (susah dan sebagainya)",
+        "contoh": "makannya sangat --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

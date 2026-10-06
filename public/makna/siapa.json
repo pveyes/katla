@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "si.a.pa",
+    "akarKata": null,
+    "ejaan": "siapa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk menanyakan nomina insan",
+        "contoh": "anak -- dia?",
+        "info": []
+      },
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata untuk menanyakan nama orang",
+        "contoh": "-- namamu?",
+        "info": []
+      },
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "seseorang yang tidak tentu",
+        "contoh": "-- yang datang disambut dengan baik",
+        "info": []
+      }
+    ]
+  }
+]

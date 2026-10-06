@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "sa.dar",
+    "akarKata": null,
+    "ejaan": "sadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "insaf; merasa; tahu dan mengerti",
+        "contoh": "kita harus -- bahwa hidup ini penuh perjuangan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ingat kembali (dari pingsan dan sebagainya); siuman",
+        "contoh": "orang yang pingsan tadi kini sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bangun (dari tidur)",
+        "contoh": "tengah malam dia -- dari tidurnya karena bermimpi buruk",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.dar",
+    "akarKata": null,
+    "ejaan": "sadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dada; bagian depan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permulaan; pendahuluan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

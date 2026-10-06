@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ka.pol",
+    "akarKata": null,
+    "ejaan": "kapol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala polisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

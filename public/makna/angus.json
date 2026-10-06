@@ -1,0 +1,52 @@
+[
+  {
+    "sukuKata": "angus",
+    "akarKata": null,
+    "ejaan": "angus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapi yang warna kulitnya hitam, tidak berpunuk dan bertanduk, pertama kali dikembangkan di Skotlandia, tubuhnya agak pendek tetapi gerakannya lincah dan aktif, serat dagingnya padat dan halus, berat jantan dewasa bisa mencapai 1 ton atau lebih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "angus",
+    "akarKata": null,
+    "ejaan": "angus",
+    "baku": false,
+    "alt": "hangus",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbakar sampai menjadi hitam; gosong",
+        "contoh": "para korban kebakaran itu semuanya --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbakar sampai habis",
+        "contoh": "gedung itu telah -- dimakan api",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "batal",
+        "contoh": "biaya yang sudah disediakan itu akan menjadi -- kalau tidak secepatnya dipakai",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

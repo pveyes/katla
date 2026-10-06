@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "pu.yuh",
+    "akarKata": null,
+    "ejaan": "puyuh",
+    "baku": true,
+    "alt": "kepuyuh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung yang tidak berekor yang termasuk keluarga Phasianidae, tidak dapat terbang tinggi, dan dapat diadu (jenisnya ada bermacam-macam, seperti -- benggala, -- lekir, -- rimba)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.yuh",
+    "akarKata": null,
+    "ejaan": "puyuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintang tujuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.yuh",
+    "akarKata": null,
+    "ejaan": "puyuh",
+    "baku": true,
+    "alt": "puyu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angin yang berkisar (berpusing-pusing)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ar.sip",
+    "akarKata": null,
+    "ejaan": "arsip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dokumen tertulis (surat, akta, dan sebagainya), lisan (pidato, ceramah, dan sebagainya), atau bergambar (foto, film, dan sebagainya) dari waktu yang lampau, disimpan dalam media tulis (kertas), elektronik (pita kaset, pita video, disket komputer, dan sebagainya), biasanya dikeluarkan oleh instansi resmi, disimpan dan dipelihara di tempat khusus untuk referensi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat penyimpanan berkas (program atau data) sebagai cadangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dokumentasi penerbitan pers yang berisikan guntingan-guntingan surat kabar, bahan-bahan referensi, dan foto",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

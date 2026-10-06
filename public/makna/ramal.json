@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "ra.mal",
+    "akarKata": null,
+    "ejaan": "ramal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasir yang dipakai untuk melihat nasib atau mengetahui apa yang akan terjadi (primbon, perhitungan, dan sebagainya)",
+        "contoh": "membaca (membilang, membuka) --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.mal",
+    "akarKata": null,
+    "ejaan": "ramal",
+    "baku": true,
+    "alt": "rumal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saputangan",
+        "contoh": "sehelai -- sutra yang bertaburkan benang emas disimpulkan di hulu keris itu",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.mal",
+    "akarKata": null,
+    "ejaan": "ramal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengembunkan agar lebih lembut (misalnya tembakau, daun pandan yang sudah dikeringkan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

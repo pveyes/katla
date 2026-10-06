@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.bah",
+    "akarKata": null,
+    "ejaan": "tabah",
+    "baku": false,
+    "alt": "tebah",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menebah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.bah",
+    "akarKata": null,
+    "ejaan": "tabah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap dan kuat hati (dalam menghadapi bahaya dan sebagainya); berani",
+        "contoh": "kita harus -- dalam menghadapi berbagai cobaan (ujian, kesulitan)",
+        "info": []
+      }
+    ]
+  }
+]

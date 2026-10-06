@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.mai",
+    "akarKata": null,
+    "ejaan": "kumai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukiran yang beringgit-ringgit atau timbul (seperti pada bingkai gambar, kaki meja)",
+        "contoh": "dibuatnya -- berkerawang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bingkai (pada bakul, keranjang, dan sebagainya)",
+        "contoh": "-- bakul itu bahannya dari rotan",
+        "info": []
+      }
+    ]
+  }
+]

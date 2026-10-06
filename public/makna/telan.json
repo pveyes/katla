@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "te.lan",
+    "akarKata": null,
+    "ejaan": "télan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cacing yang kecil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan kecil yang menyerupai cacing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.lan",
+    "akarKata": null,
+    "ejaan": "têlan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menelan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

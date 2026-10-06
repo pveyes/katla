@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "si.lap",
+    "akarKata": null,
+    "ejaan": "silap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "salah penglihatan (penglihatan atau perasaannya berlainan dengan keadaan sebenarnya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "silap mata; sulap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "silap",
+    "akarKata": null,
+    "ejaan": "silap",
+    "baku": false,
+    "alt": "khilaf",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keliru; salah (yang tidak disengaja)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

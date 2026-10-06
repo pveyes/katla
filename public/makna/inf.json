@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "INF",
+    "akarKata": null,
+    "ejaan": "INF",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "infanteri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

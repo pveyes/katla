@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "adan ()",
+    "akarKata": null,
+    "ejaan": "adan ()",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ranting atau dahan kayu yang jatuh tanpa ada penyebabnya, dipercaya akan mendatangkan bencana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "adan",
+    "akarKata": null,
+    "ejaan": "adan",
+    "baku": false,
+    "alt": "azan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seruan untuk mengajak orang melakukan salat berjemaah; bang",
+        "contoh": "kedengaran -- sayup-sayup sampai",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "adan",
+    "akarKata": null,
+    "ejaan": "adan",
+    "baku": false,
+    "alt": "adnan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surga; Firdaus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

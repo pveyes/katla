@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.sau",
+    "akarKata": null,
+    "ejaan": "basau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak empuk; keras (terutama tentang ubi, kentang, dan sebagainya yang direbus)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.sau",
+    "akarKata": null,
+    "ejaan": "basau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelapa busuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

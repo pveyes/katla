@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "da.tum",
+    "akarKata": null,
+    "ejaan": "datum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik, garis, atau bidang yang digunakan sebagai acuan, seperti dalam pemetaan, topografi, atau geologi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.tum",
+    "akarKata": null,
+    "ejaan": "datum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanggal; hari bulan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.tum",
+    "akarKata": null,
+    "ejaan": "datum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satu informasi; informasi tunggal; bentuk tunggal dari data",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

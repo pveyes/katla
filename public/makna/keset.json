@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ke.set",
+    "akarKata": null,
+    "ejaan": "kèsèt",
+    "baku": true,
+    "alt": "koset",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengesat kaki, terbuat dari sabut kelapa dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.set",
+    "akarKata": null,
+    "ejaan": "kêsèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "malas; tidak rajin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.set",
+    "akarKata": null,
+    "ejaan": "kêsêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "eset; kuliti",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

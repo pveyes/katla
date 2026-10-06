@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pun.ca",
+    "akarKata": null,
+    "ejaan": "punca",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung (tali, benang, obor, dan sebagainya); ujung atau sudut kain (selendang, sebai, dan sebagainya) yang lepas atau terjulai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkat permulaan (tentang pengetahuan); pengantar (ilmu pengetahuan dan sebagainya)",
+        "contoh": "buku -- bahasa Jepang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pangkal (asal mula, lantaran)",
+        "contoh": "sel --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumber (berita, penghidupan, dan sebagainya)",
+        "contoh": "kabar-kabar kita peroleh dari -- yang layak dipercaya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ge.tir",
+    "akarKata": null,
+    "ejaan": "gêtir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa pahit agak pedas (seperti rasa kulit jeruk)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah dan sengsara (tentang kehidupan)",
+        "contoh": "ia sudah merasai pahit -- kehidupan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.tir",
+    "akarKata": null,
+    "ejaan": "gêtir",
+    "baku": false,
+    "alt": "getil",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menggetil",
+          "segetil"
+        ]
+      }
+    ]
+  }
+]

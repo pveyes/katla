@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.rak",
+    "akarKata": null,
+    "ejaan": "farak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbedaan; kelainan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

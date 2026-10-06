@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pe.lan",
+    "akarKata": null,
+    "ejaan": "pélan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah lapang; lapangan (bola dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.lan",
+    "akarKata": null,
+    "ejaan": "pêlan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bergerak dan sebagainya dengan perlahan-lahan; lambat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

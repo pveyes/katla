@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "lu.lut",
+    "akarKata": null,
+    "ejaan": "lulut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lulur2",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.lut",
+    "akarKata": null,
+    "ejaan": "lulut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jinak (tentang binatang); tidak takut-takut lagi (tentang anak); tidak melawan lagi; tunduk patuh; menurut",
+        "contoh": "burung itu sudah -- kepadanya",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jatuh hati; menaruh cinta kepada",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "kar.sa",
+    "akarKata": null,
+    "ejaan": "karsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daya (kekuatan) jiwa yang mendorong makhluk hidup untuk berkehendak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kehendak; niat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

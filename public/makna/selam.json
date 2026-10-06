@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "se.lam",
+    "akarKata": null,
+    "ejaan": "sêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(perihal) masuk ke dalam air",
+        "contoh": "juru --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cabang olahraga renang yang masuk ke dalam air sampai ke kedalaman yang jauh dari permukaan air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Se.lam",
+    "akarKata": null,
+    "ejaan": "sêlam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Islam",
+        "contoh": "orang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

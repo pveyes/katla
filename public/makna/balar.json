@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ba.lar",
+    "akarKata": null,
+    "ejaan": "balar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "putih karena bulai (tentang kerbau)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keputih-putihan (tentang mata)",
+        "contoh": "matanya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lar",
+    "akarKata": null,
+    "ejaan": "balar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lebam berwarna biru dan bengkak memanjang karena bekas pukulan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lar",
+    "akarKata": null,
+    "ejaan": "balar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balai arkeologi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "mo.dul",
+    "akarKata": null,
+    "ejaan": "modul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "standar atau satuan pengukur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan standar yang bersama-sama dengan yang lain dipergunakan secara bersama",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan bebas yang merupakan bagian dari struktur keseluruhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komponen dari suatu sistem yang berdiri sendiri, tetapi menunjang program dari sistem itu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unit kecil dari satu pelajaran yang dapat beroperasi sendiri",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan program belajar-mengajar yang dapat dipelajari oleh murid dengan bantuan yang minimal dari guru pembimbing, meliputi perencanaan tujuan yang akan dicapai secara jelas, penyediaan materi pelajaran, alat yang dibutuhkan, serta alat untuk penilai, mengukur keberhasilan murid dalam penyelesaian pelajaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pendidikan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari program yang ditulis dan diuji secara terpisah dan kemudian digabungkan dengan modul lain untuk membentuk program yang lengkap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

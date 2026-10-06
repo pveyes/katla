@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.lut",
+    "akarKata": null,
+    "ejaan": "kalut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusut tidak keruan; kacau",
+        "contoh": "keadaan rumah tangganya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kacau pikiran dan berkata tidak keruan",
+        "contoh": "karena terlalu tinggi panas badannya, ia --",
+        "info": []
+      }
+    ]
+  }
+]

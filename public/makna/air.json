@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "air",
+    "akarKata": null,
+    "ejaan": "air",
+    "baku": true,
+    "alt": "ki",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan jernih tidak berwarna, tidak berasa, dan tidak berbau yang diperlukan dalam kehidupan manusia, hewan, dan tumbuhan yang secara kimiawi mengandung hidrogen dan oksigen",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda cair yang biasa terdapat di sumur, sungai, danau yang mendidih pada suhu 100˚C",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ronde pada pertandingan adu ayam, berdurasi lima belas menit, diawali dengan penyapuan air pada ketiak, leher, paha, dan dubur ayam agar suhu badan ayam tetap dingin atau stabil selama pertandingan",
+        "contoh": "ayam dia kemarin menang satu -- empat menit",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

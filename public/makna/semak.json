@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "se.mak",
+    "akarKata": null,
+    "ejaan": "sémak",
+    "baku": false,
+    "alt": "simak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyimak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.mak",
+    "akarKata": null,
+    "ejaan": "sêmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan seperti perdu, tetapi lebih kecil dan rendah, hanya cabang utamanya yang berkayu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh dengan tumbuh-tumbuhan kecil",
+        "contoh": "bukit itu terlalu -- jalannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusut (tentang pikiran, perasaan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.mak",
+    "akarKata": null,
+    "ejaan": "sêmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seemak; seibu",
+        "contoh": "saudara --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

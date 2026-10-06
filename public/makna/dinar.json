@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "di.nar",
+    "akarKata": null,
+    "ejaan": "dinar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang emas lama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang di beberapa negara, seperti Aljazair, Bahrain, dan Irak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

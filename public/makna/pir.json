@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "PIR",
+    "akarKata": null,
+    "ejaan": "PIR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkebunan inti rakyat (pola pengembangan perkebunan rakyat di wilayah lahan bukaan baru dalam suatu sistem kerja sama yang saling menguntungkan, utuh, dan berkelanjutan antara perkebunan besar dan perkebunan rakyat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proyek industri ringan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pir",
+    "akarKata": null,
+    "ejaan": "pir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah di daerah subtropis, bentuknya seperti jambu monyet, rasanya manis, berair seperti jambu biji",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pir",
+    "akarKata": null,
+    "ejaan": "pir",
+    "baku": false,
+    "alt": "per",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegas",
+        "contoh": "-- arloji",
+        "info": []
+      }
+    ]
+  }
+]

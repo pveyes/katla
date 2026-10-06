@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tes.la",
+    "akarKata": null,
+    "ejaan": "tèsla",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan imbas-magnetik atau rapat fluks magnetik dalam sistem satuan internasional yang sama dengan satu weber",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.dem",
+    "akarKata": null,
+    "ejaan": "fadêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran isi 6,11643 m³ untuk muatan kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

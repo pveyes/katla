@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "afa.ir",
+    "akarKata": null,
+    "ejaan": "afair",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan asmara yang berlangsung singkat (tidak dilanjutkan dengan perkawinan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kejadian yang menghebohkan atau skandal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

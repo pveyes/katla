@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RKASK",
+    "akarKata": null,
+    "ejaan": "RKASK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Rencana Kerja dan Anggaran Satuan Kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

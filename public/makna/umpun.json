@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "um.pun",
+    "akarKata": null,
+    "ejaan": "umpun",
+    "baku": false,
+    "alt": "rumpun",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok tumbuhan yang tumbuh anak-beranak seakan-akan mempunyai akar yang sama (seperti buluh, tebu, pisang, serai, dan talas); perdu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan besar bangsa (bahasa) yang sama asal dan jenisnya; golongan hasil susastra yang sejenis",
+        "contoh": "-- cerita rakyat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang-orang yang seketurunan sama nenek moyangnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

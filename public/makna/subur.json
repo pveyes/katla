@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "su.bur",
+    "akarKata": null,
+    "ejaan": "subur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat tumbuh dengan baik (lekas besar); tidak merana (tentang tumbuhan)",
+        "contoh": "tanam-tanaman di lereng gunung itu tampak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik dan sehat (tentang badan)",
+        "contoh": "meskipun makan banyak, badannya tidak dapat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gemuk (tentang tanah, yaitu banyak mengandung zat yang baik untuk tumbuhan)",
+        "contoh": "tanah di lereng gunung berapi biasanya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hidup dengan baik (berkembang biak, bertambah maju, besar, kuat, dan sebagainya)",
+        "contoh": "perseroan ekspor impor sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senang hidupnya (mudah mencari rezeki dan sebagainya)",
+        "contoh": "siapa yang sabar, tentu --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

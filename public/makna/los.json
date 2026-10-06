@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "los",
+    "akarKata": null,
+    "ejaan": "los",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah besar panjang (pasar dan sebagainya); bangsal",
+        "contoh": "-- pasar",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "los",
+    "akarKata": null,
+    "ejaan": "los",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal mualim (penunjuk jalan di pelabuhan); kapal pandu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "los",
+    "akarKata": null,
+    "ejaan": "los",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lepas; bebas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

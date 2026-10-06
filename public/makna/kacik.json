@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.cik",
+    "akarKata": null,
+    "ejaan": "kacik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu besar di pantai selatan Madura yang bentuknya khas karena mirip biji mangga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

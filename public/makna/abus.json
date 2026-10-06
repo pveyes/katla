@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "abus",
+    "akarKata": null,
+    "ejaan": "abus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang timah yang terkecil pada zaman dahulu, harganya sepersepuluh duit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berharga; sedikit sekali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abus",
+    "akarKata": null,
+    "ejaan": "abus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mampus",
+        "contoh": "-- lah kamu sekalian",
+        "info": [
+          {
+            "sumber": "kasar",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam yang tidak sopan"
+          }
+        ]
+      }
+    ]
+  }
+]

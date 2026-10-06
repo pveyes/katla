@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pi.cik",
+    "akarKata": null,
+    "ejaan": "picik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak luas (tentang pandangan, pengetahuan, pikiran, dan sebagainya)",
+        "contoh": "pandangannya sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hemat",
+        "contoh": "dia -- memakai uangnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lebar (luas); sempit",
+        "contoh": "jurang itu -- lagi dalam",
+        "info": []
+      }
+    ]
+  }
+]

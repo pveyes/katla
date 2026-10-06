@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "do.pis",
+    "akarKata": null,
+    "ejaan": "dopis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesiu pada persumbuan senapan kuno yang digunakan untuk meledakkan mesiu bedil yang ada di dalam senapan; penggalak senapan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.pis",
+    "akarKata": null,
+    "ejaan": "dopis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bom rakitan untuk mencari ikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "papua",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

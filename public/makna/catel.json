@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.tel",
+    "akarKata": null,
+    "ejaan": "catêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak pemanfaatan atas agunan debitor oleh kreditor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

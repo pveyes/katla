@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ko.men",
+    "akarKata": null,
+    "ejaan": "komèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kalimat yang memberi pernyataan tentang topik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komentar",
+        "contoh": "banyak -- yang muncul di media sosial tentang peristiwa itu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.men",
+    "akarKata": null,
+    "ejaan": "komèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang asli Papua",
+        "contoh": "Gubernur Papua yang terpilih haruslah -- yang pintar dan bijaksana",
+        "info": [
+          {
+            "sumber": "papua",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

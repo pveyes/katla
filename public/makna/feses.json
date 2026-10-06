@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.ses",
+    "akarKata": null,
+    "ejaan": "fèsès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tinja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

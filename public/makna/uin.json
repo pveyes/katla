@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UIN",
+    "akarKata": null,
+    "ejaan": "UIN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Islam Negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

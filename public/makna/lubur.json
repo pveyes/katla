@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "lu.bur",
+    "akarKata": null,
+    "ejaan": "lubur",
+    "baku": false,
+    "alt": "belubur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumpit bulat panjang tempat beras (dianyam dari daun rumbia)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyimpan garam dan beras dalam perahu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumbung padi, bagian bawah kecil, bagian atasnya besar dan lebar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

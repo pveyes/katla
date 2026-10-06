@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NID",
+    "akarKata": null,
+    "ejaan": "NID",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor induk dosen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "acang-acang",
+    "akarKata": null,
+    "ejaan": "acang-acang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang kepercayaan; pesuruh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acang-acang",
+    "akarKata": null,
+    "ejaan": "acang-acang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, berbentuk panjang, berwarna kecokelatan, panjang mencapai 40 cm, hidup di dasar perairan tropis dengan kedalaman lebih dari 50 m, tersebar di perairan Indo-Pasifik Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acang-acang",
+    "akarKata": null,
+    "ejaan": "acang-acang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dihormati dan dipercaya dalam suatu negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ku.pak",
+    "akarKata": null,
+    "ejaan": "kupak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "patah; rusak; bejat",
+        "contoh": "lemari itu tidak dapat dibuka karena kuncinya --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sudah tanggal giginya untuk pertama kali",
+        "contoh": "anak itu sudah --, tetapi masih menyusu",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

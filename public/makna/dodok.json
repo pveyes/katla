@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.dok",
+    "akarKata": null,
+    "ejaan": "dodok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jongkok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

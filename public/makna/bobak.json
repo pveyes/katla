@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.bak",
+    "akarKata": null,
+    "ejaan": "bobak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit binatang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

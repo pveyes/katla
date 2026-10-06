@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ing.gu",
+    "akarKata": null,
+    "ejaan": "inggu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terna tegak yang berdaun lebat, baunya keras, tinggi hingga 1,5 m, sering dibudidayakan karena berguna sebagai obat; aruda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah tumbuhan yang dikentalkan, baunya tidak sedap, biasa dibuat obat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ing.gu",
+    "akarKata": null,
+    "ejaan": "inggu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "poleng2",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

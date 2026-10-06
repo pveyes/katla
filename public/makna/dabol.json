@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.bol",
+    "akarKata": null,
+    "ejaan": "dabol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk kesenian (musik) yang dimainkan oleh beberapa orang dengan menggunakan genderang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

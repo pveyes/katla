@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "fa.sad",
+    "akarKata": null,
+    "ejaan": "fasad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerusakan (moral dan sebagainya); kebinasaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "fa.sad",
+    "akarKata": null,
+    "ejaan": "fasad",
+    "baku": true,
+    "alt": "vasad",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "muka bangunan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

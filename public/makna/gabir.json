@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "ga.bir",
+    "akarKata": null,
+    "ejaan": "gabir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kikuk; canggung; tidak tangkas; belum biasa; belum begitu pandai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          },
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

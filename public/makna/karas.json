@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "Ka.ras",
+    "akarKata": null,
+    "ejaan": "Karas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Karas, yang terletak di sebelah barat daya Semenanjung Bomberai, Kabupaten Fakfak, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.ras",
+    "akarKata": null,
+    "ejaan": "karas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue atau penganan yang dibuat dari tepung beras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.ras",
+    "akarKata": null,
+    "ejaan": "karas",
+    "baku": true,
+    "alt": "kekaras",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tengkaras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.ras",
+    "akarKata": null,
+    "ejaan": "karas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan kayu atau keping batu yang dipakai oleh penyair susastra Jawa Kuno untuk menuliskan karyanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

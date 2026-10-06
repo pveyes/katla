@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "stilb",
+    "akarKata": null,
+    "ejaan": "stilb",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan serian luminans yang sama dengan satu kandela per sentimenter persegi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "te.pak",
+    "akarKata": null,
+    "ejaan": "tèpak",
+    "baku": true,
+    "alt": "tipak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotak kecil bertutup dibuat dari pandan, kayu, dan sebagainya untuk tempat sirih, tembakau, rokok, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pak",
+    "akarKata": null,
+    "ejaan": "têpak",
+    "baku": true,
+    "alt": "tipak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepuk; pukul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepukan (gendang); pukulan (gendang)",
+        "contoh": "dalam gendang pencak kita kenal tepak-tepak gendang, seperti -- dua, -- tiga",
+        "info": []
+      }
+    ]
+  }
+]

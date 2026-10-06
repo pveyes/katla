@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KTU",
+    "akarKata": null,
+    "ejaan": "KTU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala bagian tata usaha",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

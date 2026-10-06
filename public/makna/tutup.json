@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.tup",
+    "akarKata": null,
+    "ejaan": "tutup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda yang menjadi alat untuk membatasi suatu tempat sehingga tidak terlihat isinya, tidak dapat dilewati, terjaga keamanannya, dan sebagainya; tudung; sahap; sangai",
+        "contoh": "-- jalan ke kebun itu dirusak pencuri",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menutup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

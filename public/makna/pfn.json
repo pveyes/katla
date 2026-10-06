@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PFN",
+    "akarKata": null,
+    "ejaan": "PFN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Produksi Film Negara (BUMN yang berkiprah di bidang perfilman)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "op.las",
+    "akarKata": null,
+    "ejaan": "oplas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "operasi plastik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

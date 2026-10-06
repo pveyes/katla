@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ba.has",
+    "akarKata": null,
+    "ejaan": "bahas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "selidik; periksa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.has",
+    "akarKata": null,
+    "ejaan": "bahas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "selidik; periksa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ko.tai",
+    "akarKata": null,
+    "ejaan": "kotai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam keadaan masih tergantung (belum putus dari tangkai atau talinya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurus kering; mersik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tua dan kering (tentang buah nyiur, pinang, dan sebagainya)",
+        "contoh": "nyiur --",
+        "info": []
+      }
+    ]
+  }
+]

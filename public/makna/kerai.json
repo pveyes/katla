@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rai",
+    "akarKata": null,
+    "ejaan": "kêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalinan bilah (rotan, bambu, dan sebagainya) penutup pintu, jendela, dan sebagainya atau sebagai peneduh; bidai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rai",
+    "akarKata": null,
+    "ejaan": "kêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "padam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

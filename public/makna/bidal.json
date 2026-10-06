@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bi.dal",
+    "akarKata": null,
+    "ejaan": "bidal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peribahasa atau pepatah yang mengandung nasihat, peringatan, sindiran, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.dal",
+    "akarKata": null,
+    "ejaan": "bidal",
+    "baku": true,
+    "alt": "jidal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sarung jari dari logam (dipakai sebagai tudung ujung jari)",
+        "contoh": "ketika menjahit kain yang tebal itu, ia memakai --",
+        "info": []
+      }
+    ]
+  }
+]

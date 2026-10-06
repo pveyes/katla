@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ga.wir",
+    "akarKata": null,
+    "ejaan": "gawir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dinding terjal (kerap kali disebabkan oleh pergeseran)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ga.wir",
+    "akarKata": null,
+    "ejaan": "Gawir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Marind",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

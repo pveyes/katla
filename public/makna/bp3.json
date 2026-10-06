@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BP",
+    "akarKata": null,
+    "ejaan": "BP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Pembantu Penyelenggara Pendidikan (badan yang beranggotakan orang tua pelajar sekolah dan masyarakat luas yang peduli pendidikan, tujuannya antara lain memberikan bantuan keuangan untuk pendidikan kepada pelajar yang kurang mampu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

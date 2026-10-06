@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ga.lat",
+    "akarKata": null,
+    "ejaan": "galat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekeliruan; kesalahan; cacat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai atau kondisi yang tidak konsisten dengan nilai yang benar, sesuai dengan yang ditentukan, atau nilai sesuai kondisi yang diharapkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.lat",
+    "akarKata": null,
+    "ejaan": "galat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garam asam galat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

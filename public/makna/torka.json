@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tor.ka",
+    "akarKata": null,
+    "ejaan": "torka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "momen gaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.bon",
+    "akarKata": null,
+    "ejaan": "jabon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon dengan tinggi mencapai 40 m, tumbuh pada ketinggian 0−1000 m dari atas permukaan laut, batangnya lurus silindris, daunnya tidak lebat, kayunya tidak begitu keras sehingga banyak \ndigunakan sebagai pelapis, bahan pembungkus korek api, dan pulp",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

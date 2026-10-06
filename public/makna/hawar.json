@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ha.war",
+    "akarKata": null,
+    "ejaan": "hawar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(musim) penyakit yang menular (terutama pada binatang ternak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit yang serentak menyerang penduduk di daerah tertentu (seperti malaria, kolera)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

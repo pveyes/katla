@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ku.a.sa",
+    "akarKata": null,
+    "ejaan": "kuasa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemampuan atau kesanggupan (untuk berbuat sesuatu); kekuatan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wewenang atas sesuatu atau untuk menentukan (memerintah, mewakili, mengurus, dan sebagainya) sesuatu",
+        "contoh": "sekretaris tidak diberi -- untuk menandatangani surat yang penting itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengaruh (gengsi, kesaktian, dan sebagainya) yang ada pada seseorang karena jabatannya (martabatnya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mampu; sanggup",
+        "contoh": "ia tiada -- mencegah perbuatan anaknya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang diserahi wewenang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.a.sa",
+    "akarKata": null,
+    "ejaan": "kuasa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angkusa; kusa",
+        "contoh": "sambil memegang -- beremas, ia berdiri di samping gajah",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

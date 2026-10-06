@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pêt",
+    "akarKata": null,
+    "ejaan": "ampêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menahan sesuatu agar tidak keluar (seperti napas, kencing)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

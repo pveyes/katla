@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BPKLN",
+    "akarKata": null,
+    "ejaan": "BPKLN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Biro Perencanaan dan Kerja Sama Luar Negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

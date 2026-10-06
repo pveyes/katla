@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ca.cak",
+    "akarKata": null,
+    "ejaan": "cacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tegak lurus (tentang barang panjang yang dipancangkan di tanah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.cak",
+    "akarKata": null,
+    "ejaan": "cacak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mencacak",
+          "pencacak"
+        ]
+      }
+    ]
+  }
+]

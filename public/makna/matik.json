@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ma.tik",
+    "akarKata": null,
+    "ejaan": "matik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "automatik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

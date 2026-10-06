@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Pa.ing",
+    "akarKata": null,
+    "ejaan": "Paing",
+    "baku": true,
+    "alt": "pahing",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari ke-2 dalam pasaran Jawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

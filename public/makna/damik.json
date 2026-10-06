@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.mik",
+    "akarKata": null,
+    "ejaan": "damik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tampar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

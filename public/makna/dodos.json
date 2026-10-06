@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "do.dos",
+    "akarKata": null,
+    "ejaan": "dodos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk memetik dan menjolok sawit, berbentuk panjang dan berujung tajam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.dos",
+    "akarKata": null,
+    "ejaan": "dodos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "alat untuk memetik dan menjolok sawit, berbentuk panjang dan berujung tajam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

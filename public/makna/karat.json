@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.rat",
+    "akarKata": null,
+    "ejaan": "karat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan merah (kekuning-kuningan) yang melekat pada besi dan sebagainya sebagai akibat proses kimia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang terjadi karena oksidasi logam dengan zat asam (oksigen) yang terdapat di udara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.rat",
+    "akarKata": null,
+    "ejaan": "karat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran untuk menentukan kadar emas",
+        "contoh": "emas 20 -- berarti bagian emas murni dicampur dengan 4 bagian logam lain",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran berat berlian (intan) 200 mg",
+        "contoh": "berlian dua --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai; mutu",
+        "contoh": "pemimpin yang tinggi --nya",
+        "info": []
+      }
+    ]
+  }
+]

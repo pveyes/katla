@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pre.mi",
+    "akarKata": null,
+    "ejaan": "prémi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hadiah (uang dan sebagainya) yang diberikan sebagai perangsang untuk meningkatkan prestasi kerja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hadiah (dalam undian, perlombaan, pembelian)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah uang yang harus dibayarkan pada waktu tertentu kepada asuransi sosial",
+        "contoh": "-- asuransi",
+        "info": []
+      }
+    ]
+  }
+]

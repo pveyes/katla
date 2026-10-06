@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "slang",
+    "akarKata": null,
+    "ejaan": "slang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ragam bahasa tidak resmi dan tidak baku yang sifatnya musiman, dipakai oleh kaum remaja atau kelompok sosial tertentu untuk komunikasi intern dengan maksud agar yang bukan anggota kelompok tidak mengerti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "slang",
+    "akarKata": null,
+    "ejaan": "slang",
+    "baku": true,
+    "alt": "selang",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembuluh karet (pada pompa dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

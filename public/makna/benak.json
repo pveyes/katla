@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "be.nak",
+    "akarKata": null,
+    "ejaan": "bênak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "isi tulang berupa bahan lunak terdiri atas sel lemak dan butir darah yang sudah matang sebagai persediaan pengganti sel dan butir darah yang rusak; sumsum",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "isi kepala; otak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pikiran",
+        "contoh": "belum terbayang dalam -- saya, bagaimana memecahkan persoalan itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.nak",
+    "akarKata": null,
+    "ejaan": "bênak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbunyi tidak nyaring atau tidak jernih (tentang mata uang); bengap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar mengerti; bodoh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

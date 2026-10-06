@@ -1,0 +1,114 @@
+[
+  {
+    "sukuKata": "ja.lan",
+    "akarKata": null,
+    "ejaan": "jalan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat untuk lalu lintas orang (kendaraan dan sebagainya)",
+        "contoh": "mobil kami melewati -- yang sempit dan berbelok-belok",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perlintasan (dari suatu tempat ke tempat lain)",
+        "contoh": "-- ke Bandung lewat Puncak selalu macet",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang dilalui atau dipakai untuk keluar masuk",
+        "contoh": "-- masuk ke Tugu Monumen Nasional melalui lorong di bawah tanah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lintasan; orbit (tentang benda di ruang angkasa)",
+        "contoh": "satelit itu berputar mengelilingi bumi melalui --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak maju atau mundur (tentang kendaraan)",
+        "contoh": "mobil itu sangat laju --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putaran jarum",
+        "contoh": "arloji itu kurang baik --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkembangan atau berlangsungnya (tentang perundingan, rapat, cerita, dan sebagainya) dari awal sampai akhir",
+        "contoh": "-- ceritanya kurang lancar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara (akal, syarat, ikhtiar, dan sebagainya) untuk melakukan (mengerjakan, mencapai, mencari) sesuatu",
+        "contoh": "rasanya tidak ada -- lain, kita harus segera mengambil keputusan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesempatan (untuk mengerjakan sesuatu)",
+        "contoh": "tidak perlu khawatir, -- masih terbuka untuk Anda",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lantaran; perantara (yang menjadi alat atau jalan penghubung)",
+        "contoh": "segala itu sudah ditakdirkan Tuhan, kejadian itu hanya sebagai --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berjalan",
+        "contoh": "kita tidak boleh -- di atas rumput taman",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melangkahkan kaki",
+        "contoh": "sekali --, dua tiga maksud tercapai",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelangsungan hidup (tentang organisasi, perkumpulan, dan sebagainya)",
+        "contoh": "dengan begini, --nya organisasi lebih susah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat dipahami; benar",
+        "contoh": "kalimatnya sudah --",
+        "info": []
+      }
+    ]
+  }
+]

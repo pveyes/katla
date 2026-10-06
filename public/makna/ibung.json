@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ibung",
+    "akarKata": null,
+    "ejaan": "ibung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu; mak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bibi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

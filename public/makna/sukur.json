@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "su.kur",
+    "akarKata": null,
+    "ejaan": "sukur",
+    "baku": false,
+    "alt": "syukur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa terima kasih kepada Allah",
+        "contoh": "ia mengucapkan -- kepada Allah karena terlepas dari marabahaya",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untunglah (pernyataan lega, senang, dan sebagainya)",
+        "contoh": "-- suamiku tidak mengalami cedera dalam kecelakaan itu",
+        "info": []
+      }
+    ]
+  }
+]

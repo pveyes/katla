@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "bur.sa",
+    "akarKata": null,
+    "ejaan": "bursa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat memperjualbelikan saham, obligasi, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemilihan (pencalonan dan sebagainya) tidak resmi; pembicaraan; desas-desus",
+        "contoh": "ia hampir tidak terdengar dalam -- calon ketua",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bur.sa",
+    "akarKata": null,
+    "ejaan": "bursa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantong atau sesuatu yang menyerupai kantong yang berisi cairan kental (pada ternak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "peternakan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

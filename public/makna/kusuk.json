@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ku.suk",
+    "akarKata": null,
+    "ejaan": "kusuk",
+    "baku": false,
+    "alt": "khusuk",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh penyerahan dan kebulatan hati; sungguh-sungguh; penuh kerendahan hati",
+        "contoh": "mereka sedang berdoa dengan --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.suk",
+    "akarKata": null,
+    "ejaan": "kusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun yang dipakai untuk menggosok badan pada waktu mandi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.suk",
+    "akarKata": null,
+    "ejaan": "kusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "usap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

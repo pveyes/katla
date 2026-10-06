@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ob.ral",
+    "akarKata": null,
+    "ejaan": "obral",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjual barang secara besar-besaran dengan harga murah (dengan maksud menghabiskan barang, mengosongkan gudang, dan sebagainya)",
+        "contoh": "pada akhir tahun barang-barang itu biasanya dijual --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengeluarkan (memakai dan sebagainya) secara banyak-banyak",
+        "contoh": "kau tidak perlu -- tenaga, manfaatkan tenagamu sebaik-baiknya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

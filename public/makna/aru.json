@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "aru",
+    "akarKata": null,
+    "ejaan": "aru",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar bangsawan Bugis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Aru",
+    "akarKata": null,
+    "ejaan": "Aru",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pulau di Kepulauan Aru",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Pulau Aru",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku bangsa Aru",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

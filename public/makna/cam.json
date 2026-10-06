@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "cam",
+    "akarKata": null,
+    "ejaan": "cam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memperhatikan; berminat",
+        "contoh": "tidak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cam",
+    "akarKata": null,
+    "ejaan": "cam",
+    "baku": false,
+    "alt": "kecam",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kecaman",
+          "mengecam",
+          "mengecamkan",
+          "pengecam"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.gar",
+    "akarKata": null,
+    "ejaan": "lègar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melegar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.gar",
+    "akarKata": null,
+    "ejaan": "lêgar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi petir, meriam; degar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

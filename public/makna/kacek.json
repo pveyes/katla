@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.cek",
+    "akarKata": null,
+    "ejaan": "kacèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selisih; beda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

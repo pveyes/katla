@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "lat.ma",
+    "akarKata": null,
+    "ejaan": "latma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "latihan bersama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

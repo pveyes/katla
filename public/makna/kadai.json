@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ka.dai",
+    "akarKata": null,
+    "ejaan": "Kadai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami sebagian daratan Pulau Taliabu dan Pulau Mangole di Kepulauan Sula, Kabupaten Maluku Utara, Provinsi Maluku",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Kadai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

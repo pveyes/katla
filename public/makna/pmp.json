@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PMP",
+    "akarKata": null,
+    "ejaan": "PMP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendidikan moral Pancasila; PPKn; PKn",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

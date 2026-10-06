@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ad.vis",
+    "akarKata": null,
+    "ejaan": "advis",
+    "baku": true,
+    "alt": "adpis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nasihat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat pemberitahuan tertulis dari bank kepada nasabah tentang penerimaan pembayaran, transfer dana, dan jasa atau pembayaran yang dilakukan, misalnya pemberitahuan pengkreditan, pendebitan rekening, penarikan, atau transfer dana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

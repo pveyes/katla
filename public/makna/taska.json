@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "tas.ka",
+    "akarKata": null,
+    "ejaan": "taska",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tabungan asuransi berjangka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

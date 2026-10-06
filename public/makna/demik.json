@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.mik",
+    "akarKata": null,
+    "ejaan": "dêmik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tampar; tepuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "ak.son",
+    "akarKata": null,
+    "ejaan": "akson",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tonjolan serat saraf yang dimulai pada sel saraf",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taji sel saraf yang secara normal membawa rangsangan dari badan sel saraf lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang saraf yang berasal dari tubuh sel neuron yang berfungsi untuk menyampaikan aksi potensial dari tubuh sel ke neuron terdekat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

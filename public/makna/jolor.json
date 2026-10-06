@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jo.lor",
+    "akarKata": null,
+    "ejaan": "jolor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rayap; jalar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

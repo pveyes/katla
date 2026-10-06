@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ja.jar",
+    "akarKata": null,
+    "ejaan": "jajar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baris; deret; banjar",
+        "contoh": "-- pohon cemara",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.jar",
+    "akarKata": null,
+    "ejaan": "jajar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang panjang bekas dibajak; alur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.jar",
+    "akarKata": null,
+    "ejaan": "jajar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menjajarkan",
+          "terjajar"
+        ]
+      }
+    ]
+  }
+]

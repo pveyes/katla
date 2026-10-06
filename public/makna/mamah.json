@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ma.mah",
+    "akarKata": null,
+    "ejaan": "mamah",
+    "baku": false,
+    "alt": "mama",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang tua perempuan; ibu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada ibu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.mah",
+    "akarKata": null,
+    "ejaan": "mamah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kunyah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

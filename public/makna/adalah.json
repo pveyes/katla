@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ada.lah",
+    "akarKata": null,
+    "ejaan": "adalah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "identik dengan",
+        "contoh": "Pancasila -- falsafah bangsa Indonesia",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sama maknanya dengan",
+        "contoh": "Desember -- bulan kedua belas",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "termasuk dalam kelompok atau golongan",
+        "contoh": "saya -- pengagum Ki Hajar Dewantara",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "pi.lis",
+    "akarKata": null,
+    "ejaan": "pilis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat tradisional (berwarna agak hitam) yang dipaliskan atau dilekatkan di dahi dan di pelipis (untuk pereda sakit kepala, wanita yang baru melahirkan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis silang di dahi untuk menangkal penyakit (berdasarkan kepercayaan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ragam hias pada topeng Cirebon yang berupa sulur di sisi kanan dan kiri wajah hingga ke rahang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.lis",
+    "akarKata": null,
+    "ejaan": "pilis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lis yang dipasang untuk menutup balok pada sekeliling atap rumah tradisional Banjar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian berukir yang ada pada bumbungan atap rumah betang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan yang dipaku pada ujung kasau di bawah ujung atap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

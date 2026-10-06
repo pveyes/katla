@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ke.cap",
+    "akarKata": null,
+    "ejaan": "kècap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan atau saus hasil olahan kacang kedelai yang diberi gula dan rempah-rempah untuk penyedap rasa masakan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bual; omong kosong",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.cap",
+    "akarKata": null,
+    "ejaan": "kêcap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan mulut (membuka dan mengatup) seperti ketika makan (hingga menimbulkan bunyi “cap, cap”)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

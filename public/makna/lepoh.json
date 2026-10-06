@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.poh",
+    "akarKata": null,
+    "ejaan": "lèpoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melepoh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.poh",
+    "akarKata": null,
+    "ejaan": "lèpoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlepoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

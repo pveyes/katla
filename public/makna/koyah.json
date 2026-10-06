@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.yah",
+    "akarKata": null,
+    "ejaan": "koyah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue satu; satru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

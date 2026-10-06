@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "se.nam",
+    "akarKata": null,
+    "ejaan": "sênam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak badan dengan gerakan tertentu, seperti menggeliat, menggerakkan, dan meregangkan anggota badan; gimnastik",
+        "contoh": "olahraga -- sedang digemari ibu-ibu pada saat ini",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.nam",
+    "akarKata": null,
+    "ejaan": "sênam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "biru kehitam-hitaman seperti warna nila; tarum",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "biru pucat (warna muka dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "warna asli (dari barang-barang yang disepuh)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

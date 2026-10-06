@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "la.tah",
+    "akarKata": null,
+    "ejaan": "latah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menderita sakit saraf dengan suka meniru-niru perbuatan atau ucapan orang lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlaku seperti orang gila (misalnya karena kematian orang yang dikasihi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "meniru-niru sikap, perbuatan, atau kebiasaan orang atau bangsa lain",
+        "contoh": "kita jangan -- terhadap kebudayaan asing",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.tah",
+    "akarKata": null,
+    "ejaan": "latah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampah (daun-daun dan sebagainya yang telah membusuk) di bawah pohon-pohonan (di hutan dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

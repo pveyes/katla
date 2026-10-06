@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "da.rah",
+    "akarKata": null,
+    "ejaan": "darah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan terdiri atas plasma, sel-sel merah dan putih yang mengalir dalam pembuluh darah manusia atau binatang",
+        "contoh": "dahinya yang terluka berlumuran --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keturunan",
+        "contoh": "aku masih ada pertalian -- dengan dia",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakat; pembawaan",
+        "contoh": "pelukis itu memiliki -- seni",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

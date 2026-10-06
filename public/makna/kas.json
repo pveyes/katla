@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "kas",
+    "akarKata": null,
+    "ejaan": "kas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyimpan uang",
+        "contoh": "uang iuran sudah dimasukkan ke dalam --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat membayar dan menerima uang",
+        "contoh": "-- dibuka setiap hari dari pukul 08.00 hingga pukul 12.00",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluar masuknya uang",
+        "contoh": "buku catatan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kas",
+    "akarKata": null,
+    "ejaan": "kas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peti kayu untuk mengirimkan barang",
+        "contoh": "-- itu jangan dibuang karena akan dibuat kandang ayam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bak (wadah) tempat mesin arloji beserta tutupnya",
+        "contoh": "kemarin arloji saya jatuh sehingga --nya retak",
+        "info": []
+      }
+    ]
+  }
+]

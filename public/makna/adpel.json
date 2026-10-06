@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ad.pel",
+    "akarKata": null,
+    "ejaan": "adpêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "administrasi pelabuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

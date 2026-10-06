@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "bu.lan",
+    "akarKata": null,
+    "ejaan": "bulan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(huruf pertama biasa ditulis kapital) satelit alami yang mengitari bumi, tampak bersinar pada malam hari karena pantulan sinar matahari",
+        "contoh": "pesawat antariksa Apollo berhasil mendarat di --",
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa atau jangka waktu perputaran bulan mengitari bumi dari mulai tampaknya bulan sampai hilang kembali (29 atau 30 hari); masa yang lamanya 1/12 tahun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satelit alami suatu planet",
+        "contoh": "Fobos adalah salah satu -- Mars",
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

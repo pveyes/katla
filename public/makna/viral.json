@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "vi.ral",
+    "akarKata": null,
+    "ejaan": "viral",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan virus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat menyebar luas dan cepat seperti virus",
+        "contoh": "kampanye itu telah menjadi --",
+        "info": []
+      }
+    ]
+  }
+]

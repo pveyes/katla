@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.rah",
+    "akarKata": null,
+    "ejaan": "karah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintik (noda) pada kulit (gigi, daun, dan sebagainya) seperti pada kulit penyu atau siput; sisa kapur yang melekat pada gigi dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.rah",
+    "akarKata": null,
+    "ejaan": "karah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buluh (bambu) yang batangnya besar dan dapat dijadikan tiang rumah, tingginya dapat mencapai 30 m",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.rah",
+    "akarKata": null,
+    "ejaan": "karah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pinggiran yang menonjol pada roda atau gelangan pada sambungan pipa dan sebagainya, yang berfungsi untuk memperkuat bagian itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

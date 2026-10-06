@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.cit",
+    "akarKata": null,
+    "ejaan": "kucit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak babi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

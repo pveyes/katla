@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "no.mer",
+    "akarKata": null,
+    "ejaan": "nomêr",
+    "baku": false,
+    "alt": "nomor",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka sebagai tanda atau lambang bilangan",
+        "contoh": "benda yang jumlahnya lima ditulis dengan -- 5",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka yang menunjukkan kedudukan dalam urutan, kumpulan, dan sebagainya",
+        "contoh": "setiap majalah diberi -- urut",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis lomba",
+        "contoh": "untuk -- lari 100 m putra, Indonesia mempunyai harapan menang",
+        "info": []
+      }
+    ]
+  }
+]

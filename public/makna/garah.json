@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ga.rah",
+    "akarKata": null,
+    "ejaan": "garah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "halau; usir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.rah",
+    "akarKata": null,
+    "ejaan": "garah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "halau; usir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

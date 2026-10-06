@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HPS",
+    "akarKata": null,
+    "ejaan": "HPS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga perkiraan sendiri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

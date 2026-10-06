@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Di.o.ne",
+    "akarKata": null,
+    "ejaan": "dioné",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulan milik Saturnus yang berdiameter sekitar 1.120 km, mengandung banyak es",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gu.lud",
+    "akarKata": null,
+    "ejaan": "gulud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petak tanah yang telah digemburkan untuk tempat menyemaikan bibit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

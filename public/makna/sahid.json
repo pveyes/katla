@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "sa.hid",
+    "akarKata": null,
+    "ejaan": "sahid",
+    "baku": false,
+    "alt": "syahid",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saksi (dalam usaha menegakkan atau mempertahankan kebenaran agama)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mati karena membela agama",
+        "contoh": "mati --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

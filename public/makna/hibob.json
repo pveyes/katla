@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hi.bob",
+    "akarKata": null,
+    "ejaan": "hibob",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menarik atau mengangkat tali, rantai, dan sebagainya ke atas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

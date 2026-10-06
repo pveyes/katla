@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "le.ter",
+    "akarKata": null,
+    "ejaan": "lètèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cakap (tutur kata) yang keluar terus-menerus dengan tidak tentu maksud tujuannya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ter",
+    "akarKata": null,
+    "ejaan": "lètèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "datar (tentang permukaan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ter",
+    "akarKata": null,
+    "ejaan": "lètêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "huruf",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

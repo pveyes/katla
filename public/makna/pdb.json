@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PDB",
+    "akarKata": null,
+    "ejaan": "PDB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "produk domestik bruto",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

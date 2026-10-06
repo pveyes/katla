@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ci.buk",
+    "akarKata": null,
+    "ejaan": "cibuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bumbung tempat air untuk pencuci kaki",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cebok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

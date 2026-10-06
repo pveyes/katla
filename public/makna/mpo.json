@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MPO",
+    "akarKata": null,
+    "ejaan": "MPO",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menghitung pajak orang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tak.sa",
+    "akarKata": null,
+    "ejaan": "taksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai makna lebih dari satu; kabur atau meragukan (tentang makna); ambigu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tak.sa",
+    "akarKata": null,
+    "ejaan": "taksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takson-takson",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

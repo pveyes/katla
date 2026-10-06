@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.bun",
+    "akarKata": null,
+    "ejaan": "rabun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang jelas; kurang awas; kabur (tentang penglihatan)",
+        "contoh": "orang tua itu sudah -- matanya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.bun",
+    "akarKata": null,
+    "ejaan": "rabun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asap (dari daun-daunan, dupa yang dibakar) untuk mengasapi rumah, mengobati orang sakit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

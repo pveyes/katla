@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HGB",
+    "akarKata": null,
+    "ejaan": "HGB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak guna bangunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

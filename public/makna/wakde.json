@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Wak.de",
+    "akarKata": null,
+    "ejaan": "wakdê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Pulau Wakde, Kabupaten Jayapura, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Wakde",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

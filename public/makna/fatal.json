@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "fa.tal",
+    "akarKata": null,
+    "ejaan": "fatal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mematikan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat diubah atau diperbaiki lagi (tentang kerusakan, kesalahan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menerima nasib (tidak dapat diubah lagi); celaka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

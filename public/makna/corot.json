@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "co.rot",
+    "akarKata": null,
+    "ejaan": "corot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerat (pada cerek dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.rot",
+    "akarKata": null,
+    "ejaan": "corot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terakhir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

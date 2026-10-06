@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ju.jul",
+    "akarKata": null,
+    "ejaan": "jujul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mendorong ke atas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Yah.ya",
+    "akarKata": null,
+    "ejaan": "Yahya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nabi dan rasul Bani Israil, putra Nabi Zakaria",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

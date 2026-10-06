@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "asyar",
+    "akarKata": null,
+    "ejaan": "asyar",
+    "baku": false,
+    "alt": "asar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu petang hari",
+        "contoh": "pertemuan itu dilangsungkan pada waktu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu salat wajib pada petang hari antara sehabis waktu zuhur dan terbenam matahari",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(huruf awal ditulis dengan kapital) salat wajib sebanyak empat rakaat pada petang hari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

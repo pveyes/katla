@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "lot",
+    "akarKata": null,
+    "ejaan": "lot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "undian; lotre",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lot",
+    "akarKata": null,
+    "ejaan": "lot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok satuan hasil produksi yang dibuat dengan kondisi yang sama dan berasal dari bahan yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "perindustrian dan kerajinan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lot",
+    "akarKata": null,
+    "ejaan": "lot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah obligasi atau saham dalam perdagangan tunggal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

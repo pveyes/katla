@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ri.ben",
+    "akarKata": null,
+    "ejaan": "ribèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaca gelap tembus cahaya yang bersifat meneduhkan atau meredupkan cahaya matahari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kacamata yang dibuat dari bahan kaca gelap tembus cahaya untuk melindungi mata dari sinar matahari yang menyilaukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

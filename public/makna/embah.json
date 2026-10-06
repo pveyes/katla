@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "em.bah",
+    "akarKata": null,
+    "ejaan": "êmbah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nenek; kakek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

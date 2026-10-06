@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pa.dah",
+    "akarKata": null,
+    "ejaan": "padah",
+    "baku": true,
+    "alt": "pedah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alamat yang memberi peringatan akan terjadinya sesuatu; gelagat",
+        "contoh": "tidak baik --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teknik penyusunan peristiwa dan penjelasan dalam alur kisahan atau drama, yang berfungsi memberikan bayangan peristiwa sebelum peristiwa itu terjadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

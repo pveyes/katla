@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pa.lis",
+    "akarKata": null,
+    "ejaan": "palis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berpalis",
+          "memalis"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.lis",
+    "akarKata": null,
+    "ejaan": "palis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memalis"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.lis",
+    "akarKata": null,
+    "ejaan": "palis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memalis",
+          "memaliskan",
+          "terpalis"
+        ]
+      }
+    ]
+  }
+]

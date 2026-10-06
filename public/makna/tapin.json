@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ta.pin",
+    "akarKata": null,
+    "ejaan": "tapin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taruhan (dalam sepakbola)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.pin",
+    "akarKata": null,
+    "ejaan": "tapin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tikar yang terbuat dari sematan daun sagu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "asmat",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ta.pin",
+    "akarKata": null,
+    "ejaan": "Tapin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Kalimantan Selatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

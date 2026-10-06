@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.kik",
+    "akarKata": null,
+    "ejaan": "pêkik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teriakan; jeritan",
+        "contoh": "terdengar -- tangis orang dalam kapal yang sedang terbakar itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sorak atau teriakan (sebagai semboyan dan sebagainya)",
+        "contoh": "disambut dengan -- “merdeka,” gemuruh suaranya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "al.pin",
+    "akarKata": null,
+    "ejaan": "alpin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "habitat yang terdapat di atas garis pohon dan di bawah garis salju di kawasan pegunungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

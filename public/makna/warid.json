@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "wa.rid",
+    "akarKata": null,
+    "ejaan": "warid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beribadah mengikuti cara yang dilakukan oleh Nabi Muhammad saw.",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wa.rid",
+    "akarKata": null,
+    "ejaan": "warid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "urat nadi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

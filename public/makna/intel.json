@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "in.tel",
+    "akarKata": null,
+    "ejaan": "intêl; intèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "intelijen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

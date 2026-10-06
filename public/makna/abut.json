@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "abut",
+    "akarKata": null,
+    "ejaan": "abut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencabut batang dari dalam tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abut",
+    "akarKata": null,
+    "ejaan": "abut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk yang letaknya di bagian paling belakang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abut",
+    "akarKata": null,
+    "ejaan": "abut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merangkul keluarga",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengumpulkan keluarga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abut",
+    "akarKata": null,
+    "ejaan": "abut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sibuk, khusus dalam pelaksanaan pesta adat di masyarakat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

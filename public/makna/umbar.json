@@ -1,0 +1,19 @@
+[
+  {
+    "sukuKata": "um.bar",
+    "akarKata": null,
+    "ejaan": "umbar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengumbar",
+          "pengumbaran"
+        ]
+      }
+    ]
+  }
+]

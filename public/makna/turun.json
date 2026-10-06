@@ -1,0 +1,140 @@
+[
+  {
+    "sukuKata": "tu.run",
+    "akarKata": null,
+    "ejaan": "turun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bergerak ke arah bawah; bergerak ke tempat yang lebih rendah daripada tempat semula",
+        "contoh": "-- dari gunung",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bergerak (berjalan dan sebagainya) dari hulu (udik) ke hilir; menghilir (dari atas angin) ke bawah angin; datang dari (dari suatu tempat atau daerah yang jauh ke tempat sendiri)",
+        "contoh": "ia menumpang perahu yang -- ke Palembang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengendap (tentang ampas dan sebagainya)",
+        "contoh": "ampasnya sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "surut (tentang air)",
+        "contoh": "air laut mulai --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "reda (tentang marah, nafsu, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengayun atau mendekati kaki langit (tentang matahari, bulan)",
+        "contoh": "matahari (tengah) --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meninggalkan atau keluar dari kendaraan (kapal, kereta, dan sebagainya) ke bawah; pergi dari kapal ke darat; keluar dari rumah; pergi atau pulang (tentang tamu)",
+        "contoh": "penumpang bus itu disuruhnya --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi kurang (rendah, susut, sedikit, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh atau merosot (tentang harga, nilai, dan sebagainya)",
+        "contoh": "hasil panen -- 10%",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "datang ke (dari sesuatu yang dianggap tinggi atau di atas); berpindah ke (dari orang tua, nenek moyang, dan sebagainya); masuk ke (memasuki, tentang roh halus, setan, dan sebagainya)",
+        "contoh": "seperti bidadari -- ke bumi",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jatuh (tentang hujan, salju, dan sebagainya); datang menimpa (tentang tulah, siksa, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi lemah (tentang kondisi tubuh)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sampai di tangan; diterima (tentang surat dari atasan dan sebagainya)",
+        "contoh": "perintah dari atasan belum --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melantai; berdansa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.run",
+    "akarKata": null,
+    "ejaan": "turun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menurun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "pro",
+    "akarKata": null,
+    "ejaan": "pro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebih",
+        "contoh": "--aktif",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pro",
+    "akarKata": null,
+    "ejaan": "pro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "setuju",
+        "contoh": "hasil pemungutan suara adalah 20 -- dan 10 kontra",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pro",
+    "akarKata": null,
+    "ejaan": "pro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "profesional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

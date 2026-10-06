@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.dai",
+    "akarKata": null,
+    "ejaan": "badai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angin kencang yang menyertai cuaca buruk (yang datang dengan tiba-tiba) berkecepatan sekitar 64–72 knot",
+        "contoh": "kampung nelayan itu hancur diserang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dai",
+    "akarKata": null,
+    "ejaan": "badai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terbadai"
+        ]
+      }
+    ]
+  }
+]

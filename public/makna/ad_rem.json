@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ad rem",
+    "akarKata": null,
+    "ejaan": "ad rem",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "langsung ke inti masalah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

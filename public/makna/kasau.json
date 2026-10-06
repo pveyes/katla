@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "ka.sau",
+    "akarKata": null,
+    "ejaan": "kasau",
+    "baku": true,
+    "alt": "kaso",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu (bambu) yang dipasang melintang seakan-akan merupakan tulang rusuk pada atap rumah, jembatan, balai-balai, dan sebagainya",
+        "contoh": "atap rumah yang memakai -- bambu lebih tahan daripada rumah yang memakai -- kayu biasa",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "KASAU",
+    "akarKata": null,
+    "ejaan": "KASAU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kepala Staf TNI Angkatan Udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

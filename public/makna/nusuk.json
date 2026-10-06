@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "nu.suk",
+    "akarKata": null,
+    "ejaan": "nusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibadah yang lebih bersifat ritual, seperti ibadah haji",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

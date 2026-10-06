@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ha.kim",
+    "akarKata": null,
+    "ejaan": "hakim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mengadili perkara (dalam pengadilan atau mahkamah); pengadil",
+        "contoh": "keputusan -- tidak dapat diganggu gugat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengadilan",
+        "contoh": "perkaranya sudah diserahkan kepada --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "juri; penilai (dalam perlombaan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ha.kim",
+    "akarKata": null,
+    "ejaan": "hakim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang pandai-pandai, budiman, dan ahli; orang yang bijak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

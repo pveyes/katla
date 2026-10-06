@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pa.til",
+    "akarKata": null,
+    "ejaan": "patil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rimbas (beliung) kecil",
+        "contoh": "ia menarah kayu itu dengan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.til",
+    "akarKata": null,
+    "ejaan": "patil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sirip di kanan kiri kepala, tajam, dan berbisa (pada ikan sembilang, lele, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

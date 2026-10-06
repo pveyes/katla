@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Using",
+    "akarKata": null,
+    "ejaan": "Using",
+    "baku": true,
+    "alt": "Osing",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Banyuwangi, Jawa Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialek bahasa Jawa yang dituturkan oleh suku Using",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

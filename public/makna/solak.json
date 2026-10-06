@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "so.lak",
+    "akarKata": null,
+    "ejaan": "solak",
+    "baku": true,
+    "alt": "sualak",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka; menyukai",
+        "contoh": "tuan tak --, saya tak sudi",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

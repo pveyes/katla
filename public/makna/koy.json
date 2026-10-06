@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "koy",
+    "akarKata": null,
+    "ejaan": "koy",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerabat dari pihak ibu dalam sistem perkawinan masyarakat Aceh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

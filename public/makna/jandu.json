@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jan.du",
+    "akarKata": null,
+    "ejaan": "jandu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung hantu mulut kodok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

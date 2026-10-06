@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "to.nem",
+    "akarKata": null,
+    "ejaan": "tonèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tona yang membedakan kata-kata yang secara segmental sama, tetapi yang secara semantis berbeda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

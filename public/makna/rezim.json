@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "re.zim",
+    "akarKata": null,
+    "ejaan": "rèzim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tata pemerintah negara; pemerintahan yang berkuasa",
+        "contoh": "diberitahukan bahwa -- lama sudah jatuh",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.zim",
+    "akarKata": null,
+    "ejaan": "rèzim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciri dan distribusi unsur iklim dalam suatu daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.cis",
+    "akarKata": null,
+    "ejaan": "macis",
+    "baku": true,
+    "alt": "mancis, mecis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "korek api",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

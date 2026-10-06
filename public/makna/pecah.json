@@ -1,0 +1,93 @@
+[
+  {
+    "sukuKata": "pe.cah",
+    "akarKata": null,
+    "ejaan": "pêcah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbelah menjadi beberapa bagian",
+        "contoh": "piring yang dipegangnya jatuh dan -- berkeping-keping",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "retak atau rekah (tentang kulit, tanah, dan sebagainya)",
+        "contoh": "karena musim kemarau yang panjang, tanah persawahan banyak yang --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rusak atau belah kulitnya (dindingnya) hingga isinya keluar (tentang telur, ban, bisul, dan sebagainya)",
+        "contoh": "ban mobil itu -- ketika dipompa",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi cair atau bergumpal-gumpal (tentang air susu, santan, dan sebagainya)",
+        "contoh": "air susu yang -- tidak baik untuk diminum",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bercerai-cerai (tidak bersatu atau tidak kompak lagi); hilang (tentang kepercayaan)",
+        "contoh": "partai buruh -- menjadi beberapa partai",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tersiar (tentang kabar, rahasia)",
+        "contoh": "-- kabar bahwa raja akan turun takhta",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mulai (tentang perang, kerusuhan, dan sebagainya)",
+        "contoh": "--lah perang antara dua negara yang bertetangga itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kalah (tentang perang)",
+        "contoh": "rakyat kalang kabut sebagai negeri -- perangnya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sember (tentang bunyi suara)",
+        "contoh": "suaranya tidak baik didengar karena --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bubar; usai",
+        "contoh": "kemudian --lah segala orang yang di dalam majelis raja",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terkalahkan (tentang lawan); tercipta (tentang rekor baru)",
+        "contoh": "rekor lari 100 m --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "em.bek",
+    "akarKata": null,
+    "ejaan": "èmbèk",
+    "baku": false,
+    "alt": "ebek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tabir (anyaman bambu dan sebagainya) penutup jendela (pintu dan sebagainya) untuk menahan sinar matahari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "em.bek",
+    "akarKata": null,
+    "ejaan": "êmbèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kambing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

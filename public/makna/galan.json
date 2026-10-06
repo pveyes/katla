@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.lan",
+    "akarKata": null,
+    "ejaan": "galan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahu sopan santun dan pandai bergaul (khusus untuk laki-laki)",
+        "contoh": "ia seorang laki-laki yang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

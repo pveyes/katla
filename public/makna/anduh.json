@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "an.duh",
+    "akarKata": null,
+    "ejaan": "anduh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ikat; mengikat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain yang digunakan untuk mengikat tangan yang cedera (patah, retak, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

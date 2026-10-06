@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.pir",
+    "akarKata": null,
+    "ejaan": "kupir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tukang gunting (potong) pakaian yang akan dijahit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

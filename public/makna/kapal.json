@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ka.pal",
+    "akarKata": null,
+    "ejaan": "kapal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan pengangkut penumpang dan barang di laut (sungai dan sebagainya) terbuat dari kayu atau besi, bertiang satu atau lebih, bergeladak, digerakkan oleh mesin atau layar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.pal",
+    "akarKata": null,
+    "ejaan": "kapal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit yang menebal dan mengeras; belulang (pada kaki, telapak tangan, dan lain-lain)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

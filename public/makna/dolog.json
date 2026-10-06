@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Do.log",
+    "akarKata": null,
+    "ejaan": "Dolog",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "depot logistik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

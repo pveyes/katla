@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ru.kam",
+    "akarKata": null,
+    "ejaan": "rukam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon buah yang biasanya bengkok berbonggol-bonggol, batangnya berduri, tinggi hingga 15 m, kayunya sangat keras, digunakan sebagai antan dan galah pedati, buahnya pahit dan rasanya sepat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah rukam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "pi.kun",
+    "akarKata": null,
+    "ejaan": "pikun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kelainan tingkah laku (sering lupa dan sebagainya) yang biasa terjadi pada orang yang sudah berusia lanjut; linglung; pelupa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berfungsi dengan baik karena sudah lama atau tua (mesin, perkakas, dan sebagainya)",
+        "contoh": "alat pencatat gempa yang sudah -- karena tuanya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

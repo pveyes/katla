@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ce.cak",
+    "akarKata": null,
+    "ejaan": "cêcak",
+    "baku": true,
+    "alt": "cicak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang merayap, biasa hidup di rumah (pada langit-langit, di dekat lampu), makanannya binatang kecil (nyamuk dan sebagainya), sering berbunyi “cek, cek”; cicak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.cak",
+    "akarKata": null,
+    "ejaan": "cêcak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cubit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.cak",
+    "akarKata": null,
+    "ejaan": "cêcak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintik-bintik atau belang-belang kecil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbintik-bintik atau berbelang-belang kecil (tentang bulu kucing dan sebagainya)",
+        "contoh": "ayam --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "su.rih",
+    "akarKata": null,
+    "ejaan": "surih",
+    "baku": true,
+    "alt": "suris",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gores; garis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

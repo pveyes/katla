@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "nor.ma",
+    "akarKata": null,
+    "ejaan": "norma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aturan atau ketentuan yang mengikat warga kelompok dalam masyarakat, dipakai sebagai panduan, tatanan, dan pengendali tingkah laku yang sesuai dan berterima",
+        "contoh": "setiap warga masyarakat harus menaati -- yang berlaku",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aturan, ukuran, atau kaidah yang dipakai sebagai tolok ukur untuk menilai atau memperbandingkan sesuatu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Nor.ma ()",
+    "akarKata": null,
+    "ejaan": "Norma ()",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasi bintang kecil di belahan selatan yang tampak pada lintang antara 300dan -900 pada meridian 5 Juli, pukul 21.00",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

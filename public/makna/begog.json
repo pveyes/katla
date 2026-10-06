@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "be.gog",
+    "akarKata": null,
+    "ejaan": "bêgog",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak monyet",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

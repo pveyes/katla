@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "uri.ta",
+    "akarKata": null,
+    "ejaan": "urita",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warta",
+        "contoh": "ada pula satu -- yang mengabarkan bahwa ia mengajar di sebuah sekolah",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

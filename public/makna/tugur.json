@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "tu.gur",
+    "akarKata": null,
+    "ejaan": "tugur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tetap (menunggu) pada suatu tempat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjaga (rumah, ladang, dan sebagainya)",
+        "contoh": "tentara telah -- di balik bukit untuk berjaga-jaga terhadap segala kemungkinan",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

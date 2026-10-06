@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "su.dip",
+    "akarKata": null,
+    "ejaan": "sudip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sendok seperti sudu, bertangkai panjang (untuk mengarau nasi, membalik-balikkan barang yang digoreng, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang dengan panjang 15 cm dengan ujung pipih yang digunakan untuk meletakkan pasta atau mengambil zat kimia dari botol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

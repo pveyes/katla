@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "SIT",
+    "akarKata": null,
+    "ejaan": "SIT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat izin terbit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sit",
+    "akarKata": null,
+    "ejaan": "sit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi karet rem yang ditekan mendadak; desit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sit",
+    "akarKata": null,
+    "ejaan": "sit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaran kertas dari bahan kimia untuk stensil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

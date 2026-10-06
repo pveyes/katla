@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "yah",
+    "akarKata": null,
+    "ejaan": "yah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru yang menyatakan kekecewaan",
+        "contoh": "--, tim sepak bola favoritku kalah lagi",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyudahi (menukas, menyimpulkan, dan sebagainya) suatu pembicaraan",
+        "contoh": "--, biarlah dia berbuat begitu",
+        "info": []
+      }
+    ]
+  }
+]

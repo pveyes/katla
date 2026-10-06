@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "mad",
+    "akarKata": null,
+    "ejaan": "mad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda bunyi panjang dalam bahasa Arab (bunyi pendek menjadi bunyi panjang)",
+        "contoh": "dewan hakim mencatat dengan cermat kesalahan lafal dan -- tiap-tiap qari",
+        "info": []
+      }
+    ]
+  }
+]

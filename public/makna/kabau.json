@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.bau",
+    "akarKata": null,
+    "ejaan": "kabau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang agak besar, kayunya awet, digunakan untuk papan, buahnya berbau tidak sedap seperti jengkol; jering antan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kabau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

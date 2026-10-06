@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "sa.lut",
+    "akarKata": null,
+    "ejaan": "salut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sampul; sarung; pembungkus; selongsong",
+        "contoh": "-- giginya dari emas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah pelindung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.lut",
+    "akarKata": null,
+    "ejaan": "salut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hormat; penghormatan",
+        "contoh": "kita memberi -- kepada para petani yang telah menyumbangkan padi mereka untuk rakyat Afrika yang kelaparan",
+        "info": []
+      }
+    ]
+  }
+]

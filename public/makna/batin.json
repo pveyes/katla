@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "ba.tin",
+    "akarKata": null,
+    "ejaan": "batin",
+    "baku": true,
+    "alt": "bathin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang terdapat di dalam hati; sesuatu yang menyangkut jiwa (perasaan hati dan sebagainya)",
+        "contoh": "ia menceritakan apa yang terasa dalam --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang tersembunyi (gaib, tidak kelihatan)",
+        "contoh": "sukar mengetahui (mengukur) -- seseorang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semangat; hakikat",
+        "contoh": "lahirnya menolong, --nya menggolong",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.tin",
+    "akarKata": null,
+    "ejaan": "batin",
+    "baku": true,
+    "alt": "perwatin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghulu adat; kepala (daerah, negeri)",
+        "contoh": "maka sekonyong-konyong keluarlah -- Singapura",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ba.tin",
+    "akarKata": null,
+    "ejaan": "Batin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami beberapa kecamatan di Kabupaten Sorolangun Bangko, Provinsi Jambi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

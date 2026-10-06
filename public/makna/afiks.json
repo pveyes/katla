@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "afiks",
+    "akarKata": null,
+    "ejaan": "afiks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk terikat yang apabila ditambahkan pada kata dasar atau bentuk dasar akan mengubah makna gramatikal (seperti prefiks, infiks, konfiks, dan sufiks); bentuk (atau morfem) terikat yang dipakai untuk menurunkan kata imbuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

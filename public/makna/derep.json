@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.rep",
+    "akarKata": null,
+    "ejaan": "dêrêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menolong memotong padi dengan imbalan kurang lebih seperlima dari hasil panen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

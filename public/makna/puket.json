@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pu.ket",
+    "akarKata": null,
+    "ejaan": "pukêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembantu ketua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

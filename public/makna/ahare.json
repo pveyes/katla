@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "aha.re",
+    "akarKata": null,
+    "ejaan": "aharé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap rumah yang terbuat dari susunan batang kayu yang kecil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan bagian dalam atau lapisan pertama dinding rumah yang terbuat dari  susunan batang kayu yang berukuran kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

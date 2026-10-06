@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "tu.nam",
+    "akarKata": null,
+    "ejaan": "tunam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali api-api dari sabut, seludang kelapa, dan sebagainya (untuk sumbu meriam kuno dan sebagainya); murang; upet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.nam",
+    "akarKata": null,
+    "ejaan": "tunam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tertunam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

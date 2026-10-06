@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "yuk",
+    "akarKata": null,
+    "ejaan": "yuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat ukulele",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "yuk",
+    "akarKata": null,
+    "ejaan": "yuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk mengajak; ayo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

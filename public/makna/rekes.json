@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re.kes",
+    "akarKata": null,
+    "ejaan": "rêkès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(surat) permohonan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(surat) lamaran pekerjaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "uli",
+    "akarKata": null,
+    "ejaan": "uli",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari ketan dan parutan kelapa (sering dimakan bersama dengan tape ketan)",
+        "contoh": "jajan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uli",
+    "akarKata": null,
+    "ejaan": "uli",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik; elok (untuk nama timang-timangan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "uli",
+    "akarKata": null,
+    "ejaan": "uli",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "baik; elok (untuk nama timang-timangan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

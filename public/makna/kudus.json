@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ku.dus",
+    "akarKata": null,
+    "ejaan": "kudus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suci; murni",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ku.dus",
+    "akarKata": null,
+    "ejaan": "Kudus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Jawa Tengah, terkenal dengan sebutan Kota Kretek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

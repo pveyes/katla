@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "in.set",
+    "akarKata": null,
+    "ejaan": "insèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peta, gambar, atau foto kecil yang terdapat di dalam peta (koran, gambar, foto) yang lebih besar",
+        "contoh": "gambar -- ini adalah gambar si pembunuh berdarah dingin yang masih dalam buronan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "halaman tambahan yang disisipkan dalam buku dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

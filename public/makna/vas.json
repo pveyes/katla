@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "vas",
+    "akarKata": null,
+    "ejaan": "vas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat bunga untuk hiasan di atas meja dan sebagainya; jambangan",
+        "contoh": "-- itu cocok untuk tempat bunga mawar, terutama yang berwarna merah",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "vas",
+    "akarKata": null,
+    "ejaan": "vas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembuluh dalam tubuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

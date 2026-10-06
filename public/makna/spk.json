@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SPK",
+    "akarKata": null,
+    "ejaan": "SPK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat perintah kerja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

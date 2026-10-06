@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.tap",
+    "akarKata": null,
+    "ejaan": "gêtap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pecah; kerkah; kertak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.tap",
+    "akarKata": null,
+    "ejaan": "gêtap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "getapan"
+        ]
+      }
+    ]
+  }
+]

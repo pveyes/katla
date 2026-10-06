@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "eja.an",
+    "akarKata": "eja",
+    "ejaan": "ejaan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaidah cara menggambarkan bunyi-bunyi (kata, kalimat, dan sebagainya) dalam bentuk tulisan (huruf-huruf) serta penggunaan tanda baca",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

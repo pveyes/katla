@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.yan",
+    "akarKata": null,
+    "ejaan": "rayan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "merayan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

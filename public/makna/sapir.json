@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "sa.pir",
+    "akarKata": null,
+    "ejaan": "sapir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serdadu bagian zeni",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.pir",
+    "akarKata": null,
+    "ejaan": "sapir",
+    "baku": false,
+    "alt": "safir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu permata berwarna biru tembus pandang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.pir",
+    "akarKata": null,
+    "ejaan": "sapir",
+    "baku": false,
+    "alt": "musafir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bepergian meninggalkan negerinya (selama tiga hari atau lebih); pengembara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

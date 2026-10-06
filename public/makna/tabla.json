@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "tab.la",
+    "akarKata": null,
+    "ejaan": "tabla",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik pukul berupa dua gendang kecil, satu berbentuk silinder dan satu lagi berbentuk mangkuk, dimainkan dengan cara diketuk dengan jari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Tab.la",
+    "akarKata": null,
+    "ejaan": "Tabla",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah pantai utara Papua di Kecamatan Demta, Kabupaten Jayapura, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Tabla",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

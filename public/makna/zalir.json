@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "za.lir",
+    "akarKata": null,
+    "ejaan": "zalir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan dan gas fase bahan yang hanya mampu menopang tekanan isotropik seragam tanpa mengalami erotasi atau distorsi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang dapat mengalir dan mengalah terhadap setiap gaya yang berusaha mengubah bentuk zat tanpa mengubah volumenya, seperti air dan udara; zat alir; fluida",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

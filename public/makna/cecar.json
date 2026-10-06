@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ce.car",
+    "akarKata": null,
+    "ejaan": "cêcar",
+    "baku": true,
+    "alt": "cecer",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencecar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

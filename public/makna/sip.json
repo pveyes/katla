@@ -1,0 +1,79 @@
+[
+  {
+    "sukuKata": "sip",
+    "akarKata": null,
+    "ejaan": "sip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bebas atau terlindung dari bahaya; aman",
+        "contoh": "dengan kawalan detektif, ia merasa lebih -- dari gangguan bandit",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bebas dari kemungkinan menderita kerugian, kehilangan, kerusakan, dan sebagainya; terjamin",
+        "contoh": "uang itu lebih -- kalau disimpan di bank",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bebas dari ketidakpastian",
+        "contoh": "Anda akan merasa lebih -- jika memesan tempat sehari sebelumnya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mantap; elok; baik; sempurna",
+        "contoh": "pertemuan memang lebih -- kalau ada suguhannya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "SIP",
+    "akarKata": null,
+    "ejaan": "SIP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat izin praktik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

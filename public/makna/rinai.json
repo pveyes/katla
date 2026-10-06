@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ri.nai",
+    "akarKata": null,
+    "ejaan": "rinai",
+    "baku": true,
+    "alt": "ranai, renai, renyai, rinyai",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerimis; rintik-rintik; tetes-tetes (tentang hujan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ri.nai",
+    "akarKata": null,
+    "ejaan": "rinai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merinai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

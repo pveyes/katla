@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "nan.da",
+    "akarKata": null,
+    "ejaan": "nanda",
+    "baku": false,
+    "alt": "ananda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          }
+        ]
+      }
+    ]
+  }
+]

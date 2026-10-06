@@ -1,0 +1,75 @@
+[
+  {
+    "sukuKata": "se.lir",
+    "akarKata": null,
+    "ejaan": "sêlir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gundik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lir",
+    "akarKata": null,
+    "ejaan": "sêlir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cadar; selubung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tirai (jendela dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lir",
+    "akarKata": null,
+    "ejaan": "sêlir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "cadar; selubung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "tirai (jendela dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

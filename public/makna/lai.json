@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "lai",
+    "akarKata": null,
+    "ejaan": "lai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi hingga 20 m, daunnya berwarna hijau pada permukaannya, sedangkan bagian bawahnya berwarna cokelat, bunganya berwarna merah tua, buahnya berduri mirip durian berbentuk lonjong, daging buahnya berwarna kuning dan rasanya agak manis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "botani",
+        "tipeTeks": "-",
+        "definisi": "buah lai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lai",
+    "akarKata": null,
+    "ejaan": "lai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "helai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

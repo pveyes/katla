@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "tu.sah",
+    "akarKata": null,
+    "ejaan": "tusah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain sutra berwarna kecokelatan atau kekuningan, permukaannya tidak rata, ditenun dengan sutra yang dihasilkan oleh ulat sutra dari ngengat Asia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang sutra yang dihasilkan oleh ulat sutra dari ngengat Asia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ulat dari ngengat Asia yang menghasilkan sutra kasar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

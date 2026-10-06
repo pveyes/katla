@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "msl",
+    "akarKata": null,
+    "ejaan": "msl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "misal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

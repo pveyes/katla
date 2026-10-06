@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "di.pol",
+    "akarKata": null,
+    "ejaan": "dipol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "muatan elektrik yang sama, tetapi berbeda tanda dengan jarak yang cukup dekat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

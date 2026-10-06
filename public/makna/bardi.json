@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bar.di",
+    "akarKata": null,
+    "ejaan": "bardi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon kecil yang tumbuh di tepi Sungai Nil, batangnya seperti tebu atau bambu cina, daunnya seperti sapu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

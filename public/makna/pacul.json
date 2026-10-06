@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "pa.cul",
+    "akarKata": null,
+    "ejaan": "pacul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkakas petani berupa lempeng baja tipis dengan tangkai panjang untuk menggali, mengaduk, dan membalik tanah; cangkul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.cul",
+    "akarKata": null,
+    "ejaan": "pacul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memacul",
+          "terpacul"
+        ]
+      }
+    ]
+  }
+]

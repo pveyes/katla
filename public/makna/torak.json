@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "to.rak",
+    "akarKata": null,
+    "ejaan": "torak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat tenun berupa tabung kecil yang dalamnya berisi kumparan benang pakan",
+        "contoh": "batang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari mesin atau motor yang bergerak mondar-mandir dalam suatu silinder karena tenaga uap atau karena pembakaran bahan bakar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "elektronika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

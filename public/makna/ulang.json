@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ulang",
+    "akarKata": null,
+    "ejaan": "ulang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lakukan lagi",
+        "contoh": "perbuatan itu tidak akan saya --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kembali seperti semula",
+        "contoh": "cetak --",
+        "info": []
+      }
+    ]
+  }
+]

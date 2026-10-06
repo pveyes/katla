@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "sa.kap",
+    "akarKata": null,
+    "ejaan": "sakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyakap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

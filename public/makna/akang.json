@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "akang",
+    "akarKata": null,
+    "ejaan": "akang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak (laki-laki); abang; aa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "sukuKata": "ke.ras",
+    "akarKata": null,
+    "ejaan": "kèras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakul tempat garam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ras",
+    "akarKata": null,
+    "ejaan": "kêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat kuat dan tidak mudah berubah bentuknya atau tidak mudah pecah",
+        "contoh": "besi dan batu tergolong barang yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gigih; sungguh-sungguh hati",
+        "contoh": "ia berusaha -- untuk menyelesaikan sekolahnya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat kuat; sangat teguh",
+        "contoh": "mereka berpegang -- pada adat-adat lama",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dengan cepat (tentang naik turunnya harga barang)",
+        "contoh": "harga barang naik --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "membahayakan nyawa; payah (tentang sakit)",
+        "contoh": "ia diminta agar segera pulang karena ayahnya sakit --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hebat; menjadi-jadi",
+        "contoh": "tekanan musuh makin --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mengenal belas kasihan",
+        "contoh": "sikap dan tindakannya sangat --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak lemah lembut",
+        "contoh": "ia memang -- tabiatnya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat mengharuskan (memaksa, tegas, dan betul-betul)",
+        "contoh": "dilarang -- berjalan di sini",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kuat, ketat, dan sungguh-sungguh",
+        "contoh": "gedung parlemen dijaga -- oleh alat-alat negara",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kencang, cepat (tentang embusan angin)",
+        "contoh": "angin bertiup dengan --nya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "deras (tentang arus air)",
+        "contoh": "sungai ini tidak berapa -- alirannya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyaring (tentang suara)",
+        "contoh": "ia menjawab dengan suara --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebat sekali (tentang curah hujan)",
+        "contoh": "semalam hujan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat memusingkan; berat (tentang rokok, tembakau)",
+        "contoh": "untuk saya cerutu ini terlalu --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat memabukkan (tentang minuman)",
+        "contoh": "ia mabuk karena terlalu banyak minum minuman --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlampau kuat daya reaksinya (tentang obat)",
+        "contoh": "karena termasuk obat --, obat ini tidak dijual bebas",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat merangsang (tentang bau)",
+        "contoh": "biang cuka ini -- baunya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar dibuka atau ditarik (tentang baut, sekrup, paku)",
+        "contoh": "bautnya --, sukar dibuka",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "liat (tentang daging)",
+        "contoh": "dagingnya --, sukar dikunyah",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak memegas lagi (tentang per mobil)",
+        "contoh": "mobil ini pernya sudah -- sehingga kurang enak lagi untuk dinaiki",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ras",
+    "akarKata": null,
+    "ejaan": "kêras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat buah keras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

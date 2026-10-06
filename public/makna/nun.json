@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "NUN",
+    "akarKata": null,
+    "ejaan": "NUN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai ujian nasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "nun",
+    "akarKata": null,
+    "ejaan": "nun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sana; di sana",
+        "contoh": "pulau itu jauh -- di seberang lautan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "nun",
+    "akarKata": null,
+    "ejaan": "nun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan tawar yang hidup di dasar perairan subtropis, tersebar di perairan Eurasia, Sungai Jordan, Danau Tiberias, Hula, dan Muzairib",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "nun",
+    "akarKata": null,
+    "ejaan": "nun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-25 abjad Arab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

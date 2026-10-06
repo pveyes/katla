@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ko.rup",
+    "akarKata": null,
+    "ejaan": "korup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buruk; rusak; busuk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka memakai barang (uang) yang dipercayakan kepadanya; dapat disogok (memakai kekuasaannya untuk kepentingan pribadi)",
+        "contoh": "aparatur negara harus bersih dan tidak --",
+        "info": []
+      }
+    ]
+  }
+]

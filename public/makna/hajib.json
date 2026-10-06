@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ha.jib",
+    "akarKata": null,
+    "ejaan": "hajib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjaga pintu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluarga orang mati yang menghalangi (mendinding) keluarga lain yang sekerabat sehingga warisan keluarga orang yang mati itu tidak terbagikan ke luar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "lap",
+    "akarKata": null,
+    "ejaan": "lap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggosok (biasanya dari kain); penyeka; penghapus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lap",
+    "akarKata": null,
+    "ejaan": "lap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putaran (dalam balap mobil atau motor)",
+        "contoh": "pada beberapa -- pertama ia memimpin di posisi terdepan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lap",
+    "akarKata": null,
+    "ejaan": "lap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak sepanjang kolam renang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

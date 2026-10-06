@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.rib",
+    "akarKata": null,
+    "ejaan": "karib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dekat (tentang hubungan famili)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rapat dan erat (tentang persahabatan dan sebagainya); intim",
+        "contoh": "dia amat -- dengan atasannya",
+        "info": []
+      }
+    ]
+  }
+]

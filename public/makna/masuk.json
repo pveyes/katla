@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ma.suk",
+    "akarKata": null,
+    "ejaan": "masuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "datang (pergi) ke dalam (ruangan, kamar, lingkungan, dan sebagainya)",
+        "contoh": "ia -- ke kamarnya kemudian menguncinya dari dalam",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "datang (pergi) ke tempat bekerja (sekolah dan sebagainya)",
+        "contoh": "ia -- agak siang karena harus pergi berobat ke rumah sakit",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tergolong; terhitung; terbilang; tercantum",
+        "contoh": "ia -- dalam penilaian ibu rumah tangga teladan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi (anggota perkumpulan, prajurit, penganut agama, warga negara, dan sebagainya)",
+        "contoh": "-- Islam (Kristen, Buddha, Hindu, dan sebagainya)",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "turut serta, mengikuti; turut campur",
+        "contoh": "-- perang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "diterima; didapat",
+        "contoh": "uang yang -- bulan ini lebih kecil daripada bulan yang lalu",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "he.lah",
+    "akarKata": null,
+    "ejaan": "hélah",
+    "baku": false,
+    "alt": "helat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu muslihat; tipu daya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dalih; alasan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

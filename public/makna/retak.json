@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "re.tak",
+    "akarKata": null,
+    "ejaan": "rêtak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tampak bergaris pada barang keras (seperti piring, batu) yang menandakan akan pecah",
+        "contoh": "piring ini sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cacat; cela",
+        "contoh": "buku ini masih banyak --nya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berselisih; tak akrab lagi; sudah tidak utuh (bersatu) lagi",
+        "contoh": "ditegaskan bahwa tidak ada -- sedikit jua di antara mereka",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

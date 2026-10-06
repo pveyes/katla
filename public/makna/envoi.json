@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "en.voi",
+    "akarKata": null,
+    "ejaan": "ènvoi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bait penutup yang pendek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

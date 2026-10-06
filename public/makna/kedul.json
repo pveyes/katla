@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ke.dul",
+    "akarKata": null,
+    "ejaan": "kêdul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bola dari kayu (gading atau tanduk)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.dul",
+    "akarKata": null,
+    "ejaan": "kêdul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "malas",
+        "contoh": "semula saya menganggap memancing adalah untuk orang-orang --",
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

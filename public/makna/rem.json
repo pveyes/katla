@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "rem",
+    "akarKata": null,
+    "ejaan": "rèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menahan gerakan atau mekanisme dengan jalan gesekan; alat untuk memperlambat atau untuk menghentikan gerakan atau putaran, misalnya pada roda mobil, roda sepeda",
+        "contoh": "-- mobil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghambat; penghalang; pengekang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

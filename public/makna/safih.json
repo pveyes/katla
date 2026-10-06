@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.fih",
+    "akarKata": null,
+    "ejaan": "safih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gila; bodoh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemboros",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

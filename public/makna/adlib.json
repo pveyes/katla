@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ad.lib",
+    "akarKata": null,
+    "ejaan": "adlib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ad libitum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "seturut keinginan, sesuai dengan cita rasa (dalam bersantap, berbusana, menata dekorasi, menata perlengkapan rumah, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberian makanan tidak dengan ukuran tertentu, tetapi diberikan sekenyang-kenyangnya sampai ikan tidak mau makan lagi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "perikanan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

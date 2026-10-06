@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "la.yut",
+    "akarKata": null,
+    "ejaan": "layut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melentur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yut",
+    "akarKata": null,
+    "ejaan": "layut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melayut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

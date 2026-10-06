@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pu.tar",
+    "akarKata": null,
+    "ejaan": "putar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pusing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.tar",
+    "akarKata": null,
+    "ejaan": "putar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tumbuh liar, tingginya mencapai 50 m, berbatang tegak lurus, bunganya berupa tandan, banyak benang sarinya, bentuk buah lonjong, kayunya dapat digunakan untuk bahan bangunan, alat-alat rumah tangga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

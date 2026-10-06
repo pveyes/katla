@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "la.rak",
+    "akarKata": null,
+    "ejaan": "larak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rapat dan padat isinya (tentang durian)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rak",
+    "akarKata": null,
+    "ejaan": "larak",
+    "baku": false,
+    "alt": "lerak",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak tercerai-cerai (tentang rumah, perahu, dan sebagainya); sudah lepas (dari ikatan)",
+        "contoh": "perahu itu --",
+        "info": []
+      }
+    ]
+  }
+]

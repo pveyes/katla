@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ko.lok",
+    "akarKata": null,
+    "ejaan": "kolok",
+    "baku": false,
+    "alt": "kuluk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kopiah kebesaran (tinggi dan kaku, sekarang biasa dipakai oleh mempelai pria pada upacara perkawinan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.lok",
+    "akarKata": null,
+    "ejaan": "kolok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "manja (untuk anak-anak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

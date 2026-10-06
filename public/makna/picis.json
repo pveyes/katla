@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pi.cis",
+    "akarKata": null,
+    "ejaan": "picis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang bernilai sepuluh sen; ketip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.cis",
+    "akarKata": null,
+    "ejaan": "picis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "picisan"
+        ]
+      }
+    ]
+  }
+]

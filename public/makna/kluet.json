@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Klu.et",
+    "akarKata": null,
+    "ejaan": "kluêt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Provinsi Aceh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Kluet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.rup",
+    "akarKata": null,
+    "ejaan": "gorup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat sisir yang berfungsi merapatkan benang yang ditenun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

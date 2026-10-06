@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "sa.lah",
+    "akarKata": null,
+    "ejaan": "salah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak benar; tidak betul",
+        "contoh": "ia membetulkan hitungannya yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keliru; khilaf",
+        "contoh": "ia -- menafsirkan ayat itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menyimpang dari yang seharusnya",
+        "contoh": "mereka -- jalan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "luput; tidak mengenai sasaran; gagal",
+        "contoh": "dua kali tembakannya -- dan baru yang ketigalah ia berhasil",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cela; cacat",
+        "contoh": "meskipun sudah tua, tidak ada --nya jika engkau mau belajar lagi",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kekeliruan",
+        "contoh": "bukan --ku jika ia tidak menepati janjinya",
+        "info": []
+      }
+    ]
+  }
+]

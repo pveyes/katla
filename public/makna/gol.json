@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "gol",
+    "akarKata": null,
+    "ejaan": "gol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gawang pada permainan bola",
+        "contoh": "bola itu melambung tinggi melampaui mistar --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masuknya bola ke dalam gawang",
+        "contoh": "wasit memutuskan -- kedua tidak sah",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tercapai maksudnya (tujuan); berhasil (tentang mosi, rancangan, dan sebagainya)",
+        "contoh": "kenaikan upah yang dituntut oleh buruh telah --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

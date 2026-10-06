@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ga.zal",
+    "akarKata": null,
+    "ejaan": "gazal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puisi yang berasal dari Persia, terdiri atas delapan baris, tiap bait berisi perihal asmara dan tiap baris berakhir dengan kata yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.zal",
+    "akarKata": null,
+    "ejaan": "gazal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musik yang dimainkan oleh masyarakat Jambi, dengan menggabungkan irama gambus, zapin, dan langgam, berfungsi sebagai musik hiburan pada hari besar Islam dan pada pesta perkawinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

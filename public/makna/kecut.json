@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "ke.cut",
+    "akarKata": null,
+    "ejaan": "kêcut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kedut; kerut; lisut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkerut (tentang kulit tubuh dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "takut; merasa ngeri; gentar (tentang hati, perasaan, dan sebagainya)",
+        "contoh": "ketika melihat Pangeran ikut ambil bagian dalam sayembara itu, semua putra mahkota yang datang bertanding merasa -- dan putus asa",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.cut",
+    "akarKata": null,
+    "ejaan": "kêcut",
+    "baku": true,
+    "alt": "kucut",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "masam (seperti rasa cuka)",
+        "contoh": "gulai ini enak sekali, terasa benar -- pedasnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cemberut; keruh (tentang muka dan sebagainya)",
+        "contoh": "-- saja air mukanya pagi ini",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

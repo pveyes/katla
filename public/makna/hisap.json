@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hi.sap",
+    "akarKata": null,
+    "ejaan": "hisap",
+    "baku": false,
+    "alt": "isap",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tarik sampai masuk; hirup; sedot",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

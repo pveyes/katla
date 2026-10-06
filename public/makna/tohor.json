@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "to.hor",
+    "akarKata": null,
+    "ejaan": "tohor",
+    "baku": true,
+    "alt": "tuhur",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dangkal; dangkar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir kering (tidak berair karena ditimba dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "habis (tentang uang dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.hor",
+    "akarKata": null,
+    "ejaan": "tohor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kapur1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

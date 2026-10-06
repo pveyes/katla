@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "gu.mil",
+    "akarKata": null,
+    "ejaan": "gumil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guru militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

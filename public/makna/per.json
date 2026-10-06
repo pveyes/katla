@@ -1,0 +1,128 @@
+[
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pèr",
+    "baku": true,
+    "alt": "pir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegas",
+        "contoh": "-- arloji",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bola lampu listrik; bohlam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "tiap-tiap",
+        "contoh": "mobil ini dapat mencapai seratus lima puluh kilometer -- jam",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pêr",
+    "baku": true,
+    "alt": "pir",
+    "makna": [
+      {
+        "definisi": "tiap-tiap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "demi (satu-satu)",
+        "contoh": "satu -- satu mereka masuk ke kelas",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "mulai; sejak",
+        "contoh": "peraturan itu berlaku -- 1 April tahun ini",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "bagi (dalam angka pecahan)",
+        "contoh": "dua --lima",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "per",
+    "akarKata": null,
+    "ejaan": "pêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dengan (memakai, menggunakan, dan sebagainya)",
+        "contoh": "dia menghubungi saudaranya -- telepon",
+        "info": []
+      }
+    ]
+  }
+]

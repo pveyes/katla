@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ne.gri",
+    "akarKata": null,
+    "ejaan": "nêgri",
+    "baku": false,
+    "alt": "negeri",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah tempat tinggal suatu bangsa",
+        "contoh": "ia melanjutkan sekolah ke -- Belanda",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kampung halaman; tempat kelahiran",
+        "contoh": "--nya yang asli bukanlah Makassar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara; pemerintah (lawan kata swasta)",
+        "contoh": "karena ia bersekolah di SMU --, biayanya pun tidak begitu besar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nagari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

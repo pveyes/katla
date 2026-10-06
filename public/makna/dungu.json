@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "du.ngu",
+    "akarKata": null,
+    "ejaan": "dungu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat tumpul otaknya; tidak cerdas; bebal; bodoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "du.ngu",
+    "akarKata": null,
+    "ejaan": "dungu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tungku peleburan timah dan tembaga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

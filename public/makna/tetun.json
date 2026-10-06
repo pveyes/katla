@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Te.tun",
+    "akarKata": null,
+    "ejaan": "tètun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah perbatasan antara Timor Barat dan Timor Leste",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Tetun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "buk.ti",
+    "akarKata": null,
+    "ejaan": "bukti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menyatakan kebenaran suatu peristiwa; keterangan nyata; tanda",
+        "contoh": "surat ini sebagai -- bahwa Tuan sudah meminjam uang saya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal yang menjadi tanda perbuatan jahat",
+        "contoh": "ia dituduh mencuri, tetapi tidak ada --nya",
+        "info": []
+      }
+    ]
+  }
+]

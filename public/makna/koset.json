@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ko.set",
+    "akarKata": null,
+    "ejaan": "kosèt",
+    "baku": false,
+    "alt": "keset",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengesat kaki, terbuat dari sabut kelapa dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.set",
+    "akarKata": null,
+    "ejaan": "kosèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "subhimpunan yang terdiri atas semua hasil kali yang diperoleh dengan mengalikan unsur tetap kelompok di bagian kanan dan kiri dengan setiap unsur subkelompok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ale.na",
+    "akarKata": null,
+    "ejaan": "aléna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berjalan sambil bercerita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alune",
+            "sumberTeks": "bahasa di maluku, ditambahkan pd pemutakhiran oktober 2020"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ale.na",
+    "akarKata": null,
+    "ejaan": "alèna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

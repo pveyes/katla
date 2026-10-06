@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "aci",
+    "akarKata": null,
+    "ejaan": "aci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sah; berlaku; jadi; benar",
+        "contoh": "tidak --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aci",
+    "akarKata": null,
+    "ejaan": "aci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pati; tepung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aci",
+    "akarKata": null,
+    "ejaan": "aci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adukan semen dan air yang agak cair",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "aci",
+    "akarKata": null,
+    "ejaan": "aci",
+    "baku": false,
+    "alt": "acik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada perempuan yang lebih tua, seperti kakak perempuan; bibi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.sin",
+    "akarKata": null,
+    "ejaan": "dasin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "setan yang pekerjaannya merusak rumah tangga dan keutuhan keluarga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

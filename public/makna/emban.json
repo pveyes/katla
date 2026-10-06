@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "em.ban",
+    "akarKata": null,
+    "ejaan": "êmban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain pembebat badan (dada, susu, perut)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali pembebat perut (pada kuda)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "em.ban",
+    "akarKata": null,
+    "ejaan": "êmban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inang pengasuh",
+        "contoh": "permaisuri dikelilingi oleh empat orang --nya",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

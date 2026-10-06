@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "je.dot",
+    "akarKata": null,
+    "ejaan": "jêdot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berantuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

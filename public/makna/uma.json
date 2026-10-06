@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "uma",
+    "akarKata": null,
+    "ejaan": "uma",
+    "baku": false,
+    "alt": "huma",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ladang padi di tanah kering",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang baru ditebas hutannya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uma",
+    "akarKata": null,
+    "ejaan": "uma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah adat di Mentawai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Uma",
+    "akarKata": null,
+    "ejaan": "Uma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Kabupaten Mamuju, Provinsi Sulawesi Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Uma",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

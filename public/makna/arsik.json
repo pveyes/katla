@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ar.sik",
+    "akarKata": null,
+    "ejaan": "arsik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan yang dibuat dari daging atau ikan yang dibumbui sambal dan asam potong, direbus hingga kuahnya kering",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

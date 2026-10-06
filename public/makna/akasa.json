@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "aka.sa",
+    "akarKata": null,
+    "ejaan": "akasa",
+    "baku": false,
+    "alt": "angkasa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan udara yang melingkupi bumi",
+        "contoh": "-- bumi ini kurang lebih 300 km tebalnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akasa; awang-awang; langit",
+        "contoh": "bintang-bintang berkilauan di -- biru",
+        "info": []
+      }
+    ]
+  }
+]

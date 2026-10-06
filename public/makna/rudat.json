@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ru.dat",
+    "akarKata": null,
+    "ejaan": "rudat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seni tari dan nyanyian yang diiringi rebana dari Jawa Barat, berisi ajaran agama Islam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.dat",
+    "akarKata": null,
+    "ejaan": "rudat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian pedang dengan pakaian prajurit zaman dahulu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ne.kad",
+    "akarKata": null,
+    "ejaan": "nèkad",
+    "baku": false,
+    "alt": "nekat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkeras hati; dengan keras atau kuat kemauan",
+        "contoh": "meskipun sudah dilarang oleh polisi, mereka -- masuk",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlalu berani (dengan tidak berpikir panjang lagi)",
+        "contoh": "sekarang banyak penodong yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak memedulikan apa-apa lagi (karena putus harap, hilang akal, malu sekali, dan sebagainya)",
+        "contoh": "karena sangat malu, ia -- meninggalkan kampung halaman dan keluarganya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap tidak mau (mengalah, menurut, menyerah, dan sebagainya); bersikeras; mengotot",
+        "contoh": "sebenarnya ia sudah kalah, tetapi masih -- saja",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "se.rak",
+    "akarKata": null,
+    "ejaan": "sèrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyerak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rak",
+    "akarKata": null,
+    "ejaan": "sêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "parau (tentang suara karena banyak berkata-kata dan sebagainya)",
+        "contoh": "semalaman ia menangis hingga suaranya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sendat jalan suaranya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sendat jalan pernapasannya (karena berlendir dan sebagainya)",
+        "contoh": "jangan minum es, nanti --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rak",
+    "akarKata": null,
+    "ejaan": "sêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "elang malam (atau burung hantu) yang bunyinya serak (seperti suara orang yang serak)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rak",
+    "akarKata": null,
+    "ejaan": "sêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi (menggosok lantai dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

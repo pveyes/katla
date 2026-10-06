@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ki.mar",
+    "akarKata": null,
+    "ejaan": "kimar",
+    "baku": false,
+    "alt": "himar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keledai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

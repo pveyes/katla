@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BKO",
+    "akarKata": null,
+    "ejaan": "BKO",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bawah kendali operasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

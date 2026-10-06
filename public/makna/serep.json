@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "se.rep",
+    "akarKata": null,
+    "ejaan": "sèrêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persediaan untuk mengganti apabila ada yang perlu diganti (misalnya rusak, hilang); cadangan",
+        "contoh": "mereka hanya membawa sebuah ban --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rep",
+    "akarKata": null,
+    "ejaan": "sêrêp",
+    "baku": false,
+    "alt": "serap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cadangan; serep",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rep",
+    "akarKata": null,
+    "ejaan": "sêrêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menyerepi"
+        ]
+      }
+    ]
+  }
+]

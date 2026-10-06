@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Bu.log",
+    "akarKata": null,
+    "ejaan": "Bulog",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Urusan Logistik (lembaga pangan di yang mengurusi tata niaga beras)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

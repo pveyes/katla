@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "bi.bir",
+    "akarKata": null,
+    "ejaan": "bibir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepi (pinggir) mulut (sebelah bawah dan atas)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepi sesuatu atau bagian barang yang menyerupai bibir",
+        "contoh": "-- sumur",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mulut atau lidah (dalam arti perkataan dan sebagainya)",
+        "contoh": "tutup --mu, jangan banyak bicara",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

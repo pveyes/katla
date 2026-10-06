@@ -1,0 +1,52 @@
+[
+  {
+    "sukuKata": "ri.sik",
+    "akarKata": null,
+    "ejaan": "risik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "merisik"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ri.sik",
+    "akarKata": null,
+    "ejaan": "risik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "merisik",
+          "risikan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ri.sik",
+    "akarKata": null,
+    "ejaan": "risik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "merisik",
+          "merisikkan"
+        ]
+      }
+    ]
+  }
+]

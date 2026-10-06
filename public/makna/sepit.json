@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.pit",
+    "akarKata": null,
+    "ejaan": "sêpit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menjepit yang terdiri atas dua batang yang dapat direnggangkan (dibuka) dan dijepitkan (seperti pinset)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat makan bagi orang Cina",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

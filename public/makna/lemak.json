@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "le.mak",
+    "akarKata": null,
+    "ejaan": "lêmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat minyak yang melekat pada daging; gemuk",
+        "contoh": "minyak samin terbuat dari -- unta",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.mak",
+    "akarKata": null,
+    "ejaan": "lêmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sedap; enak",
+        "contoh": "dibelinya kue yang -- rasanya",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.mak",
+    "akarKata": null,
+    "ejaan": "lêmak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan air tawar, panjangnya mencapai 22 cm, hidup di dasar perairan tropis, tersebar di perairan sungai di Malaysia dan Indonesia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KTM",
+    "akarKata": null,
+    "ejaan": "KTM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kartu Tanda Mahasiswa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

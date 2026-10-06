@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "so.lah",
+    "akarKata": null,
+    "ejaan": "solah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelakuan; sikap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

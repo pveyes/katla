@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pla.za",
+    "akarKata": null,
+    "ejaan": "plaza",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alun-alun di kota",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusat pertokoan dengan tempat parkir",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat yang luas dan beraspal untuk mobil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

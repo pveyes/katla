@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "to.rus",
+    "akarKata": null,
+    "ejaan": "torus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembengkokan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.rus",
+    "akarKata": null,
+    "ejaan": "torus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyangga bunga yang biasanya mencembung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tengah membran ceruk yang menebal pada ceruk terlindung Gymnospermae",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

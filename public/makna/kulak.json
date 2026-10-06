@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ku.lak",
+    "akarKata": null,
+    "ejaan": "kulak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sukatan (satuan ukuran) beras dan sebagainya (empat cupak)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.lak",
+    "akarKata": null,
+    "ejaan": "kulak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membeli barang dalam jumlah besar untuk dijual kembali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

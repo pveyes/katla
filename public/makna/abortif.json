@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "abor.tif",
+    "akarKata": null,
+    "ejaan": "abortif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terhenti dalam perkembangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak sempurna",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

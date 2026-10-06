@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ang.ka",
+    "akarKata": null,
+    "ejaan": "angka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda atau lambang sebagai pengganti bilangan; nomor",
+        "contoh": "-- 13",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai (kepandaian, prestasi, dan sebagainya)",
+        "contoh": "-- rapornya cukup baik",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ang.ka",
+    "akarKata": null,
+    "ejaan": "angka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "anggap; sangka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "se.dap",
+    "akarKata": null,
+    "ejaan": "sêdap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "enak (nyaman, senang) tentang perasaan pada umumnya",
+        "contoh": "bersih,rapi, dan -- dipandang mata",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "harum",
+        "contoh": "-- baunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lezat",
+        "contoh": "masakan yang dihidangkan -- sekali",
+        "info": []
+      }
+    ]
+  }
+]

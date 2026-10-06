@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ri.zom",
+    "akarKata": null,
+    "ejaan": "rizom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang yang menjalar di bawah tanah; rimpang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

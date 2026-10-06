@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "asyik",
+    "akarKata": null,
+    "ejaan": "asyik",
+    "baku": true,
+    "alt": "asik",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam keadaan sibuk (melakukan sesuatu dengan gemarnya)",
+        "contoh": "mereka sedang -- bekerja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat terikat hatinya; penuh perhatian",
+        "contoh": "ia sedang -- membaca buku detektif",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senang",
+        "contoh": "saya belum merasakan bagaimana --nya bermain golf",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berahi; cinta kasih; sangat suka (gemar)",
+        "contoh": "putra mahkota itu teramat --nya kepada tuan putri",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menetapkan renungan dan pandangan rohaninya kepada Allah Swt. karena didorong oleh rasa cinta kepada-Nya dan tidak takut lagi akan kematian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tasawuf",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "al.kil",
+    "akarKata": null,
+    "ejaan": "alkil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kumpulan radikal organik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

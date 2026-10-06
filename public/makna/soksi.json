@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SOKSI",
+    "akarKata": null,
+    "ejaan": "SOKSI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Sentral Organisasi Karyawan Swadiri Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

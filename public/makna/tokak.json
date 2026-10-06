@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "to.kak",
+    "akarKata": null,
+    "ejaan": "tokak",
+    "baku": false,
+    "alt": "tukak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "borok (penyakit kulit)",
+        "contoh": "kakinya penuh -- dan pekung",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.kak",
+    "akarKata": null,
+    "ejaan": "tokak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menokak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.kak",
+    "akarKata": null,
+    "ejaan": "tokak",
+    "baku": false,
+    "alt": "toka",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut, ukurannya mencapai 25 cm, hidup di terumbu karang perairan tropis dengan kedalaman 5–100 m",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

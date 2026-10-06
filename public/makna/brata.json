@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bra.ta",
+    "akarKata": null,
+    "ejaan": "brata",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tindakan pengendalian diri",
+        "contoh": "ada tiga -- yang mesti dilakukan berkaitan dengan Syiwaratri, yaitu tidak tidur selama 36 jam, berpuasa selama 24 jam, dan tafakur memusatkan pikiran pada Syiwa",
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

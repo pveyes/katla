@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "ka.des",
+    "akarKata": null,
+    "ejaan": "kadés",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala desa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.des",
+    "akarKata": null,
+    "ejaan": "kadês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumut laut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

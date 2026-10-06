@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.sai",
+    "akarKata": null,
+    "ejaan": "hasai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rapuh",
+        "contoh": "tali itu sudah --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

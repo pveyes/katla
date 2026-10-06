@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TTS",
+    "akarKata": null,
+    "ejaan": "TTS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teka-teki silang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

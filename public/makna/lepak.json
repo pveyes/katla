@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.pak",
+    "akarKata": null,
+    "ejaan": "lêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi barang jatuh ke tanah (seperti buku jatuh dari meja ke lantai)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.pak",
+    "akarKata": null,
+    "ejaan": "lêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "melepak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

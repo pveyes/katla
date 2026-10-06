@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.wan",
+    "akarKata": null,
+    "ejaan": "tawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menawan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.wan",
+    "akarKata": null,
+    "ejaan": "tawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tersedu-sedu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

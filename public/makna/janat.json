@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ja.nat",
+    "akarKata": null,
+    "ejaan": "janat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sempurna",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surga",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

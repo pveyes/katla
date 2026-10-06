@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ka.dal",
+    "akarKata": null,
+    "ejaan": "kadal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang kecil melata berkaki empat dan berekor, tubuhnya bersisik berkilat, berwarna hijau kekuning-kuningan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dal",
+    "akarKata": null,
+    "ejaan": "kadal",
+    "baku": false,
+    "alt": "kedal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit yang menyebabkan belang-belang pada kulit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

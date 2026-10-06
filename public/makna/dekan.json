@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "de.kan",
+    "akarKata": null,
+    "ejaan": "dékan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin (kepala) fakultas di perguruan tinggi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.kan",
+    "akarKata": null,
+    "ejaan": "dêkan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ulat pemakan pembuluh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

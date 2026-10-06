@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "pek",
+    "akarKata": null,
+    "ejaan": "pèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ter; aspal; belangkin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pek",
+    "akarKata": null,
+    "ejaan": "pèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "empek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

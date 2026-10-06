@@ -1,0 +1,52 @@
+[
+  {
+    "sukuKata": "ga.jah",
+    "akarKata": null,
+    "ejaan": "gajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mamalia berbelalai, bergading, berkaki besar, berkulit tebal, berambut abu-abu, berdaun telinga lebar, terdapat di Asia dan Afrika",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama buah catur yang jalannya selalu menyerong (disebut juga menteri)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang berukuran besar",
+        "contoh": "anak itu menangkap kupu-kupu --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.jah",
+    "akarKata": null,
+    "ejaan": "gajah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut atau payau, berbentuk menyerupai setengah lingkaran, bagian atas tubuh berwarna cokelat dan putih pada bagian bawahnya, panjang mencapai 116 cm, berat mencapai 32,7 kg, umur mencapai 35 tahun, hidup di terumbu karang perairan tropis dengan kedalaman 5–180 m, tersebar di perairan Laut Merah, Afrika Timur sampai Kaledonia Baru, bagian utara sampai Jepang Selatan, bagian selatan sampai Australia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

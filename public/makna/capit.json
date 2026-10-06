@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.pit",
+    "akarKata": null,
+    "ejaan": "capit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

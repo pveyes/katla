@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.keh",
+    "akarKata": null,
+    "ejaan": "kèkèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tawa keras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.keh",
+    "akarKata": null,
+    "ejaan": "kêkêh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengotot; berkeras hati",
+        "contoh": "kubu Atletico tetap -- tidak ingin menjual Torres dengan harga kurang dari 36 juta euro",
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

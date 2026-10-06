@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "jo.doh",
+    "akarKata": null,
+    "ejaan": "jodoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang cocok menjadi suami atau istri; pasangan hidup; imbangan",
+        "contoh": "berhati-hatilah dalam memilih --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang cocok sehingga menjadi sepasang; pasangan",
+        "contoh": "mana -- sepatu ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cocok; tepat",
+        "contoh": "ia telah meminum obat itu, tetapi tidak --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.wul",
+    "akarKata": null,
+    "ejaan": "gawul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menangkap ikan yang terbuat dari kayu pohon aren (kawung)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

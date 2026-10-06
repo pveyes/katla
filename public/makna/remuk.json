@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "re.muk",
+    "akarKata": null,
+    "ejaan": "rêmuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hancur luluh; luluh lantak; hancur berkeping-keping",
+        "contoh": "piring yang dibantingnya itu --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.muk",
+    "akarKata": null,
+    "ejaan": "rêmuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengecilkan ukuran dengan menggunakan gaya bentur, gaya tekan, gaya tarik, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "in.car",
+    "akarKata": null,
+    "ejaan": "incar",
+    "baku": true,
+    "alt": "incer",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bidik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "in.car",
+    "akarKata": null,
+    "ejaan": "incar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk membuat lubang pada kayu, besi, dan sebagainya; gurdi; bor (kecil); jara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

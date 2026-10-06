@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ke.nal",
+    "akarKata": null,
+    "ejaan": "kênal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tahu dan teringat kembali",
+        "contoh": "baru mendengar suaranya, aku sudah -- siapa dia",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tahu; mempunyai rasa",
+        "contoh": "tidak -- malu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pernah tahu (bersahabat)",
+        "contoh": "saya belum -- dengan orang itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengerti; mempunyai pengetahuan tentang",
+        "contoh": "sebagian warga kita belum -- (aturan) hukum dan pajak",
+        "info": []
+      }
+    ]
+  }
+]

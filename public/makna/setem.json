@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "se.tem",
+    "akarKata": null,
+    "ejaan": "sêtèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "setala; sesuai; selaras (tentang nada suara)",
+        "contoh": "kalau sudah -- senar-senarnya, baru boleh digunakan gitar itu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suara (dalam pemilihan untuk menentukan pilihan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

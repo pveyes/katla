@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pri.ve",
+    "akarKata": null,
+    "ejaan": "privé",
+    "baku": false,
+    "alt": "privat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pribadi",
+        "contoh": "dia mengikuti les -- tari",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tersendiri",
+        "contoh": "ia mendapat pendidikan secara --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "partikelir; swasta",
+        "contoh": "lembaga keluarga berencana, baik pemerintah maupun -- amat berperan",
+        "info": []
+      }
+    ]
+  }
+]

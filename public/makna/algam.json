@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "al.gam",
+    "akarKata": null,
+    "ejaan": "algam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepingan yang hilang (tentang keramik, vas, tegel, dan lain-lain)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

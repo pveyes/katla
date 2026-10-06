@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ru.suh",
+    "akarKata": null,
+    "ejaan": "rusuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak aman karena banyak gangguan keamanan (seperti pencurian, perampokan, pembegalan)",
+        "contoh": "pada malam hari tidak ada kendaraan yang berani lewat di daerah yang -- itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kacau; ribut; gaduh; huru-hara",
+        "contoh": "di negara yang -- itu sering timbul pemberontakan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak sopan (tentang kelakuan, perkataan, dan sebagainya); ceroboh",
+        "contoh": "perkataannya kasar dan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat kasar (tentang permainan bola)",
+        "contoh": "kesebelasan kita tidak bermain -- seperti mereka",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak beraturan; tidak menurut aturan",
+        "contoh": "anak ini -- makannya, apa saja dimakannya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.suh",
+    "akarKata": null,
+    "ejaan": "rusuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "selalu gelisah (khawatir, sedih, susah), tidak tenteram hatinya",
+        "contoh": "tenanglah jangan lekas -- hati",
+        "info": []
+      }
+    ]
+  }
+]

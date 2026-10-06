@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GNOTA",
+    "akarKata": null,
+    "ejaan": "GNOTA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gerakan Nasional Orang Tua Asuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

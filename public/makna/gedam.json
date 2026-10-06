@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ge.dam",
+    "akarKata": null,
+    "ejaan": "gêdam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terjun ke tempat berbahaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "gi.gih",
+    "akarKata": null,
+    "ejaan": "gigih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap teguh pada pendirian atau pikiran; keras hati; mengotot",
+        "contoh": "ia dikenal sebagai seorang pejuang yang -- menen-tang penjajahan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ulet (dalam usaha)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gi.gih",
+    "akarKata": null,
+    "ejaan": "gigih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gigil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gi.gih",
+    "akarKata": null,
+    "ejaan": "gigih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nasi yang baru setengah masak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

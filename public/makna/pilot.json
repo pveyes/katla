@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pi.lot",
+    "akarKata": null,
+    "ejaan": "pilot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengemudi pesawat terbang; penerbang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perintis",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat sebagai peranti pemandu, sarana penggiat, atau sarana percobaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

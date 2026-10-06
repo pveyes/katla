@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "de.pak",
+    "akarKata": null,
+    "ejaan": "dèpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sepak, usir, buang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.pak",
+    "akarKata": null,
+    "ejaan": "dêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kuda berjalan atau bunyi buku jatuh di lantai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

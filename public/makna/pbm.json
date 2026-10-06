@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PBM",
+    "akarKata": null,
+    "ejaan": "PBM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses belajar mengajar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

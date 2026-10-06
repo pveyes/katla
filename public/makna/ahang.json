@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ahang",
+    "akarKata": null,
+    "ejaan": "ahang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mati tanpa sebab (tentang hewan), biasanya hanya tersisa bulu atau tulang-belulangnya",
+        "contoh": "seekor orang utan ditemukan -- di hutan itu",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ahang",
+    "akarKata": null,
+    "ejaan": "ahang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "setengah matang (tentang buah)",
+        "contoh": "mangga yang masih -- jangan dikupas dulu",
+        "info": []
+      }
+    ]
+  }
+]

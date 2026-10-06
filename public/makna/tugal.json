@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "tu.gal",
+    "akarKata": null,
+    "ejaan": "tugal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat kayu dan sebagainya yang runcing untuk membuat lubang di tanah yang akan ditanami benih",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membuat lubang benih di tanah dengan tongkat yang runcing",
+        "contoh": "hutan kayu atau belukar ditebas, lalu dibakar menjelang masa -- di awal musim penghujan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.gal",
+    "akarKata": null,
+    "ejaan": "tugal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paku sepatu sepak bola",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

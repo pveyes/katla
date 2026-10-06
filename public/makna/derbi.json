@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "der.bi",
+    "akarKata": null,
+    "ejaan": "dêrbi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertandingan sepak bola antara dua tim sewilayah (sekota)",
+        "contoh": "Real Madrid berhasil mengemas kemenangan pada laga -- kontra Atletico Madrid",
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

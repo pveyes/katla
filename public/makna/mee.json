@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MEE",
+    "akarKata": null,
+    "ejaan": "MEE",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Masyarakat Ekonomi Eropa (organisasi di wilayah Eropa yang bertujuan mengintegrasikan perekonomian negara-negara anggotanya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

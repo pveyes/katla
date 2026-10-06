@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "be.dah",
+    "akarKata": null,
+    "ejaan": "bêdah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengobatan penyakit dengan jalan memotong (mengiris dan sebagainya) bagian tubuh yang sakit; operasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.dah",
+    "akarKata": null,
+    "ejaan": "bêdah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sobek besar (tentang kain dan sebagainya); rusak (tentang tambak, bendungan, dan sebagainya); bobol; robek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

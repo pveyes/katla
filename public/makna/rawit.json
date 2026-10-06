@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ra.wit",
+    "akarKata": null,
+    "ejaan": "rawit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil",
+        "contoh": "cabai --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wit",
+    "akarKata": null,
+    "ejaan": "rawit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merawit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wit",
+    "akarKata": null,
+    "ejaan": "rawit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kerawitan",
+          "pengrawit"
+        ]
+      }
+    ]
+  }
+]

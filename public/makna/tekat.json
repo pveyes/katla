@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.kat",
+    "akarKata": null,
+    "ejaan": "tèkat",
+    "baku": false,
+    "alt": "tekad",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kemauan (kehendak) yang pasti; kebulatan hati; iktikad",
+        "contoh": "memasang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.kat",
+    "akarKata": null,
+    "ejaan": "têkat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bordir; sulaman; sujian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

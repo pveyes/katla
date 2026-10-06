@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "te.o.ri",
+    "akarKata": null,
+    "ejaan": "téori",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapat yang didasarkan pada penelitian dan penemuan, didukung oleh data dan argumentasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyelidikan eksperimental yang mampu menghasilkan fakta berdasarkan ilmu pasti, logika, metodologi, argumentasi",
+        "contoh": "-- tentang kejadian bumi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asas dan hukum umum yang menjadi dasar suatu kesenian atau ilmu pengetahuan",
+        "contoh": "-- mengendarai mobil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapat, cara, dan aturan untuk melakukan sesuatu",
+        "contoh": "--nya memang mudah, tetapi praktiknya sukar",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "ki.lat",
+    "akarKata": null,
+    "ejaan": "kilat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cahaya yang berkelebat dengan cepat di langit (petir dan sebagainya)",
+        "contoh": "-- sabung-menyabung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cahaya yang berkilau (berkilat)",
+        "contoh": "-- pisau",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang sangat cepat",
+        "contoh": "kereta api --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang dikerjakan dalam waktu singkat",
+        "contoh": "kursus --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.lat",
+    "akarKata": null,
+    "ejaan": "kilat",
+    "baku": false,
+    "alt": "kelat bahu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelang yang dipakai pada lengan atas, terutama pada waktu menari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.lat",
+    "akarKata": null,
+    "ejaan": "kilat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang banyak terdapat dalam paya-paya di tepi laut, kulit batangnya untuk menyamak kulit, kayunya untuk kayu api; jangkar paya; bakau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu (kulit) pohon bakau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

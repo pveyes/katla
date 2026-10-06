@@ -1,0 +1,52 @@
+[
+  {
+    "sukuKata": "tu.hur",
+    "akarKata": null,
+    "ejaan": "tuhur",
+    "baku": false,
+    "alt": "tohor",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dangkal; dangkar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir kering (tidak berair karena ditimba dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "habis (tentang uang dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.hur",
+    "akarKata": null,
+    "ejaan": "tuhur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruangan tengah rumah adat Woirata \n yang dibuat khusus bagi perempuan menjelang pesta adat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

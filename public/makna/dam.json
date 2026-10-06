@@ -1,0 +1,94 @@
+[
+  {
+    "sukuKata": "dam",
+    "akarKata": null,
+    "ejaan": "dam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis permainan dengan keping-keping bulat dan papan bertapak catur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "corak tapak catur (tentang corak kain dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dam",
+    "akarKata": null,
+    "ejaan": "dam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengempang air terbuat dari beton; bendungan; tanggul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dam",
+    "akarKata": null,
+    "ejaan": "dam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "denda karena melanggar salah satu ketentuan yang berkenaan dengan ibadah haji atau umrah",
+        "contoh": "membayar -- seekor kambing",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "denda karena melanggar larangan/pantangan",
+        "contoh": "Pak Kiai menyuruh pasiennya membayar -- karena pantangan yang dilanggar",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "dam",
+    "akarKata": null,
+    "ejaan": "dam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dekameter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

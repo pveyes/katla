@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ke.lom",
+    "akarKata": null,
+    "ejaan": "kêlom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

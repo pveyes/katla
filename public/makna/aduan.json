@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "adu.an",
+    "akarKata": "adu",
+    "ejaan": "aduan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perlombaan; pertandingan",
+        "contoh": "~ sapi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sabungan; barang yang diadu",
+        "contoh": "ayam ~",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perihal atau perkara yang diadukan; hal mengadukan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

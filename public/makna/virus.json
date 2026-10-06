@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "vi.rus",
+    "akarKata": null,
+    "ejaan": "virus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mikroorganisme yang tidak dapat dilihat dengan menggunakan mikroskop biasa, hanya dapat dilihat dengan menggunakan mikroskop elektron, penyebab dan penular penyakit, seperti cacar, influenza, dan rabies",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "program ilegal yang dimasukkan ke dalam sistem komputer melalui jaringan atau disket sehingga menyebar dan dapat merusak program yang ada",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

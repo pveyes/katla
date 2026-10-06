@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.gas",
+    "akarKata": null,
+    "ejaan": "tagas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian sungai, danau, atau pantai yang dangkal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "toulour",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

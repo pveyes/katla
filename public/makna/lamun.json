@@ -1,0 +1,106 @@
+[
+  {
+    "sukuKata": "la.mun",
+    "akarKata": null,
+    "ejaan": "lamun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "tetapi; namun",
+        "contoh": "biarpun sukar, -- tugas itu harus diselesaikan juga",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "biarpun; meskipun",
+        "contoh": "angin ribut melanda perahu kami, -- demikian kami masih dapat selamat",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "asal(kan); jikalau",
+        "contoh": "ia hendak datang menghadap, -- Tuanku panggil akan dia",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.mun",
+    "akarKata": null,
+    "ejaan": "lamun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tetapi; namun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "biarpun; meskipun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "asal(kan); jikalau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.mun",
+    "akarKata": null,
+    "ejaan": "lamun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang hidup di laut dangkal, berbiji tunggal, terdiri atas rimpang, daun, dan akar, serta berbunga, berbuah dan menghasilkan biji",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.mun",
+    "akarKata": null,
+    "ejaan": "lamun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tumbuhan yang hidup di laut dangkal, berbiji tunggal, terdiri atas rimpang, daun, dan akar, serta berbunga, berbuah dan menghasilkan biji",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

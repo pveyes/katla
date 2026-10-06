@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ukh.ti",
+    "akarKata": null,
+    "ejaan": "ukhti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saudariku",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

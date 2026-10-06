@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "se.lat",
+    "akarKata": null,
+    "ejaan": "sêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laut di antara pulau-pulau",
+        "contoh": "-- Malaka",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lat",
+    "akarKata": null,
+    "ejaan": "sêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sela; celah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.lat",
+    "akarKata": null,
+    "ejaan": "sêlat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan khas Solo berupa olahan daging sapi yang digoreng, diberi kuah berbumbu rempah seperti cengkih, pala, dan kayu manis, ditambah merica, kecap manis, dan garam, disajikan dengan telur rebus, kentang goreng, tomat, daun selada, buncis, dan kadang diberi mayones",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

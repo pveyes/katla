@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "de.res",
+    "akarKata": null,
+    "ejaan": "dèrès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sering (atau kerap) melahirkan banyak anak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.res",
+    "akarKata": null,
+    "ejaan": "dêrês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "sering (atau kerap) melahirkan banyak anak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

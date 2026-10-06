@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ste.pa",
+    "akarKata": null,
+    "ejaan": "stépa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah datar yang luas dan kering yang di sana sini hanya dapat ditumbuhi belukar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padang rumput yang luas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

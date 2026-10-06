@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "vo.kal",
+    "akarKata": null,
+    "ejaan": "vokal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengenai suara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi bahasa yang dihasilkan oleh arus udara dari paru-paru melalui pita suara dan penyempitan pada saluran suara di atas glotis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan fonologis yang diwujudkan dalam lafal tanpa pergeseran, seperti [a], [i], [u], [e], [o]",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berani mengemukakan pendapat; berani bersuara (mengkritik dan sebagainya)",
+        "contoh": "dia adalah anggota DPR yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

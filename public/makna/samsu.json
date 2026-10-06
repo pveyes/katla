@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "sam.su",
+    "akarKata": null,
+    "ejaan": "samsu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arak (dari air tebu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sam.su",
+    "akarKata": null,
+    "ejaan": "samsu",
+    "baku": false,
+    "alt": "syamsu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "matahari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

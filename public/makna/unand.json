@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Unand",
+    "akarKata": null,
+    "ejaan": "Unand",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Andalas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

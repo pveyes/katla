@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "bu.kan",
+    "akarKata": null,
+    "ejaan": "bukan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "berlainan dengan sebenarnya; sebenarnya tidak (dipakai untuk menyangkal)",
+        "contoh": "engkau sudah dewasa, -- anak-anak lagi",
+        "info": []
+      },
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk mengukuhkan isi atau maksud suatu pernyataan yang digunakan sesudah pernyataan itu",
+        "contoh": "engkau jadi pergi, --?",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lancung; gadungan",
+        "contoh": "pemimpin --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

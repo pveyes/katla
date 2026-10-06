@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.cok",
+    "akarKata": null,
+    "ejaan": "pacok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "patuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

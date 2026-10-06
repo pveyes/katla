@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "tip",
+    "akarKata": null,
+    "ejaan": "tip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persen (kepada pelayan restoran, pengangkat koper di bandar udara, pelayan hotel, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tip",
+    "akarKata": null,
+    "ejaan": "tip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengetip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tip",
+    "akarKata": null,
+    "ejaan": "tip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saran, nasihat, atau petunjuk praktis dan bermanfaat untuk melakukan sesuatu",
+        "contoh": "-- memasak santan agar tidak pecah",
+        "info": []
+      }
+    ]
+  }
+]

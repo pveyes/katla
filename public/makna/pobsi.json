@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "POBSI",
+    "akarKata": null,
+    "ejaan": "POBSI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Olahraga Billiar Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

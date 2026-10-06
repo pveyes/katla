@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "ca.buk",
+    "akarKata": null,
+    "ejaan": "cabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit (di kaki) yang berbau busuk; pekung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.buk",
+    "akarKata": null,
+    "ejaan": "cabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut atau payau, panjang jantan mencapai 100 cm, panjang betina mencapai 36,6 cm, hidup di perairan karang tropis dengan kedalaman sampai 120 m, tersebar di perairan Indo-Pasifik (Laut Merah dan Afrika Timur sampai Pulau Solomon, utara sampai Jepang bagian selatan, selatan sampai Australia bagian utara)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.buk",
+    "akarKata": null,
+    "ejaan": "cabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mangkuk tempat mencuci tangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.buk",
+    "akarKata": null,
+    "ejaan": "cabuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ampas wijen yang telah diambil minyaknya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saus terbuat dari wijen dan kelapa sangrai yang dihaluskan bersama dengan bumbu lainnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

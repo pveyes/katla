@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "abor.tus",
+    "akarKata": null,
+    "ejaan": "abortus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "fetus dengan berat kurang dari 500 g pada saat dikeluarkan dari uterus, yang tidak mempunyai kemungkinan hidup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guguran (janin)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan terhentinya pertumbuhan yang normal (tentang makhluk hidup)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

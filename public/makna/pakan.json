@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "pa.kan",
+    "akarKata": null,
+    "ejaan": "pakan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benang yang dimasukkan melintang pada benang lungsin (ketika menenun kain)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.kan",
+    "akarKata": null,
+    "ejaan": "pakan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang mencapai tinggi 27 m, kayunya jarang dipakai sebagai bahan bangunan karena kurang baik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.kan",
+    "akarKata": null,
+    "ejaan": "pakan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan ternak (hewan, ikan piaraan)",
+        "contoh": "-- burung",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Ti.tan",
+    "akarKata": null,
+    "ejaan": "Titan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satelit milik Saturnus dengan periode orbit 15 hari 22 jam, merupakan satelit terbesar kedua di tata surya dan memiliki atmosfer paling padat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

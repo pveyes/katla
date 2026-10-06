@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ge.rak",
+    "akarKata": null,
+    "ejaan": "gêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peralihan tempat atau kedudukan, baik hanya sekali maupun berkali-kali",
+        "contoh": "tiap-tiap -- tentu ada sebab",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dorongan (batin, perasaan, dan sebagainya)",
+        "contoh": "jangan selalu kau perturutkan -- hatimu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "denyut-denyut atau kedut-kedut (pada mata, bibir, dan sebagainya) yang dianggap sebagai firasat atau gelagat",
+        "contoh": "ia risau akan -- pada matanya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bun",
+    "akarKata": null,
+    "ejaan": "bun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peti kecil (dari tembaga dan sebagainya) untuk tempat sirih, tembakau, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

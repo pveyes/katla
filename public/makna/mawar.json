@@ -1,0 +1,97 @@
+[
+  {
+    "sukuKata": "ma.war",
+    "akarKata": null,
+    "ejaan": "mawar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman perdu suku Rosaceae, meliputi ratusan jenis, tumbuh tegak atau memanjat, batangnya berduri, bunganya beraneka warna, seperti merah, putih, merah jambu, merah tua, dan berbau harum; bunga ros",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.war",
+    "akarKata": null,
+    "ejaan": "mawar",
+    "baku": false,
+    "alt": "tawar",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada rasanya, kurang asin, kurang sedap (tentang makanan); hambar",
+        "contoh": "gulai ini -- rasanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak asin (tentang air)",
+        "contoh": "didapati sumber air -- di pantai",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak manjur (tentang guna-guna, mantra, dan sebagainya); hilang dayanya (tentang bisa, racun, dan sebagainya)",
+        "contoh": "segala mantra dan jampi-jampinya -- belaka",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hilang keberanian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak gembira",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bernafsu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak menaruh perhatian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dingin (pada waktu menyambut tamu dan sebagainya)",
+        "contoh": "-- hatiku setelah bertemu dengan dia",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "reda (tentang marah dan sebagainya); berkurang-kurang (tentang sakit)",
+        "contoh": "akhirnya -- juga marahnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak menarik hati (tentang cerita, pidato)",
+        "contoh": "pidato sambutan itu -- dan dangkal",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "bu.yut",
+    "akarKata": null,
+    "ejaan": "buyut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat keramat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.yut",
+    "akarKata": null,
+    "ejaan": "buyut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu dari nenek (urutannya: bapak/ibu, nenek, buyut)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak dari cucu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

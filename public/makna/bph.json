@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BPH",
+    "akarKata": null,
+    "ejaan": "BPH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bendara Pangeran Harya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

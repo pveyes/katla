@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "am.bar",
+    "akarKata": null,
+    "ejaan": "ambar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "damar yang keras seperti batu yang terdapat di dasar laut dan berbau harum (ada yang berasal dari perut ikan laut)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "resin fosil yang digunakan dalam perhiasan, zat celup, dan pernis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu ambar; kahrab",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bar",
+    "akarKata": null,
+    "ejaan": "ambar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "racun untuk menangkap ikan, dibuat dari akar tumbuhan liar yang ditumbuk di atas batu, lalu dicelupkan ke dalam air pada saat air surut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "karey",
+            "sumberTeks": "bahasa di maluku, ditambahkan pd pemutakhiran oktober 2020"
+          }
+        ]
+      }
+    ]
+  }
+]

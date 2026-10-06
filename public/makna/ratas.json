@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "ra.tas",
+    "akarKata": null,
+    "ejaan": "ratas",
+    "baku": false,
+    "alt": "retas",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah putus benang jahitannya; terbuka jahitannya (kelimnya dan sebagainya)",
+        "contoh": "jangan memakai pakaian yang sudah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ratas",
+    "akarKata": null,
+    "ejaan": "ratas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rapat terbatas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

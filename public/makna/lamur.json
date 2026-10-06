@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "la.mur",
+    "akarKata": null,
+    "ejaan": "lamur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terang penglihatan; rabun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.mur",
+    "akarKata": null,
+    "ejaan": "lamur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging yang banyak lemaknya",
+        "contoh": "jika memasak sayur dengan menggunakan --, bakarlah sepotong jahe dan memarkan, lalu campurkan pada masakan itu",
+        "info": []
+      }
+    ]
+  }
+]

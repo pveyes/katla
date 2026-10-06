@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.suk",
+    "akarKata": null,
+    "ejaan": "rasuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok palang yang dipasang di antara tiang rumah untuk menahan atau menopang lantai (pada rumah panggung)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.suk",
+    "akarKata": null,
+    "ejaan": "rasuk",
+    "baku": true,
+    "alt": "rangsuk",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merasuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

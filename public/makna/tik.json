@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "TIK",
+    "akarKata": null,
+    "ejaan": "TIK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tujuan instruksional khusus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tik",
+    "akarKata": null,
+    "ejaan": "tik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi detik arloji, hujan, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tik",
+    "akarKata": null,
+    "ejaan": "tik",
+    "baku": true,
+    "alt": "ketik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesin tik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tik",
+    "akarKata": null,
+    "ejaan": "tik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(kain) penutup tilam dan bantal; kain tilam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

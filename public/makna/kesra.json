@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "kes.ra",
+    "akarKata": null,
+    "ejaan": "kêsra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesejahteraan rakyat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

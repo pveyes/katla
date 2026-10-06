@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ji.dor",
+    "akarKata": null,
+    "ejaan": "jidor",
+    "baku": false,
+    "alt": "jidur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tetabuhan seperti rebana besar terbuat dari kulit kerbau dan sebagainya, berbingkai kayu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beduk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat gamelan berupa gendang yang sangat besar dan dimainkan dengan penabuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

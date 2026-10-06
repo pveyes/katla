@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "hu.tan",
+    "akarKata": null,
+    "ejaan": "hutan",
+    "baku": true,
+    "alt": "utan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah luas yang ditumbuhi pohon-pohon (biasanya tidak dipelihara orang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang tumbuh di atas tanah yang luas (biasanya di wilayah pegunungan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang tidak dipelihara orang; yang liar (tentang binatang dan sebagainya)",
+        "contoh": "ayam --",
+        "info": []
+      }
+    ]
+  }
+]

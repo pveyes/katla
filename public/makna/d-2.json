@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "D-",
+    "akarKata": null,
+    "ejaan": "D-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diploma dua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

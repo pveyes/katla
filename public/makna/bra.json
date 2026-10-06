@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "bra",
+    "akarKata": null,
+    "ejaan": "bra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutang; beha",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "BRA",
+    "akarKata": null,
+    "ejaan": "BRA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bendara Raden Ajeng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

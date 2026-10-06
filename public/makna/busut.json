@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bu.sut",
+    "akarKata": null,
+    "ejaan": "busut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "longgok tanah sarang anai-anai, semut, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bukit kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

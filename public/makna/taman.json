@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ta.man",
+    "akarKata": null,
+    "ejaan": "taman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebun yang ditanami dengan bunga-bunga dan sebagainya (tempat bersenang-senang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat (yang menyenangkan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk pengantin perempuan (yang dihiasi dengan bunga-bunga dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.man",
+    "akarKata": null,
+    "ejaan": "taman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rajin; betah",
+        "contoh": "-- bekerja",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ta.man",
+    "akarKata": null,
+    "ejaan": "Taman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku yang mendiami wilayah Kabupaten Kapuas Hulu, Provinsi Kalimantan Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Taman",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FKH",
+    "akarKata": null,
+    "ejaan": "FKH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Fakultas Kedokteran Hewan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

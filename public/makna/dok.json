@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "dok",
+    "akarKata": null,
+    "ejaan": "dok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "galangan kapal (untuk menggalang kapal yang akan diperbaiki dan sebagainya); limbung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dok",
+    "akarKata": null,
+    "ejaan": "dok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dokter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

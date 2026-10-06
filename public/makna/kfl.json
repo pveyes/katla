@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KFL",
+    "akarKata": null,
+    "ejaan": "KFL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedokteran forensik dan legal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

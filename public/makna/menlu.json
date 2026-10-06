@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Men.lu",
+    "akarKata": null,
+    "ejaan": "mênlu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Menteri Luar Negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

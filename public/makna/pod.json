@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pod",
+    "akarKata": null,
+    "ejaan": "pod",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kontainer berbentuk panjang dan sempit, digantung di bawah pesawat udara, digunakan untuk membawa bahan bakar, peralatan, senjata, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "penerbangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

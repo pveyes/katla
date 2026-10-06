@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "si.dak",
+    "akarKata": null,
+    "ejaan": "sidak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inspeksi mendadak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

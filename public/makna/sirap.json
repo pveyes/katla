@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "si.rap",
+    "akarKata": null,
+    "ejaan": "sirap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepingan papan tipis-tipis, biasanya dibuat dari kayu besi atau kayu ulin, dipakai untuk atap, dinding rumah, dan sebagainya",
+        "contoh": "rumah itu tidak beratap genting, tetapi beratap --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.rap",
+    "akarKata": null,
+    "ejaan": "sirap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyirapkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

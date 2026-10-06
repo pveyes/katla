@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.fir",
+    "akarKata": null,
+    "ejaan": "kafir",
+    "baku": true,
+    "alt": "kapir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang ingkar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "agama islam",
+        "tipeTeks": "-",
+        "definisi": "orang yang tidak percaya kepada Allah Swt. dan rasul-Nya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

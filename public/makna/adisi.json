@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "adi.si",
+    "akarKata": null,
+    "ejaan": "adisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penambahan yang dilakukan secara terus-menerus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil penambahan; tambahan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penambahan senyawa terhadap senyawa lain sehingga terjadi reaksi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk kesalahan yang terdapat pada naskah salinan, berupa penambahan suku kata atau kata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "filologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

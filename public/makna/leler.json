@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "le.ler",
+    "akarKata": null,
+    "ejaan": "lèlèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "leleh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ler",
+    "akarKata": null,
+    "ejaan": "lèlèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nakal; kurang ajar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ler",
+    "akarKata": null,
+    "ejaan": "lèlèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mulai berhenti atau berkurang (nafsu, angin ribut); reda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.ler",
+    "akarKata": null,
+    "ejaan": "lêlêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "mulai berhenti atau berkurang (nafsu, angin ribut); reda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

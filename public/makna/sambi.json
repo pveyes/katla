@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sam.bi",
+    "akarKata": null,
+    "ejaan": "sambi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyambi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

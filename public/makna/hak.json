@@ -1,0 +1,113 @@
+[
+  {
+    "sukuKata": "hak",
+    "akarKata": null,
+    "ejaan": "hak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "benar",
+        "contoh": "mereka telah dapat menilai mana yang -- dan mana yang batil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "milik; kepunyaan",
+        "contoh": "barang-barang ini bukan --mu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kewenangan",
+        "contoh": "dengan ijazah itu ia mempunyai -- untuk mengajar",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekuasaan untuk berbuat sesuatu (karena telah ditentukan oleh undang-undang, aturan, dan sebagainya)",
+        "contoh": "semua warga negara yang telah berusia 18 tahun ke atas mempunyai -- untuk memilih dan dipilih dalam pemilihan umum",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekuasaan yang benar atas sesuatu atau untuk menuntut sesuatu",
+        "contoh": "menantu tidak ada -- atas harta peninggalan mertuanya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "derajat atau martabat",
+        "contoh": "orang Melayu pada waktu itu tidak sama --nya dengan orang Eropa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wewenang menurut hukum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "hak",
+    "akarKata": null,
+    "ejaan": "hak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telapak sepatu pada bagian tumit yang relatif tinggi",
+        "contoh": "sepatu dengan -- tinggi sedang digemari oleh wanita karier",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "hak",
+    "akarKata": null,
+    "ejaan": "hak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk merenda (yang ujungnya berkait) dibuat dari logam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "hak",
+    "akarKata": null,
+    "ejaan": "hak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "logam berkait (sepasang) untuk mengancingkan pinggang celana atau baju perempuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

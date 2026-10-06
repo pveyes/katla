@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "am.bek",
+    "akarKata": null,
+    "ejaan": "ambêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "watak; tabiat; sifat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berwatak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bek",
+    "akarKata": null,
+    "ejaan": "ambêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "watak; tabiat; sifat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "berwatak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.bek",
+    "akarKata": null,
+    "ejaan": "ambêk",
+    "baku": true,
+    "alt": "ambeg",
+    "makna": [
+      {
+        "definisi": "watak; tabiat; sifat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "berwatak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

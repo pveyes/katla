@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PHH",
+    "akarKata": null,
+    "ejaan": "PHH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Pasukan Anti Huru-Hara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

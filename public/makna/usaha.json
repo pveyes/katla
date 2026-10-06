@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "usa.ha",
+    "akarKata": null,
+    "ejaan": "usaha",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan dengan mengerahkan tenaga, pikiran, atau badan untuk mencapai suatu maksud; pekerjaan (perbuatan, prakarsa, ikhtiar, daya upaya) untuk mencapai sesuatu",
+        "contoh": "bermacam-macam -- telah ditempuhnya untuk mencukupi kebutuhan hidup",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan di bidang perdagangan (dengan maksud mencari untung); perdagangan; perusahaan",
+        "contoh": "-- perkayuan mengalami kemajuan",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.hat",
+    "akarKata": null,
+    "ejaan": "rahat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "roda penggulung benang pada alat pemintal benang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.hat",
+    "akarKata": null,
+    "ejaan": "rahat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengaso; jeda; beristirahat; rehat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

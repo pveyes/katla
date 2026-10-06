@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "po.hon",
+    "akarKata": null,
+    "ejaan": "pohon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang berbatang keras dan besar; pokok kayu",
+        "contoh": "-- asam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang permulaan atau yang dianggap dasar; pangkal",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asal mula; pokok sebab",
+        "contoh": "pulang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.hon",
+    "akarKata": null,
+    "ejaan": "pohon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memohon",
+          "memohonkan"
+        ]
+      }
+    ]
+  }
+]

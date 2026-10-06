@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Moi",
+    "akarKata": null,
+    "ejaan": "Moi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Mekwai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Pulau Salawati bagian timur dan sekitar kota Sorong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

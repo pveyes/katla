@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.wai",
+    "akarKata": null,
+    "ejaan": "gowai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagu dalam bentuk pantun yang indah, isinya berupa penghormatan, pemberkatan, pujian, celaan dan kutukan",
+        "contoh": "masyarakat Dani menyanyikan -- dalam acara bakar batu",
+        "info": [
+          {
+            "sumber": "dani",
+            "sumberTeks": "bahasa di papua"
+          }
+        ]
+      }
+    ]
+  }
+]

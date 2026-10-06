@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "se.dih",
+    "akarKata": null,
+    "ejaan": "sêdih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sedu; sedan; isak",
+        "contoh": "tangis dan --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.dih",
+    "akarKata": null,
+    "ejaan": "sêdih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa sangat pilu dalam hati; susah hati",
+        "contoh": "sejak kematian kedua orang tuanya ia selalu tampak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menimbulkan rasa susah (pilu dan sebagainya) dalam hati; duka",
+        "contoh": "peristiwa -- terjadi minggu lalu",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "ari",
+    "akarKata": null,
+    "ejaan": "ari",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kandang kuda; lawak-lawak kuda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ari",
+    "akarKata": null,
+    "ejaan": "ari",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan tipis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ari",
+    "akarKata": null,
+    "ejaan": "ari",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat ular",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ari",
+    "akarKata": null,
+    "ejaan": "ari",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari",
+        "contoh": "saban --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

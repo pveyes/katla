@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "OTT",
+    "akarKata": null,
+    "ejaan": "OTT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "operasi tangkap tangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

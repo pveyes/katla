@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TNI",
+    "akarKata": null,
+    "ejaan": "TNI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Tentara Nasional Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

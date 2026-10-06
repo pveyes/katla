@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PKB",
+    "akarKata": null,
+    "ejaan": "PKB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perjanjian kerja bersama (pedoman kerja sama antara pekerja dan perusahaan )",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

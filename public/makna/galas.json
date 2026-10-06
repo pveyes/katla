@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ga.las",
+    "akarKata": null,
+    "ejaan": "galas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat yang ditaruh di bahu untuk menyandang (membawa) barang-barang; pikulan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang (beban) yang disandang dengan tongkat atau dipikul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang dagangan yang dijajakan dengan dipikul atau disandang dengan tongkat di bahu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bek",
+    "akarKata": null,
+    "ejaan": "bèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala kampung (pada zaman penjajahan Belanda)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bek",
+    "akarKata": null,
+    "ejaan": "bèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemain belakang dalam permainan sepak bola yang bertugas menghalangi agar bola tidak mendekat ke gawang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

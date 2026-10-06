@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Te.tis",
+    "akarKata": null,
+    "ejaan": "tètis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satelit milik Saturnus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KBU",
+    "akarKata": null,
+    "ejaan": "KBU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kamar bicara umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

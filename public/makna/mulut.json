@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "mu.lut",
+    "akarKata": null,
+    "ejaan": "mulut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rongga di muka, tempat gigi dan lidah, untuk memasukkan makanan (pada manusia atau binatang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang, liang, atau apa saja yang rupanya sebagai mulut; bagian dari barang tempat masuknya sesuatu",
+        "contoh": "-- bedil (senapan, meriam)",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cakap; perkataan",
+        "contoh": "jangan percaya kepada -- orang",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang untuk meluahkan zat alir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

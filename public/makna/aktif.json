@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ak.tif",
+    "akarKata": null,
+    "ejaan": "aktif",
+    "baku": true,
+    "alt": "aktip",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "giat (bekerja, berusaha)",
+        "contoh": "ia -- di bidang olahraga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebih banyak penerimaan daripada pengeluaran",
+        "contoh": "neraca pembayaran --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dinamis atau bertenaga (sebagai lawan statis atau lembam)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mampu beraksi dan bereaksi",
+        "contoh": "nitrogen --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai kecenderungan menyebar atau berkembang biak (tentang penyakit, sel, dan sebagainya)",
+        "contoh": "dia mengidap penyakit tuberkulosis --",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

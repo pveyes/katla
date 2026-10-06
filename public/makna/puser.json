@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pu.ser",
+    "akarKata": null,
+    "ejaan": "pusêr",
+    "baku": false,
+    "alt": "pusar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat tumbuh rambut di kepala atau tempat tumbuh bulu pada tubuh yang bentuknya melingkar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cekungan di tengah-tengah dinding perut bekas tempat tali pusar yang menghubungkan perut dengan tembuni ketika bayi baru lahir; pusat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

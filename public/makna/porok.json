@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "po.rok",
+    "akarKata": null,
+    "ejaan": "porok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "separuh tempurung (untuk permainan)",
+        "contoh": "main --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.rok",
+    "akarKata": null,
+    "ejaan": "porok",
+    "baku": true,
+    "alt": "temporok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garpu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

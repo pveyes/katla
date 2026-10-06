@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AAU",
+    "akarKata": null,
+    "ejaan": "AAU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Akademi Angkatan Udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

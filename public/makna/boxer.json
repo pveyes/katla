@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "boxer",
+    "akarKata": null,
+    "ejaan": "boxer",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "anjing besar, berbulu halus, berhidung pesek, dan berekor pendek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "ungkapan",
+        "definisi": "perkumpulan rahasia di Tiongkok yang anti terhadap orang asing (memberontak tahun 1900)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "inggris",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

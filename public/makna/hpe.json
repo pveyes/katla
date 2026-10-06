@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "HPE",
+    "akarKata": null,
+    "ejaan": "HPE",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hipotesis pasar efisien (hipotesis yang menyatakan bahwa harga saham secara sempurna menggambarkan informasi tentang saham)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

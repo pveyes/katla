@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.zir",
+    "akarKata": null,
+    "ejaan": "tazir",
+    "baku": false,
+    "alt": "takzir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hukuman yang dijatuhkan atas dasar kebijaksanaan hakim karena tidak terdapat dalam Alquran dan hadis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

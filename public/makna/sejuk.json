@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.juk",
+    "akarKata": null,
+    "ejaan": "sêjuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa atau terasa dingin",
+        "contoh": "tengkuknya berasa --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dingin segar atau nyaman",
+        "contoh": "minuman yang -- enak dinikmati di hari panas",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "agak dingin; nyaman; segar (tentang udara)",
+        "contoh": "udara -- di pegunungan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "senang; lega (tentang hati); berkurang atau hilang susah hatinya (kegelisahannya dan sebagainya)",
+        "contoh": "-- hatinya mendengar tutur ayahnya",
+        "info": []
+      }
+    ]
+  }
+]

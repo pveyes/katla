@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "sa.but",
+    "akarKata": null,
+    "ejaan": "sabut",
+    "baku": true,
+    "alt": "sambuk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit yang berserat pada buah kelapa, pinang, dan sebagainya",
+        "contoh": "-- kelapa dapat dibuat tali atau keset",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.but",
+    "akarKata": null,
+    "ejaan": "sabut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon besar, tingginya mencapai 20 m, kayunya dapat digunakan untuk bahan bangunan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu sabut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

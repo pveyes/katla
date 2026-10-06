@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.dau",
+    "akarKata": null,
+    "ejaan": "kodau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando daerah angkatan udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

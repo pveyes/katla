@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "ob.yek",
+    "akarKata": null,
+    "ejaan": "obyèk",
+    "baku": false,
+    "alt": "objek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal, perkara, atau orang yang menjadi pokok pembicaraan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda, hal, dan sebagainya yang dijadikan sasaran untuk diteliti, diperhatikan, dan sebagainya",
+        "contoh": "-- penelitian ini adalah tata kehidupan suku terasing di Riau",
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomina yang melengkapi verba transitif dalam klausa, misalnya teh manis dalam kalimat Kiki minum teh manis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal atau benda yang menjadi sasaran usaha sambilan",
+        "contoh": "berdagang kain menjadi salah satu -- orang-orang di kota itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik atau himpunan yang bertindak sebagai sumber cahaya bagi suatu lensa, cermin, atau bagi suatu sistem lensa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

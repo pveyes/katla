@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "so.pan",
+    "akarKata": null,
+    "ejaan": "sopan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hormat dan takzim (akan, kepada); tertib menurut adat yang baik",
+        "contoh": "dengan -- ia mempersilakan tamunya duduk",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "beradab (tentang tingkah laku, tutur kata, pakaian dan sebagainya); tahu adat; baik budi bahasanya",
+        "contoh": "ia berlaku amat -- kepada kedua orang tuanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik kelakuannya (tidak lacur, tidak cabul)",
+        "contoh": "sekarang ini kita sukar untuk membedakan perempuan yang -- dan yang lacur",
+        "info": []
+      }
+    ]
+  }
+]

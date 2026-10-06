@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "MHz",
+    "akarKata": null,
+    "ejaan": "MHz",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "megahertz",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "-",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

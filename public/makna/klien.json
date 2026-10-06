@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "kli.en",
+    "akarKata": null,
+    "ejaan": "klién",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang memperoleh bantuan hukum dari seorang pengacara dalam pembelaan perkara di pengadilan",
+        "contoh": "pengacara itu menuntut perusahaan yang telah memalsukan merek dagang --nya",
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang membeli sesuatu atau memperoleh layanan (seperti kesehatan, konsultasi jiwa) secara tetap; pelanggan",
+        "contoh": "ia sudah lama menjadi -- dokter itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kli.en",
+    "akarKata": null,
+    "ejaan": "kliên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komputer desktop atau stasiun kerja yang melekat pada jaringan dan bergantung pada satu atau beberapa server untuk beberapa sumber daya, yaitu berkas, peranti, dan layanan lainnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ok.num",
+    "akarKata": null,
+    "ejaan": "oknum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyebut diri Tuhan dalam agama Katolik; pribadi",
+        "contoh": "kesatuan antara Bapak, Anak, dan Roh Kudus sebagai tiga -- keesaan Tuhan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang seorang; perseorangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang atau anasir (dengan arti yang kurang baik)",
+        "contoh": "-- yang bertindak sewenang-wenang itu sudah ditahan",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.gio",
+    "akarKata": null,
+    "ejaan": "adagio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempo yang lambat dan penuh ekspresi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

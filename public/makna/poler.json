@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "po.ler",
+    "akarKata": null,
+    "ejaan": "polèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersangkutan dengan kutub bumi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersangkutan dengan kutub magnet",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkutub dua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

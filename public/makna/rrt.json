@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RRT",
+    "akarKata": null,
+    "ejaan": "RRT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Republik Rakyat Tiongkok (negara yang terletak di Asia Timur, beribukota di Beijing)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

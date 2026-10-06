@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bu.bun",
+    "akarKata": null,
+    "ejaan": "bubun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ubun-ubun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

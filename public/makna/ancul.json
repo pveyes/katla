@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.cul",
+    "akarKata": null,
+    "ejaan": "ancul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga alang-alang yang merusak pertumbuhan padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

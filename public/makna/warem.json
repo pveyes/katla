@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "wa.rem",
+    "akarKata": null,
+    "ejaan": "warêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warung remang-remang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

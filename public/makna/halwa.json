@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "hal.wa",
+    "akarKata": null,
+    "ejaan": "halwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "manisan buah-buahan",
+        "contoh": "-- pala",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala yang menyenangkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

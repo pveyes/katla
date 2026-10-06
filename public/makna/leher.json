@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.her",
+    "akarKata": null,
+    "ejaan": "lèhèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tubuh (manusia atau binatang) yang menghubungkan kepala dengan tubuh yang lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang rupanya (bentuknya, letaknya) menyerupai leher",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

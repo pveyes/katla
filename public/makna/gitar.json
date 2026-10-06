@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gi.tar",
+    "akarKata": null,
+    "ejaan": "gitar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik dengan bahan dari kayu seperti biola, berleher panjang, berdawai enam atau lebih, dimainkan dengan memetik dawai itu dengan jari",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

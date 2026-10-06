@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "abi.lah",
+    "akarKata": null,
+    "ejaan": "abilah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cacar; ketumbuhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          },
+          {
+            "sumber": "parsi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "oja",
+    "akarKata": null,
+    "ejaan": "oja",
+    "baku": true,
+    "alt": "ojah",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengoja"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "oja",
+    "akarKata": null,
+    "ejaan": "oja",
+    "baku": true,
+    "alt": "uja",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengoja"
+        ]
+      }
+    ]
+  }
+]

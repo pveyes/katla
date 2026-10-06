@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "upe.ti",
+    "akarKata": null,
+    "ejaan": "upêti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang (emas dan sebagainya) yang wajib dibayarkan (dipersembahkan) oleh negara(-negara) kecil kepada raja atau negara yang berkuasa atau yang menaklukkannya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang dan sebagainya yang diberikan (diantarkan) kepada seorang pejabat dan sebagainya dengan maksud menyuap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

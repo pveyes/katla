@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "le.rak",
+    "akarKata": null,
+    "ejaan": "lêrak",
+    "baku": true,
+    "alt": "larak",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak tercerai-cerai (tentang rumah, perahu, dan sebagainya); sudah lepas (dari ikatan)",
+        "contoh": "perahu itu --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.rak",
+    "akarKata": null,
+    "ejaan": "lêrak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi mencapai 4 m, kayunya tidak keras sehingga tidak digunakan untuk bahan bangunan, buahnya berbusa, dapat digunakan sebagai sabun; lemuran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah lerak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

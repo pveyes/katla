@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ca.pak",
+    "akarKata": null,
+    "ejaan": "capak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak mengindahkan; abai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.pak",
+    "akarKata": null,
+    "ejaan": "capak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kecap (sewaktu makan atau mengecap sesuatu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.pak",
+    "akarKata": null,
+    "ejaan": "capak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "duduk dengan posisi kaki terbuka lebar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

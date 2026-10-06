@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "wak.tu",
+    "akarKata": null,
+    "ejaan": "waktu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seluruh rangkaian saat ketika proses, perbuatan, atau keadaan berada atau berlangsung",
+        "contoh": "tidak seorang pun tahu apa yang akan terjadi pada -- yang akan datang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lamanya (saat yang tertentu)",
+        "contoh": "pekerjaan itu harus selesai dalam -- lima hari",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saat yang tertentu untuk melakukan sesuatu",
+        "contoh": "-- makan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesempatan; tempo; peluang",
+        "contoh": "sayang sekali -- yang baik untuk mencetak gol tidak dipergunakannya",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "ketika, saat",
+        "contoh": "-- engkau datang, saya sedang mandi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari (keadaan hari)",
+        "contoh": "-- terang bulan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saat yang ditentukan berdasarkan pembagian bola dunia",
+        "contoh": "-- Indonesia Barat",
+        "info": []
+      }
+    ]
+  }
+]

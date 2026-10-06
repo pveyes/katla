@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "so.dok",
+    "akarKata": null,
+    "ejaan": "sodok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekop; tajak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.dok",
+    "akarKata": null,
+    "ejaan": "sodok",
+    "baku": true,
+    "alt": "suduk",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tolak, dorong, atau sorong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

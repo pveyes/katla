@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.fah",
+    "akarKata": null,
+    "ejaan": "kafah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sempurna",
+        "contoh": "kerinduan untuk menempatkan diri sebagai seorang muslim yang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keseluruhan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

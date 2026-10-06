@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "kup",
+    "akarKata": null,
+    "ejaan": "kup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk di punggung gajah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kup",
+    "akarKata": null,
+    "ejaan": "kup",
+    "baku": false,
+    "alt": "kudeta",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perebutan kekuasaan (pemerintahan) dengan paksa",
+        "contoh": "sekitar 300 orang perwira terlibat dalam rencana -- terhadap pemerintahan yang sah",
+        "info": []
+      }
+    ]
+  }
+]

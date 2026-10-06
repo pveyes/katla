@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wa.tun",
+    "akarKata": null,
+    "ejaan": "watun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian lantai yang ditinggikan (pada rumah Banjar)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

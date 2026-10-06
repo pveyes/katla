@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ro.man",
+    "akarKata": null,
+    "ejaan": "roman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rupa muka; wajah",
+        "contoh": "-- gadis itu seperti ibunya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.man",
+    "akarKata": null,
+    "ejaan": "roman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karangan prosa yang melukiskan perbuatan pelakunya menurut watak dan isi jiwa masing-masing",
+        "contoh": "-- lebih banyak membawa sifat-sifat zamannya daripada drama atau puisi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(cerita) percintaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.man",
+    "akarKata": null,
+    "ejaan": "roman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekam (padi); tangkai padi (merang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.man",
+    "akarKata": null,
+    "ejaan": "roman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat huruf",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

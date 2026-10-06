@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "te.pus",
+    "akarKata": null,
+    "ejaan": "têpus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan, tinggi mencapai 4 m, buahnya yang berwarna kuning dapat dimakan, batangnya mempunyai nilai untuk pembuatan kertas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pus",
+    "akarKata": null,
+    "ejaan": "têpus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung endemik Jawa yang termasuk   keluarga Timaliidae, bertubuh kecil, tinggal di hutan dataran rendah hingga perbukitan dengan ketinggian hingga 900 meter dari permukaan laut (dpl), hidup dalam berkelompok kecil, memangsa serangga seperti ulat, kupu-kupu, tempayak, kecoak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

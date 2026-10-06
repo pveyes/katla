@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "le.mas",
+    "akarKata": null,
+    "ejaan": "lêmas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah dilentukkan (tidak kaku); lentur",
+        "contoh": "badannya -- sehingga mudah meniru segala gerakan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah bernapas atau tidak dapat bernapas (karena terkena asap gas, tenggelam dalam air, dan sebagainya)",
+        "contoh": "ia kedapatan mati -- dalam sumur mati",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bertenaga; lemah",
+        "contoh": "aku merasa -- sejak tadi pagi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.mas",
+    "akarKata": null,
+    "ejaan": "lêmas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "halus (tentang bahasa)",
+        "contoh": "karangan ini bahasanya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lemah lembut (tentang tingkah laku)",
+        "contoh": "gerak gadis itu dalam menari --",
+        "info": []
+      }
+    ]
+  }
+]

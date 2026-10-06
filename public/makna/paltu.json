@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pal.tu",
+    "akarKata": null,
+    "ejaan": "paltu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembantu yang bekerja hanya untuk sementara saja; wakil sementara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

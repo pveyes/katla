@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pe.pak",
+    "akarKata": null,
+    "ejaan": "pêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lengkap (dari bermacam jenis); sangat lengkap",
+        "contoh": "sesajian itu -- sekali",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.pak",
+    "akarKata": null,
+    "ejaan": "pêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memepak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

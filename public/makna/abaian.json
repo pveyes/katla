@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abai.an",
+    "akarKata": "abai",
+    "ejaan": "abaian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghilangan atau pengubahan bagian naskah yang tidak dipahami lagi oleh penyalin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

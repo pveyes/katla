@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "per.lu",
+    "akarKata": null,
+    "ejaan": "pêrlu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "harus; usah",
+        "contoh": "barang-barang ini -- didaftar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penting (ada gunanya, harus ada, dan sebagainya)",
+        "contoh": "mana-mana yang -- kita bicarakan nanti",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "butuh (akan); membutuhkan; berhajat (akan)",
+        "contoh": "kalau -- uang, kita dapat meminjam ke koperasi",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untuk",
+        "contoh": "ia pergi ke Surabaya -- mengurus dagangan",
+        "info": []
+      }
+    ]
+  }
+]

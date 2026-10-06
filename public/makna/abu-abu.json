@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "abu-abu",
+    "akarKata": null,
+    "ejaan": "abu-abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna antara hitam dan putih (serupa dengan warna abu kayu bakar); kelabu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung atau memperlihatkan warna yang serupa dengan warna abu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak jelas",
+        "contoh": "pemberian sanksi pelanggaran kedisiplinan pada Pegawai Negeri Sipil (PNS) terlihat masih --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abu-abu",
+    "akarKata": null,
+    "ejaan": "abu-abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang ukurannya mencapai 145 cm, berat mencapai 35,9 kg, hidup di perairan tropis dengan kedalaman lebih dari 10 m, tersebar di wilayah Indo-Pasifik Barat, yakni perairan Laut Merah dan Afrika Timur sampai Papua Nugini, bagian utara sampai Jepang, bagian selatan sampai Australia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abu-abu",
+    "akarKata": null,
+    "ejaan": "abu-abu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan yang diberikan kepada binatang spy binatang tersebut tidak merusak tanam-tanaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

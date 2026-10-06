@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ne.nek",
+    "akarKata": null,
+    "ejaan": "nènèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu dari ayah atau dari ibu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada perempuan yang sudah tua",
+        "contoh": "mereka merawat tiga orang -- yang sudah jompo",
+        "info": []
+      }
+    ]
+  }
+]

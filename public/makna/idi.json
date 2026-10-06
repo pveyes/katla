@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IDI",
+    "akarKata": null,
+    "ejaan": "IDI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ikatan Dokter Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

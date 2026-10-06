@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.lur",
+    "akarKata": null,
+    "ejaan": "kulur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

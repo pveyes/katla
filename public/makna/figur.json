@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "fi.gur",
+    "akarKata": null,
+    "ejaan": "figur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk; wujud",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tokoh",
+        "contoh": "peran ini merupakan -- sentral yang menjadi pusat perhatian",
+        "info": []
+      }
+    ]
+  }
+]

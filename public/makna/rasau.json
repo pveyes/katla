@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.sau",
+    "akarKata": null,
+    "ejaan": "rasau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pandan yang tumbuh di tepi sungai, bunganya harum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.sau",
+    "akarKata": null,
+    "ejaan": "rasau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi daun-daunan atau pohon-pohonan yang ditiup angin kencang; desau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

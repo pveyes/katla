@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.am.pe.re",
+    "akarKata": null,
+    "ejaan": "abampèré",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan arus listrik dalam sistem sentimeter-gram-sekon (cgs) elektromagnetik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

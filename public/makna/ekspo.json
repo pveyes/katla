@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "eks.po",
+    "akarKata": null,
+    "ejaan": "èkspo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "eksposisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

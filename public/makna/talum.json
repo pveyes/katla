@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.lum",
+    "akarKata": null,
+    "ejaan": "talum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan sesuatu ke dalam mulut dalam jumlah besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tek.pi",
+    "akarKata": null,
+    "ejaan": "tèkpi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombak bercabang tiga; trisula",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

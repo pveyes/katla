@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "pa.dan",
+    "akarKata": null,
+    "ejaan": "padan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "banding; imbangan",
+        "contoh": "ia menang dengan mudah atas lawan yang bukan --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cocok; sesuai; patut benar",
+        "contoh": "ia bertubuh kekar dan atletis, --lah menjadi seorang petinju",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.dan",
+    "akarKata": null,
+    "ejaan": "padan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sempadan; batas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis (titik dan sebagainya) yang menjadi batas atau tempat melemparkan batu (kelereng dan sebagainya) pada permainan lempar-lemparan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.dan",
+    "akarKata": null,
+    "ejaan": "padan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "janji",
+        "contoh": "mengecoh --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.dan",
+    "akarKata": null,
+    "ejaan": "padan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "curang (terutama dalam permainan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

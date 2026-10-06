@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tag.ma",
+    "akarKata": null,
+    "ejaan": "tagma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sederetan ruas berurutan yang membentuk bagian berbeda pada tubuh serangga (kepala, toraks, abdomen)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ska.fa",
+    "akarKata": null,
+    "ejaan": "skafa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian cekung daun telinga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

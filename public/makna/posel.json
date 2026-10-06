@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pos.el",
+    "akarKata": null,
+    "ejaan": "posèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pos elektronik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

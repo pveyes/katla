@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.dya",
+    "akarKata": null,
+    "ejaan": "kodya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota madya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

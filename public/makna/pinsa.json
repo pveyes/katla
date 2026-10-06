@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "pin.sa",
+    "akarKata": null,
+    "ejaan": "pinsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin sangga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pramuka",
+            "sumberTeks": "usulan untuk penambahan bidang baru"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

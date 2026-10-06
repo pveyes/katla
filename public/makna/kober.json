@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "ko.ber",
+    "akarKata": null,
+    "ejaan": "kobér",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.ber",
+    "akarKata": null,
+    "ejaan": "kobêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok bermain (pendidikan nonformal bagi anak usia 2—4 tahun yang memfokuskan kegiatannya pada pengembangan motorik, kecerdasan emosional, dan perilaku)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

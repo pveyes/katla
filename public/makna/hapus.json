@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ha.pus",
+    "akarKata": null,
+    "ejaan": "hapus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak terdapat atau tidak terlihat lagi; hilang",
+        "contoh": "noda-noda hitam pada baju itu tidak dapat -- jika hanya dicuci dengan sabun biasa",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "musnah; lenyap",
+        "contoh": "semuanya akan -- dari muka bumi",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "diampuni",
+        "contoh": "telah -- segala dosanya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lu.ing",
+    "akarKata": null,
+    "ejaan": "luing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "leluing1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.ing",
+    "akarKata": null,
+    "ejaan": "luing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang jenis lipan, merayap, berkaki banyak; lintibang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

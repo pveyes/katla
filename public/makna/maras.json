@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "ma.ras",
+    "akarKata": null,
+    "ejaan": "maras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ketakutan; sangat khawatir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.ras",
+    "akarKata": null,
+    "ejaan": "maras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perundingan antara dua keluarga mengenai perkawinan anak-anaknya (di daerah Batak)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk perkawinan endogami (di Pulau Buru)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.ras",
+    "akarKata": null,
+    "ejaan": "maras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membuka tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minahasa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

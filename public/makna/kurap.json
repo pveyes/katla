@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.rap",
+    "akarKata": null,
+    "ejaan": "kurap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit semacam kudis yang menyebabkan gatal (ada bermacam-macam seperti -- ayam, -- anjing, -- besi)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.rap",
+    "akarKata": null,
+    "ejaan": "kurap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat daun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

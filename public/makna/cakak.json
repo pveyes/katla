@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.kak",
+    "akarKata": null,
+    "ejaan": "cakak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkelahian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

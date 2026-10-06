@@ -1,0 +1,115 @@
+[
+  {
+    "sukuKata": "su.suk",
+    "akarKata": null,
+    "ejaan": "susuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyemat (dari kayu dan sebagainya); tusuk; pasak; susuh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarum emas, intan, dan sebagainya yang dimasukkan ke dalam kulit, bibir, dahi, dan sebagainya disertai mantra agar tampak menjadi cantik, menarik, manis, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "implan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.suk",
+    "akarKata": null,
+    "ejaan": "susuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk; bangun",
+        "contoh": "-- tubuh",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.suk",
+    "akarKata": null,
+    "ejaan": "susuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyusuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.suk",
+    "akarKata": null,
+    "ejaan": "susuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sesak; asak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.suk",
+    "akarKata": null,
+    "ejaan": "susuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang kelebihan pembayaran; sisa uang pembayaran yang harus dikembalikan kepada pembeli; uang penyongsong; uang kembali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.suk",
+    "akarKata": null,
+    "ejaan": "susuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "uang kelebihan pembayaran; sisa uang pembayaran yang harus dikembalikan kepada pembeli; uang penyongsong; uang kembali",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

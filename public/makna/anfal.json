@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "an.fal",
+    "akarKata": null,
+    "ejaan": "anfal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "keadaan kritis karena serangan penyakit mendadak",
+        "contoh": "sang suami sempat mengalami -- sesaat sebelum dilarikan ke rumah sakit",
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

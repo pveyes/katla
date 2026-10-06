@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.a.na",
+    "akarKata": null,
+    "ejaan": "koana",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang berbentuk corong pada rongga hidung belakang yang menuju ke pangkal kerongkongan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "anatomi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

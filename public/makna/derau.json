@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "de.rau",
+    "akarKata": null,
+    "ejaan": "dêrau",
+    "baku": true,
+    "alt": "rau",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi gemuruh hujan dibawa angin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi, getaran, atau isyarat (sinyal) yang tidak diinginkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gangguan yang terjadi dalam sistem transmisi telekomunikasi yang memengaruhi kualitas informasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedirgantaraan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

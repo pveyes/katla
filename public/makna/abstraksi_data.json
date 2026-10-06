@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "abstraksi data",
+    "akarKata": "abstraksi",
+    "ejaan": "abstraksi data",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "komputer",
+        "tipeTeks": "-",
+        "definisi": "proses ekstraksi karakteristik penting dari data dengan mendefinisikan tipe data dan karakteristik fungsional yang terkait dan mengabaikan detail representasinya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

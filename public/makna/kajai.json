@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.jai",
+    "akarKata": null,
+    "ejaan": "kajai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali pada leher kuda; kalung kuda",
+        "contoh": "tali --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karet berbentuk lingkaran seperti gelang, biasanya dipakai untuk mengencangkan gulungan kertas, dan sebagainya; karet gelang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

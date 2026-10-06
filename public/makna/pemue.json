@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pe.mue",
+    "akarKata": null,
+    "ejaan": "pêmuê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hipnosis untuk binatang (terutama binatang buas, seperti harimau)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.puk",
+    "akarKata": null,
+    "ejaan": "dapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "atur; rancang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

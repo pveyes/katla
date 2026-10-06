@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "gar.du",
+    "akarKata": null,
+    "ejaan": "gardu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah jaga (tempat berkawal)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah kecil di tepi jalan (tempat menjual es batu, dan sebagainya); depot",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan kecil (tempat distribusi listrik)",
+        "contoh": "-- listrik",
+        "info": []
+      }
+    ]
+  }
+]

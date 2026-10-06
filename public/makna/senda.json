@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sen.da",
+    "akarKata": null,
+    "ejaan": "sênda",
+    "baku": false,
+    "alt": "sanda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aku (biasa dipakai oleh pengarang lama); yang diperhamba; sahayanda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sen.da",
+    "akarKata": null,
+    "ejaan": "sênda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelakar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

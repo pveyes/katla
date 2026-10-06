@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.ket",
+    "akarKata": null,
+    "ejaan": "pikèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok atau regu yang melakukan tugas jaga siang atau malam hari (biasanya dalam kesatuan militer, rumah sakit, kantor, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjalankan tugas piket",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

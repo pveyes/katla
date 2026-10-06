@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "em.pok",
+    "akarKata": null,
+    "ejaan": "êmpok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak perempuan",
+        "contoh": "--nya yang baru menikah akan mengikuti suaminya ke Mekah",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk orang perempuan yang lebih tua",
+        "contoh": "--, bolehkah saya bertanya?",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

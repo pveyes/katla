@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "apu",
+    "akarKata": null,
+    "ejaan": "apu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapur yang sudah diendapkan untuk ramuan makan sirih (dicampur dengan gambir, kapulaga, cengkih, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "APU",
+    "akarKata": null,
+    "ejaan": "APU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli peneliti utama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

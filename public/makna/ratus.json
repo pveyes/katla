@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ra.tus",
+    "akarKata": null,
+    "ejaan": "ratus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan bilangan kelipatan seratus yang dilambangkan dengan dua nol (00) di belakang angka 1–9",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.tus",
+    "akarKata": null,
+    "ejaan": "ratus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dupa yang berbau harum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.tus",
+    "akarKata": null,
+    "ejaan": "ratus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "dupa yang berbau harum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

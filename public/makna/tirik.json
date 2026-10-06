@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.rik",
+    "akarKata": null,
+    "ejaan": "tirik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian khas Banjar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

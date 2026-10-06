@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pen",
+    "akarKata": null,
+    "ejaan": "ampên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali kail yang terbuat dari bahan benang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

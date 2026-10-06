@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.nar",
+    "akarKata": null,
+    "ejaan": "tênar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah sangat diketahui orang banyak; ternama; masyhur",
+        "contoh": "Einstein menjadi -- karena teori relativitas",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gaduh; gempar; onar",
+        "contoh": "keadaan di istana itu menjadi -- oleh sikap dan tindakan panglima yang menentang sang raja",
+        "info": []
+      }
+    ]
+  }
+]

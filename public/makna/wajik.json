@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "wa.jik",
+    "akarKata": null,
+    "ejaan": "wajik",
+    "baku": true,
+    "alt": "wajit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari campuran ketan, gula, dan santan kelapa dan dipotong seperti bentuk intan (segi empat, jajaran genjang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wa.jik",
+    "akarKata": null,
+    "ejaan": "wajik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar (bentuk) belah ketupat pada kartu bridge",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

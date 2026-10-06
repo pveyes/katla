@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "co.cor",
+    "akarKata": null,
+    "ejaan": "cocor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paruh yang lebar (seperti paruh itik, angsa); sudu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung depan kaki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

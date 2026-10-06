@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Yam.na",
+    "akarKata": null,
+    "ejaan": "Yamna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Kabupaten Jayapura, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Yamna",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

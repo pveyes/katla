@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ja.kun",
+    "akarKata": null,
+    "ejaan": "jakun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung kerongkongan yang tampak menonjol pada leher orang laki-laki dewasa; lekum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ja.kun",
+    "akarKata": null,
+    "ejaan": "jakun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "heran karena melihat suatu benda atau hal yang baru dikenal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

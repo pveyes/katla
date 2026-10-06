@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "pe.das",
+    "akarKata": null,
+    "ejaan": "pêdas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rasa seperti rasa cabai (merica dan sebagainya)",
+        "contoh": "-- sambal ini sama dengan -- cabai",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terasa seperti cabai atau merica",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tajam atau keras (tentang kritik dan sebagainya); menyakitkan hati (tentang perkataan dan sebagainya)",
+        "contoh": "tulisan-tulisannya sangat --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "kor",
+    "akarKata": null,
+    "ejaan": "kor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "paduan suara; nyanyian bersama",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekelompok aktor pendukung pemeran utama dalam sebuah produksi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kor",
+    "akarKata": null,
+    "ejaan": "kor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran isi untuk barang cair sebesar 10 bat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

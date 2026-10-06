@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hus",
+    "akarKata": null,
+    "ejaan": "hus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan larangan, mengusir (ayam dan sebagainya)",
+        "contoh": "--, jangan bicara keras-keras",
+        "info": []
+      }
+    ]
+  }
+]

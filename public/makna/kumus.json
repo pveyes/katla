@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.mus",
+    "akarKata": null,
+    "ejaan": "kumus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon rimba yang tinggi besar, kayunya baik digunakan untuk bangunan rumah, gelegar, tiang dan jembatan, damarnya banyak dicari sebagai bahan campuran",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kumus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "damar kumus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

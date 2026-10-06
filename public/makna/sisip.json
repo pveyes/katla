@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "si.sip",
+    "akarKata": null,
+    "ejaan": "sisip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyisip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.sip",
+    "akarKata": null,
+    "ejaan": "sisip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jeruji pada sangkar burung, terbuat dari bambu atau lidi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

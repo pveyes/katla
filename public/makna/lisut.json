@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "li.sut",
+    "akarKata": null,
+    "ejaan": "lisut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kisut; berkerut-kerut",
+        "contoh": "kulit orang tua itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "layu",
+        "contoh": "bunga di jambangan itu sudah --",
+        "info": []
+      }
+    ]
+  }
+]

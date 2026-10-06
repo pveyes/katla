@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.pan",
+    "akarKata": null,
+    "ejaan": "gapan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran berkas padi yang diikat sehabis dipanen dengan ani-ani",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

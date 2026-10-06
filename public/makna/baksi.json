@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bak.si",
+    "akarKata": null,
+    "ejaan": "baksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "layar penyorong, dipasang pada tiang belakang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

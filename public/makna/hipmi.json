@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HIPMI",
+    "akarKata": null,
+    "ejaan": "HIPMI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Himpunan Pengusaha Muda Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

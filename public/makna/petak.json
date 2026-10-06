@@ -1,0 +1,90 @@
+[
+  {
+    "sukuKata": "pe.tak",
+    "akarKata": null,
+    "ejaan": "pètak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian ruang yang bersekat; kotak",
+        "contoh": "ruang perahu itu ada delapan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilik kamar; kamar kecil",
+        "contoh": "rumahnya disekat-sekat menjadi lima --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piring (sebidang sawah yang dibatasi oleh pematang)",
+        "contoh": "sawahnya sepuluh --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bedeng (persemaian yang akan ditanami)",
+        "contoh": "tanah ladang itu dijadikan beberapa --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.tak",
+    "akarKata": null,
+    "ejaan": "pètak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belang pada kepala",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belang putih pada dahi kuda",
+        "contoh": "kuda --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.tak",
+    "akarKata": null,
+    "ejaan": "pètak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "petak kadal",
+          "petak umpat",
+          "petak umpet"
+        ]
+      }
+    ]
+  }
+]

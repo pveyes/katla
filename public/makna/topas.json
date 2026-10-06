@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "to.pas",
+    "akarKata": null,
+    "ejaan": "topas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu permata berwarna macam-macam (kuning, cokelat, kemerah-merahan, tidak berwarna, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aluminium silikat dengan berbagai campuran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.pas",
+    "akarKata": null,
+    "ejaan": "topas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awak kapal yang tugasnya melayani kebutuhan makan dan tempat tinggal awak kapal bawahan yang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

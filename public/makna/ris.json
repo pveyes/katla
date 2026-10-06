@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RIS",
+    "akarKata": null,
+    "ejaan": "RIS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Republik Indonesia Serikat (negara federasi yang berdiri pada 27 Desember 1949 sebagai hasil kesepakatan tiga pihak dalam Konferensi Meja Bundar: Republik Indonesia, Bijeenkomst voor Federaal Overleg (BFO), dan Belanda)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

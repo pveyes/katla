@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "li.mas",
+    "akarKata": null,
+    "ejaan": "limas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takir yang dibuat dari upih pinang, daun pisang, dan sebagainya, yang dilipat berbentuk corong (bulat) untuk tempat air, gulai, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "merunjung ke atas (tentang bentuk atap bangunan, seperti bentuk piramida)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benda ruang yang alasnya berbentuk segitiga (segi empat dan sebagainya) dan bidang sisinya berbentuk segitiga dengan titik puncak yang berimpit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.mas",
+    "akarKata": null,
+    "ejaan": "limas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah adat Palembang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

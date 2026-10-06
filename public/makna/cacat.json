@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ca.cat",
+    "akarKata": null,
+    "ejaan": "cacat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekurangan yang menyebabkan nilai atau mutunya kurang baik atau kurang sempurna (yang terdapat pada badan, benda, batin, atau akhlak)",
+        "contoh": "karena --nya itulah, ia tidak diterima di sekolah guru",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lecet (kerusakan, noda) yang menyebabkan keadaannya menjadi kurang baik (kurang sempurna)",
+        "contoh": "coba periksa barang itu baik-baik, barangkali ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cela; aib",
+        "contoh": "segala yang baik tentu ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak (kurang) sempurna",
+        "contoh": "akibat kecelakaan itu, sekarang ia menjadi --",
+        "info": []
+      }
+    ]
+  }
+]

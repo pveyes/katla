@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "un.jam",
+    "akarKata": null,
+    "ejaan": "unjam",
+    "baku": false,
+    "alt": "hunjam",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "hunjaman",
+          "menghunjam",
+          "menghunjamkan",
+          "terhunjam"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Un.jam",
+    "akarKata": null,
+    "ejaan": "Unjam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Jambi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

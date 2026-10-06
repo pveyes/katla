@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "mau",
+    "akarKata": null,
+    "ejaan": "mau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sungguh-sungguh suka hendak; suka akan; sudi",
+        "contoh": "ia -- datang kalau dijemput",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "akan; hendak",
+        "contoh": "ibu -- berangkat ke Surabaya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kehendak; maksud",
+        "contoh": "apa --mu datang ke sini?",
+        "info": []
+      }
+    ]
+  }
+]

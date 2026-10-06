@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "se.bal",
+    "akarKata": null,
+    "ejaan": "sêbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kesal (hati); mendongkol (karena kecewa, tidak senang, dan sebagainya)",
+        "contoh": "-- aku melihat tingkah lakunya yang kasar itu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.bal",
+    "akarKata": null,
+    "ejaan": "sêbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sial; tidak mujur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.bal",
+    "akarKata": null,
+    "ejaan": "sêbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyebal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.dap",
+    "akarKata": null,
+    "ejaan": "kêdap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kerap dan rapat sekali (tentang tenunan, anyaman, dan sebagainya)",
+        "contoh": "kain yang dipakai untuk menyekat kedua ruang itu dipilihkan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tertutup rapat-rapat sehingga tidak dapat ditembus atau kemasukan air (udara)",
+        "contoh": "semua yang bersifat radioaktif dikeluarkan selama pembangkitan tenaga nuklir di dalam wadah yang -- udara",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ta.kut",
+    "akarKata": null,
+    "ejaan": "takut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa gentar (ngeri) menghadapi sesuatu yang dianggap akan mendatangkan bencana",
+        "contoh": "anjing ini jinak, engkau tidak perlu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "takwa; segan dan hormat",
+        "contoh": "hendaklah kita -- kepada Allah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berani (berbuat, menempuh, menderita, dan sebagainya)",
+        "contoh": "hari sudah malam, aku -- pulang sendiri",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gelisah; khawatir (kalau ...)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

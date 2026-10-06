@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "hu.ria",
+    "akarKata": null,
+    "ejaan": "huria",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(daerah) persekutuan umat Kristen Protestan (pada suku Batak)",
+        "contoh": "seorang lulusan sekolah teologi harus dapat memimpin suatu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sidang gereja Protestan (pada suku Batak)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KGA",
+    "akarKata": null,
+    "ejaan": "KGA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedokteran gigi anak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

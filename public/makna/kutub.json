@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ku.tub",
+    "akarKata": null,
+    "ejaan": "kutub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung poros atau sumbu bumi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung batang magnet yang mempunyai sifat menarik besi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung baterai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujung dari garis (rentangan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

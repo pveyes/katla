@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "rek.to",
+    "akarKata": null,
+    "ejaan": "rékto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "halaman sebelah kanan pada buku atau naskah terbuka, biasanya bernomor halaman ganjil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisi pertama pada kertas cetak atau bergaris jika dilipat dan dijilid; bagian depan atau bagian muka lembaran kertas cetakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

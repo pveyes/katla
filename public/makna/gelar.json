@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ge.lar",
+    "akarKata": null,
+    "ejaan": "gêlar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan kehormatan, kebangsawanan, atau kesarjanaan yang biasanya ditambahkan pada nama orang seperti raden, tengku, doktor, sarjana ekonomi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama tambahan sesudah nikah atau setelah tua (sebagai kehormatan)",
+        "contoh": "ia diberi -- “Sutan”",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "julukan yang berhubungan dengan keadaan atau tabiat orang; sebutan",
+        "contoh": "karena gendut, ia mendapat -- si gendut",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.lar",
+    "akarKata": null,
+    "ejaan": "gêlar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hampar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penempatan dan penyebaran kekuatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

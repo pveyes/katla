@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FISIP",
+    "akarKata": null,
+    "ejaan": "FISIP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Fakultas Ilmu Sosial dan Ilmu Politik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

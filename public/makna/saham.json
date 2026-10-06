@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "sa.ham",
+    "akarKata": null,
+    "ejaan": "saham",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian; andil; sero (tentang permodalan)",
+        "contoh": "--nya tertanam dalam berbagai perusahaan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumbangan (pikiran dan tenaga)",
+        "contoh": "--nya dalam perjuangan kemerdekaan sangat besar",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat bukti pemilikan bagian modal perseroan terbatas yang memberi hak atas dividen dan lain-lain menurut besar kecilnya modal yang disetor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak yang dimiliki orang (pemegang saham) terhadap perusahaan berkat penyerahan bagian modal sehingga dianggap berbagi dalam pemilikan dan pengawasan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

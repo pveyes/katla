@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "cu.rik",
+    "akarKata": null,
+    "ejaan": "curik",
+    "baku": true,
+    "alt": "corek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golok pendek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.rik",
+    "akarKata": null,
+    "ejaan": "curik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung jalak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

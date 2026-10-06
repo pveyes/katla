@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "na.zim",
+    "akarKata": null,
+    "ejaan": "nazim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyair; pengarang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

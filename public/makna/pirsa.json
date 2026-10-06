@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pir.sa",
+    "akarKata": null,
+    "ejaan": "pirsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tahu; melihat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "si.rih",
+    "akarKata": null,
+    "ejaan": "sirih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan merambat di pohon lain, daunnya berasa agak pedas, biasa dikunyah bersama dengan pinang, kapur, gambir sebagai makanan yang mencandu, penguat gigi, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun sirih",
+        "contoh": "makan --",
+        "info": []
+      }
+    ]
+  }
+]

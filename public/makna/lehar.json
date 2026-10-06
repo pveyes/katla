@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "le.har",
+    "akarKata": null,
+    "ejaan": "lèhar",
+    "baku": false,
+    "alt": "rehal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangku kecil khusus tempat menaruh Al-Qur'an yang hendak dibaca",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alas atau tempat menyimpan kendang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

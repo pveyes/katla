@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hot",
+    "akarKata": null,
+    "ejaan": "hot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merangsang; menggiurkan; panas",
+        "contoh": "adegan yang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

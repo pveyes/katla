@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ana",
+    "akarKata": null,
+    "ejaan": "ana",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "saya; aku",
+        "contoh": "-- tinggal di Jakarta",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

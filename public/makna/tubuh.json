@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "tu.buh",
+    "akarKata": null,
+    "ejaan": "tubuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keseluruhan jasad manusia atau binatang yang kelihatan dari bagian ujung kaki sampai ujung rambut",
+        "contoh": "--nya tegap dan sehat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian badan yang terutama (tidak dengan anggota dan kepala)",
+        "contoh": "yang dibasahi hanya --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diri (sendiri)",
+        "contoh": "tuan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang terpenting",
+        "contoh": "-- perahu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertubuhan; badan (dalam organisme)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "fo.kus",
+    "akarKata": null,
+    "ejaan": "fokus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik atau daerah kecil tempat berkas cahaya mengumpul atau menyebar setelah berkas cahaya itu menimpa sebuah cermin atau lensa, berkas cahaya yang datang berada dalam keadaan paralel dengan sumbu cermin atau lensa itu; titik api",
+        "contoh": "tempatkan objek itu dalam -- kalau menginginkan hasil pemotretan yang bagus",
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusat",
+        "contoh": "-- perhatian dunia internasional tertuju ke kejuaraan sepak bola dunia di negara tuan rumah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unsur yang menonjolkan suatu bagian kalimat sehingga perhatian pendengar (pembaca) tertarik pada bagian itu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciri predikat verbal yang menentukan hubungan semantis predikat verbal itu dengan subjek, biasanya ditandai oleh afiks verbal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memusatkan perhatian",
+        "contoh": "--! jangan lengah",
+        "info": []
+      }
+    ]
+  }
+]

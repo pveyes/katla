@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ran.da",
+    "akarKata": null,
+    "ejaan": "randa",
+    "baku": true,
+    "alt": "rangda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perempuan yang bercerai atau perempuan yang suaminya sudah meninggal; janda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ran.da",
+    "akarKata": null,
+    "ejaan": "randa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan untuk gadis remaja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "petapa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

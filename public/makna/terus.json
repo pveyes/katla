@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "te.rus",
+    "akarKata": null,
+    "ejaan": "têrus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "lurus menuju ...; langsung pada (arah ke); lantas",
+        "contoh": "kami tidak -- ke kota, tetapi singgah dahulu di perkebunan karet",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tetap berlanjut",
+        "contoh": "pertempuran itu -- menghebat hingga tengah malam",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak berhenti-henti",
+        "contoh": "ia berjalan -- siang malam",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "lanjut",
+        "contoh": "bagaimana -- cerita itu",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak putus-putus; selalu",
+        "contoh": "harga barang -- membubung",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tembus; menembus; melantas",
+        "contoh": "peluru itu masuk -- sampai ke tulang belikat",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "langsung ...; lalu ...",
+        "contoh": "sampai di rumah ia -- tidur",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.rus",
+    "akarKata": null,
+    "ejaan": "têrus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tulen (tidak bercampur atau tidak berlapis)",
+        "contoh": "gelang ini emas --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "de.nah",
+    "akarKata": null,
+    "ejaan": "dènah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar yang menunjukkan letak kota, jalan, dan sebagainya; peta",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar rancangan (rumah, bangunan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

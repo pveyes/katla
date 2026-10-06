@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "le.pur",
+    "akarKata": null,
+    "ejaan": "lêpur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mati lemas terbenam dalam lumpur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.pur",
+    "akarKata": null,
+    "ejaan": "lêpur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melepur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

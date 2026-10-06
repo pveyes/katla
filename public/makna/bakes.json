@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "ba.kes",
+    "akarKata": null,
+    "ejaan": "bakés",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang kering",
+        "contoh": "baju-baju ini masih --",
+        "info": [
+          {
+            "sumber": "manggarai",
+            "sumberTeks": "bahasa  manggarai, ntt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kes",
+    "akarKata": null,
+    "ejaan": "bakês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintara kesehatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

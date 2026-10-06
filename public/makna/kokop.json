@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.kop",
+    "akarKata": null,
+    "ejaan": "kokop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "palka atau rumah tempat muatan pada perahu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

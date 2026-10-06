@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "cah",
+    "akarKata": null,
+    "ejaan": "cah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan perasaan tidak suka, menghina, terkejut, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cah",
+    "akarKata": null,
+    "ejaan": "cah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan dibuat dari campuran sayur (sawi, jamur, udang, hati ayam) yang berkuah sedikit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

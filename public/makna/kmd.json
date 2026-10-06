@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KMD",
+    "akarKata": null,
+    "ejaan": "KMD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "koran masuk desa; program pemerintah yang memberikan subsidi kepada perusahaan surat kabar untuk menerbitkan surat kabar khusus untuk warga desa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

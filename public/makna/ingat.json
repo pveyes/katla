@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "ingat",
+    "akarKata": null,
+    "ejaan": "ingat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berada dalam pikiran; tidak lupa",
+        "contoh": "saya masih -- nama anak itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "timbul kembali dalam pikiran",
+        "contoh": "keesokan harinya saya baru -- nama orang itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sadar; siuman",
+        "contoh": "pencuri itu dipukuli orang banyak hingga tidak -- akan dirinya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menaruh perhatian; memikirkan akan",
+        "contoh": "ia sudah tidak -- lagi akan kewajibannya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hati-hati; berwaswas",
+        "contoh": "--, di kereta api banyak tukang copet",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mempertimbangkan (memikirkan nasib dan sebagainya)",
+        "contoh": "kalau tidak -- anak, sudah kubunuh orang itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berniat; hendak",
+        "contoh": "kalau ia -- membaca koran, dibacalah koran",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

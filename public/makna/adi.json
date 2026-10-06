@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "adi",
+    "akarKata": null,
+    "ejaan": "adi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutu busuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sumbawa",
+            "sumberTeks": "diubah singkatan label karena ada bahasa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "adi",
+    "akarKata": null,
+    "ejaan": "adi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penutup atau pengalas lantai yang terbuat dari kain (seperti tikar dan sebagainya)",
+        "contoh": "saya mengalas lantai dengan --",
+        "info": []
+      }
+    ]
+  }
+]

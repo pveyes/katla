@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AAUI",
+    "akarKata": null,
+    "ejaan": "AAUI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Asosiasi Asuransi Umum Indonesia (induk organisasi bagi industri asuransi umum di Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

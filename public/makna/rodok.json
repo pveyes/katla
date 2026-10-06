@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ro.dok",
+    "akarKata": null,
+    "ejaan": "rodok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merodok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.dok",
+    "akarKata": null,
+    "ejaan": "rodok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merodok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

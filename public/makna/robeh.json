@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ro.beh",
+    "akarKata": null,
+    "ejaan": "robèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tetes-tetes air yang jatuh dari daun",
+        "contoh": "setelah hujan berhenti, banyak -- berjatuhan di pohon mangga",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.nen",
+    "akarKata": null,
+    "ejaan": "dénên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan berlumpur yang dilalui (dibuat) kerbau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

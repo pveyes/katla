@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.gem",
+    "akarKata": null,
+    "ejaan": "bo.gêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidang persegi pembatas badan dan kepala kain batik Cirebon yang biasanya berisi hiasan flora dan fauna",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

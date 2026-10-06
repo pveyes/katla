@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "le.mau",
+    "akarKata": null,
+    "ejaan": "lêmau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lembik; lunak",
+        "contoh": "biskuit itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lemah; lesu",
+        "contoh": "otot-otot tubuhku terasa --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "murung; tidak gembira",
+        "contoh": "sepanjang hari ini ia tampak -- setelah menerima berita duka itu",
+        "info": []
+      }
+    ]
+  }
+]

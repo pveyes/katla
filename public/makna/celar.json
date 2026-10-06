@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ce.lar",
+    "akarKata": null,
+    "ejaan": "cêlar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain (sarung) sutra yang tepinya bersulam benang emas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

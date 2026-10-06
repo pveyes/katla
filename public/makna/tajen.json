@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.jen",
+    "akarKata": null,
+    "ejaan": "tajèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sabung ayam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

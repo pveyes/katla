@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "so.yak",
+    "akarKata": null,
+    "ejaan": "soyak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "koyak; sobek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.yak",
+    "akarKata": null,
+    "ejaan": "soyak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "torehan pada pepagan yang dibuat untuk mengungkapkan ciri-cirinya guna mendeterminasi jenis pohon di lapangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pel.tu",
+    "akarKata": null,
+    "ejaan": "pêltu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembantu letnan satu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

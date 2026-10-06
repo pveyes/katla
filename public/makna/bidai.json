@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "bi.dai",
+    "akarKata": null,
+    "ejaan": "bidai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalinan bilah (rotan, bambu) sebagai kerai (untuk tikar, tirai penutup pintu, belat, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalinan bilah bambu (kulit kayu randu dan sebagainya) untuk membalut tangan patah dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.dai",
+    "akarKata": null,
+    "ejaan": "bidai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batas atau tempat berhenti dalam beberapa permainan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.dai",
+    "akarKata": null,
+    "ejaan": "bidai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepercayaan masyarakat Talang Mamak tentang adanya ular yang mulutnya terdapat di tengah badannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

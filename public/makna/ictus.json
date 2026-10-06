@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ictus",
+    "akarKata": null,
+    "ejaan": "ictus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "tekanan yang berulang-ulang pada urutan sajak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

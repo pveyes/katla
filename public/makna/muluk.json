@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "mu.luk",
+    "akarKata": null,
+    "ejaan": "muluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(bentuk jamak) raja-raja; malik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mu.luk",
+    "akarKata": null,
+    "ejaan": "muluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi (tentang cita-cita, rencana, dan sebagainya)",
+        "contoh": "cita-citanya sangat --, tidak sesuai dengan kemampuannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi; sombong (tentang perkataan, tabiat, dan sebagainya)",
+        "contoh": "selalu -- perkataannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi dan merdu (tentang suara)",
+        "contoh": "suaranya --, senang kita mendengar nyanyiannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "membubung tinggi (tentang burung, layang-layang, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

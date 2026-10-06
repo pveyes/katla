@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ta.lut ()",
+    "akarKata": null,
+    "ejaan": "talut ()",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat miring; tempat landai; lereng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.lut",
+    "akarKata": null,
+    "ejaan": "talut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peti tempat penyimpanan Taurat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "sukuKata": "ma.kan",
+    "akarKata": null,
+    "ejaan": "makan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan makanan pokok ke dalam mulut serta mengunyah dan menelannya",
+        "contoh": "mereka -- tiga kali sehari",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan sesuatu ke dalam mulut, kemudian mengunyah dan menelannya",
+        "contoh": "ia sedang -- pisang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan sesuatu ke dalam mulut dan mengunyah-ngunyahnya",
+        "contoh": "Nenek sedang -- sirih",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasukkan sesuatu ke dalam mulut dan menelannya",
+        "contoh": "pasien harus -- pil",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengisap",
+        "contoh": "-- candu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memakai; memerlukan; menghabiskan (waktu, biaya, dan sebagainya)",
+        "contoh": "pembangunan jembatan ini -- waktu lama",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyerang, mematikan, mengambil (dalam permainan catur)",
+        "contoh": "gajah -- bidak putih",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bekerja sebagaimana mestinya (tentang rem, gigi roda, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melukai",
+        "contoh": "air keras itu -- kulit",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengenai; menembus",
+        "contoh": "ditembaknya tiga kali, tetapi tidak --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memperoleh sesuatu; mencapai sesuatu",
+        "contoh": "layarnya tidak --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(dapat) masuk (tentang barang yang dimasukkan ke lubang, ke air)",
+        "contoh": "kapal ini lima meter --nya ke dalam air",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengambil; mempergunakan dan sebagainya secara tidak sah (milik orang lain atau negara)",
+        "contoh": "ia telah -- pupuk milik koperasi",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meniduri perempuan (biasanya dalam arti hubungan gelap)",
+        "contoh": "pemuda itu -- anak gadis tetangganya sampai hamil",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rezeki",
+        "contoh": "memberi --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.kan",
+    "akarKata": null,
+    "ejaan": "makan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat berlindungnya hati dan kesehatan jasmani, lenyapnya keragu-raguan yang disebabkan oleh kesibukan kerja jasmani",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

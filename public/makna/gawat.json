@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ga.wat",
+    "akarKata": null,
+    "ejaan": "gawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "genting; berbahaya",
+        "contoh": "dengan beraksinya gerombolan bersenjata, situasi menjadi --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kritis; mengkhawatirkan; dekat kepada kematian",
+        "contoh": "penderita itu sangat -- keadaannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sulit; terancam",
+        "contoh": "waktu itu kompi pasukan kami berada dalam kedudukan paling --",
+        "info": []
+      }
+    ]
+  }
+]

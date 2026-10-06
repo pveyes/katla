@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "BUS",
+    "akarKata": null,
+    "ejaan": "BUS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bank umum syariah (bank dengan kegiatan\nusaha berdasarkan prinsip syariah, merupakan badan usaha yang setara dengan bank umum konvensional)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bus",
+    "akarKata": null,
+    "ejaan": "bus",
+    "baku": true,
+    "alt": "bis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan bermotor angkutan umum yang besar, beroda empat atau lebih, dapat memuat penumpang banyak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bus",
+    "akarKata": null,
+    "ejaan": "bus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi angin berembus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

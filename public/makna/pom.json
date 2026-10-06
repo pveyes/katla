@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Pom",
+    "akarKata": null,
+    "ejaan": "Pom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah Kabupaten Yapen dan Waropen, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Pom",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

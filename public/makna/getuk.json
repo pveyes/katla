@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ge.tuk",
+    "akarKata": null,
+    "ejaan": "gêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan dibuat dari ubi dan sebagainya yang direbus, kemudian dicampur gula dan kelapa ditumbuk sekaligus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.tuk",
+    "akarKata": null,
+    "ejaan": "gêtuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "getak-getuk"
+        ]
+      }
+    ]
+  }
+]

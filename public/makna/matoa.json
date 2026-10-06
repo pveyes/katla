@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ma.toa",
+    "akarKata": null,
+    "ejaan": "matoa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi hingga 40 m, kayunya cocok untuk bahan bangunan rumah dan dibuat lesung, kulit batangnya untuk mengobati luka yang bernanah, buah yang masak dapat dimakan, rasanya manis; kungki",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah matoa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

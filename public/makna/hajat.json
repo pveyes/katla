@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ha.jat",
+    "akarKata": null,
+    "ejaan": "hajat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maksud; keinginan; kehendak",
+        "contoh": "apa --mu datang ke sini?",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebutuhan atau keperluan",
+        "contoh": "aku merasa diberi -- hidup yang melimpah dan nikmat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selamatan",
+        "contoh": "semua kenalan akan kami undang dalam -- itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotoran; tinja",
+        "contoh": "siapa yang membuang -- di kebun?",
+        "info": []
+      }
+    ]
+  }
+]

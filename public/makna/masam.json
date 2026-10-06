@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ma.sam",
+    "akarKata": null,
+    "ejaan": "masam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "asam (rasa seperti rasa cuka atau buah asam)",
+        "contoh": "buah ini -- rasanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersungut; merengut, tidak ramah (tentang muka) karena marah dan sebagainya",
+        "contoh": "mukanya -- saja karena diolok-olok",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

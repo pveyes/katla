@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ju.kut",
+    "akarKata": null,
+    "ejaan": "jukut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumput",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ulam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.kut",
+    "akarKata": null,
+    "ejaan": "jukut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang diolah untuk diawetkan; pindang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kapuas hulu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

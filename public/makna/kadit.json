@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ka.dit",
+    "akarKata": null,
+    "ejaan": "kadit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala direktorat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.nis",
+    "akarKata": null,
+    "ejaan": "konis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbentuk kerucut berpancung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "elektronika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

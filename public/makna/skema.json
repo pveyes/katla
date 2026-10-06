@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ske.ma",
+    "akarKata": null,
+    "ejaan": "skéma",
+    "baku": true,
+    "alt": "sekema",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagan; rangka; kerangka (rancangan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis besar; denah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "SILPA",
+    "akarKata": null,
+    "ejaan": "SILPA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa lebih pembiayaan anggaran (selisih antara surplus atau defisit anggaran dengan pembiayaan neto)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(dengan huruf i kecil) sisa lebih perhitungan anggaran (selisih lebih pada realisasi antara penerimaan dan pengeluaran selama satu periode anggaran)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

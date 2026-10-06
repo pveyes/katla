@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.e.pi",
+    "akarKata": null,
+    "ejaan": "saèpi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mantra supaya kebal terhadap api, angin, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

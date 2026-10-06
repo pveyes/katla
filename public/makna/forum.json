@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "fo.rum",
+    "akarKata": null,
+    "ejaan": "forum",
+    "baku": true,
+    "alt": "fora",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaga atau badan; wadah",
+        "contoh": "kita perlu membentuk suatu -- tempat membicarakan kepentingan bersama",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sidang",
+        "contoh": "kedua perkara itu akan dibawa ke depan -- terbuka",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat pertemuan untuk bertukar pikiran secara bebas",
+        "contoh": "-- itu sering dimanfaatkan untuk diskusi ilmiah",
+        "info": []
+      }
+    ]
+  }
+]

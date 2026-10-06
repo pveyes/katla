@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ba.ung",
+    "akarKata": null,
+    "ejaan": "baung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan sungai yang sangat besar seperti limbat atau ikan sembilang, tidak bersisik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.ung",
+    "akarKata": null,
+    "ejaan": "baung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "melengkung sedikit seperti pisang",
+        "contoh": "tanduk --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.ung",
+    "akarKata": null,
+    "ejaan": "baung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beruang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

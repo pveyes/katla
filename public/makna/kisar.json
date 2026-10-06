@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "Ki.sar",
+    "akarKata": null,
+    "ejaan": "Kisar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami pulau Kisar yang terletak di sebelah timur pulau Timor, Kabupaten Maluku Tenggara, Provinsi Maluku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.sar",
+    "akarKata": null,
+    "ejaan": "kisar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan berputar pada porosnya",
+        "contoh": "-- bumi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.sar",
+    "akarKata": null,
+    "ejaan": "kisar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kisaran"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "aci-aci ka.li.mat",
+    "akarKata": null,
+    "ejaan": "aci-aci kalimat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola kalimat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

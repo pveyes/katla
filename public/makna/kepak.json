@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "ke.pak",
+    "akarKata": null,
+    "ejaan": "kèpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gendong pada rusuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pak",
+    "akarKata": null,
+    "ejaan": "kèpak",
+    "baku": false,
+    "alt": "kapai",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terkapai-kapai"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pak",
+    "akarKata": null,
+    "ejaan": "kèpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sayap",
+        "contoh": "-- burung",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pak",
+    "akarKata": null,
+    "ejaan": "kêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "sayap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

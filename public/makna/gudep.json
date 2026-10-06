@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "gu.dep",
+    "akarKata": null,
+    "ejaan": "gudêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gugus depan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

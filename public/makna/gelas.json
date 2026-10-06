@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ge.las",
+    "akarKata": null,
+    "ejaan": "gêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat untuk minum, berbentuk tabung terbuat dari kaca dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaca",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.las",
+    "akarKata": null,
+    "ejaan": "gêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bekal; persediaan; simpanan (menghadapi saat atau waktu susah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

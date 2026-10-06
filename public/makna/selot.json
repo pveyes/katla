@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.lot",
+    "akarKata": null,
+    "ejaan": "sêlot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kunci; ibu kunci",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

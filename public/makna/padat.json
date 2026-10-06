@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "pa.dat",
+    "akarKata": null,
+    "ejaan": "padat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat penuh hingga tidak berongga; padu; mampat; pejal",
+        "contoh": "lumbung diisi padi sampai --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh sesak; penuh tumpat",
+        "contoh": "bus kota itu -- dengan penumpang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rapat sekali (tentang penduduk dan sebagainya)",
+        "contoh": "penduduk Pulau Jawa sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada waktu luang; berimpitan sehingga tidak ada waktu sela",
+        "contoh": "acaranya -- sekali seminggu ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mempunyai isi dan bentuk yang tetap (tidak cair dan tidak berupa gas)",
+        "contoh": "batu, besi, dan sebagainya adalah benda --",
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

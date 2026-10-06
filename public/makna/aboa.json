@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aboa",
+    "akarKata": null,
+    "ejaan": "aboa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "condong ke belakang (tentang tubuh)",
+        "contoh": "kalau ia berjalan punggungnya --",
+        "info": [
+          {
+            "sumber": "nias",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "gam",
+    "akarKata": null,
+    "ejaan": "gam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi gemuruh seperti meriam dan sebagainya; degam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "GAM",
+    "akarKata": null,
+    "ejaan": "GAM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gerakan Aceh Merdeka (organisasi separatis yang menginginkan Aceh lepas dari Negara Kesatuan Republik Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

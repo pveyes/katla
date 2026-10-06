@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ci.gak",
+    "akarKata": null,
+    "ejaan": "cigak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kera",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

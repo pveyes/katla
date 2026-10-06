@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "man.di",
+    "akarKata": null,
+    "ejaan": "mandi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membersihkan tubuh dengan air dan sabun (dengan cara menyiramkan, merendamkan diri dalam air, dan sebagainya)",
+        "contoh": "hari libur banyak orang -- di laut",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bermandi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dipenuhi oleh (cahaya, uang, dan sebagainya)",
+        "contoh": "kota yang -- cahaya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "man.di",
+    "akarKata": null,
+    "ejaan": "mandi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mujarab; manjur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

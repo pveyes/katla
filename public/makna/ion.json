@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ion",
+    "akarKata": null,
+    "ejaan": "ion",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partikel (atom atau molekul) yang bermuatan listrik, yang dihasilkan atau terbentuk dengan penghilangan atau penambahan elektron",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

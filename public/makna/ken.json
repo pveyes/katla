@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ken",
+    "akarKata": null,
+    "ejaan": "kèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk anak laki-laki dan anak perempuan (-- Angrok, -- Dedes)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ken",
+    "akarKata": null,
+    "ejaan": "kèn",
+    "baku": true,
+    "alt": "kin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepalan; jurus (dalam olahraga kempo)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

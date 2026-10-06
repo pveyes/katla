@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ki.bas",
+    "akarKata": null,
+    "ejaan": "kibas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan seperti mengipas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.bas",
+    "akarKata": null,
+    "ejaan": "kibas",
+    "baku": true,
+    "alt": "gibas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kambing yang bulunya panjang, tebal, dan keriting; domba; biri-biri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

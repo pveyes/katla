@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.sat",
+    "akarKata": null,
+    "ejaan": "kêsat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kasar (apabila diraba)",
+        "contoh": "papan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang licin; kering (apabila diraba)",
+        "contoh": "kain yang --",
+        "info": []
+      }
+    ]
+  }
+]

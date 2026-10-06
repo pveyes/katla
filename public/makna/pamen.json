@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pa.men",
+    "akarKata": null,
+    "ejaan": "pamên",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perwira menengah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

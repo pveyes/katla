@@ -21,7 +21,7 @@ export function useArchiveHashed(num: string) {
 }
 
 export function useWords() {
-  const { data } = useSWR<string[]>("/api/valid-words", fetcher, {
+  const { data } = useSWR<string[]>("/makna/words.json", fetcher, {
     revalidateOnFocus: false,
   });
   return data;

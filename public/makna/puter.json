@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pu.ter",
+    "akarKata": null,
+    "ejaan": "putêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung piaraan yang bagus suaranya, panjang badan berikut paruh dan ekornya mencapai 29 cm, kalung lehernya berwarna dua, yaitu warna putih di atas dan warna hitam di bawah, warna sayap bagian bulu penutupnya cokelat muda merata, bulu umumnya berwarna cokelat muda atau semu kelabu, warna kaki merah, paruh hitam, mata berwarna cokelat kemerah-merahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.ter",
+    "akarKata": null,
+    "ejaan": "putêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memuter",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

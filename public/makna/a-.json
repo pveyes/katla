@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "a-",
+    "akarKata": null,
+    "ejaan": "a-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "kekurangan",
+        "contoh": "anemia",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "tidak atau bukan",
+        "contoh": "aseksual",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "tanpa",
+        "contoh": "anonim",
+        "info": []
+      }
+    ]
+  }
+]

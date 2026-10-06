@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ju.lat",
+    "akarKata": null,
+    "ejaan": "julat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seberapa jauhnya (panjangnya, lamanya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

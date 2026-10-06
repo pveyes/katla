@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PNM",
+    "akarKata": null,
+    "ejaan": "PNM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Politeknik Negeri Madiun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

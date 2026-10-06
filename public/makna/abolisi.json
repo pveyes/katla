@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "abo.li.si",
+    "akarKata": null,
+    "ejaan": "abolisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peniadaan peristiwa pidana",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penghapusan (perbudakan di Amerika)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

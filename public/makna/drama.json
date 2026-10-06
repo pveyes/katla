@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "dra.ma",
+    "akarKata": null,
+    "ejaan": "drama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komposisi syair atau prosa yang diharapkan dapat menggambarkan kehidupan dan watak melalui tingkah laku (peran) atau dialog yang dipentaskan",
+        "contoh": "dia gemar menonton --",
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerita atau kisah, terutama yang melibatkan konflik atau emosi, yang khusus disusun untuk pertunjukan teater",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kejadian yang menyedihkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

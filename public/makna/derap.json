@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "de.rap",
+    "akarKata": null,
+    "ejaan": "dêrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kaki orang berjalan cepat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.rap",
+    "akarKata": null,
+    "ejaan": "dêrap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerak lari cepat (tentang kuda dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecepatan langkah; laju gerak",
+        "contoh": "rakyat tidak apatis terhadap -- pembangunan yang tengah berjalan sekarang",
+        "info": []
+      }
+    ]
+  }
+]

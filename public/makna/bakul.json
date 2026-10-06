@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ba.kul",
+    "akarKata": null,
+    "ejaan": "bakul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah atau tempat terbuat dari anyaman bambu atau rotan dengan mulut berbentuk lingkaran, sedangkan bagian bawahnya berbentuk segi empat yang ukurannya lebih kecil daripada ukuran bagian mulutnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kul",
+    "akarKata": null,
+    "ejaan": "bakul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedagang kecil di pasar (biasanya perempuan)",
+        "contoh": "-- jamu",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

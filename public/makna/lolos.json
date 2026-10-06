@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lo.los",
+    "akarKata": null,
+    "ejaan": "lolos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lucut lalu lepas (seperti cincin dari jari)",
+        "contoh": "jam tangannya -- di jalan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terlepas lari (dari kurungan, kepungan, dan sebagainya)",
+        "contoh": "narapidana itu -- dari penjara",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "res.to",
+    "akarKata": null,
+    "ejaan": "résto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "restoran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

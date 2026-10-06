@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.ngi",
+    "akarKata": null,
+    "ejaan": "tungi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang omongannya menyebalkan, ketus, tdk mau bersosialisasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

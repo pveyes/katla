@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pu.ruk",
+    "akarKata": null,
+    "ejaan": "puruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "benam; perosok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

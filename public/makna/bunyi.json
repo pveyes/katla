@@ -1,0 +1,70 @@
+[
+  {
+    "sukuKata": "bu.nyi",
+    "akarKata": null,
+    "ejaan": "bunyi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang terdengar (didengar) atau ditangkap oleh telinga",
+        "contoh": "-- meriam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nada; laras (pada alat musik atau nyanyian dan sebagainya)",
+        "contoh": "-- piano",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesan pada pusat saraf sebagai akibat getaran gendang telinga yang bereaksi karena perubahan-perubahan dalam tekanan udara",
+        "contoh": "dalam bahasa Jepang -- “n” dan “ng” pada akhir kata hampir tidak berbeda",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ucapan apa yang tertulis (surat, huruf, dan sebagainya)",
+        "contoh": "bagaimana -- surat itu",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.nyi",
+    "akarKata": null,
+    "ejaan": "bunyi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sembunyi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MPR",
+    "akarKata": null,
+    "ejaan": "MPR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Majelis Permusyawaratan Rakyat (lembaga tinggi yang terdiri atas anggota DPR dan DPD yang dipilih melalui pemilihan umum, salah satu wewenangnya adalah melantik Presiden dan Wakil Presiden hasil pemilihan umum)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

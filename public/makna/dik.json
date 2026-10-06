@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "dik",
+    "akarKata": null,
+    "ejaan": "dik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adik; kata sapaan untuk saudara, teman yang lebih muda dari penyapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "DIK",
+    "akarKata": null,
+    "ejaan": "DIK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daftar isian kegiatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

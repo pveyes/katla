@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kos",
+    "akarKata": null,
+    "ejaan": "kos",
+    "baku": false,
+    "alt": "indekos",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tinggal di rumah orang lain dengan atau tanpa makan (dengan membayar setiap bulan); memondok",
+        "contoh": "tetangga saya tidak menerima orang --, hanya menyewakan kamar",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

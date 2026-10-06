@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PTS",
+    "akarKata": null,
+    "ejaan": "PTS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perguruan tinggi swasta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

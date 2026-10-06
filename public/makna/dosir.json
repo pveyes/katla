@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "do.sir",
+    "akarKata": null,
+    "ejaan": "dosir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semua dokumen atau berkas mengenai sesuatu perkara atau urusan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "do.sir",
+    "akarKata": null,
+    "ejaan": "dosir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "semua dokumen atau berkas mengenai sesuatu perkara atau urusan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

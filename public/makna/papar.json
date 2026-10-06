@@ -1,0 +1,96 @@
+[
+  {
+    "sukuKata": "pa.par",
+    "akarKata": null,
+    "ejaan": "papar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "papak (tidak lancip)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rata (tentang gigi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pesek; tidak mancung (tentang hidung)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian belakang atau punggung (tentang pisau, pedang, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.par",
+    "akarKata": null,
+    "ejaan": "papar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memapar",
+          "memaparkan",
+          "mempaparkan",
+          "paparan",
+          "pemaparan",
+          "terpapar"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.par",
+    "akarKata": null,
+    "ejaan": "papar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memapar",
+          "pemaparan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.par",
+    "akarKata": null,
+    "ejaan": "papar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memaparkan",
+          "paparan",
+          "pemapar",
+          "terpapar"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "di.sel",
+    "akarKata": "sel",
+    "ejaan": "disel",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dimasukkan (ditahan) dalam sel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "di.sel",
+    "akarKata": null,
+    "ejaan": "disêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diesel",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

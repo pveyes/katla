@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ge.lap",
+    "akarKata": null,
+    "ejaan": "gêlap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ada cahaya; kelam; tidak terang",
+        "contoh": "-- benar kamarmu itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "malam",
+        "contoh": "hari sudah --, ayo cepat tidur",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak atau belum jelas (tentang perihal, perkara, dan sebagainya); samar",
+        "contoh": "tentang benar atau tidaknya soal yang dihebohkan itu, bagi saya masih --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rahasia (tidak secara terang-terangan); tidak halal atau tidak sah; tidak menurut aturan (undang-undang, hukum) yang berlaku",
+        "contoh": "perdagangan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

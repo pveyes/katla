@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ka.bir",
+    "akarKata": null,
+    "ejaan": "kabir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mahabesar",
+        "contoh": "Al --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.bir",
+    "akarKata": null,
+    "ejaan": "kabir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "mahabesar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.bir",
+    "akarKata": null,
+    "ejaan": "kabir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengabir"
+        ]
+      }
+    ]
+  }
+]

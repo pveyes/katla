@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "dap",
+    "akarKata": null,
+    "ejaan": "dap",
+    "baku": true,
+    "alt": "edap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "genderang; tambur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "dap",
+    "akarKata": null,
+    "ejaan": "dap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik khas Kerinci terbuat dari bonggol kelapa dan kulit kambing, dibunyikan dan dimainkan untuk menurunkan benda-benda pusaka",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

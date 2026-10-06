@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "gi.gis",
+    "akarKata": null,
+    "ejaan": "gigis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggigil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gi.gis",
+    "akarKata": null,
+    "ejaan": "gigis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cuil-cuil pada pinggirnya (tentang gigi anak kecil yang kupak)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

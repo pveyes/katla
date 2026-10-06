@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.lar",
+    "akarKata": null,
+    "ejaan": "tular",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "ketularan",
+          "menular",
+          "menulari",
+          "menularkan",
+          "penularan",
+          "tertulari"
+        ]
+      }
+    ]
+  }
+]

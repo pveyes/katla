@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ta.buh",
+    "akarKata": null,
+    "ejaan": "tabuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gendang raya; beduk (dalam masjid, surau, dan sebagainya)",
+        "contoh": "memukul -- sambil bertakbir",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menabuh bunyi-bunyian (gamelan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi beduk sebagai alamat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

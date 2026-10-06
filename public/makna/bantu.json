@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ban.tu",
+    "akarKata": null,
+    "ejaan": "bantu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tolong",
+        "contoh": "--lah orang miskin dan melarat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penolong",
+        "contoh": "guru --",
+        "info": []
+      }
+    ]
+  }
+]

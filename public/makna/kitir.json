@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.tir",
+    "akarKata": null,
+    "ejaan": "kitir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat keterangan pajak bumi yang harus dibayar oleh pemilik tanah",
+        "contoh": "untuk jual beli tanah hendaknya diteliti dulu hak milik, nomor --, sertifikat hak guna bangunan, dan sebagainya",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.tir",
+    "akarKata": null,
+    "ejaan": "kitir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kitiran"
+        ]
+      }
+    ]
+  }
+]

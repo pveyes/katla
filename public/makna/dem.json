@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "Dem",
+    "akarKata": null,
+    "ejaan": "dém",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah dataran tinggi sebelah barat Pegunungan Jayawijaya, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dem",
+    "akarKata": null,
+    "ejaan": "dêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan yang menunjukkan kelompok individu takson yang memiliki sifat-sifat yang sama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

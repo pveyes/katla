@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "abuk",
+    "akarKata": null,
+    "ejaan": "abuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk (tentang barang yang lumat halus seperti tepung)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abuk",
+    "akarKata": null,
+    "ejaan": "abuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rambut",
+        "contoh": "-- kaki",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abuk",
+    "akarKata": null,
+    "ejaan": "abuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan untuk perempuan Suku Bunak, Pulau Timor, NTT",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abuk",
+    "akarKata": null,
+    "ejaan": "abuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "panggilan untuk perempuan Suku Bunak, Pulau Timor, NTT",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

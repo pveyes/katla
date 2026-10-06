@@ -1,0 +1,75 @@
+[
+  {
+    "sukuKata": "man.da",
+    "akarKata": null,
+    "ejaan": "manda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mamanda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada mamak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "man.da",
+    "akarKata": null,
+    "ejaan": "manda",
+    "baku": true,
+    "alt": "mandah",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mau; mau atau tahan (menderita)",
+        "contoh": "mereka senantiasa -- menerima nasib",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "man.da",
+    "akarKata": null,
+    "ejaan": "manda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat mandi1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "man.da",
+    "akarKata": null,
+    "ejaan": "manda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kanda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

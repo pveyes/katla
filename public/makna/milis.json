@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.lis",
+    "akarKata": null,
+    "ejaan": "milis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senarai surat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "forum diskusi melalui pos-el",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

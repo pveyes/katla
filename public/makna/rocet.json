@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ro.cet",
+    "akarKata": null,
+    "ejaan": "rocèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak coretan (tentang tulisan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kusut atau kacau (tentang pekerjaan, administrasi, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

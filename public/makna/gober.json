@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.ber",
+    "akarKata": null,
+    "ejaan": "gobèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menuai padi yang disimpan di saung secara beramai-ramai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.pot",
+    "akarKata": null,
+    "ejaan": "kèpot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "erot; gumal; berkerut-kerut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.pot",
+    "akarKata": null,
+    "ejaan": "kèpot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengepot"
+        ]
+      }
+    ]
+  }
+]

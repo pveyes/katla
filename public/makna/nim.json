@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NIM",
+    "akarKata": null,
+    "ejaan": "NIM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor induk mahasiswa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

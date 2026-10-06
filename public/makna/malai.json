@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ma.lai",
+    "akarKata": null,
+    "ejaan": "malai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "untaian (bunga, butir padi, gandum, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rangkaian bunga, intan, dan sebagainya yang dipakai sebagai hiasan kepala, tombak, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbungaan yang bercabang-cabang, setiap cabang memiliki bunga yang bertangkai, yang mekarnya bergantian dari arah bawah ke atas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.lai",
+    "akarKata": null,
+    "ejaan": "malai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tingginya mencapai 20 m, kayunya digunakan dalam pembuatan rumah, daunnya yang muda digunakan sebagai pakan ternak, buahnya dimakan mentah atau dibuat lempuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

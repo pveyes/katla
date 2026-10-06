@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MCK",
+    "akarKata": null,
+    "ejaan": "MCK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mandi, cuci, kakus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

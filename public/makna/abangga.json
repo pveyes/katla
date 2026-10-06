@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abang.ga",
+    "akarKata": null,
+    "ejaan": "abangga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sikap berdiri sebuah arca",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkeologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

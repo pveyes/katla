@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.dek",
+    "akarKata": null,
+    "ejaan": "sêdêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kembang buah salak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

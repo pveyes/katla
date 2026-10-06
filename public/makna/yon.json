@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "yon",
+    "akarKata": null,
+    "ejaan": "yon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batalion",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ge.muk",
+    "akarKata": null,
+    "ejaan": "gêmuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "besar karena banyak dagingnya (tentang tubuh dan sebagainya); tambun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lemak",
+        "contoh": "minyak dari -- daging lembu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung banyak zat makanan bagi tumbuh-tumbuhan (tentang tanah) sehingga baik untuk ditanami; subur",
+        "contoh": "jika ditanam di tanah yang -- tentu lekas tumbuh",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pupuk",
+        "contoh": "tanaman ini perlu diberi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebangsa minyak untuk melumas bagian-bagian mesin dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "ta.kat",
+    "akarKata": null,
+    "ejaan": "takat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahan menderita sakit (tidak mudah atau tidak lekas mati)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.kat",
+    "akarKata": null,
+    "ejaan": "takat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tahan menderita sakit (tidak mudah atau tidak lekas mati)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.kat",
+    "akarKata": null,
+    "ejaan": "takat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumpukan pasir di tengah laut yang hampir menjadi pulau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

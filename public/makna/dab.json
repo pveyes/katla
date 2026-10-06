@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "dab",
+    "akarKata": null,
+    "ejaan": "dab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kadal gurun yang berekor kasar dan berduri, pemakan rumput, hidup di Afrika Utara dan Asia Barat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "dab",
+    "akarKata": null,
+    "ejaan": "dab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kadal gurun yang berekor kasar dan berduri, pemakan rumput, hidup di Afrika Utara dan Asia Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dab",
+    "akarKata": null,
+    "ejaan": "dab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tikar berukuran kurang lebih 2 m, terbuat dari anyaman daun pandan lebar yang disambung dengan cara dijahit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

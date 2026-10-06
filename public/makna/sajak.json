@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "sa.jak",
+    "akarKata": null,
+    "ejaan": "sajak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gubahan sastra yang berbentuk puisi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk karya sastra yang penyajiannya dilakukan dalam baris-baris yang teratur dan terikat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gubahan karya sastra yang sangat mementingkan keselarasan bunyi bahasa, baik kesepadanan bunyi, kekontrasan, maupun kesamaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "patut; kena; cocok",
+        "contoh": "ia berpakaian indah lagi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagak lagu",
+        "contoh": "manis sikap dan --nya",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

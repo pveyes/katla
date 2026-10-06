@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "go.ban",
+    "akarKata": null,
+    "ejaan": "goban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "lima puluh ribu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "vak",
+    "akarKata": null,
+    "ejaan": "vak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata pelajaran; mata kuliah",
+        "contoh": "dalam kurikulum itu -- agama juga tercantum",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepandaian khusus tentang suatu hal (keterampilan dan sebagainya)",
+        "contoh": "setiap kali melamar pekerjaan, ia selalu ditanya --nya apa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekolah yang mendidik murid-muridnya dalam penguasaan keterampilan khusus; kejuruan",
+        "contoh": "sekolah --",
+        "info": []
+      }
+    ]
+  }
+]

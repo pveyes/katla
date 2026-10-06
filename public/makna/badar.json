@@ -1,0 +1,91 @@
+[
+  {
+    "sukuKata": "ba.dar",
+    "akarKata": null,
+    "ejaan": "badar",
+    "baku": true,
+    "alt": "wadar, wader",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan kecil-kecil (seperti teri); ikan sia; ikan sia-sia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dar",
+    "akarKata": null,
+    "ejaan": "badar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama lauk-pauk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dar",
+    "akarKata": null,
+    "ejaan": "badar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "purnama (tentang bulan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sangat cantik",
+        "contoh": "mukanya seperti bulan -- waktu malam",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dar",
+    "akarKata": null,
+    "ejaan": "badar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu hablur untuk permata cincin (batu dari Badar, tempat Nabi Muhammad saw. memperoleh kemenangan besar)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

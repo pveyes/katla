@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "pu.kul",
+    "akarKata": null,
+    "ejaan": "pukul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketuk (dengan sesuatu yang keras atau berat, dipakai juga dalam arti kiasan)",
+        "contoh": "kena --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memukul (mengetuk dan sebagainya)",
+        "contoh": "pakailah taktik dan cari kelemahan lawan jangan asal --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil",
+        "contoh": "-- dulu, bayar belakang",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.kul",
+    "akarKata": null,
+    "ejaan": "pukul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saat yang menyatakan waktu",
+        "contoh": "hari sudah -- lima sore",
+        "info": []
+      }
+    ]
+  }
+]

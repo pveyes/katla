@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "via",
+    "akarKata": null,
+    "ejaan": "via",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "lewat; melalui",
+        "contoh": "ia pergi ke Bandung -- Puncak",
+        "info": []
+      }
+    ]
+  }
+]

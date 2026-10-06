@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "gu.rah",
+    "akarKata": null,
+    "ejaan": "gurah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kumur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.rah",
+    "akarKata": null,
+    "ejaan": "gurah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang sedang besarnya, kayunya yang berwarna putih, ringan tetapi awet, buahnya dapat digunakan untuk menuba ikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.rah",
+    "akarKata": null,
+    "ejaan": "gurah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengobatan tradisional untuk mengeluarkan lendir dari dalam tubuh dengan ramuan cairan srigunggu yang diteteskan melalui hidung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

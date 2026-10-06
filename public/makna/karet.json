@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "ka.ret",
+    "akarKata": null,
+    "ejaan": "karèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan besar yang tingginya mencapai 25 m dan kulit batangnya menghasilkan getah yang digunakan sebagai bahan membuat ban, bola, dan sebagainya; pohon para",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah (perca); barang yang dibuat dari getah pohon para",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat (mudah) mulur dan mengerut (tidak tentu, tidak pasti, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pelapis pada alat pemukul (tentang tenis meja)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

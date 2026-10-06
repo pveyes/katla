@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.kus",
+    "akarKata": null,
+    "ejaan": "kokus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakteri yang berbentuk bulat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

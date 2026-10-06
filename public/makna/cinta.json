@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "cin.ta",
+    "akarKata": null,
+    "ejaan": "cinta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka sekali; sayang benar",
+        "contoh": "orang tuaku -- kepada kami semua",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kasih sekali; terpikat (antara laki-laki dan perempuan)",
+        "contoh": "sebenarnya dia tidak -- kepada lelaki itu, tetapi hanya menginginkan hartanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ingin sekali; berharap sekali; rindu",
+        "contoh": "makin ditindas makin terasa betapa --nya akan kemerdekaan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah hati (khawatir); risau",
+        "contoh": "tiada terperikan lagi --nya ditinggalkan ayahnya itu",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

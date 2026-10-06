@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "me.las",
+    "akarKata": null,
+    "ejaan": "mêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memancing ikan dengan mengulurkan tali di belakang perahu (yang sedang berjalan), dengan memakai umpan buatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.las",
+    "akarKata": null,
+    "ejaan": "mêlas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "memancing ikan dengan mengulurkan tali di belakang perahu (yang sedang berjalan), dengan memakai umpan buatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

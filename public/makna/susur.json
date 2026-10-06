@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "su.sur",
+    "akarKata": null,
+    "ejaan": "susur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pinggir atau tepi sebelah luar",
+        "contoh": "-- bantal itu semua berenda",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.sur",
+    "akarKata": null,
+    "ejaan": "susur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sugi (tembakau)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.sur",
+    "akarKata": null,
+    "ejaan": "susur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "penyusur bayar"
+        ]
+      }
+    ]
+  }
+]

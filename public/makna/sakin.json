@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.kin",
+    "akarKata": null,
+    "ejaan": "sakin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

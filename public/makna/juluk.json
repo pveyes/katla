@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ju.luk",
+    "akarKata": null,
+    "ejaan": "juluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menjuluk"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.luk",
+    "akarKata": null,
+    "ejaan": "juluk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berjuluk",
+          "julukan",
+          "menjuluki",
+          "penjulukan"
+        ]
+      }
+    ]
+  }
+]

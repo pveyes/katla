@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ga.los",
+    "akarKata": null,
+    "ejaan": "galos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepatu dengan sol yang berat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepatu bersol tebal yang biasanya digunakan di atas salju",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

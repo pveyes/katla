@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "po.lah",
+    "akarKata": null,
+    "ejaan": "polah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkah laku; perbuatan; perilaku",
+        "contoh": "hanya dia yang tahu apakah --nya itu dibuatnya karena ia sedang linglung ataukah tidak",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.lah",
+    "akarKata": null,
+    "ejaan": "polah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tingkah laku; perbuatan; perilaku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

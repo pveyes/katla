@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "li.san",
+    "akarKata": null,
+    "ejaan": "lisan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lidah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata-kata yang diucapkan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan kata-kata yang diucapkan",
+        "contoh": "penelitian sastra --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dengan mulut (bukan dengan surat)",
+        "contoh": "undangan rapat disampaikan secara --",
+        "info": []
+      }
+    ]
+  }
+]

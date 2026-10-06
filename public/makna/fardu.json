@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "far.du",
+    "akarKata": null,
+    "ejaan": "fardu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang wajib dilakukan; kewajiban",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

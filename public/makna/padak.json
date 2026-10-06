@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.dak",
+    "akarKata": null,
+    "ejaan": "padak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambak di pinggir laut tempat membuat garam; empang garam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

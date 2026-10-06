@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TID",
+    "akarKata": null,
+    "ejaan": "TID",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tunjangan ikatan dinas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

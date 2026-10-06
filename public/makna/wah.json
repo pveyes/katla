@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "wah",
+    "akarKata": null,
+    "ejaan": "wah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan kagum, heran, terkejut, kecewa",
+        "contoh": "--, bukan main ramainya Jakarta!",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sut",
+    "akarKata": null,
+    "ejaan": "sut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi yang mengisyaratkan orang lain untuk tenang atau diam",
+        "contoh": "-- diamlah jangan menangis terus",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sut",
+    "akarKata": null,
+    "ejaan": "sut",
+    "baku": false,
+    "alt": "suten",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bersuten"
+        ]
+      }
+    ]
+  }
+]

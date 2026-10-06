@@ -1,0 +1,115 @@
+[
+  {
+    "sukuKata": "ga.ris",
+    "akarKata": null,
+    "ejaan": "garis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "parut bekas digaruk dan sebagainya; garit; gores",
+        "contoh": "sampai sekarang masih tampak -- pada kulitnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "coretan panjang (lurus, bengkok, atau lengkung); setrip",
+        "contoh": "huruf Latin dituliskan di atas --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketentuan (nasib, takdir, dan sebagainya); batas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda berupa coretan panjang di tanah dan sebagainya sebagai batas dan sebagainya",
+        "contoh": "bola sudah melewati -- masuk ke daerah penjaga ga-wang",
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deretan titik-titik yang saling berhubungan",
+        "contoh": "ia menarik -- dari titik A ke titik B",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aturan",
+        "contoh": "di luar --",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kubu atau daerah pertahanan (yang dikuasai)",
+        "contoh": "-- pertahanan musuh diserang habis-habisan",
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "himpunan titik-titik pada bidang atau dalam ruang sehingga apabila letak dua unsurnya diketahui, letak semua unsurnya dapat ditentukan dengan pasti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.ris",
+    "akarKata": null,
+    "ejaan": "garis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat pitis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

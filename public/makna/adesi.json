@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "ade.si",
+    "akarKata": null,
+    "ejaan": "adési",
+    "baku": false,
+    "alt": "adhesi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan melekat pada benda lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gaya tarik-menarik antarmolekul yang tidak sejenis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyatuan tumbuh-tumbuhan yang biasanya merupakan kelompok yang terpisah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaringan tubuh yang tumbuh (melekat) menjadi satu karena radang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesepakatan, sikap, atau rasa sesuai",
+        "contoh": "ia menyatakan --nya",
+        "info": []
+      }
+    ]
+  }
+]

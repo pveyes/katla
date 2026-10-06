@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "gu.bit",
+    "akarKata": null,
+    "ejaan": "gubit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lambai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.bit",
+    "akarKata": null,
+    "ejaan": "gubit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan, dibuat dari parutan singkong yang dikukus dan ditaburi parutan kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

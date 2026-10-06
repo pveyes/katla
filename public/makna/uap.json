@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "uap",
+    "akarKata": null,
+    "ejaan": "uap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gas yang terjadi dari cairan (air dan sebagainya) apabila dipanaskan; bentuk gas suatu zat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uap",
+    "akarKata": null,
+    "ejaan": "uap",
+    "baku": false,
+    "alt": "kuap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perihal (perbuatan) mengangakan mulut dengan menarik dan mengeluarkan napas karena mengantuk",
+        "contoh": "--ku menjadi-jadi karena mengantuk",
+        "info": []
+      }
+    ]
+  }
+]

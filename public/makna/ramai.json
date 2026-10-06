@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ra.mai",
+    "akarKata": null,
+    "ejaan": "ramai",
+    "baku": true,
+    "alt": "rame",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "riuh rendah (tentang suara, bunyi)",
+        "contoh": "-- benar suara tembakan itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "riang gembira; meriah",
+        "contoh": "perjamuan itu -- sekali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "serba giat; sibuk (tentang pasar, perdagangan)",
+        "contoh": "belakangan ini pasar itu -- kembali",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak (penduduk, orang)",
+        "contoh": "kampung itu agak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak kendaraan berlalu-lalang",
+        "contoh": "lalu lintas mulai -- menjelang Lebaran",
+        "info": []
+      }
+    ]
+  }
+]

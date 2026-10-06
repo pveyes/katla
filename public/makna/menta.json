@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "men.ta",
+    "akarKata": null,
+    "ejaan": "mênta",
+    "baku": false,
+    "alt": "meta",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mabuk; mengamuk; mengganas",
+        "contoh": "semua prajurit menyingkir mencari perlindungan dari gajah yang sedang --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

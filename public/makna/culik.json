@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "cu.lik",
+    "akarKata": null,
+    "ejaan": "culik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung yang keluar mencari mangsa pada malam hari; kulik-kulik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.lik",
+    "akarKata": null,
+    "ejaan": "culik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil (anak atau orang) untuk tujuan tertentu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

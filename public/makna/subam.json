@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "su.bam",
+    "akarKata": null,
+    "ejaan": "subam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suram; tidak berkilau (terutama tentang logam)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ka.lih",
+    "akarKata": null,
+    "ejaan": "kalih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerak kapur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu tanah",
+            "sumberTeks": "ilmu tanah"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lih",
+    "akarKata": null,
+    "ejaan": "kalih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kerak kapur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

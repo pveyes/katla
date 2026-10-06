@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.tik",
+    "akarKata": null,
+    "ejaan": "kêtik",
+    "baku": false,
+    "alt": "tik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mesin tik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tik",
+    "akarKata": null,
+    "ejaan": "kêtik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaki cengkerik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

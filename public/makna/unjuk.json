@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "un.juk",
+    "akarKata": null,
+    "ejaan": "unjuk",
+    "baku": true,
+    "alt": "hunjuk",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengunjuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "un.juk",
+    "akarKata": null,
+    "ejaan": "unjuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beri tahu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ir.jen",
+    "akarKata": null,
+    "ejaan": "irjèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inspektur jenderal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

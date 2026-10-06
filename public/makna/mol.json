@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "mol",
+    "akarKata": null,
+    "ejaan": "mol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuantitas dari senyawa atau unsur yang mempunyai bobot dalam gram sama dengan bobot molekul; gram molekul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mol",
+    "akarKata": null,
+    "ejaan": "mol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aksidental yang ditempatkan sebelum sebuah not yang menurunkannya setengah nada",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

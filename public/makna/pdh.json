@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PDH",
+    "akarKata": null,
+    "ejaan": "PDH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pakaian dinas harian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

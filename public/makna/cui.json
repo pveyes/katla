@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "cui",
+    "akarKata": null,
+    "ejaan": "cui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembusukan pada kuku kaki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

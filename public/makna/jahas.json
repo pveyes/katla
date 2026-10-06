@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.has",
+    "akarKata": null,
+    "ejaan": "jahas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piring kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

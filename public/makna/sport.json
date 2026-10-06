@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sport",
+    "akarKata": null,
+    "ejaan": "sport",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "olahraga",
+        "contoh": "untuk memelihara kesehatan jasmani dan rohani setiap orang perlu --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

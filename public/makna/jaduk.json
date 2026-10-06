@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.duk",
+    "akarKata": null,
+    "ejaan": "jaduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang terkemuka; pemuka; jagoan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

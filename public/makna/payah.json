@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "pa.yah",
+    "akarKata": null,
+    "ejaan": "payah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lelah; penat",
+        "contoh": "kalau sudah --, boleh beristirahat sebentar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar; susah",
+        "contoh": "masalah ini -- juga dipecahkan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam kesulitan (kesukaran, bahaya, dan sebagainya)",
+        "contoh": "kemajuan perkumpulan itu sekarang agak --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat atau berat (tentang sakit)",
+        "contoh": "anaknya sakit --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "usah",
+        "contoh": "keputusan itu diterima baik dengan tidak -- diperiksa lagi",
+        "info": []
+      }
+    ]
+  }
+]

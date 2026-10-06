@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "Di.gul",
+    "akarKata": null,
+    "ejaan": "Digul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama sebuah tempat di Papua (dahulu Irian Jaya) yang dipakai untuk tempat pengasingan pada zaman penjajahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "di.gul",
+    "akarKata": null,
+    "ejaan": "digul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berbulu (tentang ayam)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

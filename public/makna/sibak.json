@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "si.bak",
+    "akarKata": null,
+    "ejaan": "sibak",
+    "baku": true,
+    "alt": "sebak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cerai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pisah (ke kanan dan ke kiri)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belah (tentang sisiran rambut dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

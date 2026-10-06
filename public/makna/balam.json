@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ba.lam",
+    "akarKata": null,
+    "ejaan": "balam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tekukur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lam",
+    "akarKata": null,
+    "ejaan": "balam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang mengandung getah, ada beberapa macam, seperti Payena dan Palaquium",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lam",
+    "akarKata": null,
+    "ejaan": "balam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "pohon yang mengandung getah, ada beberapa macam, seperti Payena dan Palaquium",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

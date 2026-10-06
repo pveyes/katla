@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PMA",
+    "akarKata": null,
+    "ejaan": "PMA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penanaman modal asing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

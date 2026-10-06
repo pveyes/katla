@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MTQ",
+    "akarKata": null,
+    "ejaan": "MTQ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musabaqah tilawatil Quran (lomba membaca Alquran dengan qiraah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

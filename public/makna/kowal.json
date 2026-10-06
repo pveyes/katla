@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ko.wal",
+    "akarKata": null,
+    "ejaan": "Kowal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Korps Wanita Angkatan Laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

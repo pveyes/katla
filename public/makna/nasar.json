@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "na.sar",
+    "akarKata": null,
+    "ejaan": "nasar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "elang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ah.mar",
+    "akarKata": null,
+    "ejaan": "ahmar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "merah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

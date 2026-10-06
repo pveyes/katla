@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "be.tok",
+    "akarKata": null,
+    "ejaan": "bêtok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang hidup di ekosistem perairan tawar dan payau, ukurannya dapat mencapai 25 cm, tubuhnya pipih agak membulat dan bersisik keras, warnanya hijau kekuningan, tersebar luas di perairan Indonesia, India, dan Cina; harfan; bato1; betik3",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.tok",
+    "akarKata": null,
+    "ejaan": "bêtok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hangus (oleh air keras dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

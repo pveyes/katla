@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "tu.kas",
+    "akarKata": null,
+    "ejaan": "tukas",
+    "baku": true,
+    "alt": "tugas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis palem yang merumpun, tinggi mencapai 6 m, batangnya menghasilkan kayu hitam yang tipis tetapi kuat, digunakan dalam pembuatan roda penggulung benang pada alat pemintal, umbinya dimakan setelah direbus meskipun rasanya agak pahit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.kas",
+    "akarKata": null,
+    "ejaan": "tukas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jenis palem yang merumpun, tinggi mencapai 6 m, batangnya menghasilkan kayu hitam yang tipis tetapi kuat, digunakan dalam pembuatan roda penggulung benang pada alat pemintal, umbinya dimakan setelah direbus meskipun rasanya agak pahit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.kas",
+    "akarKata": null,
+    "ejaan": "tukas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "jenis palem yang merumpun, tinggi mencapai 6 m, batangnya menghasilkan kayu hitam yang tipis tetapi kuat, digunakan dalam pembuatan roda penggulung benang pada alat pemintal, umbinya dimakan setelah direbus meskipun rasanya agak pahit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.kas",
+    "akarKata": null,
+    "ejaan": "tukas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menukas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ku.tai",
+    "akarKata": null,
+    "ejaan": "Kutai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah di Kabupaten Kutai, Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "varian bahasa Melayu yang dituturkan oleh suku Kutai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "gel",
+    "akarKata": null,
+    "ejaan": "gèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "larutan koloid setengah padat, terbentuk dari zat polimer yang tidak larut dalam air, misalnya larutan pati dalam air yang menyerupai lem",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "filter berwarna yang ketika ditempatkan di depan lampu akan memberi warna pada cahaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

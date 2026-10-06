@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ki.cuh",
+    "akarKata": null,
+    "ejaan": "kicuh",
+    "baku": false,
+    "alt": "kecoh",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lakukan tipu; akali; bohongi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu daya (terutama kecurangan yang merugikan orang, seperti barang palsu dikatakan tulen, mengurangi berat atau ukuran barang, mencampuri dengan barang yang kurang baik); tipu",
+        "contoh": "kita harus teliti, jangan sampai kena --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "te.nor",
+    "akarKata": null,
+    "ejaan": "tènor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis suara tertinggi untuk orang laki-laki",
+        "contoh": "untuk menjadi penyanyi -- yang baik, ia harus berlatih sebaik mungkin",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mempunyai suara tenor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.nor",
+    "akarKata": null,
+    "ejaan": "tènor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jangka waktu penyelesaian cicilan yang harus dipenuhi sebelum jatuh tempo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

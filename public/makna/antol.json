@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "an.tol",
+    "akarKata": null,
+    "ejaan": "antol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat kayu sebagai penopang delman atau keretek atau kahar saat berhenti",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bi.dar",
+    "akarKata": null,
+    "ejaan": "bidar",
+    "baku": true,
+    "alt": "bedar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu perang; sampan bidar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

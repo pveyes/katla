@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "ama",
+    "akarKata": null,
+    "ejaan": "ama",
+    "baku": false,
+    "alt": "hama",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hewan yang mengganggu produksi pertanian seperti babi hutan, tupai, tikus, dan terutama serangga",
+        "contoh": "anggrek kesayangannya rusak oleh --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benih penyakit",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biang keladi kerusakan; perusak",
+        "contoh": "wereng merupakan -- padi yang paling ditakuti petani",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ama",
+    "akarKata": null,
+    "ejaan": "ama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "sama; terhadap",
+        "contoh": "aku tambah kagum -- eyang putri",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ama",
+    "akarKata": null,
+    "ejaan": "ama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan kepada orang tua laki-laki",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

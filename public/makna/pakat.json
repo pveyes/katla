@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pa.kat",
+    "akarKata": null,
+    "ejaan": "pakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sepakat; setuju; sependapat; mufakat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.kat",
+    "akarKata": null,
+    "ejaan": "pakat",
+    "baku": false,
+    "alt": "pekat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "likat atau kental (tidak encer tentang barang cair); keras (tentang kopi dan sebagainya); tidak jernih (tentang air)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "ruh",
+    "akarKata": null,
+    "ejaan": "ruh",
+    "baku": false,
+    "alt": "roh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu (unsur) yang ada dalam jasad yang diciptakan Tuhan sebagai penyebab adanya hidup (kehidupan); nyawa",
+        "contoh": "jika -- sudah berpisah dari badan, berakhirlah kehidupan seseorang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk hidup yang tidak berjasad, tetapi berpikiran dan berperasaan (malaikat, jin, setan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semangat; spirit",
+        "contoh": "kedamaian bagi seluruh warga sesuai dengan -- Islam",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

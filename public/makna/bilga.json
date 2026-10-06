@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "bil.ga",
+    "akarKata": null,
+    "ejaan": "bilga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kapal yang berada di dalam air (di tengah-tengah, antara tingkat atas dan tingkat bawah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat penampungan cairan (air, minyak) untuk menjaga agar ruangan tertentu, misalnya palka, kamar mesin tetap kering",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

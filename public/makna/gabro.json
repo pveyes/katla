@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gab.ro",
+    "akarKata": null,
+    "ejaan": "gabro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batuan beku basa berwarna kehitam-hitaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

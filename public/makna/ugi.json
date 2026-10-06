@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Ugi",
+    "akarKata": null,
+    "ejaan": "Ugi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan lain untuk suku Bugis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bugis",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

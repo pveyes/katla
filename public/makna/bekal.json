@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "be.kal",
+    "akarKata": null,
+    "ejaan": "bêkal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang disediakan (seperti makanan, uang) untuk digunakan dalam perjalanan",
+        "contoh": "mereka membawa -- dalam perjalanan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dapat digunakan kelak apabila perlu",
+        "contoh": "ilmu pengetahuan adalah -- untuk hari tua",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "modal",
+        "contoh": "-- saya dalam menempuh hidup hanyalah keberanian dan kejujuran",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

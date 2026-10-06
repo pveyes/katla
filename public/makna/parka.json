@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "par.ka",
+    "akarKata": null,
+    "ejaan": "parka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaket pendaki gunung yang berkancing di depan dan menutupi paha, dilengkapi dengan penutup kepala, lengan jaket di pergelangan dan di bagian pinggang dilengkapi dengan tali pengikat, gunanya untuk menahan angin dan air (hujan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju luar terbuat dari bulu sebagai penahan dingin atau angin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

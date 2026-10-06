@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "di.rum",
+    "akarKata": null,
+    "ejaan": "dirum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "direktur umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

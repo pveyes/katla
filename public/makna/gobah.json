@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "go.bah",
+    "akarKata": null,
+    "ejaan": "gobah",
+    "baku": false,
+    "alt": "gubah",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "atur; karang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "go.bah",
+    "akarKata": null,
+    "ejaan": "gobah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipe estuari yang terbentuk oleh pemotongan perairan pesisir karena munculnya hamparan pasir yang sejajar dengan pesisir",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "oseanografi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perairan dangkal sempit yang dipisahkan dari lautan terbuka oleh terumbu karang atau pulau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "oseanografi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

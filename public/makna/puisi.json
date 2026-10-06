@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pu.i.si",
+    "akarKata": null,
+    "ejaan": "puisi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ragam sastra yang bahasanya terikat oleh irama, matra, rima, serta penyusunan larik dan bait",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gubahan dalam bahasa yang bentuknya dipilih dan ditata secara cermat sehingga mempertajam kesadaran orang akan pengalaman hidup dan membangkitkan tanggapan khusus lewat penataan bunyi, irama, dan makna khusus",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sajak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

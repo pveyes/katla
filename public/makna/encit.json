@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "en.cit",
+    "akarKata": null,
+    "ejaan": "êncit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain cita yang kasar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

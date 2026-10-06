@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "si.wil",
+    "akarKata": null,
+    "ejaan": "siwil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging tumbuh yang ada di sisi telinga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

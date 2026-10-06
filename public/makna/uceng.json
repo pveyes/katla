@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "uceng",
+    "akarKata": null,
+    "ejaan": "ucêng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga melinjo",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

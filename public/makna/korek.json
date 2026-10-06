@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ko.rek",
+    "akarKata": null,
+    "ejaan": "korèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cungkil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.rek",
+    "akarKata": null,
+    "ejaan": "korèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk memantik api; pemantik api; geretan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.rek",
+    "akarKata": null,
+    "ejaan": "korèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hati-hati (sesuai dengan segala sesuatu yang benar); teliti",
+        "contoh": "pejabat harus bertindak -- terhadap aspirasi yang datang dari masyarakat",
+        "info": []
+      }
+    ]
+  }
+]

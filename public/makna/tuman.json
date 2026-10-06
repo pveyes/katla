@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "tu.man",
+    "akarKata": null,
+    "ejaan": "tuman",
+    "baku": false,
+    "alt": "toman",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan air tawar yang ukurannya dapat mencapai 130 cm, tubuhnya bulat memanjang, warnanya perak kehitaman dengan bercak keputihan di bagian punggung, sirip ekor berwarna hitam, tersebar di Thailand, Vietnam, Semenanjung Malaysia, dan Indonesia (Sumatra dan Kalimantan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.man",
+    "akarKata": null,
+    "ejaan": "tuman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi biasa (suka, gemar, dan sebagainya) sesudah merasai senangnya, enaknya, dan sebagainya",
+        "contoh": "anak-anak sebaiknya jangan dibiasakan diberi banyak uang, ia bisa jadi --",
+        "info": []
+      }
+    ]
+  }
+]

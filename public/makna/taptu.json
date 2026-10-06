@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tap.tu",
+    "akarKata": null,
+    "ejaan": "taptu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda (dengan bunyi trompet dan sebagainya) pada malam hari untuk memanggil prajurit supaya pulang ke asramanya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbaris dengan menggunakan irama musik pada malam hari sambil membawa obor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

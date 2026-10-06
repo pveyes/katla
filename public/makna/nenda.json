@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "nen.da",
+    "akarKata": null,
+    "ejaan": "nènda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nenenda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

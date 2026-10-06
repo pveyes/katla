@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ma.ger",
+    "akarKata": null,
+    "ejaan": "magêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "malas (ber)gerak; enggan atau sedang tidak bersemangat untuk melakukan aktivitas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

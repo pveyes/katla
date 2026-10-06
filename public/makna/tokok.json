@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "to.kok",
+    "akarKata": null,
+    "ejaan": "tokok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tambahan sedikit (ketika menimbang, mengukur, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.kok",
+    "akarKata": null,
+    "ejaan": "tokok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemukul; martil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "ta.bik",
+    "akarKata": null,
+    "ejaan": "tabik",
+    "baku": true,
+    "alt": "tabe",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(ungkapan untuk memberi) salam; selamat (pagi, siang, malam); assalamualaikum; sepada",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan menghormati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maaf (dikatakan apabila masuk ke tempat yang keramat dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.bik",
+    "akarKata": null,
+    "ejaan": "tabik",
+    "baku": true,
+    "alt": "tabi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengikut; penganut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

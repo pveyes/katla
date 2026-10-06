@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.rah",
+    "akarKata": null,
+    "ejaan": "kêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rodi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rah",
+    "akarKata": null,
+    "ejaan": "kêrah",
+    "baku": true,
+    "alt": "krah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "leher baju (yang kaku); nia",
+        "contoh": "leher bajunya memakai -- panjang",
+        "info": []
+      }
+    ]
+  }
+]

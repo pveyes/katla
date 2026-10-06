@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "pi.hak",
+    "akarKata": null,
+    "ejaan": "pihak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisi (yang sebelah); bagian",
+        "contoh": "-- atas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah; jurusan",
+        "contoh": "seakan-akan angin datang dari segala --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satu dari golongan (partai, orang) yang bertentangan atau berlawanan (dalam perang, permainan, politik, perjanjian, dan sebagainya)",
+        "contoh": "dalam perang ini -- yang menang dan -- yang kalah sama-sama menderita kerusakan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(pada --) dalam hal; mengenai",
+        "contoh": "pada -- agama, mereka itu bersikap netral",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang termasuk dalam satu lingkungan dan kepentingan; kalangan",
+        "contoh": "lurah melaporkan hal tersebut kepada -- berwajib",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang; golongan",
+        "contoh": "korban bencana alam itu memerlukan uluran tangan dari semua --",
+        "info": []
+      }
+    ]
+  }
+]

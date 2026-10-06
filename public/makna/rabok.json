@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.bok",
+    "akarKata": null,
+    "ejaan": "rabok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menuju arah yang tidak tetap, tidak menentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "aj.nas",
+    "akarKata": null,
+    "ejaan": "ajnas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis; rupa; macam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

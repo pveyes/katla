@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.mar",
+    "akarKata": null,
+    "ejaan": "tèmar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menempa kulit kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "abrap",
+            "sumberTeks": "bahasa di provinsi papua"
+          }
+        ]
+      }
+    ]
+  }
+]

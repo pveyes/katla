@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "be.ruk",
+    "akarKata": null,
+    "ejaan": "bêruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "primata yang termasuk dalam keluarga monyet, memiliki ekor sangat pendek, rambut berwarna cokelat keabu-abuan dengan bagian perut berwarna putih pucat, makanan utamanya buah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "be.ruk",
+    "akarKata": null,
+    "ejaan": "bêruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penakar kedelai, beras dan sebagainya, terbuat dari tempurung kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

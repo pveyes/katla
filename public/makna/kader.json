@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.der",
+    "akarKata": null,
+    "ejaan": "kadêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perwira atau bintara dalam ketentaraan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang diharapkan akan memegang peran yang penting dalam pemerintahan, partai, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

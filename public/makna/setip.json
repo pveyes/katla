@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.tip",
+    "akarKata": null,
+    "ejaan": "sêtip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karet penghapus tulisan dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.tip",
+    "akarKata": null,
+    "ejaan": "sêtip",
+    "baku": false,
+    "alt": "step",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kejang karena gangguan otak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

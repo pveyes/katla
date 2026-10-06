@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "de.bur",
+    "akarKata": null,
+    "ejaan": "dêbur",
+    "baku": true,
+    "alt": "lebur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi barang besar jatuh ke air",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi ombak memecah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

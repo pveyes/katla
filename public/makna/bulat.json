@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "bu.lat",
+    "akarKata": null,
+    "ejaan": "bulat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbentuk sebagai bola",
+        "contoh": "bumi ini -- bentuknya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berbentuk lingkaran; bundar (tanpa bersudut)",
+        "contoh": "meja -- yang besar itu cocok untuk meja makan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terpecah; utuh",
+        "contoh": "bilangan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tanpa kecuali",
+        "contoh": "usul itu diterima rapat dengan suara --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "seia sekata; sepenuhnya",
+        "contoh": "rapat secara -- menolak usul itu",
+        "info": []
+      }
+    ]
+  }
+]

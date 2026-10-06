@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "sen.ti",
+    "akarKata": null,
+    "ejaan": "sènti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sentimeter; seperseratus meter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seperseratus (misalnya sentiliter, sentigram)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

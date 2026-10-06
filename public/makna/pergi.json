@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "per.gi",
+    "akarKata": null,
+    "ejaan": "pêrgi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berjalan (bergerak) maju",
+        "contoh": "ia -- ke kamar mandi",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meninggalkan (suatu tempat)",
+        "contoh": "ia sudah -- dari sini",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berangkat",
+        "contoh": "setelah mengunci pintu rumah, dia -- ke tempat kerjanya",
+        "info": []
+      }
+    ]
+  }
+]

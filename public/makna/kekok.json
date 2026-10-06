@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ke.kok",
+    "akarKata": null,
+    "ejaan": "kèkok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mudah memakainya (tentang alat perkakas dan sebagainya)",
+        "contoh": "kemudi mobil ini -- benar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat memakai (menggunakan) dengan senang",
+        "contoh": "-- rasanya menulis dengan pensil ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa canggung (kaku) karena belum biasa dan sebagainya",
+        "contoh": "-- benar rasanya bekerja di situ",
+        "info": []
+      }
+    ]
+  }
+]

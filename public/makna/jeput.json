@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "je.put",
+    "akarKata": null,
+    "ejaan": "jêput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh",
+        "contoh": "ia harus menjaga ibunya semalam --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.put",
+    "akarKata": null,
+    "ejaan": "jêput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pungut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

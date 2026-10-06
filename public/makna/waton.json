@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wa.ton",
+    "akarKata": null,
+    "ejaan": "waton",
+    "baku": false,
+    "alt": "watan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah air; tanah tumpah darah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "la.yur",
+    "akarKata": null,
+    "ejaan": "layur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melayur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yur",
+    "akarKata": null,
+    "ejaan": "layur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang bentuk tubuhnya pipih, umur mencapai 15 tahun, hidup di dasar perairan tropis sampai beriklim sedang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

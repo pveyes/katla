@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ko.wak",
+    "akarKata": null,
+    "ejaan": "kowak",
+    "baku": false,
+    "alt": "kuak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung hantu; kuar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.wak",
+    "akarKata": null,
+    "ejaan": "kowak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sarung kujang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

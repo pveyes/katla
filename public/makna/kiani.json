@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ki.a.ni",
+    "akarKata": null,
+    "ejaan": "kiani",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "takhta kerajaan; singgasana",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

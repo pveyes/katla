@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ser.ma",
+    "akarKata": null,
+    "ejaan": "sérma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sersan mayor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

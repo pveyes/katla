@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "am.pil",
+    "akarKata": null,
+    "ejaan": "ampil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gulungan daun sirih yang akan dikunyah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

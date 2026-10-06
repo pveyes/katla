@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RUPST",
+    "akarKata": null,
+    "ejaan": "RUPST",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rapat umum pemegang saham tahunan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

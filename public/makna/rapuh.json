@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "ra.puh",
+    "akarKata": null,
+    "ejaan": "rapuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah rusak (patah, pecah, sobek putus)",
+        "contoh": "kayu yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lemah, sakit-sakitan (tentang tubuh)",
+        "contoh": "tubuhnya kecil dan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak teguh (tidak tetap pendirian dan sebagainya)",
+        "contoh": "pendiriannya --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

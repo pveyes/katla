@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "la.yar",
+    "akarKata": null,
+    "ejaan": "layar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain tebal yang dibentangkan untuk menadah angin agar perahu (kapal) dapat berjalan (laju)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tabir (tirai) penutup jendela (pintu)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tirai; kelir (dipakai pada pertunjukan gambar hidup, drama, wayang kulit, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidang (berupa kain, papan, kaca) tempat menayangkan gambar (film, televisi, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yar",
+    "akarKata": null,
+    "ejaan": "layar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut besar, berbentuk bulat panjang, bermoncong panjang membentuk tombak bulat, bersirip punggung panjang dan besar (apabila ditegakkan waktu berenang tampak seperti perahu layar), panjangnya 348 cm, berat 100,2 kg, umur 13 tahun, hidup di perairan subtropis, tersebar di perairan Indo-Pasifik dari perairan tropis sampai beriklim sedang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut yang moncongnya panjang seperti tombak, panjangnya 38,2 cm, hidup di terumbu karang perairan tropis, tersebar di perairan Afrika Timur sampai Kepulauan Hawaii dan Tuamoto, bagian utara sampai Kepulauan Ogasawara; ikan cucut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

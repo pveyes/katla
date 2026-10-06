@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "sa.kat",
+    "akarKata": null,
+    "ejaan": "sakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benalu; pasilan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.kat",
+    "akarKata": null,
+    "ejaan": "sakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "usik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.kat",
+    "akarKata": null,
+    "ejaan": "sakat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat suku1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

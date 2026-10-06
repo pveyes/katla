@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "dup",
+    "akarKata": null,
+    "ejaan": "dup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daftar usulan proyek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "DUP",
+    "akarKata": null,
+    "ejaan": "DUP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "daftar usulan proyek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

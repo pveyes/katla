@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "ira.ma",
+    "akarKata": null,
+    "ejaan": "irama",
+    "baku": true,
+    "alt": "wirama",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerakan berturut-turut secara teratur; turun naik lagu (bunyi dan sebagainya) yang beraturan; ritme",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alunan yang terjadi karena perulangan dan pergantian kesatuan bunyi dalam arus panjang pendek bunyi, keras lembut tekanan, dan tinggi rendah nada (dalam puisi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran waktu atau tempo",
+        "contoh": "-- lagu Bengawan Solo berlainan dengan lagu Jali-Jali",
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola pertunjukan yang diperlihatkan melalui dialog dan gerakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

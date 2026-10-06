@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "jip",
+    "akarKata": null,
+    "ejaan": "jip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mobil kecil yang kuat, serba guna, bentuknya segi empat, lebih tinggi daripada sedan, beroda empat, untuk 4–10 orang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mobil jenis jip, tetapi lebih besar dan mewah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

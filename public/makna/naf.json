@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "naf",
+    "akarKata": null,
+    "ejaan": "naf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusat roda yang berbentuk silinder, berlubang, dilalui poros dan dipasangi jari-jari roda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "elektronika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

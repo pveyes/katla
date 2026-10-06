@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "bo.gor",
+    "akarKata": null,
+    "ejaan": "bogor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "enau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belinjo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Bo.gor",
+    "akarKata": null,
+    "ejaan": "Bogor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kota di Provinsi Jawa Barat, terkenal dengan sebutan Kota Hujan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Jawa Barat, ibukotanya Cibinong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

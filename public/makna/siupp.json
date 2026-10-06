@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SIUPP",
+    "akarKata": null,
+    "ejaan": "SIUPP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat izin usaha penerbitan pers",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

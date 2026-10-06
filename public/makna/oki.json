@@ -1,0 +1,33 @@
+[
+  {
+    "sukuKata": "OKI",
+    "akarKata": null,
+    "ejaan": "OKI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ogan Komering Ilir (kabupaten di Sumatra Selatan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Organisasi Kerja Sama Islam (organisasi internasional yang bertujuan melindungi kepentingan umat Islam dan mempromosikan perdamaian dunia, dahulu bernama Organisasi Konferensi Islam); dari the Organisation of Islamic Cooperation",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

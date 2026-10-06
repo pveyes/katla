@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pro.di",
+    "akarKata": null,
+    "ejaan": "prodi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "program studi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

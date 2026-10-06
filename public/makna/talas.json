@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ta.las",
+    "akarKata": null,
+    "ejaan": "talas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan berumbi, daun muda dan tangkai mudanya dapat disayur, umbinya menjadi makanan pokok di Irian; keladi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "umbi talas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

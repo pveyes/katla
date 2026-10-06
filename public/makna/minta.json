@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "min.ta",
+    "akarKata": null,
+    "ejaan": "minta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berkata-kata supaya diberi atau mendapat sesuatu; mohon",
+        "contoh": "anak itu merengek-rengek -- dibelikan mainan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mempersilakan",
+        "contoh": "panitia -- para pengunjung mengisi daftar tamu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beli",
+        "contoh": "dia -- dua porsi nasi rames",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meminang; melamar",
+        "contoh": "sudah banyak pemuda yang -- gadis itu, tetapi ia selalu menolaknya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memerlukan",
+        "contoh": "kenakalan remaja akhir-akhir ini -- perhatian kita semua",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membawa; menimbulkan",
+        "contoh": "bencana tanah longsor itu ternyata -- banyak korban jiwa",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

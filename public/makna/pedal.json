@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pe.dal",
+    "akarKata": null,
+    "ejaan": "pèdal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pijak-pijak pada sepeda, piano, mesin jahit, dan sebagainya",
+        "contoh": "aku melambatkan laju sepeda, -- tidak kukayuh lagi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.dal",
+    "akarKata": null,
+    "ejaan": "pêdal",
+    "baku": false,
+    "alt": "empedal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kantong perut unggas (ayam, burung, dan sebagainya) tempat pencernaan makanan sebelum makanan tiba ke dalam usus; ampela",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

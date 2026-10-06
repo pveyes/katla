@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ten.tu",
+    "akarKata": null,
+    "ejaan": "têntu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pasti; tidak berubah lagi",
+        "contoh": "-- ia dapat menepati janjinya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang; positif; tegas",
+        "contoh": "kabar kenaikan pangkat suaminya masih belum --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "niscaya; mesti; tidak boleh tidak",
+        "contoh": "minumlah obat ini, -- penyakitmu cepat sembuh",
+        "info": []
+      }
+    ]
+  }
+]

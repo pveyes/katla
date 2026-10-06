@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mah.da",
+    "akarKata": null,
+    "ejaan": "mahda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibadah khusus dengan niat, rukun, dan syarat tertentu, seperti salat, haji",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

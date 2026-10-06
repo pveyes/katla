@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ka.pas",
+    "akarKata": null,
+    "ejaan": "kapas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman yang mencapai tinggi hingga 2 m, buahnya mengandung serat berbulu putih yang dibuat benang dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "isi buah kapas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serat yang berbulu putih yang dapat dipintal menjadi benang dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

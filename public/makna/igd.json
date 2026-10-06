@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IGD",
+    "akarKata": null,
+    "ejaan": "IGD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "instalasi gawat darurat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

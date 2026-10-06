@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TKR",
+    "akarKata": null,
+    "ejaan": "TKR",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Tentara Keamanan Rakyat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

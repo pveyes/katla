@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.kas",
+    "akarKata": null,
+    "ejaan": "lêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "cepat; segera; tidak berlama-lama; dalam waktu yang singkat",
+        "contoh": "kalau kita kerjakan beramai-ramai, pekerjaan ini -- selesai",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.kas",
+    "akarKata": null,
+    "ejaan": "lêkas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melekas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

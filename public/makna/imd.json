@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IMD",
+    "akarKata": null,
+    "ejaan": "IMD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "inisiasi menyusui dini",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

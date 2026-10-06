@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ca.gar",
+    "akarKata": null,
+    "ejaan": "cagar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang dipakai sebagai tanggungan utang; barang yang digadaikan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panjar; uang muka",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.gar",
+    "akarKata": null,
+    "ejaan": "cagar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah perlindungan untuk melestarikan tumbuh-tumbuhan, binatang, dan sebagainya; lindungan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

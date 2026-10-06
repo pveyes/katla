@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "si.rep",
+    "akarKata": null,
+    "ejaan": "sirêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mantra untuk membuat orang tertidur; pukau",
+        "contoh": "begitu terkena, -- semuanya tertidur nyenyak sehingga pencuri itu masuk dengan bebas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sunyi senyap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padam (tentang api, kebakaran dan sebagainya); tidak panas lagi (tentang demam); berhenti (tentang tembak-menembak); reda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "sukuKata": "je.nuh",
+    "akarKata": null,
+    "ejaan": "jênuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jemu; bosan",
+        "contoh": "mereka sudah -- dengan pekerjaan yang selalu sama sepanjang tahun",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat udara (tentang senyawa yang terdiri atas karbon dan hidrogen)",
+        "contoh": "hidrokarbon --",
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kenyang; puas sekali (sehingga menjadi bosan)",
+        "contoh": "saya sudah -- dengan makanan seperti ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh (sehingga tidak mampu memuat tambahan lagi)",
+        "contoh": "cairan itu sudah -- sehingga gula tambahan tidak dapat lagi melarut",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.nuh",
+    "akarKata": null,
+    "ejaan": "jênuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung jumlah maksimum zat terlarut yang dapat diserap pada suhu tertentu",
+        "contoh": "larutan --",
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hanya mengandung ikatan tunggal di antara atom-atom karbon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

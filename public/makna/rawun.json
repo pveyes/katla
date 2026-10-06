@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.wun",
+    "akarKata": null,
+    "ejaan": "rawun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membakar sampah pada sore hari untuk menolak bibit penyakit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

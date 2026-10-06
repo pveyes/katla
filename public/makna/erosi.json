@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ero.si",
+    "akarKata": null,
+    "ejaan": "érosi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal menjadi aus (berlubang) karena geseran air (tentang batu)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengikisan permukaan bumi oleh tenaga yang melibatkan pengangkatan benda-benda, seperti air mengalir, es, angin, dan gelombang atau arus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka pada kulit yang sangat dangkal, hanya mengenai lapisan kulit luar dan mengeluarkan serum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengikisan; penyusutan; penipisan",
+        "contoh": "-- nasionalisme",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

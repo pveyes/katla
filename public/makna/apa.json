@@ -1,0 +1,96 @@
+[
+  {
+    "sukuKata": "apa",
+    "akarKata": null,
+    "ejaan": "apa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk menanyakan nama (jenis, sifat) sesuatu",
+        "contoh": "ular -- ini?",
+        "info": []
+      },
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk pengganti sesuatu",
+        "contoh": "-- yang dimaksudkan orang itu tadi?",
+        "info": []
+      },
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk menanyakan pertalian kekeluargaan",
+        "contoh": "(pernah) --mu anak itu?",
+        "info": []
+      },
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "pengganti sesuatu yang kurang terang; pengganti barang sesuatu",
+        "contoh": "ia tidak tahu -- isi kotak itu",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untuk menghaluskan permintaan",
+        "contoh": "sudi --lah kiranya Bapak mengabulkan permohonan kami",
+        "info": [
+          {
+            "sumber": "hormat",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam resmi"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untuk mendahului kalimat tanya",
+        "contoh": "-- besok ada ulangan? -- tamu itu pamanmu?",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "atau",
+        "contoh": "mau minum teh -- kopi",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "apa",
+    "akarKata": null,
+    "ejaan": "apa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah tanaman sirih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

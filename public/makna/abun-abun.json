@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "abun-abun",
+    "akarKata": null,
+    "ejaan": "abun-abun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angan-angan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abun-a.bun",
+    "akarKata": null,
+    "ejaan": "abun-abun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengasapan agar terhindar dari gangguan binatang (seperti agas, nyamuk dan sebagainya) atau makhluk halus pada masyarakat Talang Mamak, Riau",
+        "contoh": "bila senja tiba cepat buat --",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

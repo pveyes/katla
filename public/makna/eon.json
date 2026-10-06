@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "eon",
+    "akarKata": null,
+    "ejaan": "éon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jangka atau ukuran waktu yang sangat panjang (tidak dapat diukur dan ditetapkan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesatuan jangka waktu sepanjang seribu juta (109) tahun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "bah",
+    "akarKata": null,
+    "ejaan": "bah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air yang meluap, mengalir deras, dan menggenangi sawah (perkampungan, kota, dan sebagainya); banjir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bah",
+    "akarKata": null,
+    "ejaan": "bah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru yang menyatakan penolakan, rasa muak (jijik, jemu, dan sebagainya) biasa dipakai pada permulaan kalimat",
+        "contoh": "--, lagi-lagi dia yang muncul",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru yang menyatakan keintiman, biasa dipakai pada akhir kalimat",
+        "contoh": "silakan duduk --",
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

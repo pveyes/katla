@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "bi.lah",
+    "akarKata": null,
+    "ejaan": "bilah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belahan bambu (kayu dan sebagainya) yang tipis dan panjang",
+        "contoh": "pagar dari -- buluh",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menyerupai bilah (terutama pisau, pedang, dan sebagainya)",
+        "contoh": "didapatnya -- keris tua di dalam gua itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong bagi sesuatu yang tipis dan panjang",
+        "contoh": "dua -- pedang",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.lah",
+    "akarKata": null,
+    "ejaan": "bilah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belah menjadi dua atau lebih bagian",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.lah",
+    "akarKata": null,
+    "ejaan": "bilah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian buldoser yang berfungsi sebagai alat gali dan dorong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "sukuKata": "da.sar",
+    "akarKata": null,
+    "ejaan": "dasar",
+    "baku": true,
+    "alt": "mudasir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah di bawah air (tentang kali, laut, dan sebagainya)",
+        "contoh": "ia berhasil menyelam sampai ke -- laut",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian terbawah (tentang kuali, botol, dan sebagainya) di sebelah dalam atau luar",
+        "contoh": "isi botol itu tinggal 1 cm dari --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lantai",
+        "contoh": "rumah papan --nya ubin",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "latar (warna yang menjadi alas gambar dan sebagainya)",
+        "contoh": "gambar bulan sabit putih pada -- warna hijau",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan terbawah",
+        "contoh": "meni dipakai sebagai cat --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakat atau pembawaan sejak lahir",
+        "contoh": "tidak ada -- dagang padanya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alas; fondasi",
+        "contoh": "gotong-royong adalah -- masyarakat Indonesia",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pokok atau pangkal suatu pendapat (ajaran, aturan); asas",
+        "contoh": "apa yang akan dijadikan -- pembicaraan kita nanti",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "memang begitu (tentang adat, tabiat, kelakuan, dan sebagainya)",
+        "contoh": "-- pencuri, di mana pun tetap juga mencuri",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk gramatikal yang menjadi asal dari suatu bentukan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.sar",
+    "akarKata": null,
+    "ejaan": "dasar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "memang",
+        "contoh": "-- bandel biar sudah diberi tahu masih bersikap masa bodoh",
+        "info": []
+      }
+    ]
+  }
+]

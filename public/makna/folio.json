@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "fo.lio",
+    "akarKata": null,
+    "ejaan": "folio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran kertas lebih kurang 21,5 x 32,5 cm",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran selembar plano berukuran baku yang dilipat satu kali, ditulis dengan tanda 2°",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran kertas A-4 menurut ukuran satuan sistem A",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "fo.lio",
+    "akarKata": null,
+    "ejaan": "folio",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "catatan akun tamu yang berisi tagihan selama menggunakan produk, fasilitas, dan layanan hotel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "perhotelan",
+            "sumberTeks": ""
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.raj",
+    "akarKata": null,
+    "ejaan": "faraj",
+    "baku": false,
+    "alt": "farji",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan perempuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

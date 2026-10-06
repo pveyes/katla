@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.kis",
+    "akarKata": null,
+    "ejaan": "kikis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kerik (hilangkan, hapuskan, dan sebagainya) dengan benda tajam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.kis",
+    "akarKata": null,
+    "ejaan": "kikis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; habis (harta benda)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "Se.ram",
+    "akarKata": null,
+    "ejaan": "sèram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pulau besar yang terletak di Maluku Tengah, Provinsi Maluku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.ram",
+    "akarKata": null,
+    "ejaan": "sêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berdiri bulu roma (karena ketakutan dan sebagainya); meremang",
+        "contoh": "mendengar cerita orang tua itu, menjadi -- perasaan saya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa berkerut dan senyar (tentang kulit tubuh karena ketakutan dan sebagainya)",
+        "contoh": "-- rasanya lewat di bawah pohon beringin itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menyebabkan ngeri (takut dan sebagainya); dahsyat; menakutkan",
+        "contoh": "terdengar suara yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kelihatan bengis (kejam, membahayakan)",
+        "contoh": "mukanya kelihatan --",
+        "info": []
+      }
+    ]
+  }
+]

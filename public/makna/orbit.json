@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "or.bit",
+    "akarKata": null,
+    "ejaan": "orbit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan yang dilalui oleh benda langit dalam peredarannya mengelilingi benda langit lain yang lebih besar gaya gravitasinya",
+        "contoh": "-- bumi mengelilingi matahari",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan yang dilalui elektron ketika bergerak mengelilingi inti atom",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

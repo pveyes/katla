@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ma.dah",
+    "akarKata": null,
+    "ejaan": "madah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata-kata pujian",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata",
+        "contoh": "berpanjang --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.dah",
+    "akarKata": null,
+    "ejaan": "madah",
+    "baku": true,
+    "alt": "maddah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mad",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

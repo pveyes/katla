@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.kaw",
+    "akarKata": null,
+    "ejaan": "takaw",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang jadi-jadian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

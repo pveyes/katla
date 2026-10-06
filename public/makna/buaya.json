@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "bu.a.ya",
+    "akarKata": null,
+    "ejaan": "buaya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang melata (reptilia) berdarah dingin bertubuh besar dan berkulit keras, bernapas dengan paru-paru, hidup di air (sungai, laut), (ada bermacam-macam, seperti -- pandan, -- tembaga, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjahat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

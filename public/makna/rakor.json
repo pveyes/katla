@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ra.kor",
+    "akarKata": null,
+    "ejaan": "rakor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rapat koordinasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

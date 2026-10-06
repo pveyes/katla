@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sak.bu",
+    "akarKata": null,
+    "ejaan": "sakbu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "seratus gutis",
+        "contoh": "Bapak membawa se-- padi dengan gerobak",
+        "info": [
+          {
+            "sumber": "sabu",
+            "sumberTeks": "ditambahkan karena cukup banyak sumbangan dari bahasa ini"
+          }
+        ]
+      }
+    ]
+  }
+]

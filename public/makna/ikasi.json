@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ika.si",
+    "akarKata": null,
+    "ejaan": "Ikasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Ikatan Anggar Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

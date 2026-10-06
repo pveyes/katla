@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bi.bok",
+    "akarKata": null,
+    "ejaan": "bibok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa yang dapat dimanfaatkan kembali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "alas",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

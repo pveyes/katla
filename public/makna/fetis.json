@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.tis",
+    "akarKata": null,
+    "ejaan": "fètis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jimat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

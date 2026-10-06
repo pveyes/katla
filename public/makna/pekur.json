@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pe.kur",
+    "akarKata": null,
+    "ejaan": "pêkur",
+    "baku": false,
+    "alt": "tafakur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "renungan; perenungan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perihal merenung, memikirkan, atau menimbang-nimbang dengan sungguh-sungguh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengheningan cipta",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

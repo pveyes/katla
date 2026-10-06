@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "la.pas",
+    "akarKata": null,
+    "ejaan": "lapas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lembaga pemasyarakatan; LP",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

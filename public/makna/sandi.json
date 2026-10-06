@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "san.di",
+    "akarKata": null,
+    "ejaan": "sandi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rahasia; kode",
+        "contoh": "berita itu dikirimkan dengan bahasa --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "san.di",
+    "akarKata": null,
+    "ejaan": "sandi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perubahan fonologis yang terjadi pada sebuah kata karena pengaruh afiksasi atau karena pengaruh fonem yang ada di dekatnya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

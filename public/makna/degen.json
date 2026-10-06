@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "de.gen",
+    "akarKata": null,
+    "ejaan": "dégên",
+    "baku": true,
+    "alt": "digen",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedang, baik dengan satu mata maupun dua mata (digunakan dalam olahraga anggar)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ob.lak",
+    "akarKata": null,
+    "ejaan": "oblak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi lebar (tentang lubang)",
+        "contoh": "karena terlalu sering dibuka-tutup, lubang bautnya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "oleng ke kiri dan ke kanan karena sekrupnya longgar (tentang roda mobil, sepeda, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

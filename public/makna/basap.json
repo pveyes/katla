@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Ba.sap",
+    "akarKata": null,
+    "ejaan": "Basap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daerah bagian hilir dan muara Sungai Sembakung dan Sesayap di Kabupaten Bulungan, Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Basap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

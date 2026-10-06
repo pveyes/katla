@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "yup",
+    "akarKata": null,
+    "ejaan": "yup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemukul dari batu untuk perang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

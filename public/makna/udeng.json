@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "udeng",
+    "akarKata": null,
+    "ejaan": "udêng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "destar; ikat kepala",
+        "contoh": "-- yang dipakai pada kepala dapat menjadi pengganti kopiah",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

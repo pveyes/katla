@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "adzab",
+    "akarKata": null,
+    "ejaan": "adzab",
+    "baku": false,
+    "alt": "azab",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siksa Tuhan yang diganjarkan kepada manusia yang meninggalkan perintah dan melanggar larangan agama",
+        "contoh": "dia takut akan -- Allah Swt.",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siksaan",
+        "contoh": "-- yang dialaminya selama masa penjajahan Jepang masih terbayang dari kelopak matanya",
+        "info": []
+      }
+    ]
+  }
+]

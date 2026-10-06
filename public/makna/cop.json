@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "cop",
+    "akarKata": null,
+    "ejaan": "cop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata afektif untuk menyatakan bahwa apa yang dikatakan atau diperbuat adalah keliru sehingga perkataan atau perbuatan itu dicabut atau tidak diteruskan (berarti: maaf!, tidak begitu!)",
+        "contoh": "telah ditetapkan “bermain,” eh -- “berlangsung” di Australia",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cop",
+    "akarKata": null,
+    "ejaan": "cop",
+    "baku": false,
+    "alt": "kecup",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi bibir yang dimoncongkan lalu ditarik kembali (sehingga berbunyi “cup”)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengecup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cop",
+    "akarKata": null,
+    "ejaan": "cop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pukulan yang menyebabkan jatuhnya bola di lapangan depan dekat net (dalam permainan bulu tangkis, tenis meja, tenis)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pur.wa",
+    "akarKata": null,
+    "ejaan": "purwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mula-mula; permulaan; dahulu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang mengisahkan cerita Mahabarata dan Ramayana (tentang wayang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

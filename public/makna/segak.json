@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "se.gak",
+    "akarKata": null,
+    "ejaan": "sègak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "segar, sehat (sembuh dari sakit); cegak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik sikapnya (pakaiannya dan sebagainya); sangat pesolek; gagah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.gak",
+    "akarKata": null,
+    "ejaan": "sêgak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menyegak"
+        ]
+      }
+    ]
+  }
+]

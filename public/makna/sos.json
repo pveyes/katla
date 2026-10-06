@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SOS",
+    "akarKata": null,
+    "ejaan": "SOS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda darurat internasional dalam kode (...---...), biasanya dipakai oleh kapal untuk meminta tolong, yang berarti ‘selamatkan jiwa kami’; dari save our souls",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

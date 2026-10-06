@@ -1,0 +1,63 @@
+[
+  {
+    "sukuKata": "pa.sar",
+    "akarKata": null,
+    "ejaan": "pasar",
+    "baku": true,
+    "alt": "pesara",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat orang berjual beli; pekan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kekuatan penawaran dan permintaan, tempat penjual yang ingin menukar barang atau jasa dengan uang, dan pembeli yang ingin menukar uang dengan barang atau jasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dipakai dalam pergaulan sehari-hari (tentang bahasa yang kurang baik tata bahasanya, pilihan katanya, dan sebagainya)",
+        "contoh": "bahasa --",
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.sar",
+    "akarKata": null,
+    "ejaan": "pasar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "licin (mati rumputnya tentang jalan yang kerap kali dilalui)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

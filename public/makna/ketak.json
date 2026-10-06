@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ke.tak",
+    "akarKata": null,
+    "ejaan": "kêtak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tiruan bunyi “tak, tak” (bunyi ketukan pada papan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tak",
+    "akarKata": null,
+    "ejaan": "kêtak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelipatan (kerut) pada kulit leher dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tak",
+    "akarKata": null,
+    "ejaan": "kêtak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan, dibuat dari ampas minyak kelapa atau minyak goreng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

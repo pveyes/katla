@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "acop",
+    "akarKata": null,
+    "ejaan": "acop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jepit yang terbuat dari kayu keras, dipasang pada bibir bakal perahu saat dibakar agar ketika dibuka tidak terbelah",
+        "contoh": "Kakek sedang membuat -- dari kayu ulin",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

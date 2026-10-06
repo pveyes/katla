@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "su.pit",
+    "akarKata": null,
+    "ejaan": "supit",
+    "baku": false,
+    "alt": "sumpit",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karung dari anyaman pandan dan sebagainya (tempat beras dan sebagainya)",
+        "contoh": "-- beras",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.pit",
+    "akarKata": null,
+    "ejaan": "supit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sunat; khitan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

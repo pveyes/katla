@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.mon",
+    "akarKata": null,
+    "ejaan": "lèmon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis limau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna kuning muda",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

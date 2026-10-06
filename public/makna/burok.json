@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bu.rok",
+    "akarKata": null,
+    "ejaan": "burok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengarakan boneka pengantin tebu untuk menandai dimulainya musim giling tebu di Cirebon",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.rok",
+    "akarKata": null,
+    "ejaan": "burok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu karang yang tampak di dalam laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "angel",
+    "akarKata": null,
+    "ejaan": "angél",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kesepian (tentang orang tua yang ditinggal anak-anaknya)",
+        "contoh": "dia -- di rumahnya sejak anaknya menikah dan pergi ke kampung sebelah",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "angel",
+    "akarKata": null,
+    "ejaan": "angèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar; sulit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

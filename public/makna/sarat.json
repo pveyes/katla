@@ -1,0 +1,108 @@
+[
+  {
+    "sukuKata": "sa.rat",
+    "akarKata": null,
+    "ejaan": "sarat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh dan berat (karena berisi muatan atau karena banyak buahnya dan sebagainya)",
+        "contoh": "kapal itu telah -- muatan beras berkarung-karung",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlalu banyak dan terlalu berat",
+        "contoh": "perahu yang -- tidak dapat laju",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh mengandung (air, kesusahan, dan sebagainya)",
+        "contoh": "-- hati memikirkan anaknya itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bunting; mengandung",
+        "contoh": "lembunya sedang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.rat",
+    "akarKata": null,
+    "ejaan": "sarat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jarak yang diukur tegak lurus dari titik paling bawah dari lunas kapal sampai ke permukaan air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.rat",
+    "akarKata": null,
+    "ejaan": "sarat",
+    "baku": false,
+    "alt": "syarat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "janji (sebagai tuntutan atau permintaan yang harus dipenuhi)",
+        "contoh": "saya mau hadir dalam rapat itu, dengan -- saya tidak mau dipilih jadi pengurus",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang perlu atau harus ada (sedia, dimiliki, dan sebagainya)",
+        "contoh": "keamanan dalam negeri adalah -- mutlak bagi pembangunan negara",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang perlu untuk menyampaikan suatu maksud",
+        "contoh": "niat untuk belajar sangat besar, tetapi --nya tidak mencukupi",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketentuan (peraturan, petunjuk) yang harus diindahkan dan dilakukan",
+        "contoh": "sebagai umat Islam kita harus selalu patuh pada -- dan hukum Islam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biaya (barang-barang dan sebagainya) yang harus diberikan kepada guru silat, dukun, dan sebagainya",
+        "contoh": "-- apa saja yang harus dipenuhi jika berdukun kepadanya",
+        "info": []
+      }
+    ]
+  }
+]

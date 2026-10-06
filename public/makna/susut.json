@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "su.sut",
+    "akarKata": null,
+    "ejaan": "susut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi berkurang",
+        "contoh": "modalnya -- karena banyak utang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengerut menjadi pendek, kecil, dan sebagainya",
+        "contoh": "kain yang mutunya kurang baik -- setelah dicuci",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "turun (tentang air); surut",
+        "contoh": "permukaan sungai -- setelah hujan mereda",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi kurus (tentang badan)",
+        "contoh": "badannya menjadi -- setelah ditinggal suaminya",
+        "info": []
+      }
+    ]
+  }
+]

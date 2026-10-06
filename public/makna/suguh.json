@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "su.guh",
+    "akarKata": null,
+    "ejaan": "suguh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyuguhi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bi.san",
+    "akarKata": null,
+    "ejaan": "bisan",
+    "baku": false,
+    "alt": "besan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang tua dari menantu (baik menantu laki-laki maupun menantu perempuan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan keluarga antara dua orang tua yang terjadi karena anak mereka kawin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

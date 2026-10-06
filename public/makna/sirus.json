@@ -1,0 +1,107 @@
+[
+  {
+    "sukuKata": "si.rus",
+    "akarKata": null,
+    "ejaan": "sirus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "struktur seperti benang tipis atau filamen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "silium yang telah bersatu pada protozoa tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rambut pada antena atau kaki serangga tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjuluran pada parapodium yang terdapat pada cacing poliket",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjuluran pada tudung ikan lanset atau di sekitar muka ikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjuluran seperti lingkaran daun pada batang lili laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat kopulasi pada cacing pipih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "zoologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "awan terpisah-pisah yang mempunyai bentuk serabut halus berwarna putih perca-perca atau jalur-jalur sempit dengan warna putih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

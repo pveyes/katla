@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "hi.jau",
+    "akarKata": null,
+    "ejaan": "hijau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warna yang serupa dengan warna daun pada umumnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabungan warna biru dan kuning dalam spektrum",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengandung atau memperlihatkan warna yang serupa dengan hijau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum berpengalaman",
+        "contoh": "masih --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkaitan dengan gerakan, semangat, isu dan sebagainya yang bertujuan untuk mengurangi efek rumah kaca dan pemanasan global",
+        "contoh": "mobil --; kampus --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ci.min",
+    "akarKata": null,
+    "ejaan": "cimin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cireng mini; penganan yang terbuat dari adonan sagu yang direbus lalu digoreng bersama telur yang sudah dikocok, biasanya diberi rasa balado, jagung manis, dan lain-lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

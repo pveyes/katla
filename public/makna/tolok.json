@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "to.lok",
+    "akarKata": null,
+    "ejaan": "tolok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "banding; imbangan (yang sama); tara",
+        "contoh": "tiada --nya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.lok",
+    "akarKata": null,
+    "ejaan": "tolok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "juru bahasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.lok",
+    "akarKata": null,
+    "ejaan": "tolok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gayam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.lok",
+    "akarKata": null,
+    "ejaan": "tolok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sastra klasik Bugis yang menceritakan kepahlawanan seorang tokoh, berbentuk prosa liris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

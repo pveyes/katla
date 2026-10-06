@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ak.rab",
+    "akarKata": null,
+    "ejaan": "akrab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dekat dan erat (tentang persahabatan); intim",
+        "contoh": "dalam rapat itu terdapat suasana yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ak.rab",
+    "akarKata": null,
+    "ejaan": "Akrab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Skorpio; Kala2",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

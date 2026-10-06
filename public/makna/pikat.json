@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pi.kat",
+    "akarKata": null,
+    "ejaan": "pikat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lalat besar yang suka mengerumuni dan mengisap darah kuda atau kerbau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.kat",
+    "akarKata": null,
+    "ejaan": "pikat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memikat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

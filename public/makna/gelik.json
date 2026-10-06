@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ge.lik",
+    "akarKata": null,
+    "ejaan": "gêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut atau payau, berbentuk memanjang, warna hitam keperakan, panjang mencapai 90 cm, berat 7 kg, hidup di dasar perairan tropis dengan kedalaman 10–40 m, tersebar di perairan Afrika Timur, termasuk Madagaskar, ke arah timur sampai Laut Cina Selatan dan Queensland, Australia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.lik",
+    "akarKata": null,
+    "ejaan": "gêlik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tinggi (tentang suara penyanyi atau suara suling)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

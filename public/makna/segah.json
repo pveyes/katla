@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.gah",
+    "akarKata": null,
+    "ejaan": "ségah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bercerai sementara sebagai cara untuk menghindari penyakit atau kesialan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.gah",
+    "akarKata": null,
+    "ejaan": "sêgah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(perut) berasa senak atau penuh sekali (karena kekenyangan dan sebagainya); begah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

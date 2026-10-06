@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "pe.ram",
+    "akarKata": null,
+    "ejaan": "pêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memeram",
+          "pemeram",
+          "pemeraman",
+          "peraman",
+          "terperam"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.ram",
+    "akarKata": null,
+    "ejaan": "pêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berperam",
+          "memeram"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.ram",
+    "akarKata": null,
+    "ejaan": "pêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "memeram"
+        ]
+      }
+    ]
+  }
+]

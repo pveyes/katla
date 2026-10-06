@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "fa.qir",
+    "akarKata": null,
+    "ejaan": "faqir",
+    "baku": false,
+    "alt": "fakir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang sangat berkekurangan; orang yang terlalu miskin",
+        "contoh": "setiap Jumat dia membagi-bagikan sedekah kepada -- dan miskin",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dengan sengaja membuat dirinya menderita kekurangan untuk mencapai kesempurnaan batin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aku (bagi pengarang dalam syair dan sebagainya)",
+        "contoh": "-- bukan pandai mengarang, bukanlah hendak dipuji orang",
+        "info": []
+      }
+    ]
+  }
+]

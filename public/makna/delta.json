@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "del.ta",
+    "akarKata": null,
+    "ejaan": "dèlta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah endapan berbentuk segitiga di muara sungai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "del.ta",
+    "akarKata": null,
+    "ejaan": "dèlta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama huruf ke-4 abjad Yunani",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mon.ti",
+    "akarKata": null,
+    "ejaan": "monti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menguasai seluk-beluk undang-undang adat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

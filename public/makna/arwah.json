@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ar.wah",
+    "akarKata": null,
+    "ejaan": "arwah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jiwa orang yang meninggal; roh",
+        "contoh": "semoga --nya diterima di sisi Tuhan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semangat",
+        "contoh": "hilang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

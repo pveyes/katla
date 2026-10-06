@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "xi.lan",
+    "akarKata": null,
+    "ejaan": "silan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah kayu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

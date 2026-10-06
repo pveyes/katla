@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ska.la",
+    "akarKata": null,
+    "ejaan": "skala",
+    "baku": true,
+    "alt": "sekala",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis atau titik tanda yang berderet-deret dan sebagainya yang sama jarak antaranya, dipakai untuk mengukur, seperti pada termometer, gelas pengukur barang cair",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lajur yang dipakai untuk menentukan tingkatan atau banyaknya sesuatu (seperti pada peraturan gaji dan pada daftar bunga uang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbandingan ukuran besarnya gambar dan sebagainya dengan keadaan yang sebenarnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

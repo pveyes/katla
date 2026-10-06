@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "acuan",
+    "akarKata": "acu",
+    "ejaan": "acuan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "grafika",
+        "tipeTeks": "-",
+        "definisi": "bingkai atau pelat berisi teks dan/atau gambar yang akan dicetakkan pada bahan cetak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

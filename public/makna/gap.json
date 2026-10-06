@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "gap",
+    "akarKata": null,
+    "ejaan": "gap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi meja ditepuk, jantung berdebar, dan sebagainya; degap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gap",
+    "akarKata": null,
+    "ejaan": "gap",
+    "baku": true,
+    "alt": "gep",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jurang pemisah; kesenjangan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

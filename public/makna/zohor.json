@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "zo.hor",
+    "akarKata": null,
+    "ejaan": "zohor",
+    "baku": false,
+    "alt": "zuhur",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu tengah hari",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "waktu salat wajib setelah matahari tergelincir sampai menjelang petang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(huruf awal ditulis dengan kapital) salat wajib sebanyak empat rakaat pada waktu tengah hari sampai menjelang petang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

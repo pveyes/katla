@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ru.ang",
+    "akarKata": null,
+    "ejaan": "ruang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sela-sela antara dua (deret) tiang atau antara empat tiang (di bawah kolong rumah)",
+        "contoh": "rumah itu mempunyai empat buah --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rongga yang berbatas atau terlingkung oleh bidang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rongga yang tidak berbatas, tempat segala yang ada",
+        "contoh": "sejak dulu para ahli pikir kerap memperbincangkan soal -- dan waktu",
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petak dalam buah (durian, petai); pangsa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang nyata dan imajiner dalam pertunjukan di atas panggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

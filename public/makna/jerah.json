@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "je.rah",
+    "akarKata": null,
+    "ejaan": "jêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedang musim (tentang buah-buahan); sedang banyak berjangkit (tentang penyakit dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "je.rah",
+    "akarKata": null,
+    "ejaan": "jêrah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "jerah-jerih"
+        ]
+      }
+    ]
+  }
+]

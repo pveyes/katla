@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ke.rot",
+    "akarKata": null,
+    "ejaan": "kèrot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketepatan pengucapan kata (terutama dalam mengaji)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.rot",
+    "akarKata": null,
+    "ejaan": "kêrot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "ketepatan pengucapan kata (terutama dalam mengaji)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "to.kek",
+    "akarKata": null,
+    "ejaan": "tokèk",
+    "baku": true,
+    "alt": "tekek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "binatang merayap, kulitnya kasap berbintik-bintik, suaranya keras, hidup di rumah (pohon dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.kek",
+    "akarKata": null,
+    "ejaan": "tokèk",
+    "baku": false,
+    "alt": "takik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "torehan yang agak dalam pada batang pohon untuk memudahkan pijakan orang memanjat; takuk kecil; gubang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "torehan pada kulit pohon (untuk mendapatkan getah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "potongan V kecil pada jahitan longgar agar lapisan pakaian tidak menggembung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.kek",
+    "akarKata": null,
+    "ejaan": "tokèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kudis (borok) di kepala",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

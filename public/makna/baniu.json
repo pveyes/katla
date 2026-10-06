@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.niu",
+    "akarKata": null,
+    "ejaan": "baniu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar kayu yang muncul di permukaan tanah",
+        "contoh": "kami kesulitan menebang pohon durian itu karena --nya sangat lebar",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.naf",
+    "akarKata": null,
+    "ejaan": "kénaf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang tingginya mencapai 3 m, kulit pohon dibuat serat nabati untuk pembuatan tali, karung, dan kain kanvas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serat kenaf",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

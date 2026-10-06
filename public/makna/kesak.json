@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.sak",
+    "akarKata": null,
+    "ejaan": "kêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengesak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.sak",
+    "akarKata": null,
+    "ejaan": "kêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sesak napas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

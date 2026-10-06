@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "le.sap",
+    "akarKata": null,
+    "ejaan": "lêsap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; lenyap; lucut",
+        "contoh": "air itu -- diisap tanah",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menghilang secara berangsur-angsur (suara, gambar)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang satu dari dua unsur atau bagian konstruksi yang koreferensial, seperti subjek anak kalimat pada sebelum pergi, dia menulis surat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ma.cet",
+    "akarKata": null,
+    "ejaan": "macêt",
+    "baku": true,
+    "alt": "macat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat berfungsi dengan baik (tentang rem, mesin, dan sebagainya); sendat; serat",
+        "contoh": "rem mobilnya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terhenti; tidak lancar",
+        "contoh": "pembongkaran saluran air menyebabkan lalu lintas --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "situasi ketika komputer berhenti bekerja dan tidak dapat bereaksi terhadap masukan dari papan ketik atau tetikus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

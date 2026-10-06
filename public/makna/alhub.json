@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "al.hub",
+    "akarKata": null,
+    "ejaan": "alhub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat perhubungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "sukuKata": "pe.rut",
+    "akarKata": null,
+    "ejaan": "pêrut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tubuh di bawah rongga dada",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat pencernaan makanan di dalam rongga, di bawah rongga dada (terutama yang berupa kantung tempat mencernakan makanan dan usus)",
+        "contoh": "--nya mulas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan (rezeki, nafkah)",
+        "contoh": "sebenarnya bukan urusan politik lagi, melainkan urusan --",
+        "info": [
+          {
+            "sumber": "kasar",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam yang tidak sopan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang terdapat di tengah atau di dalam suatu benda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kandungan (rahim)",
+        "contoh": "pada waktu itu engkau masih di dalam -- ibumu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang apa yang rupanya atau bentuknya menyerupai perut 1 atau 2",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.rut",
+    "akarKata": null,
+    "ejaan": "pêrut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gulungan kecil",
+        "contoh": "benang yang diurai itu digulung se---se--",
+        "info": []
+      }
+    ]
+  }
+]

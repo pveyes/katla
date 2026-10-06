@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "si.bar",
+    "akarKata": null,
+    "ejaan": "sibar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain dan sebagainya yang ditambahkan atau dilapiskan di tepi baju dan sebagainya",
+        "contoh": "ia menggunting -- baju",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah yang ditambahkan di sisi rumah besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.bar",
+    "akarKata": null,
+    "ejaan": "sibar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "capung; sibur-sibur; papatong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.bar",
+    "akarKata": null,
+    "ejaan": "sibar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bersibar",
+          "bersibaran"
+        ]
+      }
+    ]
+  }
+]

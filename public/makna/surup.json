@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "su.rup",
+    "akarKata": null,
+    "ejaan": "surup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "patut; pantas; layak; sepadan",
+        "contoh": "warna baju dan kerudung gadis itu -- benar",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.rup",
+    "akarKata": null,
+    "ejaan": "surup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "kesurupan"
+        ]
+      }
+    ]
+  }
+]

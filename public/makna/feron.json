@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fe.ron",
+    "akarKata": null,
+    "ejaan": "féron",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembawa enzim, bersifat koloid dan merupakan sumber keaktifan katalis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

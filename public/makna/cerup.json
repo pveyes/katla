@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ce.rup",
+    "akarKata": null,
+    "ejaan": "cêrup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi mulut mengisap air dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi benda kecil yang jatuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

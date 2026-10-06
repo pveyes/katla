@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ni.lai",
+    "akarKata": null,
+    "ejaan": "nilai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga (dalam arti taksiran harga)",
+        "contoh": "sebenarnya tidak ada ukuran yang pasti untuk menentukan -- intan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga uang (dibandingkan dengan harga uang yang lain)",
+        "contoh": "-- rupiah terus menurun",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka kepandaian; biji; ponten",
+        "contoh": "rata-rata -- mata pelajarannya adalah sembilan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "banyak sedikitnya isi; kadar; mutu",
+        "contoh": "-- gizi berbagai jeruk hampir sama",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat-sifat (hal-hal) yang penting atau berguna bagi kemanusiaan",
+        "contoh": "-- tradisional yang dapat mendorong pembangunan perlu kita kembangkan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menyempurnakan manusia sesuai dengan hakikatnya",
+        "contoh": "etika dan -- berhubungan erat",
+        "info": []
+      }
+    ]
+  }
+]

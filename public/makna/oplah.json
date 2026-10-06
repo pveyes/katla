@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "op.lah",
+    "akarKata": null,
+    "ejaan": "oplah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah barang cetakan yang diedarkan; tiras",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah barang cetakan yang dicetak dari perangkat acuan pelat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

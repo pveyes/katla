@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "na.gam",
+    "akarKata": null,
+    "ejaan": "nagam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karangan (untaian) mutiara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.gam",
+    "akarKata": null,
+    "ejaan": "nagam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keselarasan suara; keharmonisan suara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

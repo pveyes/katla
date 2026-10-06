@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kue",
+    "akarKata": null,
+    "ejaan": "kué",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari bahan yang bermacam-macam, dapat dibuat dalam berbagai bentuk, ada yang dikukus, digoreng, dipanggang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

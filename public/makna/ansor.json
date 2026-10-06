@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "an.sor",
+    "akarKata": null,
+    "ejaan": "ansor",
+    "baku": false,
+    "alt": "ansar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembantu; penyokong; penolong",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "para pembantu perjuangan atau sahabat Nabi Muhammad saw. dari kalangan penduduk Madinah setelah Beliau hijrah dari Makkah ke Madinah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

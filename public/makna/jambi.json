@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "Jam.bi",
+    "akarKata": null,
+    "ejaan": "Jambi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "provinsi di Pulau Sumatra",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu kota Provinsi Jambi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan di daerah Jambi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

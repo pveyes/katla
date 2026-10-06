@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ra.lat",
+    "akarKata": null,
+    "ejaan": "ralat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembetulan atau perbaikan atas salah cetak (pada surat kabar, majalah, buku, dan sebagainya) atau atas salah ucap dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesalahan; kekeliruan (cetak, ucap, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

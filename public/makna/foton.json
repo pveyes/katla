@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "fo.ton",
+    "akarKata": null,
+    "ejaan": "foton",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partikel dasar atau kuantum radiasi elektromagnet",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zarah nirmassa yang merupakan kuantum (catu) cahaya (gelombang elektromagnetik)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

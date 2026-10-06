@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ha.sil",
+    "akarKata": null,
+    "ejaan": "hasil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang diadakan (dibuat, dijadikan, dan sebagainya) oleh usaha (tanam-tanaman, sawah, tanah, ladang, hutan, dan sebagainya)",
+        "contoh": "obat suntik ini -- penyelidikan yang dilakukan bertahun-tahun",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapatan; perolehan; buah",
+        "contoh": "hingga kini, usaha kita belum tampak --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akibat; kesudahan (dari pertandingan, ujian, dan sebagainya)",
+        "contoh": "-- pertandingan itu ialah 2–0 untuk kemenangan kesebelasan kita",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pajak; sewa tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhasil; mendapat hasil; tidak gagal",
+        "contoh": "berkat kekerasan hatinya -- juga maksudnya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

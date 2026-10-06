@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Pol.ri",
+    "akarKata": null,
+    "ejaan": "Polri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kepolisian Negara Republik Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

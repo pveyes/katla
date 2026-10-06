@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "kum.ba",
+    "akarKata": null,
+    "ejaan": "kumba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belanga atau buyung yang berleher (untuk tempat air)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kum.ba",
+    "akarKata": null,
+    "ejaan": "kumba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bonggol (ponok) pada dahi gajah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Kum.ba",
+    "akarKata": null,
+    "ejaan": "Kumba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Akuarius",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

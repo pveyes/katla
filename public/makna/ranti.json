@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ran.ti",
+    "akarKata": null,
+    "ejaan": "ranti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lenca",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun ranti",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah ranti",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

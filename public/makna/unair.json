@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Una.ir",
+    "akarKata": null,
+    "ejaan": "Unair",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Airlangga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

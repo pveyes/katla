@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NIP",
+    "akarKata": null,
+    "ejaan": "NIP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor induk pegawai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

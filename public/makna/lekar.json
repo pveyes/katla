@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "le.kar",
+    "akarKata": null,
+    "ejaan": "lêkar",
+    "baku": false,
+    "alt": "rehal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangku kecil khusus tempat menaruh Al-Qur'an yang hendak dibaca",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alas atau tempat menyimpan kendang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.kar",
+    "akarKata": null,
+    "ejaan": "lêkar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anyaman rotan atau lidi tempat meletakkan kuali, periuk, dan sebagainya yang baru diangkat dari tungku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.kar",
+    "akarKata": null,
+    "ejaan": "lêkar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "larutan pengilap yang lekas kering karena pelarutnya menguap, terutama larutan yang mengandung ester selulosa sebagai bahan utamanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

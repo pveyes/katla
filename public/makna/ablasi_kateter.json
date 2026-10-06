@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ablasi kateter",
+    "akarKata": "ablasi",
+    "ejaan": "ablasi kateter",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "kedokteran dan fisiologi",
+        "tipeTeks": "-",
+        "definisi": "teknik ablasi yang dilakukan dengan menggunakan kateter yang tipis dan panjang yang dimasukkan pada vena dari tungkai atau lengan menuju jantung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

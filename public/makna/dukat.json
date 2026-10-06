@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "du.kat",
+    "akarKata": null,
+    "ejaan": "dukat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(satuan) mata uang emas atau perak (yang nilainya berbeda)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

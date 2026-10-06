@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ca.tut",
+    "akarKata": null,
+    "ejaan": "catut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angkup atau penjepit (untuk mencabut janggut dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mencabut (memotong) paku dan sebagainya, bentuknya seperti paruh burung kakaktua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

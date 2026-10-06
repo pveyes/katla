@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pok.ko",
+    "akarKata": null,
+    "ejaan": "pokko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok komando",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

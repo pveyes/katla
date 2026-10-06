@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ta.gan",
+    "akarKata": null,
+    "ejaan": "tagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taruhan (dalam perjudian)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang dan sebagainya yang dimasukkan untuk modal bersama atau untuk bersama-sama mengadakan suatu kegiatan usaha",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.gan",
+    "akarKata": null,
+    "ejaan": "tagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menagan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.gan",
+    "akarKata": null,
+    "ejaan": "tagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cerai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

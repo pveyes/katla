@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pe.lat",
+    "akarKata": null,
+    "ejaan": "pèlat",
+    "baku": true,
+    "alt": "plat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang sempurna mengucapkan kata-kata (seperti raja diucapkan laja); telor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.lat",
+    "akarKata": null,
+    "ejaan": "pêlat",
+    "baku": true,
+    "alt": "plat",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piringan hitam (piringan gramofon)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "logam yang pipih (tipis)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

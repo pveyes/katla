@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jib",
+    "akarKata": null,
+    "ejaan": "jib",
+    "baku": true,
+    "alt": "zib",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "layar berbentuk segitiga yang dipasang pada tiang terdepan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

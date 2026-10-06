@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "pas.ta",
+    "akarKata": null,
+    "ejaan": "pasta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat perekat yang lengket",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan farmasi berupa salep (bubur) setengah padat, pada umumnya dibungkus dalam kemasan tabung pipih, mengandung antiseptik untuk obat luar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan beracun untuk membasmi kutu atau tikus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pas.ta",
+    "akarKata": null,
+    "ejaan": "pasta",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan makanan yang dibuat dari terigu dicampur air dan telur, bentuknya bermacam-macam, ada yang pipih panjang seperti lembaran dan ada yang bulat panjang seperti pipa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

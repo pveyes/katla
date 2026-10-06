@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.tok",
+    "akarKata": null,
+    "ejaan": "patok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran untuk luas tanah persawahan (kurang lebih 2.300 m²)",
+        "contoh": "petani dibebani ongkos penyemprotan sebanyak Rp10.000,00 per --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancang; tonggak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wam",
+    "akarKata": null,
+    "ejaan": "wam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhiasan dari kulit kerang yang pipih dan lebar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

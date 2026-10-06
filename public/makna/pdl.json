@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PDL",
+    "akarKata": null,
+    "ejaan": "PDL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pakaian dinas lapangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

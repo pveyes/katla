@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ha.yat",
+    "akarKata": null,
+    "ejaan": "hayat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidup; kehidupan; nyawa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidup, sifat yang wajib bagi Allah Swt.",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

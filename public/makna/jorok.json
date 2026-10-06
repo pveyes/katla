@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "jo.rok",
+    "akarKata": null,
+    "ejaan": "jorok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kotor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cemar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cabul",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak peduli pada kebersihan atau tidak merasa jijik terhadap sesuatu yang kotor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jo.rok",
+    "akarKata": null,
+    "ejaan": "jorok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kotor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "cemar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "cabul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "tidak peduli pada kebersihan atau tidak merasa jijik terhadap sesuatu yang kotor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

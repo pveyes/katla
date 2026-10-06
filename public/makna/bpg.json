@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BPG",
+    "akarKata": null,
+    "ejaan": "BPG",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Balai Pendidikan Guru (lembaga yang menyediakan bahan pelajaran untuk kursus-kursus tertulis pendidikan guru)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

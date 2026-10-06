@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MOCAF",
+    "akarKata": null,
+    "ejaan": "MOCAF",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beras analog yang dibuat dari tepung singkong; modified cassava flour",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

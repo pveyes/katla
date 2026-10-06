@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "se.sap",
+    "akarKata": null,
+    "ejaan": "sêsap",
+    "baku": true,
+    "alt": "sasap",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "isap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.sap",
+    "akarKata": null,
+    "ejaan": "sêsap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ladang (huma) yang ditinggalkan; bekas ladang (huma)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

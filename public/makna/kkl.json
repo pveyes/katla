@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KKL",
+    "akarKata": null,
+    "ejaan": "KKL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuliah kerja lapangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

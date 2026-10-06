@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "va.ria",
+    "akarKata": null,
+    "ejaan": "varia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berbagai jenis",
+        "contoh": "-- olahraga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "serba-serbi",
+        "contoh": "-- kebudayaan Sulawesi Selatan",
+        "info": []
+      }
+    ]
+  }
+]

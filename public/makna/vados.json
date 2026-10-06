@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "va.dos",
+    "akarKata": null,
+    "ejaan": "vados",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air yang terdapat dalam kerak bumi di atas aras permanen air tanah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

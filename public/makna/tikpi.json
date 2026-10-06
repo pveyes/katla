@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tik.pi",
+    "akarKata": null,
+    "ejaan": "tikpi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senjata tajam yang berujung tiga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

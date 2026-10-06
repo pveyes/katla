@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BPK",
+    "akarKata": null,
+    "ejaan": "BPK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Pemeriksa Keuangan (lembaga tinggi negara yang berwewenang memeriksa pengelolaan dan tanggung jawab keuangan negara)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

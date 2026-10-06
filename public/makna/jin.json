@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "jin",
+    "akarKata": null,
+    "ejaan": "jin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makhluk halus yang diciptakan dari api",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jin",
+    "akarKata": null,
+    "ejaan": "jin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenewer (arak keras)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jin",
+    "akarKata": null,
+    "ejaan": "jin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelana",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jin",
+    "akarKata": null,
+    "ejaan": "jin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celana panjang yang terbuat dari kain tebal dan kuat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain tebal dan kuat, dipakai untuk celana, jaket, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

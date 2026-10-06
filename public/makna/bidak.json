@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bi.dak",
+    "akarKata": null,
+    "ejaan": "bidak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah catur yang terdepan; pion; laskar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah permainan papan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

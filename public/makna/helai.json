@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "he.lai",
+    "akarKata": null,
+    "ejaan": "hélai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wadah yang terbuat dari kayu atau tanah liat, berbentuk wajan, digunakan untuk menyimpan air atau memasak sagu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sentani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "he.lai",
+    "akarKata": null,
+    "ejaan": "hêlai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang tipis lebar (seperti daun, kertas); lembar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata penggolong untuk barang yang tipis atau halus (seperti kertas, kain, rambut, benang)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

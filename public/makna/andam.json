@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "an.dam",
+    "akarKata": null,
+    "ejaan": "andam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "atur; tata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memepat anak rambut bagian depan dan menghiasnya (tentang merias calon pengantin)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "an.dam",
+    "akarKata": null,
+    "ejaan": "andam",
+    "baku": true,
+    "alt": "endam, handam, hendam",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kurung, pingit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

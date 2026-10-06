@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "In.jil",
+    "akarKata": null,
+    "ejaan": "Injil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kitab suci yang diturunkan kepada Nabi Isa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salah satu bagian dari kitab suci agama Kristen yang menceritakan kisah hidup dan pelayanan Tuhan Yesus selama di dunia; Perjanjian Baru",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

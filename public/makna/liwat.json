@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "li.wat",
+    "akarKata": null,
+    "ejaan": "liwat",
+    "baku": false,
+    "alt": "lewat",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melalui; lalu di; menempuh",
+        "contoh": "kereta api cepat Jakarta–Surabaya -- Semarang",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lalu; lampau",
+        "contoh": "waktu yang telah --",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "lebih",
+        "contoh": "pukul sembilan -- sepuluh menit",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sesudah",
+        "contoh": "-- tengah malam",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terlampau; sangat; terlalu",
+        "contoh": "-- jenuh",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "dengan perantaraan (memakai jasa, alat, dan sebagainya)",
+        "contoh": "barangnya dikirim -- pos",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.wat",
+    "akarKata": null,
+    "ejaan": "liwat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persetubuhan antara sesama jenis, misalnya laki-laki dengan laki-laki; homoseks",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

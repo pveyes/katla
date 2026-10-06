@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ja.jal",
+    "akarKata": null,
+    "ejaan": "jajal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "coba; uji; tes",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

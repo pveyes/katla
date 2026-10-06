@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.cut",
+    "akarKata": null,
+    "ejaan": "lêcut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi cambuk yang dikibaskan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cambuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ren.te",
+    "akarKata": null,
+    "ejaan": "réntê",
+    "baku": false,
+    "alt": "renten",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga uang; riba",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembayaran berlebih secara tidak wajar atau ilegal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

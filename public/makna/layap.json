@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "la.yap",
+    "akarKata": null,
+    "ejaan": "layap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rendah dekat tanah atau air (tentang burung terbang, perahu, rumah, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yap",
+    "akarKata": null,
+    "ejaan": "layap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "rendah dekat tanah atau air (tentang burung terbang, perahu, rumah, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.yap",
+    "akarKata": null,
+    "ejaan": "layap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melayap",
+          "melayap-layap",
+          "terlayap"
+        ]
+      }
+    ]
+  }
+]

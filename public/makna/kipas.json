@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ki.pas",
+    "akarKata": null,
+    "ejaan": "kipas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk mengibas-ngibas (supaya mendapat angin sejuk dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baling-baling pada pesawat (kapal, mobil, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

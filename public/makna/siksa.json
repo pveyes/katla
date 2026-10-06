@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sik.sa",
+    "akarKata": null,
+    "ejaan": "siksa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penderitaan (kesengsaraan dan sebagainya) sebagai hukuman",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hukuman dengan cara disengsarakan (disakiti)",
+        "contoh": "hukuman --",
+        "info": []
+      }
+    ]
+  }
+]

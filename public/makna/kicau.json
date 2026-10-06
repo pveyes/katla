@@ -1,0 +1,52 @@
+[
+  {
+    "sukuKata": "ki.cau",
+    "akarKata": null,
+    "ejaan": "kicau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi burung (terutama burung murai)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "celoteh; perkataan yang sebarang saja",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pesan yang dikirim melalui layanan jejaring sosial twitter; twit; cuit",
+        "contoh": "-- twitter dikhawatirkan dapat mengganggu konsentrasi para pemain selama digelarnya Piala Eropa",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.cau",
+    "akarKata": null,
+    "ejaan": "kicau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu; kecoh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

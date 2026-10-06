@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ga.ram",
+    "akarKata": null,
+    "ejaan": "garam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senyawa kristalin NaCl yang merupakan klorida dan sodium, dapat larut dalam air, dan asin rasanya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasil reaksi asam dengan basa, yaitu satu atau lebih atom hidrogen pada asam diganti oleh satu atau lebih kation suatu basa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pupuk (obat dan sebagainya) yang rupanya seperti garam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

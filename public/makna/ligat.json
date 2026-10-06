@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "li.gat",
+    "akarKata": null,
+    "ejaan": "ligat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cekatan; cepat; tangkas",
+        "contoh": "pegawai harus -- dalam mengerjakan tugasnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "li.gat",
+    "akarKata": null,
+    "ejaan": "ligat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "cekatan; cepat; tangkas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

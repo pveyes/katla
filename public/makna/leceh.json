@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "le.ceh",
+    "akarKata": null,
+    "ejaan": "lècèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "meleleh dan melekat pada tempat yang dilalui (seperti lilin yang cair, air gula pada bibir)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "remeh; tidak berharga",
+        "contoh": "ia merasa -- di tengah pesta yang meriah itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rendah sekali mutunya (nilainya)",
+        "contoh": "surat kabar yang -- kurang mendukung pendidikan anak-anak",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buruk kelakuan; hina",
+        "contoh": "orang yang -- budi dijauhi teman",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

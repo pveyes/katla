@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ko.bok",
+    "akarKata": null,
+    "ejaan": "kobok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekelompok (orang); puak; partai; golongan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.bok",
+    "akarKata": null,
+    "ejaan": "kobok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berkobok",
+          "kobokan",
+          "mengobok",
+          "terkobok"
+        ]
+      }
+    ]
+  }
+]

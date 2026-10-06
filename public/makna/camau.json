@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ca.mau",
+    "akarKata": null,
+    "ejaan": "camau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perdu, tinggi hingga 8 m, akarnya digunakan untuk obat penyakit kencing nanah; cakmau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar camau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

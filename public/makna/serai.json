@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "se.rai",
+    "akarKata": null,
+    "ejaan": "sérai",
+    "baku": true,
+    "alt": "sereh",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terserai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rai",
+    "akarKata": null,
+    "ejaan": "sêrai",
+    "baku": true,
+    "alt": "sereh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman tahunan, membentuk rumpun yang padat, batangnya kaku dan pendek, bentuk daunnya seperti pita yang meruncing ke ujung, menghasilkan minyak serai, bonggol batang yang muda digunakan sebagai penyedap berbagai masakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

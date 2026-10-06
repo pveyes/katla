@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "di.kir",
+    "akarKata": null,
+    "ejaan": "dikir",
+    "baku": false,
+    "alt": "zikir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puji-pujian kepada Allah yang diucapkan berulang-ulang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "doa atau puji-pujian berlagu (dilakukan pada perayaan Maulid Nabi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbuatan mengucapkan zikir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

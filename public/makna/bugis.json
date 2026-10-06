@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Bu.gis",
+    "akarKata": null,
+    "ejaan": "Bugis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang berasal atau mendiami sebagian besar daerah Sulawesi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Bugis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

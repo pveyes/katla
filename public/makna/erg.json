@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "erg",
+    "akarKata": null,
+    "ejaan": "êrg",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan energi benda dengan massa 1 gram yang bergerak dengan kecepatan 1 cm per detik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

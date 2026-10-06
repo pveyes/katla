@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "se.hat",
+    "akarKata": null,
+    "ejaan": "sèhat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik seluruh badan serta bagian-bagiannya (bebas dari sakit); waras",
+        "contoh": "sampai tua ia tetap -- karena rajin berolahraga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(yang) mendatangkan kebaikan pada badan",
+        "contoh": "makanan dan lingkungan yang -- diperlukan bagi pertumbuhan anak-anak",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sembuh dari sakit",
+        "contoh": "dokter yang merawatnya menyatakan ia telah -- dan boleh pulang segera",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik dan normal (tentang pikiran)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "boleh dipercaya atau masuk akal (tentang pendapat, usul, alasan, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berjalan dengan baik atau sebagaimana mestinya (tentang keadaan keuangan, ekonomi, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dijalankan dengan hati-hati dan baik-baik (tentang politik dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

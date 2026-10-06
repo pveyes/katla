@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "au.rum",
+    "akarKata": null,
+    "ejaan": "aurum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "logam mulia kuning dan mulur; unsur dengan nomor atom 79, lambang Au, dan bobot atom 196,9665; emas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

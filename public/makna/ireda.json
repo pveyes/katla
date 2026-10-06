@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ire.da",
+    "akarKata": null,
+    "ejaan": "iréda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "iuran rehabilitasi daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

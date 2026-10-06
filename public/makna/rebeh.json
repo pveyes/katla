@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "re.beh",
+    "akarKata": null,
+    "ejaan": "rèbèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "compang-camping; rompang-ramping (tentang pakaian dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "usang; buruk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.beh",
+    "akarKata": null,
+    "ejaan": "rèbēh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tergantung terkulai (tentang sayap patah, layar robek, dan sebagainya); tidak kaku lagi (tentang tepi topi dan sebagainya); terkelepai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

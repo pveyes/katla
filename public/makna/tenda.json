@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ten.da",
+    "akarKata": null,
+    "ejaan": "tènda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemah",
+        "contoh": "pramuka mendirikan -- di lembah hijau yang indah itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain mota untuk kemah (di kapal, perahu, dan sebagainya)",
+        "contoh": "anak perahu sibuk memasang -- perahunya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "langit-langit (pada tempat tidur, kereta, becak, dan sebagainya)",
+        "contoh": "-- tempat tidur itu sudah tua sehingga perlu segera diganti",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kap mobil",
+        "contoh": "kain terpal banyak dipakai untuk -- jip",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tajuk yang tidak terdiferensiasi dalam kelopak dan mahkota, tetapi dapat terbagi-bagi ke dalam daun tenda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

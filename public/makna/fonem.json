@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fo.nem",
+    "akarKata": null,
+    "ejaan": "foném",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan bunyi terkecil yang mampu menunjukkan kontras makna (misalnya /h/ adalah fonem karena membedakan makna kata harus dan arus, /b/ dan /p/ adalah dua fonem yang berbeda karena bara dan para beda maknanya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

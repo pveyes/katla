@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ma.kin",
+    "akarKata": null,
+    "ejaan": "makin",
+    "baku": true,
+    "alt": "mangkin, semakin",
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kian bertambah",
+        "contoh": "tangisnya -- menjadi-jadi",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "lebih-lebih; apalagi",
+        "contoh": "segala gembala gajah semuanya kasih akan Laksamana Khoja Hassan, -- kepada gembala Kepenjang itu jangan dikata lagi",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

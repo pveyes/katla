@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "to.fan",
+    "akarKata": null,
+    "ejaan": "tofan",
+    "baku": false,
+    "alt": "topan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siklon tropis yang berkecepatan sangat tinggi; angin ribut; badai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "konveksi yang kekuatan anginnya melebihi 12 pada skala Beaufort",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "meteorologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

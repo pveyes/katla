@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GRA",
+    "akarKata": null,
+    "ejaan": "GRA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Gusti Raden Ajeng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

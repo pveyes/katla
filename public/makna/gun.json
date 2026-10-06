@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gun",
+    "akarKata": null,
+    "ejaan": "gun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serit pada perkakas tenun untuk memisahkan benang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

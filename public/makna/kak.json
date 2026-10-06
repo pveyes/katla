@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "kak",
+    "akarKata": null,
+    "ejaan": "kak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada saudara tua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak; saudara tua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kak",
+    "akarKata": null,
+    "ejaan": "kak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi orang tertawa terbahak-bahak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "gan.ti",
+    "akarKata": null,
+    "ejaan": "ganti",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadi penukar yang tidak ada atau hilang, seperti sulih, pampas",
+        "contoh": "santan ini dapat dipakai akan -- susu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menggantikan pekerjaan, jabatan, dan sebagainya; wakil; pengganti",
+        "contoh": "lurah yang meninggal itu belum ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berganti; bertukar; berpindah",
+        "contoh": "-- kereta (api)",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

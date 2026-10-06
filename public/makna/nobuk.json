@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "No.buk",
+    "akarKata": null,
+    "ejaan": "Nobuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku yang mendiami daerah Kabupaten Jayapura, Provinsi Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Nobuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

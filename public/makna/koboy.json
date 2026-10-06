@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ko.boy",
+    "akarKata": null,
+    "ejaan": "koboy",
+    "baku": false,
+    "alt": "koboi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggembala sapi yang menaiki kuda (di Amerika)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bertindak seenaknya sendiri (melanggar aturan, menghakimi sendiri, suka berkelahi, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

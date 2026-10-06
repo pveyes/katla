@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.bur",
+    "akarKata": null,
+    "ejaan": "kubur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang dalam tanah tempat menyimpan mayat; liang lahad",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat pemakaman jenazah; makam",
+        "contoh": "ia berziarah ke -- ayahnya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bah.ri",
+    "akarKata": null,
+    "ejaan": "bahri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keris panjang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

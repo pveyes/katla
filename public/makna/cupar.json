@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "cu.par",
+    "akarKata": null,
+    "ejaan": "cupar",
+    "baku": true,
+    "alt": "copar",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka berkata-kata keji (serampangan saja dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.par",
+    "akarKata": null,
+    "ejaan": "cupar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat pelit dan selalu mencampuri urusan dapur atau pekerjaan orang perempuan (tentang seorang laki-laki)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

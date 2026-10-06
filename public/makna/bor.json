@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "bor",
+    "akarKata": null,
+    "ejaan": "bor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perkakas untuk menggerek kayu (besi dan sebagainya) atau menggali lubang dan sebagainya; jara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bor",
+    "akarKata": null,
+    "ejaan": "bor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "papan (dalam kelas dan sebagainya) untuk menulis; papan tulis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

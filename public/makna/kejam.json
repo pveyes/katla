@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ke.jam",
+    "akarKata": null,
+    "ejaan": "kêjam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak menaruh belas kasihan; bengis; zalim",
+        "contoh": "ketika berkuasa, pemimpin sangat -- terhadap rakyatnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat kikir",
+        "contoh": "majikan itu sangat --, tidak mau menaikkan upah buruhnya barang sedikit juga",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.jam",
+    "akarKata": null,
+    "ejaan": "kêjam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tertutup rapat (tentang mata); pejam",
+        "contoh": "sungguhpun setiap hari matanya --, ia tidak tidur",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LSM",
+    "akarKata": null,
+    "ejaan": "LSM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lembaga Swadaya Masyarakat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

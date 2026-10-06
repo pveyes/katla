@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ca.rat",
+    "akarKata": null,
+    "ejaan": "carat",
+    "baku": false,
+    "alt": "carak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "isap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ambil secara berlebih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "udu",
+    "akarKata": null,
+    "ejaan": "udu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musuh",
+        "contoh": "orang takabur -- Allah",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "udu",
+    "akarKata": null,
+    "ejaan": "udu",
+    "baku": false,
+    "alt": "wudu",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyucikan diri (sebelum salat) dengan membasuh muka, tangan, kepala, dan kaki",
+        "contoh": "hai Nak, -- dulu sebelum salat",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

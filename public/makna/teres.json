@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.res",
+    "akarKata": null,
+    "ejaan": "tèrès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemotongan kambium secara melingkar untuk mematikan pohon secara perlahan-lahan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kehutanan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

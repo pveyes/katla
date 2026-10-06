@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "ke.sah",
+    "akarKata": null,
+    "ejaan": "kêsah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suara yang diungkapkan karena perasaan gelisah (kesal, tidak senang, dan sebagainya); keluh kesah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialog, ucapan panjang, atau gumam seorang tokoh yang mengeluhkan nasibnya atau menyampaikan pikirannya langsung kepada penonton; senandika",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "cob",
+    "akarKata": null,
+    "ejaan": "cob",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menggerak-gerakkan badan ke atas dan ke bawah (pada waktu berjalan cepat)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

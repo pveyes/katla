@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "la.puk",
+    "akarKata": null,
+    "ejaan": "lapuk",
+    "baku": true,
+    "alt": "lepuk",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bercendawan karena sudah lama",
+        "contoh": "keranjang bambu ini sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak; busuk (karena sudah tua)",
+        "contoh": "rumah ini roboh karena tiang-tiangnya sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhubungan dengan penghancuran bahan yang berasal dari tumbuhan dan binatang oleh aktivitas jamur dan jasad renik lain",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ketinggalan zaman; usang; kolot",
+        "contoh": "orang tua itu masih menganut paham yang sudah --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.puk",
+    "akarKata": null,
+    "ejaan": "lapuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berlapuk-lapuk",
+          "melapuk"
+        ]
+      }
+    ]
+  }
+]

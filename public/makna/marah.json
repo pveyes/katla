@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ma.rah",
+    "akarKata": null,
+    "ejaan": "marah",
+    "baku": true,
+    "alt": "amarah",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat tidak senang (karena dihina, diperlakukan tidak sepantasnya, dan sebagainya); berang; gusar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.rah",
+    "akarKata": null,
+    "ejaan": "marah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar anak sutan yang menikah dengan perempuan biasa atau putri (bangsawan) dengan laki-laki biasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

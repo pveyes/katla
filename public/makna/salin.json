@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "sa.lin",
+    "akarKata": null,
+    "ejaan": "salin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ganti; tukar",
+        "contoh": "sebelum berangkat, ia harus -- pakaian dulu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.lin",
+    "akarKata": null,
+    "ejaan": "salin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang baru memijahkan telur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.lin",
+    "akarKata": null,
+    "ejaan": "salin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyiapkan perlengkapan upacara untuk menuai padi dilengkapi dengan sajen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

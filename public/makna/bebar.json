@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "be.bar",
+    "akarKata": null,
+    "ejaan": "bêbar",
+    "baku": true,
+    "alt": "babar",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lari ke sana kemari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

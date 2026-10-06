@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "be.suk",
+    "akarKata": null,
+    "ejaan": "bêsuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melakukan kunjungan ke rumah sakit untuk menjenguk orang sakit yang dirawat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

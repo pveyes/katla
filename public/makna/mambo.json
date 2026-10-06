@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "mam.bo",
+    "akarKata": null,
+    "ejaan": "mambo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "irama musik dan tarian yang berasal dari Kuba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mam.bo",
+    "akarKata": null,
+    "ejaan": "mambo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis barang yang pada masa lalu dianggap baru (modern), seperti baju --, es --, sandal --",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

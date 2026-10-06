@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "agens",
+    "akarKata": null,
+    "ejaan": "agèns",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomina yang menampilkan perbuatan atau yang menyebabkan atau yang memulai suatu kejadian, atau yang memengaruhi suatu proses; pelaku",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyebab; agen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

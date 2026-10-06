@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ca.kus",
+    "akarKata": null,
+    "ejaan": "cakus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "geretan; korek api",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.kus",
+    "akarKata": null,
+    "ejaan": "cakus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "geretan; korek api",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

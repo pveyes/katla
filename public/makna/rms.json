@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RMS",
+    "akarKata": null,
+    "ejaan": "RMS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Republik Maluku Selatan (sebuah republik di Kepulauan Maluku yang didirikan pada 25 April 1950)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

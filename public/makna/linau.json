@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "li.nau",
+    "akarKata": null,
+    "ejaan": "linau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nibung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "umbut linau",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun linau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

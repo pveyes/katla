@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "su.a.ri",
+    "akarKata": null,
+    "ejaan": "suari",
+    "baku": false,
+    "alt": "kasuari",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung besar yang tingginya mencapai 1 m, di kepalanya terdapat pial dan gelambir, kakinya berjari tiga, makanannya tumbuhan atau serangga, terdapat di Papua dan daerah sekitarnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.a.ri",
+    "akarKata": null,
+    "ejaan": "suari",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat bantal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

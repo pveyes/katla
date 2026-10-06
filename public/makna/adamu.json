@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.mu",
+    "akarKata": null,
+    "ejaan": "adamu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penguasa tanah yang dipercaya oleh masyarakat setempat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muna",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

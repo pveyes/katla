@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "bi.lai",
+    "akarKata": null,
+    "ejaan": "bilai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepi dan sebagainya yang disambungkan; sambungan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.lai",
+    "akarKata": null,
+    "ejaan": "bilai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luka panjang pada kulit (bekas kena cambuk dan sebagainya); bilur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

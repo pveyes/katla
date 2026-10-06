@@ -1,0 +1,80 @@
+[
+  {
+    "sukuKata": "te.pas",
+    "akarKata": null,
+    "ejaan": "têpas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anyaman bambu (gedek atau bilik) untuk dinding, tutupan, sekat, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan kulit luar pohon (misalnya kelapa)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pas",
+    "akarKata": null,
+    "ejaan": "têpas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serambi depan; beranda depan",
+        "contoh": "di bagian lain dari -- itu terbentuklah kelompok-kelompok yang sedang asyik mengobrol",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pas",
+    "akarKata": null,
+    "ejaan": "têpas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "arah (penjuru, batas)",
+        "contoh": "empat -- dunia",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.pas",
+    "akarKata": null,
+    "ejaan": "têpas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh sekali (tentang isi peti, koper, dan sebagainya)",
+        "contoh": "penuh --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sarat (tentang muatan)",
+        "contoh": "sarat --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BRM",
+    "akarKata": null,
+    "ejaan": "BRM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bendara Raden Mas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

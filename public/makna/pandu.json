@@ -1,0 +1,86 @@
+[
+  {
+    "sukuKata": "pan.du",
+    "akarKata": null,
+    "ejaan": "pandu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penunjuk jalan; perintis jalan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mualim (di kapal)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal penunjuk jalan (dalam pelabuhan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggota perkumpulan pemuda yang berpakaian seragam khusus, bertujuan mendidik anggotanya supaya menjadi orang yang berjiwa kesatria, gagah berani, dan suka menolong sesama makhluk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan untuk pramuka sebelum tahun 1961",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pramuka",
+            "sumberTeks": "usulan untuk penambahan bidang baru"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pan.du",
+    "akarKata": null,
+    "ejaan": "pandu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda di jendela tampilan tempat kegiatan komputer terjadi atau ditampilkan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pan.du",
+    "akarKata": null,
+    "ejaan": "pandu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tanda di jendela tampilan tempat kegiatan komputer terjadi atau ditampilkan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

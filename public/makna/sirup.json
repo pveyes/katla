@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "si.rup",
+    "akarKata": null,
+    "ejaan": "sirup",
+    "baku": false,
+    "alt": "sirop",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air gula agak kental, terkadang diberi esens dan diwarnai; setrup",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "obat berbentuk cairan berasa manis",
+        "contoh": "di apotek itu tersedia obat dalam bentuk -- untuk anak-anak",
+        "info": []
+      }
+    ]
+  }
+]

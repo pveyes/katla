@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ke.tat",
+    "akarKata": null,
+    "ejaan": "kêtat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "erat melekat (sehingga sukar dicabut atau dilepaskan seperti keris pada sarungnya, sumbat pada botolnya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sendat; sempit (pakaian)",
+        "contoh": "pernah ada mode celana --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap tidak dapat diubah, tanpa kecuali (tentang perkataan, janji, perintah, peraturan, dan sebagainya)",
+        "contoh": "seleksi -- dilakukan dalam pemilihan guru teladan nasional",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "teliti, cermat, dan rapi (tentang penjagaan)",
+        "contoh": "tempat-tempat yang penting dikawal -- siang dan malam",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ga.lah",
+    "akarKata": null,
+    "ejaan": "galah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tongkat yang panjang (dari bambu atau kayu dan sebagainya untuk menjolok buah-buahan, menolak perahu, menjemur pakaian, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombak (untuk memburu babi hutan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

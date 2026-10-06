@@ -1,0 +1,115 @@
+[
+  {
+    "sukuKata": "ca.kep",
+    "akarKata": null,
+    "ejaan": "cakêp",
+    "baku": false,
+    "alt": "cakap",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sanggup melakukan sesuatu; mampu; dapat",
+        "contoh": "-- engkau membunuh hulubalang itu?",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pandai; mahir",
+        "contoh": "anak itu belum -- mengerjakan hitungan perkalian",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mempunyai kemampuan dan kepandaian untuk mengerjakan sesuatu",
+        "contoh": "ia diberhentikan dari jabatannya karena tidak --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bagus rupanya; cantik; rupawan",
+        "contoh": "gadis itu modern lagi --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bagus; elok (potongan atau halus bahannya tentang pakaian dan sebagainya)",
+        "contoh": "alangkah --nya baju itu",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "patut; serasi",
+        "contoh": "ia pantas dan -- benar memakai baju itu",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tangkas; cekatan (tidak lamban)",
+        "contoh": "tampaknya ia -- bekerja",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          },
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.kep",
+    "akarKata": null,
+    "ejaan": "cakêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat terangkul hingga kedua ujung tangannya bertemu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

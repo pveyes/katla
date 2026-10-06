@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "en.tos",
+    "akarKata": null,
+    "ejaan": "êntos",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "padi yang siap dipanen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tombulu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

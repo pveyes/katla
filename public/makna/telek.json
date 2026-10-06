@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "te.lek",
+    "akarKata": null,
+    "ejaan": "têlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kotoran unggas (ayam, bebek, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

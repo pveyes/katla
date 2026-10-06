@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fi.tol",
+    "akarKata": null,
+    "ejaan": "fitol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alkohol yang berasal dari klorofil, digunakan untuk menyintesis vitamin E dan K",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

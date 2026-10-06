@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ci.lok",
+    "akarKata": null,
+    "ejaan": "cilok",
+    "baku": true,
+    "alt": "cilap",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang terbuat dari tapioka, bentuknya bulat menyerupai bakso, diberi isian gajih, daging, dan sebagainya, biasanya disajikan dengan saus, kecap, sambal kacang, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ci.lok",
+    "akarKata": null,
+    "ejaan": "cilok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "penganan yang terbuat dari tapioka, bentuknya bulat menyerupai bakso, diberi isian gajih, daging, dan sebagainya, biasanya disajikan dengan saus, kecap, sambal kacang, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

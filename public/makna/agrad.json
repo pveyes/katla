@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ag.rad",
+    "akarKata": null,
+    "ejaan": "agrad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman budi daya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

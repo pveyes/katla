@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ge.rit",
+    "akarKata": null,
+    "ejaan": "gêrit",
+    "baku": true,
+    "alt": "gerip",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi benda keras (pena dan sebagainya) digariskan dan sebagainya",
+        "contoh": "saya mendengar -- kursi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rit",
+    "akarKata": null,
+    "ejaan": "gêrit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "gerit-gerit putih"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rit",
+    "akarKata": null,
+    "ejaan": "gêrit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "gerit-gerit"
+        ]
+      }
+    ]
+  }
+]

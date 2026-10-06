@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ki.lan",
+    "akarKata": null,
+    "ejaan": "kilan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jengkal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.lan",
+    "akarKata": null,
+    "ejaan": "kilan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terkilan"
+        ]
+      }
+    ]
+  }
+]

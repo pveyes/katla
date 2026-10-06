@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "din",
+    "akarKata": null,
+    "ejaan": "din",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "agama",
+        "contoh": "dinul-Islam",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ma.rak",
+    "akarKata": null,
+    "ejaan": "marak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terang; mencolok (tentang warna)",
+        "contoh": "warna itu sangat --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nyala",
+        "contoh": "-- api",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berseri",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "meningkat; ramai",
+        "contoh": "isu pencatatan perkawinan -- belakangan ini",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.rak",
+    "akarKata": null,
+    "ejaan": "marak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menangkap ikan berama-ramai di sungai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

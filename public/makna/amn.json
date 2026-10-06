@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "AMN",
+    "akarKata": null,
+    "ejaan": "AMN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Akademi Militer Nasional",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

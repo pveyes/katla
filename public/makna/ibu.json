@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ibu",
+    "akarKata": null,
+    "ejaan": "ibu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wanita yang telah melahirkan seseorang; mak",
+        "contoh": "anak harus menyayangi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk wanita yang sudah bersuami",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sapaan takzim kepada perempuan baik yang sudah bersuami maupun yang belum",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang pokok(besar, asal, dan sebagainya)",
+        "contoh": "-- jari",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang utama di antara beberapa hal lain; yang terpenting",
+        "contoh": "-- negeri",
+        "info": []
+      }
+    ]
+  }
+]

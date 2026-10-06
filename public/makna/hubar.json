@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hu.bar",
+    "akarKata": null,
+    "ejaan": "hubar",
+    "baku": false,
+    "alt": "uber",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kejar; buru",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

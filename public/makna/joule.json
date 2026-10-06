@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jou.le",
+    "akarKata": null,
+    "ejaan": "joulê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan tenaga, sama dengan tenaga yang dihasilkan oleh tempuhan gaya satu Newton sejauh satu meter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

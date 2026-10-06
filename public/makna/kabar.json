@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ka.bar",
+    "akarKata": null,
+    "ejaan": "kabar",
+    "baku": true,
+    "alt": "khabar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laporan tentang peristiwa yang biasanya belum lama terjadi; berita; warta",
+        "contoh": "dia mendapat -- bahwa saudaranya naik haji",
+        "info": []
+      }
+    ]
+  }
+]

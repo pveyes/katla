@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UMJ",
+    "akarKata": null,
+    "ejaan": "UMJ",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Muhammadiyah Jakarta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

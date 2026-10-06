@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "su.luh",
+    "akarKata": null,
+    "ejaan": "suluh",
+    "baku": true,
+    "alt": "sulu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang dipakai untuk menerangi (biasa dibuat dari daun kelapa yang kering); obor",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengintai; penyelidik; mata-mata; penyuluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

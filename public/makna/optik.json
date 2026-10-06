@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "op.tik",
+    "akarKata": null,
+    "ejaan": "optik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan penglihatan (cahaya, lensa mata, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "toko peralatan optik (kacamata dan sebagainya)",
+        "contoh": "ayah memesan lensa kaca mata di sebuah --",
+        "info": []
+      }
+    ]
+  }
+]

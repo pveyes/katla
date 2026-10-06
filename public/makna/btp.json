@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BTP",
+    "akarKata": null,
+    "ejaan": "BTP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tim pertempuran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

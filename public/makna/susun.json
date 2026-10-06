@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "su.sun",
+    "akarKata": null,
+    "ejaan": "susun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok atau kumpulan yang tidak berapa banyak; tumpuk",
+        "contoh": "dia mengikat dua -- pakaian bekas untuk fakir miskin",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seperangkat barang yang (diatur) bertingkat-tingkat",
+        "contoh": "ia membeli beberapa -- piring",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rangkap (yang tindih-menindih)",
+        "contoh": "mawar bermahkota -- bukan-lah mawar jenis baru",
+        "info": []
+      }
+    ]
+  }
+]

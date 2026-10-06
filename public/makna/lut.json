@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "lut",
+    "akarKata": null,
+    "ejaan": "lut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat terluka oleh senjata; tidak kebal terhadap senjata; telap; mempan",
+        "contoh": "orang itu tidak -- oleh senjata tajam",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lut",
+    "akarKata": null,
+    "ejaan": "lut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "batu (timah dan sebagainya) yang digantungkan pada tali untuk menduga kedalaman laut dan sebagainya; batu anting; batu duga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Lut",
+    "akarKata": null,
+    "ejaan": "Lut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nabi dan rasul ketujuh yang diutus Allah Swt. untuk kaum Sodom",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

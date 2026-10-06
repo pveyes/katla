@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Po.mau",
+    "akarKata": null,
+    "ejaan": "Pomau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Polisi Militer Angkatan Udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.ang",
+    "akarKata": null,
+    "ejaan": "baang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perapian yang dibuat dari tanah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat penangkap tikus dari bambu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

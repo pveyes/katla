@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ka.pus",
+    "akarKata": null,
+    "ejaan": "kapus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala pusat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

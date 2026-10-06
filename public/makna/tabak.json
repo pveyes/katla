@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ta.bak",
+    "akarKata": null,
+    "ejaan": "tabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "talam besar tempat menghidangkan makanan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.bak",
+    "akarKata": null,
+    "ejaan": "tabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuali (belanga) tempat memasak nasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ta.bak",
+    "akarKata": null,
+    "ejaan": "tabak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kuali (belanga) tempat memasak nasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

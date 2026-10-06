@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "bu.fet",
+    "akarKata": null,
+    "ejaan": "bufèt",
+    "baku": true,
+    "alt": "bupet",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lemari tempat menyimpan makanan atau barang-barang pajangan (hiasan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat berjual minuman, makanan, dan sebagainya di stasiun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidangan makanan yang disajikan di atas meja dan dipilih sendiri oleh para tamu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "sukuKata": "alang",
+    "akarKata": null,
+    "ejaan": "alang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang melintang",
+        "contoh": "ditariknya garis --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang dipasang melintang (di antara dua tiang atau dua dinding perahu)",
+        "contoh": "-- muka perahu itu terbuat dari kayu yang kuat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dinding penyekat (bilik dan sebagainya)",
+        "contoh": "-- kedai",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "alang",
+    "akarKata": null,
+    "ejaan": "alang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tanggung(-tanggung); setengah-setengah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tengah-tengah",
+        "contoh": "saudara yang --, bukan bungsu bukan sulung",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "alang",
+    "akarKata": null,
+    "ejaan": "alang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hadiah; pemberian",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "alang",
+    "akarKata": null,
+    "ejaan": "alang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "botol berleher panjang tempat air minum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "aceh",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "alang",
+    "akarKata": null,
+    "ejaan": "alang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lumbung padi yang berbentuk prisma segitiga, atap dan dindingnya terbuat dari alang-alang, terdapat di daerah Lombok",
+        "contoh": "hasil panen petani disimpan di dalam --",
+        "info": [
+          {
+            "sumber": "sasak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "jreng",
+    "akarKata": null,
+    "ejaan": "jrèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi alat musik seperti gitar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tunai",
+        "contoh": "membayar --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jreng",
+    "akarKata": null,
+    "ejaan": "jrèng",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengejreng"
+        ]
+      }
+    ]
+  }
+]

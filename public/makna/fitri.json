@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "fit.ri",
+    "akarKata": null,
+    "ejaan": "fitri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhubungan dengan fitrah (sifat asal)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berhubungan dengan berbuka puasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "fit.ri",
+    "akarKata": null,
+    "ejaan": "fitri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesederhanaan; hal yang tidak dibuat-buat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

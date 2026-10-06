@@ -1,0 +1,93 @@
+[
+  {
+    "sukuKata": "ja.tuh",
+    "akarKata": null,
+    "ejaan": "jatuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(terlepas dan) turun atau meluncur ke bawah dengan cepat karena gravitasi bumi (baik ketika masih dalam gerakan turun maupun sesudah sampai ke tanah dan sebagainya)",
+        "contoh": "tabung kaca itu -- dan hancur",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "turun banyak (harga, nilai, dan sebagainya); merosot",
+        "contoh": "harga mobil di pasar bebas --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sampai ke ...; tiba di ...; kena pada ...; tembus ke ...; ditujukan ke",
+        "contoh": "jalan kecil ini -- ke Kampung Ambon",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bertepatan dengan; berbetulan dengan; tepat pada",
+        "contoh": "proklamasi kemerdekaan Republik Indonesia -- pada hari Jumat, tanggal 17 Agustus 1945",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berhenti memegang kekuasaan (tentang pemerintah, kabinet, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bangkrut (tentang toko, kongsi, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kalah atau dirampas musuh (kota, benteng, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak lulus (dalam ujian); gagal (dalam usaha); sangat menderita (rugi, sengsara, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak tahan lagi (oleh godaan, penderitaan, cobaan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi (sakit, miskin, cinta, dan sebagainya)",
+        "contoh": "-- miskin",
+        "info": []
+      }
+    ]
+  }
+]

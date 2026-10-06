@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "uta.ra",
+    "akarKata": null,
+    "ejaan": "utara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata angin yang arahnya berlawanan dengan selatan; mata angin yang arahnya sebelah kiri jika kita menghadap ke timur (matahari terbit)",
+        "contoh": "bangunan yang berjajar dari -- ke selatan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uta.ra",
+    "akarKata": null,
+    "ejaan": "utara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mengutarakan",
+          "pengutaraan"
+        ]
+      }
+    ]
+  }
+]

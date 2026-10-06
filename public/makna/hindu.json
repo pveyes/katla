@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "hin.du",
+    "akarKata": null,
+    "ejaan": "hindu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nenek moyang (di Minangkabau)",
+        "contoh": "para tetua desa itu sedang memperbincangkan suku dan mencari --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Hin.du",
+    "akarKata": null,
+    "ejaan": "Hindu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "agama yang berkitab suci Weda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kebudayaan yang berdasarkan agama Hindu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penduduk asli India",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

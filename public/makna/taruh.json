@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ta.ruh",
+    "akarKata": null,
+    "ejaan": "taruh",
+    "baku": true,
+    "alt": "taruk",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(uang) taruhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cagar; tanggungan (utang dan sebagainya); sandera",
+        "contoh": "jika akan berutang Rp250.000,00 harus menyerahkan barang seharga Rp1.000.000,00 sebagai --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menaruh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

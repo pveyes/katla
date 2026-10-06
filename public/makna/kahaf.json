@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.haf",
+    "akarKata": null,
+    "ejaan": "kahaf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

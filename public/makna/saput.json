@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.put",
+    "akarKata": null,
+    "ejaan": "saput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan atau pembalut tipis; selaput",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.put",
+    "akarKata": null,
+    "ejaan": "saput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain persegi yang dikenakan setelah kain panjang, biasanya digunakan oleh laki-laki saat berpakaian adat Bali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

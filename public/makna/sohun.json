@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "so.hun",
+    "akarKata": null,
+    "ejaan": "sohun",
+    "baku": true,
+    "alt": "soun",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "vermiseli",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.kik",
+    "akarKata": null,
+    "ejaan": "bakik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman merambat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kik",
+    "akarKata": null,
+    "ejaan": "bakik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "burung berkik, biasa hidup di rawa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

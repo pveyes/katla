@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ce.rek",
+    "akarKata": null,
+    "ejaan": "cèrèk",
+    "baku": true,
+    "alt": "ceret",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat air minum yang bercerat, dibuat dari loyang dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menjerang air, rupanya seperti cerek, dibuat dari tembaga, kaleng, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk menyiram bunga yang berbentuk seperti cerek yang besar; embrat; gembor",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.rek",
+    "akarKata": null,
+    "ejaan": "cèrèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sicerek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

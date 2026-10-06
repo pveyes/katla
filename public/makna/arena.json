@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "are.na",
+    "akarKata": null,
+    "ejaan": "arèna",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelanggang",
+        "contoh": "-- tinju itu penuh sesak oleh penonton",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bidang (yang menjadi tempat bersaing, berjuang, dan sebagainya)",
+        "contoh": "terjun di -- politik",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "area pertunjukan terbuka di tengah auditorium, teater melingkar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kesenian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

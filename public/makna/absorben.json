@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ab.sor.ben",
+    "akarKata": null,
+    "ejaan": "absorbén",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang menyerap materi atau tenaga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat yang dapat menyerap atau menarik gas lembapan atau cairan ke dalam pori-porinya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "de.sak",
+    "akarKata": null,
+    "ejaan": "dèsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar perempuan golongan bangsawan tertentu di Bali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.sak",
+    "akarKata": null,
+    "ejaan": "dêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dorong (dengan tubuh dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.sak",
+    "akarKata": null,
+    "ejaan": "dêsak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kertas diremas-remas dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

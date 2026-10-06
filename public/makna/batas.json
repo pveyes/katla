@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ba.tas",
+    "akarKata": null,
+    "ejaan": "batas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis (sisi) yang menjadi perhinggaan suatu bidang (ruang, daerah, dan sebagainya); pemisah antara dua bidang (ruang, daerah, dan sebagainya); sempadan",
+        "contoh": "mana -- kebun ini?",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketentuan yang tidak boleh dilampaui",
+        "contoh": "pembentukan kabinet diberi -- waktu seminggu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perhinggaan",
+        "contoh": "air sungai itu tidak dalam, hanya sampai -- lutut",
+        "info": []
+      }
+    ]
+  }
+]

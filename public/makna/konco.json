@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kon.co",
+    "akarKata": null,
+    "ejaan": "konco",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kanca",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

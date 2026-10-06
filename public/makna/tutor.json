@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.tor",
+    "akarKata": null,
+    "ejaan": "tutor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang memberi pelajaran (membimbing) kepada seseorang atau sejumlah kecil siswa (di rumah, bukan di sekolah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dosen yang membimbing sejumlah mahasiswa dalam pelajarannya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

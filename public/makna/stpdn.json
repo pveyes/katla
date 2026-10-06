@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "STPDN",
+    "akarKata": null,
+    "ejaan": "STPDN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Sekolah Tinggi Pemerintahan Dalam Negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

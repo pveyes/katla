@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "tu.rus",
+    "akarKata": null,
+    "ejaan": "turus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang atau tonggak (dari kayu dan sebagainya) untuk mengukuhkan pagar (belat, bendungan, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang pohon untuk tiang pada pagar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang kayu atau bambu untuk tempat merambat kacang panjang (sirih, lada, dan sebagainya) menjalar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "mu.rah",
+    "akarKata": null,
+    "ejaan": "murah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebih rendah daripada harga yang dianggap berlaku di pasaran",
+        "contoh": "harga barang produksi dalam negeri jauh lebih -- daripada harga barang impor",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suka memberi atau menolong (tentang kebaikan)",
+        "contoh": "-- hati",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlebih-lebih; banyak",
+        "contoh": "-- rezeki",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gampang (mudah)",
+        "contoh": "-- senyum",
+        "info": []
+      }
+    ]
+  }
+]

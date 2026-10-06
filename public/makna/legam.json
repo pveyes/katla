@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "le.gam",
+    "akarKata": null,
+    "ejaan": "lêgam",
+    "baku": false,
+    "alt": "legum",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "degum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.gam",
+    "akarKata": null,
+    "ejaan": "lêgam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat hitam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

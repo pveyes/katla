@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ra.sul",
+    "akarKata": null,
+    "ejaan": "rasul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menerima wahyu Allah Swt. untuk disampaikan kepada manusia",
+        "contoh": "Muhammad adalah -- terakhir",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "murid Nabi Isa yang mula-mula menyiarkan agama Kristen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

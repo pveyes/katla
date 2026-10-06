@@ -1,0 +1,79 @@
+[
+  {
+    "sukuKata": "gu.guk",
+    "akarKata": null,
+    "ejaan": "guguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bukit kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.guk",
+    "akarKata": null,
+    "ejaan": "guguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "bukit kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.guk",
+    "akarKata": null,
+    "ejaan": "guguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok masyarakat dalam satu wilayah berdasarkan kesamaan keturunan, pekerjaan, atau gelar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gu.guk",
+    "akarKata": null,
+    "ejaan": "guguk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anjing (bahasa anak-anak)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

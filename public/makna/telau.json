@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.lau",
+    "akarKata": null,
+    "ejaan": "têlau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belang yang berwarna lebih muda atau lebih terang pada dasar warna yang tua atau gelap (seperti sinar matahari yang menembus daun-daunan terus ke tanah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "belang yang bertumpuk-tumpuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

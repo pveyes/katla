@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "acum.an",
+    "akarKata": "acum",
+    "ejaan": "acuman",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hasutan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tantangan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

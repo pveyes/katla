@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "La.tin",
+    "akarKata": null,
+    "ejaan": "Latin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang digunakan pada masa Romawi kuno, dalam sejarah digunakan secara luas untuk ilmu pengetahuan dan administrasi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penduduk asli suatu negara dengan bahasa yang dikembangkan dari bahasa Latin, misalnya Spanyol atau Italia",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang lahir atau tinggal di Amerika Latin, misalnya Brasil atau Meksiko",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

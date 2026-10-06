@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "ba.gai",
+    "akarKata": null,
+    "ejaan": "bagai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis; macam",
+        "contoh": "permata sembilan --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sama; persamaan; banding",
+        "contoh": "tidak ada --nya",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata depan untuk menyatakan perbandingan; seperti; laksana",
+        "contoh": "-- kucing dan anjing",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.gai",
+    "akarKata": null,
+    "ejaan": "bagai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dimakan cacing",
+        "contoh": "bangkainya membusuk dan --",
+        "info": [
+          {
+            "sumber": "minahasa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

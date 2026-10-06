@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pem.da",
+    "akarKata": null,
+    "ejaan": "pêmda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemerintah daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

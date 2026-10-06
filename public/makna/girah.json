@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "gi.rah",
+    "akarKata": null,
+    "ejaan": "girah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "semangat dan dorongan untuk membela kehormatan diri, keluarga, dan agama",
+        "contoh": "ia berpandangan tajam, jernih, fanatik, dan -- terhadap keselamatan dakwah",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "gi.rah",
+    "akarKata": null,
+    "ejaan": "girah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon kecil, tingginya 6 m, kayunya berwarna gelap dan tidak awet, tetapi digunakan untuk bangunan rumah sebagai balok; kencong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "gi.rah",
+    "akarKata": null,
+    "ejaan": "girah",
+    "baku": false,
+    "alt": "gairah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keinginan (hasrat, keberanian) yang kuat",
+        "contoh": "-- hatinya untuk menjadi dokter tiada terperikan",
+        "info": []
+      }
+    ]
+  }
+]

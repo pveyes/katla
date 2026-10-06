@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ro.let",
+    "akarKata": null,
+    "ejaan": "rolét",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat dengan sebuah roda baja, terdiri atas beberapa baris ketakrataan regular yang digunakan untuk membuat garis-garis butiran kasar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ro.let",
+    "akarKata": null,
+    "ejaan": "rolèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan judi yang menggunakan bola kecil yang dilemparkan di atas papan bulat yang berputar yang bertuliskan angka atau gambar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

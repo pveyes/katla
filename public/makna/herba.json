@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "her.ba",
+    "akarKata": null,
+    "ejaan": "hérba",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan terna",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan yang daun, bunga, atau akarnya dapat digunakan untuk bumbu makanan, obat-obatan, atau parfum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

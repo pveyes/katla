@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "lo.pak",
+    "akarKata": null,
+    "ejaan": "lopak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekukan tanah yang berisi air (tidak mengalir); kobakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lo.pak",
+    "akarKata": null,
+    "ejaan": "lopak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "petak (sawah)",
+        "contoh": "memiliki sawah tiga --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lo.pak",
+    "akarKata": null,
+    "ejaan": "lopak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kembali bertingkah laku, berpikir, dan sebagainya sebagai anak-anak (tentang orang yang berusia lanjut)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak tahu yang akan dikatakannya; bingung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lo.pak",
+    "akarKata": null,
+    "ejaan": "lopak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menampung air atau cairan lumpur pada tambang yang kemudian dipompakan ke luar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "mineralogi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ki.cep",
+    "akarKata": null,
+    "ejaan": "kicêp",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diam karena takut atau gelisah",
+        "contoh": "murid itu langsung -- saat tertangkap basah mencuri",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

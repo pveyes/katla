@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ak.pri",
+    "akarKata": null,
+    "ejaan": "Akpri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Angkatan Perang Republik Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

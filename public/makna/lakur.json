@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "la.kur",
+    "akarKata": null,
+    "ejaan": "lakur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bercampur (tentang logam)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "metalurgi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "logam campur; aloi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

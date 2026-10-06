@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "la.nun",
+    "akarKata": null,
+    "ejaan": "lanun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bajak laut; perompak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.nun",
+    "akarKata": null,
+    "ejaan": "lanun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan yang dibuat dari tepung beras, dicampur pewarna hitam, parutan kelapa, dan gula jawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "using",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ago.ni",
+    "akarKata": null,
+    "ejaan": "agoni",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "membersihkan rumput sebelum ditanami padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

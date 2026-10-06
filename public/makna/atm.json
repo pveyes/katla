@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ATM",
+    "akarKata": null,
+    "ejaan": "ATM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anjungan tunai mandiri; dari automatic teller machine",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ATM",
+    "akarKata": null,
+    "ejaan": "ATM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mode transfer asinkron; MTA; dari asynchronous transfer mode",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ATM",
+    "akarKata": null,
+    "ejaan": "ATM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "singkatan",
+        "definisi": "alat tenun mesin; mesin tenun dengan tenaga motor sebagai penggerak, memiliki kecepatan lebih tinggi daripada ATBM, dapat membuat kain dari yang kasar sampai dengan yang sangat halus dengan berbagai desain",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

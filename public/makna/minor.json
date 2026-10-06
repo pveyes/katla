@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "mi.nor",
+    "akarKata": null,
+    "ejaan": "minor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kecil (digunakan untuk selang, tangga nada, dan akor)",
+        "contoh": "selang nada sekon --, tangga nada A --, dan akor C --",
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil; kurang penting",
+        "contoh": "ia membawakan peran -- dalam drama itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum dewasa (tentang orang)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tambahan (tentang mata pelajaran, mata kuliah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mi.nor",
+    "akarKata": null,
+    "ejaan": "minor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelas ukuran daun yang menunjukkan ukuran lebih kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

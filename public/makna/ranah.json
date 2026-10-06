@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ra.nah",
+    "akarKata": null,
+    "ejaan": "ranah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah rata; dataran rendah; lembah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang berpaya-paya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "elemen atau unsur yang dibatasi; bidang disiplin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lingkungan yang memungkinkan terjadinya percakapan, merupakan kombinasi antara partisipan, topik, dan tempat (misalnya keluarga, pendidikan, tempat kerja, keagamaan, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian (satuan) perilaku manusia",
+        "contoh": "-- afektif",
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

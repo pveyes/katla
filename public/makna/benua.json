@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "be.nua",
+    "akarKata": null,
+    "ejaan": "bênua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian bumi berupa tanah atau daratan yang sangat luas sehingga bagian tengah benua itu tidak mendapat pengaruh langsung dari angin laut (seperti Eropa, Australia, Amerika, Afrika, dan Asia)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negeri; kerajaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

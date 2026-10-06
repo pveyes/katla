@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ra.mah",
+    "akarKata": null,
+    "ejaan": "ramah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "baik hati dan menarik budi bahasanya; manis tutur kata dan sikapnya; suka bergaul dan menyenangkan dalam pergaulan",
+        "contoh": "memang menyenangkan bergaul dengan orang yang --, banyak tawa dan banyak bicara",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "aman, menguntungkan, atau tidak merusak terhadap seseorang atau sesuatu",
+        "contoh": "mobil -- lingkungan; industri -- lingkungan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah digunakan atau dioperasikan; mudah dipahami",
+        "contoh": "program itu dirancang -- pengguna",
+        "info": []
+      }
+    ]
+  }
+]

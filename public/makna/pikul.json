@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.kul",
+    "akarKata": null,
+    "ejaan": "pikul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "beban yang digandar (dibawa dengan pikulan yang ditaruh di atas bahu)",
+        "contoh": "dia membeli se-- air minum",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran berat 62,5 kg",
+        "contoh": "hasil panennya tahun ini hanya 500 -- padi",
+        "info": []
+      }
+    ]
+  }
+]

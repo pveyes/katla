@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ga.yat",
+    "akarKata": null,
+    "ejaan": "gayat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa ngeri atau pusing (seperti ketika melihat ke bawah dari tempat yang tinggi); gamang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.yat",
+    "akarKata": null,
+    "ejaan": "gayat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "warga dusun yang sangat miskin yang ditanggung warga lain yang bukan kerabatnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

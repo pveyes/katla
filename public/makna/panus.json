@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.nus",
+    "akarKata": null,
+    "ejaan": "panus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyangga dian (lilin)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

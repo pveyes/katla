@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "le.lap",
+    "akarKata": null,
+    "ejaan": "lêlap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "nyenyak (tidur); tidak sadarkan diri",
+        "contoh": "ia baru saja --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; lenyap",
+        "contoh": "semuanya -- dari pandangan",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lalu tidak boleh ditebus (tentang gadaian)",
+        "contoh": "cincinnya -- pada akhir bulan ini",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "beku (tentang minyak kelapa)",
+        "contoh": "minyak kelapa -- kedinginan",
+        "info": []
+      }
+    ]
+  }
+]

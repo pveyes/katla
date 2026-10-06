@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "be.jat",
+    "akarKata": null,
+    "ejaan": "bêjat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak (anyaman, sol sepatu, dan sebagainya)",
+        "contoh": "tikar itu -- karena dimakan tikus",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak (tentang akhlak, budi pekerti); buruk (kelakuan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

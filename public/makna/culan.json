@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "cu.lan",
+    "akarKata": null,
+    "ejaan": "culan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman perdu, bunganya kecil berwarna kuning dan berbau harum dapat dicampurkan pada daun teh, daunnya digunakan sebagai obat; pacar cina",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun culan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

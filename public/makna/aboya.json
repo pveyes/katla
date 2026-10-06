@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abo.ya",
+    "akarKata": null,
+    "ejaan": "aboya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisang batu yang sudah masak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gorontalo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

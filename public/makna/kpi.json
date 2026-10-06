@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KPI",
+    "akarKata": null,
+    "ejaan": "KPI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Komisi Penyiaran Indonesia (lembaga independen yang berfungsi sebagai pengatur penyelenggaraan penyiaran di Indonesia)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

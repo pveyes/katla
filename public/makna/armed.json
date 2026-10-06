@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ar.med",
+    "akarKata": null,
+    "ejaan": "armêd",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "artileri medan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

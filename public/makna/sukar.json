@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "su.kar",
+    "akarKata": null,
+    "ejaan": "sukar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sulit dipecahkan atau diselesaikan; susah",
+        "contoh": "hitungan ini -- benar",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "muskil; tidak mudah",
+        "contoh": "-- melafalkan huruf ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mudah mendapat; jarang ada",
+        "contoh": "sekarang ini sedang -- mencari pekerjaan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam kekurangan; miskin",
+        "contoh": "hidupnya selalu --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mudah sembuh (tentang penyakit)",
+        "contoh": "penyakitnya terlalu --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

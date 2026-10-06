@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "bi.rah",
+    "akarKata": null,
+    "ejaan": "birah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "talas yang besar dan getahnya gatal, dapat menimbulkan gatal apabila kena kulit, umbinya enak setelah direbus dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gatal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

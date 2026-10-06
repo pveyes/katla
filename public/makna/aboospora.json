@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "abo.o.spo.ra",
+    "akarKata": null,
+    "ejaan": "aboospora",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "spora yang dihasilkan dari gamet betina yang tidak terbuahi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

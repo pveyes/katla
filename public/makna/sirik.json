@@ -1,0 +1,62 @@
+[
+  {
+    "sukuKata": "si.rik",
+    "akarKata": null,
+    "ejaan": "sirik",
+    "baku": false,
+    "alt": "syirik",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyekutuan Allah Swt. dengan yang lain, misalnya pengakuan kemampuan ilmu daripada kemampuan dan kekuatan Allah, pengabdian selain kepada Allah Swt. dengan menyembah patung, tempat keramat, dan kuburan, dan kepercayaan terhadap keampuhan peninggalan nenek moyang yang diyakini akan menentukan dan memengaruhi jalan kehidupan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.rik",
+    "akarKata": null,
+    "ejaan": "sirik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pantang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.rik",
+    "akarKata": null,
+    "ejaan": "sirik",
+    "baku": false,
+    "alt": "siri",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem nilai sosiokultural kepribadian yang merupakan pranata pertahanan harga diri dan martabat manusia sebagai individu dan anggota masyarakat dalam masyarakat Bugis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan tertimpa malu atau terhina dalam masyarakat Bugis dan Makassar",
+        "contoh": "penikaman bermotif -- meningkat di daerah itu",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "ba.pak",
+    "akarKata": null,
+    "ejaan": "bapak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang tua laki-laki; ayah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang laki-laki yang dalam pertalian kekeluargaan boleh dianggap sama dengan ayah (seperti saudara laki-laki ibu atau saudara laki-laki bapak)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang dipandang sebagai orang tua atau orang yang dihormati (seperti guru, kepala kampung)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan kepada orang laki-laki yang lebih tua dari yang memanggil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menjadi pelindung (pemimpin, perintis jalan, dan sebagainya yang banyak penganutnya)",
+        "contoh": "Ki Hadjar Dewantara dipandang sebagai -- Pendidikan Nasional",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pejabat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

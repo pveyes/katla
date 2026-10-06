@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "lu.ber",
+    "akarKata": null,
+    "ejaan": "lubèr",
+    "baku": true,
+    "alt": "leber",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melimpah; meluap; melembak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.ber",
+    "akarKata": null,
+    "ejaan": "lubêr",
+    "baku": true,
+    "alt": "leber",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "langsung, umum, bebas, dan rahasia (asas Pemilu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "lu.put",
+    "akarKata": null,
+    "ejaan": "luput",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang; lepas (dari)",
+        "contoh": "-- di mata (dari mata)",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak terjangkau dan sebagainya; lepas dari",
+        "contoh": "kelakuannya -- dari pengamatanku",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terhindar (dari); terlepas (dari)",
+        "contoh": "-- dari sergapan musuh",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak kena; meleset; salah",
+        "contoh": "tembakannya --",
+        "info": []
+      }
+    ]
+  }
+]

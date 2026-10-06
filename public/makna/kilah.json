@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ki.lah",
+    "akarKata": null,
+    "ejaan": "kilah",
+    "baku": true,
+    "alt": "kila",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu daya; tipu muslihat",
+        "contoh": "segala -- yang dijalankannya tidak memberi hasil yang diharapkan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dalih; alasan (yang dibuat-buat)",
+        "contoh": "itu semua hanya --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.lah",
+    "akarKata": null,
+    "ejaan": "kilah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siput laut yang bertanduk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

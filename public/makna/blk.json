@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BLK",
+    "akarKata": null,
+    "ejaan": "BLK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Balai Latihan Kerja (tempat pelatihan untuk mendapatkan keterampilan di bidang tertentu, misalnya komputer, tata busana, atau tata boga)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

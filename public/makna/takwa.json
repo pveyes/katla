@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "tak.wa",
+    "akarKata": null,
+    "ejaan": "takwa",
+    "baku": true,
+    "alt": "taqwa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "terpeliharanya diri dari siksa Allah Swt. dengan tetap taat melaksanakan perintah-Nya dan menjauhi segala larangan-Nya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keinsafan diri yang diikuti dengan kepatuhan dan ketaatan dalam melaksanakan perintah Allah Swt. dan menjauhi segala larangan-Nya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesalehan hidup",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tak.wa",
+    "akarKata": null,
+    "ejaan": "takwa",
+    "baku": true,
+    "alt": "tekua",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju model Cina, leher tertutup tinggi, belakangnya tidak simetris, berkancing sampai ke leher dan bersaku dua yang terletak pada bagian depan bawah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

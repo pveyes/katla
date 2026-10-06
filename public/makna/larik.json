@@ -1,0 +1,94 @@
+[
+  {
+    "sukuKata": "la.rik",
+    "akarKata": null,
+    "ejaan": "larik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baris; leret; deret",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bait; baris (dalam sajak)",
+        "contoh": "dengan teliti dia membaca -- demi -- sajak itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "variasi motif batik yang berupa titik-titik yang berderet",
+        "contoh": "-- batik ini terdiri atas tujuh titik yang berderet",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "struktur berurut yang berisi elemen individu yang dapat diakses melalui rujukan bilangan dan digunakan untuk menyimpan tabel dan himpunan data yang berkaitan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rik",
+    "akarKata": null,
+    "ejaan": "larik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "baris; leret; deret",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "bait; baris (dalam sajak)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "variasi motif batik yang berupa titik-titik yang berderet",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "struktur berurut yang berisi elemen individu yang dapat diakses melalui rujukan bilangan dan digunakan untuk menyimpan tabel dan himpunan data yang berkaitan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rik",
+    "akarKata": null,
+    "ejaan": "larik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah adat Kerinci berbentuk panggung dan berpetak-petak, yang memiliki dua ruangan (ruangan dalam dan ruangan luar)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jambi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "USU",
+    "akarKata": null,
+    "ejaan": "USU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Sumatra Utara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

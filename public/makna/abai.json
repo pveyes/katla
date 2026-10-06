@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "abai",
+    "akarKata": null,
+    "ejaan": "abai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak memedulikan (tidak mengerjakan baik-baik, tidak mementingkan, dan sebagainya)",
+        "contoh": "saya sedikit -- mengurus blog ini",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lalai",
+        "contoh": "sebagai seorang ayah, ia -- dari kewajiban keluarga",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Abai",
+    "akarKata": null,
+    "ejaan": "Abai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa di Provinsi Kalimantan Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Abai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "we.lit",
+    "akarKata": null,
+    "ejaan": "wêlit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap (terbuat dari ilalang)",
+        "contoh": "rumahku beratap --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

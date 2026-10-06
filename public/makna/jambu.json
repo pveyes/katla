@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "jam.bu",
+    "akarKata": null,
+    "ejaan": "jambu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama pohon dan buahnya, ada berbagai macam",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jam.bu",
+    "akarKata": null,
+    "ejaan": "jambu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jambul; gombak; bulu-bulu (pada ujung tombak dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

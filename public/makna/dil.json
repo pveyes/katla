@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "dil",
+    "akarKata": null,
+    "ejaan": "dil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan yang menggunakan bola keras dan tongkat pemukul bola",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

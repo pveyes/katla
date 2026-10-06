@@ -1,0 +1,59 @@
+[
+  {
+    "sukuKata": "-lah",
+    "akarKata": null,
+    "ejaan": "-lah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "yang digunakan untuk menekankan makna kata yang di depannya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lah",
+    "akarKata": null,
+    "ejaan": "lah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "telah",
+        "contoh": "hari -- larut senja",
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "lah",
+    "akarKata": null,
+    "ejaan": "lah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk memberi tekanan atau menyungguhkan",
+        "contoh": "“--, itu orangnya”, katanya sambil menunjuk seseorang yang baru datang",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

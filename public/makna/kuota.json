@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.o.ta",
+    "akarKata": null,
+    "ejaan": "kuota",
+    "baku": true,
+    "alt": "kuotum",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jatah; jumlah yang ditentukan",
+        "contoh": "pemerintah akan menentukan -- transmigrasi dari berbagai kabupaten",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah tertinggi dari barang yang mendapat izin impor (ekspor) ke pasaran internasional, negara lain, dan sebagainya dalam jumlah dan periode tertentu; jatah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah tertinggi orang yang boleh masuk (keluar) ke (dari) suatu negara (seperti ketika menunaikan ibadah haji)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

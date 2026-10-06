@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "mal.ka",
+    "akarKata": null,
+    "ejaan": "malka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat bertemu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

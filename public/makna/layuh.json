@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "la.yuh",
+    "akarKata": null,
+    "ejaan": "layuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lumpuh; tepok (tentang tubuh, kaki, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat lemah; tidak bersinar (tentang mata)",
+        "contoh": "mata si sakit sudah -- dan tenaganya sudah hampir habis",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

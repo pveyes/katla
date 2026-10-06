@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ba.kir",
+    "akarKata": null,
+    "ejaan": "bakir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "susu atau santan yang sudah basi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kir",
+    "akarKata": null,
+    "ejaan": "bakir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kaya; berada",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pandai; kaya (tentang pengetahuan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

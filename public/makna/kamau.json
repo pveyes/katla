@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.mau",
+    "akarKata": null,
+    "ejaan": "kamau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisau dari tulang binatang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sentani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

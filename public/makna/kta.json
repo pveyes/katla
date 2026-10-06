@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KTA",
+    "akarKata": null,
+    "ejaan": "KTA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kartu tanda anggota",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

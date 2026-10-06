@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.jut",
+    "akarKata": null,
+    "ejaan": "rajut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaring-jaring; jala-jala",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siratan benang yang berupa jaring untuk pundi-pundi, penutup sanggul, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pundi-pundi (pura) yang dibuat dari siratan benang, rami, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pakaian yang disirat dengan tangan atau mesin rajut",
+        "contoh": "kain -- lebih mahal daripada kain tenun",
+        "info": []
+      }
+    ]
+  }
+]

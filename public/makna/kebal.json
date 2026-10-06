@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ke.bal",
+    "akarKata": null,
+    "ejaan": "kêbal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mempan senjata; tidak dapat terlukai oleh senjata",
+        "contoh": "ia memang --, kabarnya peluru pun tidak mempan terhadapnya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat terkena sakit; tahan terhadap penyakit",
+        "contoh": "kalau sudah disuntik TCD, tubuh akan -- terhadap penyakit tipus, kolera, dan disentri",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat dituntut dalam perkara",
+        "contoh": "sekalian anggota parlemen -- ketika berbicara dalam sidang",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mempan oleh caci maki; tidak malu lagi biarpun dicaci maki; tebal kulit",
+        "contoh": "karena biasa diperlakukan secara kasar akhirnya ia -- terhadap caci maki",
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

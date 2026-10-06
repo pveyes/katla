@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gaz",
+    "akarKata": null,
+    "ejaan": "gaz",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran panjang lebih kurang 11 m",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

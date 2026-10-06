@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pe.luh",
+    "akarKata": null,
+    "ejaan": "pêluh",
+    "baku": false,
+    "alt": "peloh",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lemah zakar; impoten",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pe.luh",
+    "akarKata": null,
+    "ejaan": "pêluh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air yang keluar dari lubang pada kulit (pori); keringat",
+        "contoh": "mereka bekerja keras hingga -- bercucuran",
+        "info": []
+      }
+    ]
+  }
+]

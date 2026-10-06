@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ke.tah",
+    "akarKata": null,
+    "ejaan": "kêtah",
+    "baku": false,
+    "alt": "kutaha",
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "agaknya; konon",
+        "contoh": "-- tah",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

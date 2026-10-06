@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "lo.tak",
+    "akarKata": null,
+    "ejaan": "lotak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mulai busuk",
+        "contoh": "mayat itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lusuh (karena tua, usang, dan sebagainya)",
+        "contoh": "kain itu sudah --",
+        "info": []
+      }
+    ]
+  }
+]

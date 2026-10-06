@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "sa.mas",
+    "akarKata": null,
+    "ejaan": "samas",
+    "baku": true,
+    "alt": "syamas",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perawat atau penolong orang miskin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.mas",
+    "akarKata": null,
+    "ejaan": "samas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sagu bakar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sorong",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

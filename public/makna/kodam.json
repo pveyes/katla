@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.dam",
+    "akarKata": null,
+    "ejaan": "kodam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando daerah militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

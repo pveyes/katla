@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "pa.gut",
+    "akarKata": null,
+    "ejaan": "pagut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbentur pada bagian atas tubuh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.gut",
+    "akarKata": null,
+    "ejaan": "pagut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "terbentur pada bagian atas tubuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.gut",
+    "akarKata": null,
+    "ejaan": "pagut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "terbentur pada bagian atas tubuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

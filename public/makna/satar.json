@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.tar",
+    "akarKata": null,
+    "ejaan": "satar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis; baris (tulisan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

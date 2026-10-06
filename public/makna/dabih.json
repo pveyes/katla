@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "da.bih",
+    "akarKata": null,
+    "ejaan": "dabih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sembelih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

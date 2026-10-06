@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "me.nit",
+    "akarKata": null,
+    "ejaan": "mênit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran waktu yang lamanya 1/60 jam atau enam puluh detik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran 1/60 bagian dari satu derajat (simbol)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PPN",
+    "akarKata": null,
+    "ejaan": "PPN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pajak pertambahan nilai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

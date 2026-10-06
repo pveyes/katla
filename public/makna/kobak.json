@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ko.bak",
+    "akarKata": null,
+    "ejaan": "kobak",
+    "baku": false,
+    "alt": "kubak",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kupas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.bak",
+    "akarKata": null,
+    "ejaan": "kobak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan anak-anak dengan cara melemparkan karet dan sebagainya ke dalam lubang di tanah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan judi dengan melemparkan uang (logam) ke dalam lubang di tanah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

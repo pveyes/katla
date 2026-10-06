@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bi.rai",
+    "akarKata": null,
+    "ejaan": "birai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pagar (dinding) rendah di tepi jembatan (tangga) atau di pinggir perahu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bingkai; lis; tepi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

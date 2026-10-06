@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "soa",
+    "akarKata": null,
+    "ejaan": "soa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kesatuan kekerabatan dalam masyarakat Ambon yang terdiri atas beberapa keluarga inti",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Soa",
+    "akarKata": null,
+    "ejaan": "Soa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Kabupaten Ngada, Pulau Flores, Provinsi Nusa Tenggara Timur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Soa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

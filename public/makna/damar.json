@@ -1,0 +1,81 @@
+[
+  {
+    "sukuKata": "da.mar",
+    "akarKata": null,
+    "ejaan": "damar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah keras yang berasal dari bermacam-macam pohon (banyak macamnya, seperti -- batu, -- daging, -- hitam)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lampu; pelita",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisa padat yang diperoleh dari terpentin (dengan sifat keras rapuh, tembus sinar, tanpa rasa, berwarna kuning, dapat digunakan untuk membuat sabun, pernis, cat, dan sebagainya dalam industri farmasi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.mar",
+    "akarKata": null,
+    "ejaan": "damar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemiri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Da.mar",
+    "akarKata": null,
+    "ejaan": "Damar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami Kepulauan Damar di wilayah Kabupaten Maluku Tenggara, Provinsi Maluku",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Damar di Maluku",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "na.lar",
+    "akarKata": null,
+    "ejaan": "nalar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "selalu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.lar",
+    "akarKata": null,
+    "ejaan": "nalar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pertimbangan tentang baik buruk dan sebagainya; akal budi",
+        "contoh": "setiap keputusan harus didasarkan -- yang sehat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aktivitas yang memungkinkan seseorang berpikir logis; jangkauan pikir; kekuatan pikir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

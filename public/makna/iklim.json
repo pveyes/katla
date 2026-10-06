@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "ik.lim",
+    "akarKata": null,
+    "ejaan": "iklim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan hawa (suhu, kelembapan, awan, hujan, dan sinar matahari) dalam jangka waktu yang agak lama (30 tahun) di suatu daerah",
+        "contoh": "-- sangat memengaruhi kesuburan suatu daerah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suasana; keadaan",
+        "contoh": "kita mengusahakan stabilitas ekonomi agar tercapai -- kerja yang baik",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

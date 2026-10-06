@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "si.fat",
+    "akarKata": null,
+    "ejaan": "sifat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rupa dan keadaan yang tampak pada suatu benda; tanda lahiriah",
+        "contoh": "kalau menilik --nya, tentulah ini sejenis serangga",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peri keadaan yang menurut kodratnya ada pada sesuatu (benda, orang, dan sebagainya)",
+        "contoh": "salah satu -- anjing adalah setia kepada tuannya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ciri khas yang ada pada sesuatu (untuk membedakan dari yang lain)",
+        "contoh": "-- puisi lain daripada -- prosa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dasar watak (dibawa sejak lahir); tabiat",
+        "contoh": "ia tidak mempunyai -- kesatria",
+        "info": []
+      }
+    ]
+  }
+]

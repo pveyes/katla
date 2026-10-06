@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "so.bok",
+    "akarKata": null,
+    "ejaan": "sobok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran dua macam logam yang sama banyaknya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.bok",
+    "akarKata": null,
+    "ejaan": "sobok",
+    "baku": true,
+    "alt": "selobok",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersobok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

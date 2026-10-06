@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "sa.rut",
+    "akarKata": null,
+    "ejaan": "sarut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "marut (carut-marut)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.rut",
+    "akarKata": null,
+    "ejaan": "sarut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyarut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

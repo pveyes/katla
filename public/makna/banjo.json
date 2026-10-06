@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ban.jo",
+    "akarKata": null,
+    "ejaan": "banjo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "banyo",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

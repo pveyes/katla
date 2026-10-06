@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "RRC",
+    "akarKata": null,
+    "ejaan": "RRC",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Republik Rakyat Cina; lihat RRT",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "pa.ruh",
+    "akarKata": null,
+    "ejaan": "paruh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "moncong atau mulut (burung, ayam, itik); cotok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.ruh",
+    "akarKata": null,
+    "ejaan": "paruh",
+    "baku": true,
+    "alt": "paro",
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "perdua",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

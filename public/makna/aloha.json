@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "aloha",
+    "akarKata": null,
+    "ejaan": "aloha",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "kasih (lazim digunakan utk memberi selamat atau salam)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hawaii",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

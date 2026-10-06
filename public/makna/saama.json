@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sa.a.ma",
+    "akarKata": null,
+    "ejaan": "saama",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluarga inti dalam masyarakat suku Batak Toba",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "batak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

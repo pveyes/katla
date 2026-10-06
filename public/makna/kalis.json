@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "ka.lis",
+    "akarKata": null,
+    "ejaan": "kalis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suci; bersih; murni",
+        "contoh": "bayi yang -- dari dosa jangan disia-siakan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berkilat atau bersinar karena tersaput sesuatu (tentang kaca, barang logam, dan sebagainya)",
+        "contoh": "kaca itu -- sebab terkena air",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat kena air atau tidak dapat basah (seperti daun keladi)",
+        "contoh": "daun keladi bersifat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat kena penyakit; kebal (dari penyakit)",
+        "contoh": "sejak kecil anak saya ini -- dari penyakit",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat dimasuki gas (udara); kedap udara",
+        "contoh": "-- udara",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terhindar (dari bahaya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.lis",
+    "akarKata": null,
+    "ejaan": "kalis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "elastis jika ditarik dan tidak mudah sobek",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

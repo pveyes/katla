@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ge.tek",
+    "akarKata": null,
+    "ejaan": "gètèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rakit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.tek",
+    "akarKata": null,
+    "ejaan": "gètèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buruk kelakuan (tentang perempuan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

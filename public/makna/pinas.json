@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pi.nas",
+    "akarKata": null,
+    "ejaan": "pinas",
+    "baku": false,
+    "alt": "penes",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal kecil",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kapal pinisi khas Banjar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

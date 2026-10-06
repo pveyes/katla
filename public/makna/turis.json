@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "tu.ris",
+    "akarKata": null,
+    "ejaan": "turis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menuris",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.ris",
+    "akarKata": null,
+    "ejaan": "turis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelancong; wisatawan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

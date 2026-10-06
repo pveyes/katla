@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sin.se",
+    "akarKata": null,
+    "ejaan": "sinsé",
+    "baku": true,
+    "alt": "sengsai, singse",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tabib; dukun",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cina",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

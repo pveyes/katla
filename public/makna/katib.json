@@ -1,0 +1,53 @@
+[
+  {
+    "sukuKata": "ka.tib",
+    "akarKata": null,
+    "ejaan": "katib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penulis atau penyalin (tulisan); sekretaris",
+        "contoh": "maka -- pun segera menuliskan surat sesuai dengan permintaan raja",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.tib",
+    "akarKata": null,
+    "ejaan": "katib",
+    "baku": false,
+    "alt": "khatib",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang menyampaikan khotbah (pada waktu salat Jumat dan sebagainya); juru khotbah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegawai masjid",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelamar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

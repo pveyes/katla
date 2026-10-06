@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.poi",
+    "akarKata": null,
+    "ejaan": "sêpoi",
+    "baku": true,
+    "alt": "sepui",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "silir-semilir (tentang angin)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.poi",
+    "akarKata": null,
+    "ejaan": "sêpoi",
+    "baku": false,
+    "alt": "sipahi",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serdadu India",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

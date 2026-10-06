@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wi.jik",
+    "akarKata": null,
+    "ejaan": "wijik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mencuci kaki (tangan)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

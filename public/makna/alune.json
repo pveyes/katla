@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Alu.ne",
+    "akarKata": null,
+    "ejaan": "aluné",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami daratan Pulau Seram, Kabupaten Maluku Tengah, Provinsi Maluku",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Alune",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

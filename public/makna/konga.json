@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ko.nga",
+    "akarKata": null,
+    "ejaan": "konga",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "irama lagu ritual yang berasal dari Kuba",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ab.rin",
+    "akarKata": null,
+    "ejaan": "abrin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat toksik yang menyebabkan aglutinasi butir darah merah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran dua macam protein",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

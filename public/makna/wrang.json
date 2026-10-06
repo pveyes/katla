@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wrang",
+    "akarKata": null,
+    "ejaan": "wrang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian bangunan di dasar kapal, biasanya dipasang pada gading-gading kapal secara melintang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

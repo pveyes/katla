@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.mel",
+    "akarKata": null,
+    "ejaan": "gamêl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "sukuKata": "ma.kam",
+    "akarKata": null,
+    "ejaan": "makam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kubur",
+        "contoh": "mengantarkan jenazah ke --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekuburan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.kam",
+    "akarKata": null,
+    "ejaan": "makam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat tinggal; kediaman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.kam",
+    "akarKata": null,
+    "ejaan": "makam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan panjang yang berisi tingkatan yang harus ditempuh oleh seorang sufi yang penuh dengan berbagai kesulitan dan memerlukan usaha yang sungguh-sungguh sehingga tercapai keadaan yang tetap menjadi milik pribadi orang sufi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tasawuf",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.kam",
+    "akarKata": null,
+    "ejaan": "makam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan mulia (tinggi)",
+        "contoh": "ia mengakui belum sampai pada -- untuk bisa memahami konsep ulama besar itu secara rasional",
+        "info": []
+      }
+    ]
+  }
+]

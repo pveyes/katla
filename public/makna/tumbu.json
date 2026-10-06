@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tum.bu",
+    "akarKata": null,
+    "ejaan": "tumbu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bakul besar bertutup (untuk tempat beras dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

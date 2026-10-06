@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ORARI",
+    "akarKata": null,
+    "ejaan": "ORARI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Organisasi Radio Amatir Republik Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

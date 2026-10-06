@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "si.gau",
+    "akarKata": null,
+    "ejaan": "sigau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak teratur atau tidak tenteram; kacau; kusut masai (tentang keadaan, perangai, dan sebagainya)",
+        "contoh": "kulihat anak itu -- sekali perilakunya",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "lalu lalang dalam waktu cepat secara berulang",
+        "contoh": "kata-katanya -- dalam pikiranku",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

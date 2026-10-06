@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bo.moh",
+    "akarKata": null,
+    "ejaan": "bomoh",
+    "baku": true,
+    "alt": "bomor",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dukun",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pawang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

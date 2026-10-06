@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mer.cu",
+    "akarKata": null,
+    "ejaan": "mêrcu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang tertinggi (paling atas); puncak",
+        "contoh": "-- gunung",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

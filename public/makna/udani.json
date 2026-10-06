@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "uda.ni",
+    "akarKata": null,
+    "ejaan": "udani",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan memanjat, panjang mencapai 5 m, daun dan buahnya digunakan sebagai obat cacing; akar puntianak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun dan buah udani",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

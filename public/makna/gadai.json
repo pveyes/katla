@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ga.dai",
+    "akarKata": null,
+    "ejaan": "gadai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meminjam uang dalam batas waktu tertentu dengan menyerahkan barang sebagai tanggungan, jika telah sampai pada waktunya tidak ditebus, barang itu menjadi hak yang memberi pinjaman",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang diserahkan sebagai tanggungan utang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kredit jangka pendek dengan jaminan yang berlaku tiga bulan dan setiap kali dapat diperpanjang apabila tidak dihentikan oleh salah satu pihak yang bersangkutan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

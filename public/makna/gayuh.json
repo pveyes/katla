@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "ga.yuh",
+    "akarKata": null,
+    "ejaan": "gayuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gantung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.yuh",
+    "akarKata": null,
+    "ejaan": "gayuh",
+    "baku": false,
+    "alt": "kayuh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dayung yang berdaun sebelah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.yuh",
+    "akarKata": null,
+    "ejaan": "gayuh",
+    "baku": false,
+    "alt": "kayuh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dayung yang berdaun sebelah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pedal",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "le.sit",
+    "akarKata": null,
+    "ejaan": "lêsit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengisap (darah)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sit",
+    "akarKata": null,
+    "ejaan": "lêsit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "mengisap (darah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sit",
+    "akarKata": null,
+    "ejaan": "lêsit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "mengisap (darah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.sit",
+    "akarKata": null,
+    "ejaan": "lêsit",
+    "baku": true,
+    "alt": "lasit",
+    "makna": [
+      {
+        "definisi": "mengisap (darah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "su.ban",
+    "akarKata": null,
+    "ejaan": "suban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serpih kayu; selumbar; tatal penarahan dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pecahan kaca",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

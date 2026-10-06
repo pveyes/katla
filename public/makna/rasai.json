@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ra.sai",
+    "akarKata": null,
+    "ejaan": "rasai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merasai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

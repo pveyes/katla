@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BKP",
+    "akarKata": null,
+    "ejaan": "BKP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Bendara Kanjeng Pangeran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

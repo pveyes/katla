@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pu.nya",
+    "akarKata": null,
+    "ejaan": "punya",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menaruh (dalam arti memiliki)",
+        "contoh": "ia sudah -- uang pembeli sepeda",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memiliki",
+        "contoh": "siapa yang -- rumah ini",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "milik; yang dimiliki",
+        "contoh": "yang hilang -- saya, bukan -- Tuan",
+        "info": []
+      }
+    ]
+  }
+]

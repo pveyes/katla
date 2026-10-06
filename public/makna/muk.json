@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "muk",
+    "akarKata": null,
+    "ejaan": "muk",
+    "baku": false,
+    "alt": "mok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "piala dari email",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cangkir besar dari kaleng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

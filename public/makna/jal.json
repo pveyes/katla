@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "JAL",
+    "akarKata": null,
+    "ejaan": "JAL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jaringan area luas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

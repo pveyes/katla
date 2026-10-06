@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "en.cer",
+    "akarKata": null,
+    "ejaan": "èncèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cair; tidak kental",
+        "contoh": "minum kopi --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "menjadi cair",
+        "contoh": "mentega kalau dipanaskan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bercampur air, tidak kental, atau sangat kurang sari patinya (tentang barang cair yang mengandung suatu zat)",
+        "contoh": "tambahkan sedikit air supaya --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah mengerti; lekas menerima pelajaran; cerdas",
+        "contoh": "anak ini memang -- otaknya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sepele; mudah",
+        "contoh": "dia selalu menganggap -- lawannya",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

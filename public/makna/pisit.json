@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pi.sit",
+    "akarKata": null,
+    "ejaan": "pisit",
+    "baku": false,
+    "alt": "pisik",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat; sintal (berdaging banyak)",
+        "contoh": "badannya bertambah --",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.sit",
+    "akarKata": null,
+    "ejaan": "pisit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pijit; tekan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

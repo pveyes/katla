@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "isi.an",
+    "akarKata": "isi",
+    "ejaan": "isian",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang diisikan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dikosongkan untuk diisi",
+        "contoh": "daftar ~",
+        "info": []
+      }
+    ]
+  }
+]

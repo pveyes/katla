@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "tar",
+    "akarKata": null,
+    "ejaan": "tar",
+    "baku": false,
+    "alt": "tir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah catur (benteng, gajah)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tar",
+    "akarKata": null,
+    "ejaan": "tar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi mencambuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tar",
+    "akarKata": null,
+    "ejaan": "tar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue yang dibuat dari tepung terigu, gula, mentega, telur, dan sebagainya berbentuk bulat dengan ukuran besar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "tar",
+    "akarKata": null,
+    "ejaan": "tar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komponen dalam asap rokok yang tinggal sebagai sisa sesudah dihilangkannya komponen nikotin dan cairan, bersifat karsinogenik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

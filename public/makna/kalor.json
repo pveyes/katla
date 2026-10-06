@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "ka.lor",
+    "akarKata": null,
+    "ejaan": "kalor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tenaga panas yang dapat diterima dan diteruskan oleh satu benda ke benda lain secara hantaran (konduksi), penyinaran (radiasi), atau aliran (konveksi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedirgantaraan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

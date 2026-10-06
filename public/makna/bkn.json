@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "BKN",
+    "akarKata": null,
+    "ejaan": "BKN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Badan Kepegawaian Negara (lembaga pemerintah nonkementerian yang bertugas di bidang manajemen kepegawaian negara)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

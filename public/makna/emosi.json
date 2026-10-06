@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "emo.si",
+    "akarKata": null,
+    "ejaan": "èmosi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "luapan perasaan yang berkembang dan surut dalam waktu singkat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keadaan dan reaksi psikologis dan fisiologis (seperti kegembiraan, kesedihan, keharuan, kecintaan); keberanian yang bersifat subjektif",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "marah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

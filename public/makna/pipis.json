@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "pi.pis",
+    "akarKata": null,
+    "ejaan": "pipis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kencing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air kencing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.pis",
+    "akarKata": null,
+    "ejaan": "pipis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kencing",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "air kencing",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

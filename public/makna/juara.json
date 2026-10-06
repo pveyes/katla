@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "ju.a.ra",
+    "akarKata": null,
+    "ejaan": "juara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang (regu) yang mendapat kemenangan dalam pertandingan atau perlombaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang gagah berani; orang yang pandai bersilat; pendekar; jagoan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengatur dan pelerai dalam persabungan ayam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemimpin peralatan (pesta dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ahli; terpandai dalam sesuatu (pelajaran dan sebagainya)",
+        "contoh": "siswa itu dua tahun berturut-turut berhasil menjadi -- di kelasnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.a.ra",
+    "akarKata": null,
+    "ejaan": "juara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan air tawar, ukuran mencapai panjang 90 cm, berat 16 kg, hidup di dasar perairan tropis, di rawa, atau sungai, berbadan lonjong agak pipih, tidak bersisik, punggungnya berwarna hitam keabu-abuan, tersebar di Sungai Mekong, Malaysia, dan Indonesia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

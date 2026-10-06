@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "da.nau",
+    "akarKata": null,
+    "ejaan": "danau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "genangan air yang amat luas, dikelilingi daratan; telaga; tasik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.nau",
+    "akarKata": null,
+    "ejaan": "danau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mendanau"
+        ]
+      }
+    ]
+  }
+]

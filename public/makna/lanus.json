@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "la.nus",
+    "akarKata": null,
+    "ejaan": "lanus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang tenaga (tentang anak kecil) karena belum waktunya sudah disapih",
+        "contoh": "kalau sudah mengikuti program KB, tidak akan ada anak-anak yang --",
+        "info": [
+          {
+            "sumber": "sunda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.nus",
+    "akarKata": null,
+    "ejaan": "lanus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kurang tenaga (tentang anak kecil) karena belum waktunya sudah disapih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

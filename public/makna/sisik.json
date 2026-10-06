@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "si.sik",
+    "akarKata": null,
+    "ejaan": "sisik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapisan kulit yang keras dengan keping-keping (pada ikan, ular, kaki ayam, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dedaunan kecil dan tidak hijau seperti terlihat pada kuncup atau batang termodifikasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.sik",
+    "akarKata": null,
+    "ejaan": "sisik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sugi (tembakau)",
+        "contoh": "tembakau --",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

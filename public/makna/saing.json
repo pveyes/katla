@@ -1,0 +1,73 @@
+[
+  {
+    "sukuKata": "sa.ing",
+    "akarKata": null,
+    "ejaan": "saing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "taring",
+        "contoh": "-- babi rusa disukai orang",
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gigi yang terdapat di antara gigi seri dan geraham, bentuknya runcing; gigi taring",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.ing",
+    "akarKata": null,
+    "ejaan": "saing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "taring",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "gigi yang terdapat di antara gigi seri dan geraham, bentuknya runcing; gigi taring",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.ing",
+    "akarKata": null,
+    "ejaan": "saing",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "taring",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "gigi yang terdapat di antara gigi seri dan geraham, bentuknya runcing; gigi taring",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

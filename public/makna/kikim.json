@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "Ki.kim",
+    "akarKata": null,
+    "ejaan": "Kikim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami pemukiman yang tersebar di daerah aliran sungai Kikim, Kabupaten Lahat, Provinsi Sumatra Selatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Ki.kim",
+    "akarKata": null,
+    "ejaan": "Kikim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku bangsa Kikim",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

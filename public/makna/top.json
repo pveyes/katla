@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "top",
+    "akarKata": null,
+    "ejaan": "top",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu dari Siam atau Indo Cina",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "top",
+    "akarKata": null,
+    "ejaan": "top",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju kebaya; baju top",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "top",
+    "akarKata": null,
+    "ejaan": "top",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tertinggi atau teratas; puncak",
+        "contoh": "dia pemain bulu tangkis -- di tanah air",
+        "info": []
+      }
+    ]
+  }
+]

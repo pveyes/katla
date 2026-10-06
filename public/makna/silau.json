@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "si.lau",
+    "akarKata": null,
+    "ejaan": "silau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkilau-kilau pandangannya, tidak dapat melihat nyata karena terlampau terang cahayanya",
+        "contoh": "-- mata apabila memandang matahari",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat kagum (tertarik, terpesona) sehingga tidak dapat melihat kenyataan (yang sebenarnya)",
+        "contoh": "dia -- dengan kekayaannya hingga mau saja dikawini",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "si.lau",
+    "akarKata": null,
+    "ejaan": "silau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyilau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

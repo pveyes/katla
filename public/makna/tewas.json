@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "te.was",
+    "akarKata": null,
+    "ejaan": "tèwas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mati (dalam perang, bencana, dan sebagainya)",
+        "contoh": "enam gerilyawan dan puluhan tentara -- dalam pertempuran itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "kalah",
+        "contoh": "tim sepak bola itu -- pada babak semifinal",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cela; salah (luput); kekurangan (sesuatu yang kurang baik)",
+        "contoh": "apa --nya maka duli dipertuan tiada boleh mengurus ke benua Siam itu",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

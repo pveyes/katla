@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NIS",
+    "akarKata": null,
+    "ejaan": "NIS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor induk siswa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

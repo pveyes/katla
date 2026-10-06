@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "pa.tik",
+    "akarKata": null,
+    "ejaan": "patik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "budak belian; hamba tebusan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hamba (dipakai ketika berkata-kata dengan raja)",
+        "contoh": "-- berdatang sembah ke hadapan Baginda",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.tik",
+    "akarKata": null,
+    "ejaan": "patik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "petik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GKP",
+    "akarKata": null,
+    "ejaan": "GKP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabah kering panen",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "sukuKata": "da.rus",
+    "akarKata": null,
+    "ejaan": "darus",
+    "baku": false,
+    "alt": "daras",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mendaras",
+          "pendarasan"
+        ]
+      }
+    ]
+  }
+]

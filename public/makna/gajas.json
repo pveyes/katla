@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.jas",
+    "akarKata": null,
+    "ejaan": "gajas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak kumbang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "mo.dus",
+    "akarKata": null,
+    "ejaan": "modus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk verba yang mengungkapkan suasana kejiwaan sehubungan dengan perbuatan menurut tafsiran pembicara tentang apa yang diucapkannya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai yang paling besar frekuensinya dalam suatu deretan nilai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "angka statistik yang paling sering muncul dalam populasi atau sampel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "statistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai yang paling banyak muncul dalam suatu deret nilai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "matematika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

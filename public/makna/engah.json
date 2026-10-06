@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "engah",
+    "akarKata": null,
+    "ejaan": "êngah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tahu (sadar atau mengerti)",
+        "contoh": "dia baru -- bahwa dompetnya telah dicopet orang",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "engah",
+    "akarKata": null,
+    "ejaan": "êngah",
+    "baku": true,
+    "alt": "rengah",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "engah-engah",
+          "terengah-engah"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "engah",
+    "akarKata": null,
+    "ejaan": "êngah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "terperengah"
+        ]
+      }
+    ]
+  }
+]

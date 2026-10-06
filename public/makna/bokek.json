@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bo.kek",
+    "akarKata": null,
+    "ejaan": "bokèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak punya uang",
+        "contoh": "bukannya saya tidak mau menolongmu, tetapi saya sendiri sedang --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

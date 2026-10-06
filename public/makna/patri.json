@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "pat.ri",
+    "akarKata": null,
+    "ejaan": "patri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "solder (timah yang diluluhkan dengan batang logam yang dipanaskan, lalu dibubuhkan pada sambungan, untuk melekatkan, menyambung, menambal, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tempa; teguh; tetap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

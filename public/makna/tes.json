@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tes",
+    "akarKata": null,
+    "ejaan": "tès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ujian tertulis, lisan, atau wawancara untuk mengetahui pengetahuan, kemampuan, bakat, dan kepribadian seseorang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "percobaan untuk menguji kelaikan jalan suatu kendaraan bermotor umum; uji",
+        "contoh": "berdasarkan -- yang dilakukan di balai pengujian kendaraan bermotor kendaraan jenis itu cukup baik untuk angkutan penumpang dan barang",
+        "info": []
+      }
+    ]
+  }
+]

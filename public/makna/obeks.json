@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "obeks",
+    "akarKata": null,
+    "ejaan": "obèks",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "faktor pembatas yang merupakan sawar pemisah populasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

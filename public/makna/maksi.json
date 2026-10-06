@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "mak.si",
+    "akarKata": null,
+    "ejaan": "maksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berukuran sampai menutupi mata kaki (tentang gaun)",
+        "contoh": "ia lebih suka memakai baju -- daripada baju mini",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mak.si",
+    "akarKata": null,
+    "ejaan": "maksi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "makan siang",
+        "contoh": "-- bareng sama teman",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

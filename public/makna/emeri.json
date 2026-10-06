@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "eme.ri",
+    "akarKata": null,
+    "ejaan": "èmêri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ampelas yang terdiri atas bubuk korundum takmurni, digunakan dalam pengupaman dan penggerindaan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "korundum berwarna abu-abu gelap berbutir halus, mengandung oksida besi, banyak terdapat dalam batu gamping",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

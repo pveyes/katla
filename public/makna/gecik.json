@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ge.cik",
+    "akarKata": null,
+    "ejaan": "gêcik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala desa adat pada suku Gayo di Aceh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

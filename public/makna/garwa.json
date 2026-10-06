@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gar.wa",
+    "akarKata": null,
+    "ejaan": "garwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "istri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

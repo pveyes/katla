@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "KRL",
+    "akarKata": null,
+    "ejaan": "KRL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kereta rel listrik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "le.lah",
+    "akarKata": null,
+    "ejaan": "lêlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penat; letih; payah; tidak bertenaga",
+        "contoh": "setelah sembuh dari sakit itu, ia masih sering berasa --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecenderungan retak atau patah pada logam apabila mengalami tegangan berulang kali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "le.lah",
+    "akarKata": null,
+    "ejaan": "lêlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melelah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ZIS",
+    "akarKata": null,
+    "ejaan": "ZIS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zakat, infak, dan sedekah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

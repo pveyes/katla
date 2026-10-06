@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "eo.fil",
+    "akarKata": null,
+    "ejaan": "éofil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun awal yang dibentuk semai, berupa daun transisi sebelum munculnya daun dewasa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

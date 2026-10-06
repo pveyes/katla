@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mu.dik",
+    "akarKata": null,
+    "ejaan": "mudik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "(berlayar, pergi) ke udik (hulu sungai, pedalaman)",
+        "contoh": "dari Palembang -- sampai ke Sekayu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pulang ke kampung halaman",
+        "contoh": "seminggu menjelang Lebaran sudah banyak orang yang --",
+        "info": []
+      }
+    ]
+  }
+]

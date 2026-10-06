@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "de.rum",
+    "akarKata": null,
+    "ejaan": "dêrum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi guruh (iringan mobil dan sebagainya) yang kedengaran dari jauh",
+        "contoh": "penghuni kampung itu bersiap-siap mengungsi ketika mendengar -- konvoi musuh",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.rum",
+    "akarKata": null,
+    "ejaan": "dêrum",
+    "baku": true,
+    "alt": "derun, derung, lerum",
+    "makna": [
+      {
+        "definisi": "tiruan bunyi guruh (iringan mobil dan sebagainya) yang kedengaran dari jauh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

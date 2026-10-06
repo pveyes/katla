@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "Ba.ras",
+    "akarKata": null,
+    "ejaan": "Baras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah Pasangkayu di Kabupaten Mamuju, Provinsi Sulawesi Barat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan oleh suku Baras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.ras",
+    "akarKata": null,
+    "ejaan": "baras",
+    "baku": false,
+    "alt": "abras",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kusta",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mengidap penyakit kusta",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

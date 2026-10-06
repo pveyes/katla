@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sta.bo",
+    "akarKata": null,
+    "ejaan": "stabo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemindahan pasukan secara cepat",
+        "contoh": "perayaan hari itu akan dimeriahkan dengan demo -- oleh pasukan Kopassus",
+        "info": [
+          {
+            "sumber": "kemiliteran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

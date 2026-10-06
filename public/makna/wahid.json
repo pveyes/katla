@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "wa.hid",
+    "akarKata": null,
+    "ejaan": "wahid",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "satu; tunggal",
+        "contoh": "ia termasuk pemimpin nomor --",
+        "info": []
+      }
+    ]
+  }
+]

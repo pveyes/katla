@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "SDM",
+    "akarKata": null,
+    "ejaan": "SDM",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sumber daya manusia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

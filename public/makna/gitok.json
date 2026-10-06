@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "gi.tok",
+    "akarKata": null,
+    "ejaan": "gitok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuduk; tengkuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

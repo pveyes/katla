@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "loh",
+    "akarKata": null,
+    "ejaan": "loh",
+    "baku": false,
+    "alt": "lauh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepingan dari batu atau kayu sebagai alas menulis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepingan batu atau kayu yang bertuliskan kitab Taurat yang diterima Nabi Musa a.s. setelah bermunajat di Gunung Sinai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

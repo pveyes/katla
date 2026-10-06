@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ko.pok",
+    "akarKata": null,
+    "ejaan": "kopok",
+    "baku": true,
+    "alt": "kopak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi-bunyian seperti rebana kecil dibuat dari kayu atau logam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ko.pok",
+    "akarKata": null,
+    "ejaan": "kopok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nanah yang keluar dari lubang telinga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

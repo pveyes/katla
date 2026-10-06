@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "li.lin",
+    "akarKata": null,
+    "ejaan": "lilin",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan terbuat dari parafin, mudah mencair jika dipanaskan, dapat dipakai sebagai pelita dan/atau untuk membatik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan yang mengandung lemak, lekat, mengental, mencair jika dipanaskan, dicetak dalam berbagai bentuk untuk alat penerang (dengan diberi sumbu di tengahnya) atau benda mainan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan kuat cahaya (satu lilin = 12,56 lumen)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "elektronika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hidrokarbon padat yang mempunyai titik cair rendah dan mudah larut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

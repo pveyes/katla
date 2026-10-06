@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "yom",
+    "akarKata": null,
+    "ejaan": "yom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengasapi kelapa di atas para-para",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sula",
+            "sumberTeks": "bahasa di maluku utara"
+          }
+        ]
+      }
+    ]
+  }
+]

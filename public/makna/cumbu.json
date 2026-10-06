@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "cum.bu",
+    "akarKata": null,
+    "ejaan": "cumbu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata-kata manis yang dipakai untuk membujuk (waktu berkasih-kasihan dan sebagainya)",
+        "contoh": "-- rayu diperlukan terus-menerus untuk keutuhan rumah tangga",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senda gurau; lelucon (kelakar, olok-olok, dan sebagainya)",
+        "contoh": "seperti -- si tukang lawak",
+        "info": []
+      }
+    ]
+  }
+]

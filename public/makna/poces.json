@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "po.ces",
+    "akarKata": null,
+    "ejaan": "pocès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan dengan memakai kelereng",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

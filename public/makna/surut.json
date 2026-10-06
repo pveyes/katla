@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "su.rut",
+    "akarKata": null,
+    "ejaan": "surut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mundur; kembali (ke); balik (ke)",
+        "contoh": "berlaku -- dari bulan April",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(makin) berkurang; reda (tentang nafsu dan sebagainya); susut",
+        "contoh": "hingga jauh malam api kebakaran itu belum -- juga",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkurang (tentang permukaan air sesudah pasang naik); turun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ko.sar",
+    "akarKata": null,
+    "ejaan": "kosar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang kayunya baik untuk bahan rumah dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kosar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

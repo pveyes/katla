@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.pur",
+    "akarKata": null,
+    "ejaan": "kupur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perdu memanjat, tinggi mencapai hingga 10 m, rebusan akarnya digunakan untuk obat disentri, daunnya untuk obat batuk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar kupur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun kupur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

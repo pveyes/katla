@@ -1,0 +1,75 @@
+[
+  {
+    "sukuKata": "tu.tul",
+    "akarKata": null,
+    "ejaan": "tutul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik; noktah (tentang warna kulit bulu binatang)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tutul",
+    "akarKata": null,
+    "ejaan": "tutul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan anak-anak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "main tutul",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "tu.tul",
+    "akarKata": null,
+    "ejaan": "tutul",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "permainan anak-anak",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "main tutul",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

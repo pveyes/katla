@@ -1,0 +1,79 @@
+[
+  {
+    "sukuKata": "su.a.ra",
+    "akarKata": null,
+    "ejaan": "suara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi yang dikeluarkan dari mulut manusia (seperti pada waktu bercakap-cakap, menyanyi, tertawa, dan menangis)",
+        "contoh": "penyanyi itu merdu --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi binatang, alat perkakas, dan sebagainya",
+        "contoh": "kedengaran -- harimau mengaum",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ucapan (perkataan)",
+        "contoh": "hanya -- saja, tidak ada buktinya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi bahasa (bunyi ujar)",
+        "contoh": "fonem /w/ dalam bahasa Belanda tidak sama --nya dengan fonem /w/ dalam bahasa Indonesia",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dianggap sebagai perkataan (untuk melahirkan pikiran, perasaan, dan sebagainya)",
+        "contoh": "majalah ini merupakan -- kaum buruh, bukan -- suatu partai",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendapat",
+        "contoh": "dalam rapat itu -- saya tidak diindahkan sama sekali",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pernyataan (setuju atau tidak)",
+        "contoh": "usulnya diterima dengan -- bulat",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dukungan (dalam pemilihan)",
+        "contoh": "banyak anggota memberi -- kepada orang itu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

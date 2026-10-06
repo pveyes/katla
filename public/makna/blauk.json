@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bla.uk",
+    "akarKata": null,
+    "ejaan": "blauk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak capung yang belum dapat terbang, biasanya hidup di permukaan lumpur sawah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

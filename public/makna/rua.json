@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "rua",
+    "akarKata": null,
+    "ejaan": "rua",
+    "baku": true,
+    "alt": "rowa",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak makan tempat; tidak ringkas; lebar",
+        "contoh": "kalau ruangan luas, belilah alat rumah tangga yang --",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "rua",
+    "akarKata": null,
+    "ejaan": "rua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan",
+        "contoh": "tanpa tujuan, ia menyusuri -- di kota dingin ini",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "de.rai",
+    "akarKata": null,
+    "ejaan": "dêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi titik-titik air hujan yang jatuh di kaca dan sebagainya",
+        "contoh": "-- gerimis mulai terdengar",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.rai",
+    "akarKata": null,
+    "ejaan": "dêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "butir-butir (tanah, emas, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "de.rai",
+    "akarKata": null,
+    "ejaan": "dêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berderai-derai"
+        ]
+      }
+    ]
+  }
+]

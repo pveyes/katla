@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "bab",
+    "akarKata": null,
+    "ejaan": "bab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu; gapura",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian isi buku",
+        "contoh": "buku ini dibagi dalam lima -- yang masing-masing terdiri atas beberapa subbab",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal; masalah",
+        "contoh": "-- itu tidak perlu dipersoalkan lagi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "BAB",
+    "akarKata": null,
+    "ejaan": "BAB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buang air besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

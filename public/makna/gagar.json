@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ga.gar",
+    "akarKata": null,
+    "ejaan": "gagar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lantai rumah terbuat dari pohon palem",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "abrap",
+            "sumberTeks": "bahasa di provinsi papua"
+          }
+        ]
+      }
+    ]
+  }
+]

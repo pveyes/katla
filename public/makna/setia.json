@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "se.tia",
+    "akarKata": null,
+    "ejaan": "sêtia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berpegang teguh (pada janji, pendirian, dan sebagainya); patuh; taat",
+        "contoh": "bagaimanapun berat tugas yang harus dijalankannya, ia tetap -- melaksanakannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tetap dan teguh hati (dalam persahabatan dan sebagainya)",
+        "contoh": "telah sekian lama suaminya merantau, ia tetap -- menunggu",
+        "info": []
+      }
+    ]
+  }
+]

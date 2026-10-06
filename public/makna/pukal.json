@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pu.kal",
+    "akarKata": null,
+    "ejaan": "pukal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gumpal; bongkah (emas dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "padat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

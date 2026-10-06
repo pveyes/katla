@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ge.nap",
+    "akarKata": null,
+    "ejaan": "gênap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "penuh; utuh (tidak kurang); lengkap",
+        "contoh": "perkawinan kita telah -- 32 tahun",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak ganjil (tidak gasal) sehingga habis dibagi dua (tentang bilangan)",
+        "contoh": "enam itu bilangan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cocok; pantas",
+        "contoh": "umurnya sudah -- benar untuk dikhitankan",
+        "info": []
+      }
+    ]
+  }
+]

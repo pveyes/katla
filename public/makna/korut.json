@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Ko.rut",
+    "akarKata": null,
+    "ejaan": "Korut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Korea Utara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ba.kap",
+    "akarKata": null,
+    "ejaan": "bakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.kap",
+    "akarKata": null,
+    "ejaan": "bakap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabus3",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

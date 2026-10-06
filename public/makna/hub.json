@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hub",
+    "akarKata": null,
+    "ejaan": "hub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat yang memungkinkan jaringan eternet menggunakan tata letak fisik mirip dengan jaringan bintang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

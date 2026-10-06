@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "IHH",
+    "akarKata": null,
+    "ejaan": "IHH",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "iuran hasil hutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

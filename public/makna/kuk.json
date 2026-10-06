@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "KUK",
+    "akarKata": null,
+    "ejaan": "KUK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kredit usaha kecil",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "kuk",
+    "akarKata": null,
+    "ejaan": "kuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu lengkung yang dipasang di tengkuk kerbau (lembu) untuk menarik bajak (pedati dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kuk",
+    "akarKata": null,
+    "ejaan": "kuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara membenamkan atau menekan ke atas tepi pelat atau profil baja sepanjang sambungan keling dengan suatu alat agar sambungan tersebut kedap air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

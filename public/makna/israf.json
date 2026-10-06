@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "is.raf",
+    "akarKata": null,
+    "ejaan": "israf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "boros",
+        "contoh": "hidupnya --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

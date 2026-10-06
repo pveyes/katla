@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ge.rih",
+    "akarKata": null,
+    "ejaan": "gêrih",
+    "baku": false,
+    "alt": "gereh",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang dikeringkan dan asin rasanya; ikan asin",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rih",
+    "akarKata": null,
+    "ejaan": "gêrih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar yang berbelit-belit pada pohon dan menghasilkan getah; akar gerit-gerit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

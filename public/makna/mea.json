@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "MEA",
+    "akarKata": null,
+    "ejaan": "MEA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Masyarakat Ekonomi ASEAN (integrasi ekonomi antarnegara anggota ASEAN menuju perdagangan bebas)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

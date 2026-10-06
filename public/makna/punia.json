@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pu.nia",
+    "akarKata": null,
+    "ejaan": "punia",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemberian secara ikhlas; sedekah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

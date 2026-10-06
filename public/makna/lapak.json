@@ -1,0 +1,49 @@
+[
+  {
+    "sukuKata": "la.pak",
+    "akarKata": null,
+    "ejaan": "lapak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.pak",
+    "akarKata": null,
+    "ejaan": "lapak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tempat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "lapik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "nye.ri",
+    "akarKata": null,
+    "ejaan": "nyêri",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berasa sakit (seperti ditusuk-tusuk jarum atau seperti dijepit pada bagian tubuh); rasa yang menimbulkan penderitaan",
+        "contoh": "pasien itu mulai meringis-ringis menahan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengalaman fisik dan emosional yang diakibatkan karena luka pada jaringan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

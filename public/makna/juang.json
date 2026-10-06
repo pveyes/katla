@@ -1,0 +1,40 @@
+[
+  {
+    "sukuKata": "ju.ang",
+    "akarKata": null,
+    "ejaan": "juang",
+    "baku": true,
+    "alt": "joang",
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "berjuang",
+          "dijuang",
+          "keberjuangan",
+          "kepejuangan",
+          "memperjuangkan",
+          "pejuang",
+          "perjuangan"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ju.ang",
+    "akarKata": null,
+    "ejaan": "juang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "juang-juang"
+        ]
+      }
+    ]
+  }
+]

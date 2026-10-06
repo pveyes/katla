@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ATK",
+    "akarKata": null,
+    "ejaan": "ATK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat tulis kantor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

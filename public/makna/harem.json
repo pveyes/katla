@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ha.rem",
+    "akarKata": null,
+    "ejaan": "harêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian rumah terpisah khusus untuk kaum perempuan di negeri Arab",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok wanita yang dikawini oleh satu pria",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sekelompok betina yang dikendalikan oleh satu ekor jantan pada masa berahi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

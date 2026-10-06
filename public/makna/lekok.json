@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "le.kok",
+    "akarKata": null,
+    "ejaan": "lêkok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelok; keluk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

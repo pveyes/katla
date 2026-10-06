@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "so.nar",
+    "akarKata": null,
+    "ejaan": "sonar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peranti untuk mengamati (mendeteksi, menyidik) keberadaan dan lokasi benda di bawah permukaan laut dengan menggunakan gelombang suara yang dikirim dari peranti itu dan dipantulkan kembali oleh benda (objek) yang diamati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat yang menggunakan gelombang suara frekuensi tinggi untuk menemukan benda dan menentukan letaknya di bawah permukaan air",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

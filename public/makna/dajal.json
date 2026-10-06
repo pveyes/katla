@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "da.jal",
+    "akarKata": null,
+    "ejaan": "dajal",
+    "baku": true,
+    "alt": "dajjal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "setan yang datang ke dunia apabila kiamat sudah dekat (berupa raksasa)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang buruk kelakuannya; penipu; pembohong",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

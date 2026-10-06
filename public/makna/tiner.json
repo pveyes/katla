@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ti.ner",
+    "akarKata": null,
+    "ejaan": "tinêr",
+    "baku": true,
+    "alt": "tener",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan untuk campuran cat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

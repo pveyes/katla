@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ki.lik",
+    "akarKata": null,
+    "ejaan": "kilik",
+    "baku": false,
+    "alt": "kelat bahu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelang yang dipakai pada lengan atas, terutama pada waktu menari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.lik",
+    "akarKata": null,
+    "ejaan": "kilik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gelitik",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hasut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

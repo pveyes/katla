@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "men.to",
+    "akarKata": null,
+    "ejaan": "ménto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "musik rakyat Jamaika, mirip kalipso",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

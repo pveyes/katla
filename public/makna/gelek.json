@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ge.lek",
+    "akarKata": null,
+    "ejaan": "gélék",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gilas; lindas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.lek",
+    "akarKata": null,
+    "ejaan": "gèlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "gilas; lindas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

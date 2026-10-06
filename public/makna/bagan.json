@@ -1,0 +1,101 @@
+[
+  {
+    "sukuKata": "ba.gan",
+    "akarKata": null,
+    "ejaan": "bagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pangkalan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kerangka rumah yang baru didirikan seperti tiang, rusuk, kuda-kuda, bubungan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiang dan kayu palang pada para-para penjemur ikan dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambar rancangan; skema",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat peraga grafik untuk menyajikan data agar mempermudah penafsiran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "manajemen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gambaran secara analisis dan statistik tentang proses yang terjadi dalam alam, teknologi, dan masyarakat manusia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diagram yang memperlihatkan informasi sebagai serangkaian garis atau blok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.gan",
+    "akarKata": null,
+    "ejaan": "bagan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menangkap ikan di laut yang menggunakan cadik untuk peletak jala yang dibenamkan, dilengkapi dengan beberapa lampu agar ikan datang mendekatinya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

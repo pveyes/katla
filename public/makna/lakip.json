@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LAKIP",
+    "akarKata": null,
+    "ejaan": "LAKIP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "laporan akuntabilitas kinerja instansi pemerintah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

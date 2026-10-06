@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ka.pan",
+    "akarKata": null,
+    "ejaan": "kapan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "pronomina",
+        "tipeTeks": "kelas kata yang meliputi kata ganti, kata tunjuk, dan kata tanya",
+        "definisi": "kata tanya untuk menanyakan waktu",
+        "contoh": "-- dia akan pergi?",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.pan",
+    "akarKata": null,
+    "ejaan": "kapan",
+    "baku": false,
+    "alt": "kafan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain (putih) pembungkus mayat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

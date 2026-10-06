@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "abad",
+    "akarKata": null,
+    "ejaan": "abad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa seratus tahun",
+        "contoh": "bangunan itu diperkirakan dapat bertahan satu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jangka waktu yang lamanya seratus tahun",
+        "contoh": "-- ke-20 mulai dari tahun 1901 sampai tahun 2000",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zaman (yang lamanya tidak tentu)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masa yang kekal, tidak berkesudahan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "KLW",
+    "akarKata": null,
+    "ejaan": "KLW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Karya Latihan Wartawan; program pendidikan dan latihan untuk meningkatkan mutu wartawan yang diselenggarakan oleh Persatuan Wartawan Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

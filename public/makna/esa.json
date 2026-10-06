@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "esa",
+    "akarKata": null,
+    "ejaan": "êsa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "tunggal; satu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat tunggal, tidak bersekutu",
+        "contoh": "Tuhan Yang Maha --",
+        "info": []
+      }
+    ]
+  }
+]

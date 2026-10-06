@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "me.dia",
+    "akarKata": null,
+    "ejaan": "média",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat (sarana) komunikasi seperti koran, majalah, radio, televisi, film, poster, dan spanduk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang terletak di antara dua pihak (orang, golongan, dan sebagainya)",
+        "contoh": "wayang bisa dipakai sebagai -- pendidikan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perantara; penghubung",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat hara yang mengandung protein, karbohidrat, garam, air, dan sebagainya, baik berupa cairan maupun yang dipadatkan dengan menambah gelatin untuk menumbuhkan bakteri, sel, atau jaringan tumbuhan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan yang digunakan dalam pemasukan dan penyimpanan data di komputer, atau dalam perekaman hasil komputer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "sukuKata": "ba.lak",
+    "akarKata": null,
+    "ejaan": "balak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lak",
+    "akarKata": null,
+    "ejaan": "balak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wilayah klan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lak",
+    "akarKata": null,
+    "ejaan": "balak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.lak",
+    "akarKata": null,
+    "ejaan": "balak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kartu (dalam permainan domino) yang tiap sisinya bernilai sama",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

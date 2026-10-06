@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "la.tis",
+    "akarKata": null,
+    "ejaan": "latis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melatis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

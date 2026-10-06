@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ce.mek",
+    "akarKata": null,
+    "ejaan": "cèmèk",
+    "baku": false,
+    "alt": "cemeh",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buta mata sebelah; celek",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buta dengan mata melek seperti orang normal (tidak pejam matanya); cemer",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.mek",
+    "akarKata": null,
+    "ejaan": "cèmèk",
+    "baku": false,
+    "alt": "cemeh",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak penting; tidak berharga; remeh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

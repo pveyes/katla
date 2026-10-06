@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tun",
+    "akarKata": null,
+    "ejaan": "tun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan bagi bangsawan; tuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

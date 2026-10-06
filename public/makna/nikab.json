@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ni.kab",
+    "akarKata": null,
+    "ejaan": "nikab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cadar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

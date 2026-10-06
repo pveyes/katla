@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "dao",
+    "akarKata": null,
+    "ejaan": "dao",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombak yang digunakan untuk menangkap buaya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bauzi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

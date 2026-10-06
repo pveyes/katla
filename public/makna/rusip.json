@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ru.sip",
+    "akarKata": null,
+    "ejaan": "rusip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunga yang keluar dari jantung pisang berbentuk seperti buah pisang dan berisi air yang rasanya manis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.sip",
+    "akarKata": null,
+    "ejaan": "rusip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan makanan terbuat dari ikan yang dicampur dengan tepung beras gongseng, diperam dalam botol selama 4–7 hari, ditumis dengan bawang dan cabai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "palembang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

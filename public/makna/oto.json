@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "oto",
+    "akarKata": null,
+    "ejaan": "oto",
+    "baku": true,
+    "alt": "auto",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan (kereta) yang dijalankan dengan motor; mobil; otomobil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "oto",
+    "akarKata": null,
+    "ejaan": "oto",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain penutup dada dan perut yang bertali ujungnya sebagai pengikat pada leher dan perut (untuk anak di bawah usia lima tahun)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

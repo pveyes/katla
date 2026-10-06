@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ha.ris",
+    "akarKata": null,
+    "ejaan": "haris",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penjaga (pintu, gawang, dan sebagainya); pengawal",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "du.gem",
+    "akarKata": null,
+    "ejaan": "dugêm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dunia gemerlap (seperti klub malam dan diskotek)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "akronim"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menikmati musik disko, biasanya pada malam hari dan disertai minuman beralkohol",
+        "contoh": "ia tidak pernah terpengaruh ajakan kawannya untuk ikut pergi --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

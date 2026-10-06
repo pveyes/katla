@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ger.ha",
+    "akarKata": null,
+    "ejaan": "gêrha",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "istri; permaisuri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ger.ha",
+    "akarKata": null,
+    "ejaan": "gêrha",
+    "baku": true,
+    "alt": "graha, greha",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bangunan, kantor, tempat tinggal, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ki.tab",
+    "akarKata": null,
+    "ejaan": "kitab",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku",
+        "contoh": "-- bacaan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wahyu Tuhan yang dibukukan; kitab suci",
+        "contoh": "Alquran adalah -- yang harus dijadikan pedoman oleh seluruh umat Islam",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "tu.ban",
+    "akarKata": null,
+    "ejaan": "tuban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuban-tuban",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Tu.ban",
+    "akarKata": null,
+    "ejaan": "Tuban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabupaten di Provinsi Jawa Timur, terkenal dengan sebutan Bumi Wali",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

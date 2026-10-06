@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ke.but",
+    "akarKata": null,
+    "ejaan": "kêbut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hilang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.but",
+    "akarKata": null,
+    "ejaan": "kêbut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "jalankan dengan cepat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

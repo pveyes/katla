@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ra.gas",
+    "akarKata": null,
+    "ejaan": "ragas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "cabut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.gas",
+    "akarKata": null,
+    "ejaan": "ragas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "rambat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.gas",
+    "akarKata": null,
+    "ejaan": "ragas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda bukti; tanda yang didapati",
+        "contoh": "--nya bahwa ia mencuri ialah barang itu ternyata ada di rumahnya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ni.pis",
+    "akarKata": null,
+    "ejaan": "nipis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon jeruk yang buahnya kecil (kira-kira sebesar telur ayam), kulitnya agak halus, rasanya masam, dipakai untuk minuman dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah jeruk nipis",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

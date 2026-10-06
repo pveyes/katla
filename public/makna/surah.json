@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "su.rah",
+    "akarKata": null,
+    "ejaan": "surah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian atau bab dalam Al-Qur'an (kitab suci Al-Qur'an mempunyai 114 surah)",
+        "contoh": "-- Al-Fatihah",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.rah",
+    "akarKata": null,
+    "ejaan": "surah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain lembut yang terbuat dari sutra atau rayon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata busana",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

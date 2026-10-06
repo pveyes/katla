@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "li.nud",
+    "akarKata": null,
+    "ejaan": "linud",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lintas udara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

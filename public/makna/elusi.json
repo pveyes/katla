@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "elu.si",
+    "akarKata": null,
+    "ejaan": "élusi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses mengekstraksi zat yang umumnya padat dari campuran zat dengan menggunakan zat cair (pelarut)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

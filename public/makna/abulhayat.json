@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "abul.ha.yat",
+    "akarKata": null,
+    "ejaan": "abulhayat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bapak kehidupan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hujan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

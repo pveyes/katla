@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.pih",
+    "akarKata": null,
+    "ejaan": "pipih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tipis rata",
+        "contoh": "bulat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pesek (tentang hidung)",
+        "contoh": "hidung --",
+        "info": []
+      }
+    ]
+  }
+]

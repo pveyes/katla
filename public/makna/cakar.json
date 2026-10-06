@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ca.kar",
+    "akarKata": null,
+    "ejaan": "cakar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kaki dan kuku yang panjang (pada ayam, itik, burung)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuku yang panjang dan tajam (pada harimau, kucing, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gores (parut) bekas kena kuku atau digaruk",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggaruk; kukur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.kar",
+    "akarKata": null,
+    "ejaan": "cakar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang bekas seperti pakaian, sepatu, dan karung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

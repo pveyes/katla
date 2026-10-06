@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ca.cap",
+    "akarKata": null,
+    "ejaan": "cacap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lendir yang terdapat pada sendi tulang (sapi, kerbau, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan untuk memperlebat tumbuhnya rambut (dibuat dari lendir sendi tulang sapi, kerbau, dan sebagainya atau dari batang pisang, lendir daun lidah buaya, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

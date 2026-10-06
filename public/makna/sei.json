@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "sei",
+    "akarKata": null,
+    "ejaan": "séi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daging asap khas Timor",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

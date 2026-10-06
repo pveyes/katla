@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "can.du",
+    "akarKata": null,
+    "ejaan": "candu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon besar, tingginya 4,5 m, kayunya rapuh",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "getah kering pahit berwarna cokelat kekuning-kuningan yang diambil dari buah Papaver somniferum, dapat mengurangi rasa nyeri dan merangsang rasa kantuk serta menimbulkan rasa ketagihan bagi yang sering menggunakannya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cairan kental berwarna hitam yang keluar dari rokok yang diisap yang melekat pada pipa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menjadi kegemaran",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

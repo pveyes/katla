@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "di.nas",
+    "akarKata": null,
+    "ejaan": "dinas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian kantor pemerintah yang mengurus pekerjaan tertentu; jawatan",
+        "contoh": "-- Lalu Lintas dan Angkutan Jalan Raya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala sesuatu yang bersangkutan dengan jawatan (pemerintah), bukan swasta",
+        "contoh": "surat --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bertugas, bekerja (dalam jawatan pemerintah)",
+        "contoh": "di mana kau -- sekarang?",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

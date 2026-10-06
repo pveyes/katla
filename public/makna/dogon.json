@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "do.gon",
+    "akarKata": null,
+    "ejaan": "dogon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bersabar menunggu orang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jayawijaya",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bi.yak",
+    "akarKata": null,
+    "ejaan": "biyak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "panggilan untuk anak laki-laki atau anak perempuan",
+        "contoh": "ke mana -- tadi pergi?",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

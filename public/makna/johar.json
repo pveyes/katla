@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "Jo.har",
+    "akarKata": null,
+    "ejaan": "Johar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bintang timur; Venus; Zohrah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jo.har",
+    "akarKata": null,
+    "ejaan": "johar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "intan; jauhar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "jo.har",
+    "akarKata": null,
+    "ejaan": "johar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tingginya mencapai 20 m, biasa ditanam sebagai pohon peneduh, kayunya yang tua sangat kuat dan keras, dibuat hulu dan sarung keris, daunnya digunakan untuk pengobatan malaria; juar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu johar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun johar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

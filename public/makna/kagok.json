@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.gok",
+    "akarKata": null,
+    "ejaan": "kagok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah atau menjadi terhalang untuk melakukan sesuatu",
+        "contoh": "kamu jangan duduk terlampau dekat dengan sopir, nanti dia --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sulit melafalkan kata",
+        "contoh": "dia -- ketika mengucapkan kata asing itu",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "usang",
+    "akarKata": null,
+    "ejaan": "usang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kering dan hampa (tentang padi); kering kersang (tentang tembakau, rambut, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah lama (tentang barang); sudah rusak; sudah aus (karena lama terpakai, tersimpan, dan sebagainya)",
+        "contoh": "benda-benda --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah kuno; sudah tidak lazim lagi (tentang perkataan, adat, dan sebagainya)",
+        "contoh": "jangan menggunakan kata-kata -- dalam surat",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.duk",
+    "akarKata": null,
+    "ejaan": "paduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "garis batas tempat memulai (melemparkan dan sebagainya) dalam permainan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

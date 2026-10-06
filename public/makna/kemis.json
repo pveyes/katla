@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "Ke.mis",
+    "akarKata": null,
+    "ejaan": "kêmis",
+    "baku": true,
+    "alt": "emis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kamis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "minta (asalnya dilakukan pada hari Kamis)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

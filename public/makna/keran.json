@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ke.ran",
+    "akarKata": null,
+    "ejaan": "kêran",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat menyalakan api untuk memasak; perapian; anglo",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.ran",
+    "akarKata": null,
+    "ejaan": "kêran",
+    "baku": true,
+    "alt": "kran",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cerat pancuran (air leding), yang dapat dibuka dan ditutup dengan tutup berulir",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pintu",
+        "contoh": "sejak -- keterbukaan muncul, setiap orang berhak mengemukakan pendapat secara bebas",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

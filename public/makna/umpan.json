@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "um.pan",
+    "akarKata": null,
+    "ejaan": "umpan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan atau sesuatu (cacing dan sebagainya) yang digunakan untuk memikat atau menangkap binatang",
+        "contoh": "kambing itu akan dipergunakan sebagai -- untuk menangkap harimau",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "material, seperti bijih, yang dimasukkan ke dalam alat atau mesin untuk diolah atau diproses",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sasaran yang mudah dijadikan korban; mangsa",
+        "contoh": "bola yang melambung tanggung itu mudah menjadi -- bagi pukulan lawan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu (seseorang) yang dipakai untuk memikat; alat untuk memikat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "operan bola kepada pemain setim yang mencetak gol",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ap.lus",
+    "akarKata": null,
+    "ejaan": "aplus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bergilir (tentang orang yang bertugas, berkawal, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "aplus",
+    "akarKata": null,
+    "ejaan": "aplus",
+    "baku": false,
+    "alt": "aplaus",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepuk tangan dengan serentak tanda setuju, pujian, atau simpati (dalam rapat, pertunjukan, dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "belanda",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

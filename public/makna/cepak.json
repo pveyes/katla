@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ce.pak",
+    "akarKata": null,
+    "ejaan": "cêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi orang mengunyah makanan; kecap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.pak",
+    "akarKata": null,
+    "ejaan": "cêpak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pendek (tentang potongan rambut)",
+        "contoh": "rambut potongan -- model tentara",
+        "info": []
+      }
+    ]
+  }
+]

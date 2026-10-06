@@ -1,0 +1,74 @@
+[
+  {
+    "sukuKata": "sa.leh",
+    "akarKata": null,
+    "ejaan": "salèh",
+    "baku": true,
+    "alt": "sholeh, soleh, salih",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "taat dan sungguh-sungguh menjalankan ibadah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suci dan beriman",
+        "contoh": "mudah-mudahan ia akan menjadi anak yang --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sa.leh",
+    "akarKata": null,
+    "ejaan": "salèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "datang",
+        "contoh": "silakan Tuanku -- kembali esok pagi",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "pergi",
+        "contoh": "-- berlancang",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "Sa.leh",
+    "akarKata": null,
+    "ejaan": "salèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nabi dan rasul kelima yang diutus Allah Swt.",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

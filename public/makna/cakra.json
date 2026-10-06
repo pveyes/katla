@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "cak.ra",
+    "akarKata": null,
+    "ejaan": "cakra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "roda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besi bundar, pipih, dan tajam (untuk senjata); cakram",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama senjata sakti Dewa Wisnu, berupa panah dengan mata senjata bulat seperti roda bergerigi, dapat mengakhiri segala yang hidup (dalam pewayangan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cak.ra",
+    "akarKata": null,
+    "ejaan": "cakra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "energi yang terdapat pada jiwa seseorang, seperti emosi, karakter, mental, spiritual, dan kesehatan tubuh",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

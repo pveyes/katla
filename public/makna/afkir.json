@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "af.kir",
+    "akarKata": null,
+    "ejaan": "afkir",
+    "baku": true,
+    "alt": "apkir",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "ditolak; ditampik; tidak dapat dipakai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak produktif lagi dan dipisahkan dari kelompoknya untuk kemudian dijual atau dipotong",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "peternakan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

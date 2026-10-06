@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "as.pal",
+    "akarKata": null,
+    "ejaan": "aspal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "campuran hidrokarbon alam yang amorf, berwarna cokelat hitam dan berupa zat padat atau setengah padat yang dihasilkan dari minyak bumi dengan suhu pembakaran tinggi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan pelapis jalan yang rupanya seperti ter",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "as.pal",
+    "akarKata": null,
+    "ejaan": "aspal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asli tetapi palsu (sebutan untuk segala hal atau benda palsu yang tampak persis seperti asli)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

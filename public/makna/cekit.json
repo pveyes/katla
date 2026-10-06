@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ce.kit",
+    "akarKata": null,
+    "ejaan": "cêkit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "patuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ce.kit",
+    "akarKata": null,
+    "ejaan": "cêkit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bercekit"
+        ]
+      }
+    ]
+  }
+]

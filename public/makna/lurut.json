@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "lu.rut",
+    "akarKata": null,
+    "ejaan": "lurut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "luruh; gugur; rontok",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.rut",
+    "akarKata": null,
+    "ejaan": "lurut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "melurut"
+        ]
+      }
+    ]
+  }
+]

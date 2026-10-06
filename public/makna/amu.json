@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "amu",
+    "akarKata": null,
+    "ejaan": "amu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutu berwarna putih berukuran sangat kecil, sering ditemui di kandang ayam",
+        "contoh": "di kampung itu banyak ayam terserang --",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

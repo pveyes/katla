@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "mo.mok",
+    "akarKata": null,
+    "ejaan": "momok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hantu (untuk menakut-nakuti anak)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang menakutkan karena berbahaya, ganas, dan sebagainya",
+        "contoh": "penyakit paru-paru bukan lagi merupakan -- nomor satu",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

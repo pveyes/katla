@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "kip",
+    "akarKata": null,
+    "ejaan": "kip",
+    "baku": false,
+    "alt": "kep",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penggalak (tentang senapan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kip",
+    "akarKata": null,
+    "ejaan": "kip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang Laos",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

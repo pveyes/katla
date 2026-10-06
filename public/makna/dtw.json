@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "DTW",
+    "akarKata": null,
+    "ejaan": "DTW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daerah tujuan wisata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

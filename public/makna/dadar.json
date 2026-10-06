@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "da.dar",
+    "akarKata": null,
+    "ejaan": "dadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telur yang diaduk (dikocok) bersama bumbu (bawang, merica, garam, dan sebagainya) kemudian digoreng, berbentuk pipih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.dar",
+    "akarKata": null,
+    "ejaan": "dadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pendadaran"
+        ]
+      }
+    ]
+  }
+]

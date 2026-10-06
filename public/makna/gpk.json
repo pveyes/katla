@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "GPK",
+    "akarKata": null,
+    "ejaan": "GPK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gerombolan pengacau keamanan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

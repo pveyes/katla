@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ta.raf",
+    "akarKata": null,
+    "ejaan": "taraf",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkat(an); derajat; mutu (dalam arti tinggi rendahnya, baik buruknya, dan sebagainya)",
+        "contoh": "bangsa yang telah tinggi -- peradabannya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedudukan; martabat",
+        "contoh": "negeri itu telah diberi -- berpemerintahan sendiri",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tingkatan masa; batas (sempadan) waktu; stadium",
+        "contoh": "rencana kerja sama kedua negara itu masih dalam -- penjajakan",
+        "info": []
+      }
+    ]
+  }
+]

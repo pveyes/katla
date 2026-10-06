@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ada.ci",
+    "akarKata": null,
+    "ejaan": "adaci",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adat atau sarana yang digunakan dalam menyelesaikan setiap persoalan yang berhubungan dengan adat istiadat suku Culambacu di Sulawesi Tenggara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "culambacu",
+            "sumberTeks": "bahasa di provinsi sulawesi tenggara"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ku.ark",
+    "akarKata": null,
+    "ejaan": "kuark",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "partikel hipotetis dengan tiga bentuk, merupakan bentuk dasar semua partikel dan materi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

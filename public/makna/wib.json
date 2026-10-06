@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "WIB",
+    "akarKata": null,
+    "ejaan": "WIB",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Waktu Indonesia Barat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

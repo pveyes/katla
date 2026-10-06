@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "uan",
+    "akarKata": null,
+    "ejaan": "uan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menguani",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "uan",
+    "akarKata": null,
+    "ejaan": "uan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uban",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "uan",
+    "akarKata": null,
+    "ejaan": "uan",
+    "baku": false,
+    "alt": "wan",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuan",
+        "contoh": "-- Malini",
+        "info": []
+      }
+    ]
+  }
+]

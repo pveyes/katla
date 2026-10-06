@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.yid",
+    "akarKata": null,
+    "ejaan": "sayid",
+    "baku": true,
+    "alt": "said",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada orang Arab keturunan Nabi Muhammad saw.; tuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang Arab keturunan Nabi Muhammad saw.",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

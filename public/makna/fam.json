@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "fam",
+    "akarKata": null,
+    "ejaan": "fam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "famili; nama keluarga; nama marga; klan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

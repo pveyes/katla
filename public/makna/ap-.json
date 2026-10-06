@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "apo-",
+    "akarKata": null,
+    "ejaan": "apo-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "dari; bagian dari, dibentuk dari",
+        "contoh": "apoenzim",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "jauh dari; jauh",
+        "contoh": "aphelion",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "terlepas; terpisah",
+        "contoh": "apokrin",
+        "info": []
+      }
+    ]
+  }
+]

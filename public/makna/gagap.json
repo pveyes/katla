@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ga.gap",
+    "akarKata": null,
+    "ejaan": "gagap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gangguan bicara (kesalahan dalam ucapan dengan mengulang-ulang bunyi, suku kata, atau kata)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelainan wicara berupa pengulangan konsonan dan suku kata secara spasmodis karena gangguan psikofisiologis dan lebih banyak terjadi pada pria",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "psikologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.gap",
+    "akarKata": null,
+    "ejaan": "gagap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "menggagap"
+        ]
+      }
+    ]
+  }
+]

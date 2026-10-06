@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "la.jak",
+    "akarKata": null,
+    "ejaan": "lajak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain yang ditenun dari benang atau sutra",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.jak",
+    "akarKata": null,
+    "ejaan": "lajak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lekas; cepat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berlebihan (tentang tingkah laku)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

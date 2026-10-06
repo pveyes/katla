@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "kok",
+    "akarKata": null,
+    "ejaan": "kok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bola dalam permainan bulu tangkis, terbuat dari gabus berbentuk setengah bulatan yang dilapisi kulit tipis, pada bagian yang rata diberi bulu-bulu unggas yang dipasang berdiri melingkar sepanjang pinggirnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "kok",
+    "akarKata": null,
+    "ejaan": "kok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata yang digunakan untuk menekankan atau menguatkan maksud",
+        "contoh": "bukan aku -- yang menyuruh",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "mengapa; kenapa",
+        "contoh": "-- dia tidak datang?",
+        "info": []
+      }
+    ]
+  }
+]

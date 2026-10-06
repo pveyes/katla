@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "rel",
+    "akarKata": null,
+    "ejaan": "rèl",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besi batang untuk landasan jalan kereta api (trem dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang lurus (baik dan sebagainya); aturan (kebiasaan umum)",
+        "contoh": "tingkah lakunya sudah di luar --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

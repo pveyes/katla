@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "se.pat",
+    "akarKata": null,
+    "ejaan": "sêpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan terbuat dari ikan bakar dengan santan yang diragi khusus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sumbawa",
+            "sumberTeks": "diubah singkatan label karena ada bahasa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pat",
+    "akarKata": null,
+    "ejaan": "sêpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan air tawar yang ukurannya dapat mencapai 25 cm, tubuhnya pipih memanjang dengan sirip dada membentuk filamen",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pat",
+    "akarKata": null,
+    "ejaan": "sêpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa kelat seperti rasa salak mentah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.pat",
+    "akarKata": null,
+    "ejaan": "sêpat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kayu1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

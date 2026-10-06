@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ba.yur",
+    "akarKata": null,
+    "ejaan": "bayur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tingginya mencapai 50 m, berdiameter 1 m, batangnya bercabang tinggi, kayunya kuat dan awet, digunakan untuk jembatan, bangunan rumah, dan sebagainya, bunganya berwarna merah dan berbulu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu bayur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

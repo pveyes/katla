@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ab.di",
+    "akarKata": null,
+    "ejaan": "abdi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang bawahan; pelayan; hamba",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "budak tebusan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bekerja pada raja atau pemerintah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

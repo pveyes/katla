@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.tap",
+    "akarKata": null,
+    "ejaan": "kêtap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ketam (katup) rapat-rapat (tentang bibir)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gigit bibir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

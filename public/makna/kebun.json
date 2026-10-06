@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ke.bun",
+    "akarKata": null,
+    "ejaan": "kêbun",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebidang tanah yang ditanami pohon musiman (buah-buahan dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah luas yang ditanami kopi, karet, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

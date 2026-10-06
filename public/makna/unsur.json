@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "un.sur",
+    "akarKata": null,
+    "ejaan": "unsur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian terkecil dari suatu benda; bagian benda yang tidak dapat dibagi-bagi lagi dengan proses kimia; bahan asal; zat asal; elemen",
+        "contoh": "mengandung -- kimia tertentu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok kecil (dari kelompok yang lebih besar)",
+        "contoh": "membersihkan -- ekstrem kiri dalam pemerintahan",
+        "info": []
+      }
+    ]
+  }
+]

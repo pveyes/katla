@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "la.rau",
+    "akarKata": null,
+    "ejaan": "larau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda tempo lebih lambat dari largo ketika sebuah lagu akan dinyanyikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rau",
+    "akarKata": null,
+    "ejaan": "larau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tanda tempo lebih lambat dari largo ketika sebuah lagu akan dinyanyikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "la.rau",
+    "akarKata": null,
+    "ejaan": "larau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tanda tempo lebih lambat dari largo ketika sebuah lagu akan dinyanyikan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

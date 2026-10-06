@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PSK",
+    "akarKata": null,
+    "ejaan": "PSK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekerja seks komersial; WTS",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

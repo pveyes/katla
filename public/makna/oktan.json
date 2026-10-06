@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ok.tan",
+    "akarKata": null,
+    "ejaan": "oktan",
+    "baku": false,
+    "alt": "oktana",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alkana yang mengandung delapan atom karbon",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kimia",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

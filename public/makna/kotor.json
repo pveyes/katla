@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ko.tor",
+    "akarKata": null,
+    "ejaan": "kotor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bersih; kena noda",
+        "contoh": "pakaian-pakaian -- harus dicuci",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "banyak sampahnya (barang bekas, barang busuk, dan sebagainya); jorok; menjijikkan",
+        "contoh": "parit-parit yang -- akan mendatangkan penyakit",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "melanggar kesusilaan; tidak patut; keji",
+        "contoh": "anak yang tidak sopan gemar mengucapkan kata-kata --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mengikuti aturan; tidak jujur",
+        "contoh": "pemain tuan rumah dapat menang karena bermain --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(berat, isi, gaji, dan sebagainya) sebelum dikurangi wadah, pajak, dan sebagainya; bruto",
+        "contoh": "berat -- 50 kg, berat bersih 48 kg",
+        "info": []
+      }
+    ]
+  }
+]

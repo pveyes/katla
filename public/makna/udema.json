@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ude.ma",
+    "akarKata": null,
+    "ejaan": "udêma",
+    "baku": false,
+    "alt": "edema",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembengkakan jaringan karena kandungan cairannya bertambah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "mo.bil",
+    "akarKata": null,
+    "ejaan": "mobil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kendaraan darat yang digerakkan oleh tenaga mesin, beroda empat atau lebih (selalu genap), biasanya menggunakan bahan bakar minyak untuk menghidupkan mesinnya; oto; otomobil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "mo.bil",
+    "akarKata": null,
+    "ejaan": "mobil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mudah bergerak (berpindah) atau digerakkan (dipindah-pindahkan)",
+        "contoh": "ia sangat -- sehingga cocok untuk melakukan tugas luar",
+        "info": []
+      }
+    ]
+  }
+]

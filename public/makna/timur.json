@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ti.mur",
+    "akarKata": null,
+    "ejaan": "timur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata angin yang arahnya berlawanan dengan barat; asal matahari terbit",
+        "contoh": "matahari terbit di sebelah --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang, bangsa, benua di bagian timur dunia; khususnya di benua Asia",
+        "contoh": "filsafat dan kebudayaan --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "blok timur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.mur",
+    "akarKata": null,
+    "ejaan": "timur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gelar di Kasunan Surakarta untuk anak perempuan tertua urutan keenam dari permaisuri ketika sudah dewasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

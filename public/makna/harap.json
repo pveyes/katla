@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ha.rap",
+    "akarKata": null,
+    "ejaan": "harap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mohon; minta; hendaklah",
+        "contoh": "-- sabar menunggu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keinginan supaya sesuatu terjadi",
+        "contoh": "-- hati-hati",
+        "info": []
+      }
+    ]
+  }
+]

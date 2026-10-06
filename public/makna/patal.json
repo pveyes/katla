@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pa.tal",
+    "akarKata": null,
+    "ejaan": "patal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pabrik pemintalan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "acara tugas",
+    "akarKata": "acara",
+    "ejaan": "acara tugas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "daftar tugas yang disimpan oleh redaktur",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "ilmu komunikasi",
+        "tipeTeks": "-",
+        "definisi": "naskah yang telah disunting dan dibubuhi koreksi kepala berita dari redaktur naskah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

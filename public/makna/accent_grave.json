@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "accent grave",
+    "akarKata": null,
+    "ejaan": "accent grave",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "tanda diakritik ( ` ), seperti yang terdapat pada kata père, mère, dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "prancis",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "ker.ja",
+    "akarKata": null,
+    "ejaan": "kêrja",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kegiatan melakukan sesuatu; yang dilakukan (diperbuat)",
+        "contoh": "--nya makan dan minum saja",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang dilakukan untuk mencari nafkah; mata pencaharian",
+        "contoh": "selama lima tahun --nya berdagang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perayaan yang berhubungan dengan perkawinan, khitanan, dan sebagainya; pesta perjamuan",
+        "contoh": "-- nikah akan dilaksanakan pada tanggal 10 Syawal",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pekerjaan",
+        "contoh": "menguli merupakan -- yang memerlukan tenaga fisik",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "bekerja",
+        "contoh": "hari ini ia tidak -- karena sakit",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

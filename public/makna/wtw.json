@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "WTW",
+    "akarKata": null,
+    "ejaan": "WTW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wilayah tujuan wisata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

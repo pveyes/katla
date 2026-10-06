@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HGU",
+    "akarKata": null,
+    "ejaan": "HGU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak guna usaha",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

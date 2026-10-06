@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ORI",
+    "akarKata": null,
+    "ejaan": "ORI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Oeang Repoeblik Indonesia (mata uang pertama yang dimiliki Republik Indonesia setelah merdeka)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

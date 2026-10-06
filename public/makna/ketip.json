@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ke.tip",
+    "akarKata": null,
+    "ejaan": "kêtip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gigitan binatang kecil (seperti agas, nyamuk)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tip",
+    "akarKata": null,
+    "ejaan": "kêtip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata uang yang nilainya sama dengan sepersepuluh rupiah atau sepuluh sen; picis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.tip",
+    "akarKata": null,
+    "ejaan": "kêtip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelip yang berlangsung cepat (tentang benda yang kecil); kedip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "ada.kan",
+    "akarKata": null,
+    "ejaan": "adakan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "mana ada; masakan",
+        "contoh": "-- ayam berkaki empat",
+        "info": []
+      }
+    ]
+  }
+]

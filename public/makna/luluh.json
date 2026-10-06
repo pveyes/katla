@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "lu.luh",
+    "akarKata": null,
+    "ejaan": "luluh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "hancur menjadi kecil-kecil (seperti serbuk); remuk sama sekali",
+        "contoh": "hancur --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menjadi lemah (tentang hati) sehingga hilang marahnya",
+        "contoh": "hatinya yang semula panas menjadi -- setelah melihat keadaan orang itu",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melebar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "lu.luh",
+    "akarKata": null,
+    "ejaan": "luluh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "luluhan"
+        ]
+      }
+    ]
+  }
+]

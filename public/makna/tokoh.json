@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "to.koh",
+    "akarKata": null,
+    "ejaan": "tokoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rupa (wujud dan keadaan); macam atau jenis",
+        "contoh": "-- bulat seperti uang ringgit",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk badan; perawakan",
+        "contoh": "melihat -- badannya, banyak orang menyangka ia adalah seorang pegulat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang terkemuka dan kenamaan (dalam bidang politik, kebudayaan, dan sebagainya)",
+        "contoh": "ia adalah seorang -- politik yang disegani",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemegang peran (peran utama) dalam roman atau drama",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "to.koh",
+    "akarKata": null,
+    "ejaan": "tokoh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tipu; kecoh",
+        "contoh": "kena --",
+        "info": []
+      }
+    ]
+  }
+]

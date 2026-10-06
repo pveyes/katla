@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "wa.dak",
+    "akarKata": null,
+    "ejaan": "wadak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat jasmani; ragawi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyata",
+        "contoh": "kuasa gaib yang mahabesar akan turun ke dunia yang -- ini",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "wa.dak",
+    "akarKata": null,
+    "ejaan": "wadak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perpisahan",
+        "contoh": "haji --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

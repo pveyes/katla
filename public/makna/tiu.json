@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TIU",
+    "akarKata": null,
+    "ejaan": "TIU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tujuan instruksional umum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

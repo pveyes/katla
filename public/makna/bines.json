@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "bi.nes",
+    "akarKata": null,
+    "ejaan": "binês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "benih padi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "madura",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.nes",
+    "akarKata": null,
+    "ejaan": "binês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tari yang khusus dibawakan oleh wanita di Gayo Lues, ditarikan dalam formasi melingkar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "gayo",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

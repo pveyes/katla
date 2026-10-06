@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "me.siu",
+    "akarKata": null,
+    "ejaan": "mêsiu",
+    "baku": true,
+    "alt": "mensiu",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan kimia yang mudah meledak, biasanya berupa bubuk, dipakai untuk mengisi peluru",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peluru senjata api",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

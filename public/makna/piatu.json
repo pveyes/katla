@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pi.a.tu",
+    "akarKata": null,
+    "ejaan": "piatu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang tidak beribu-bapak",
+        "contoh": "dia seorang anak --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang tidak bersanak saudara; seorang diri",
+        "contoh": "dagang --",
+        "info": []
+      }
+    ]
+  }
+]

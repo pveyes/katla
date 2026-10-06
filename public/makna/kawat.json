@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.wat",
+    "akarKata": null,
+    "ejaan": "kawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali yang dibuat dari logam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "telegram",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

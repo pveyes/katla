@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ma.rut",
+    "akarKata": null,
+    "ejaan": "marut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat carut1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.rut",
+    "akarKata": null,
+    "ejaan": "marut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "belum sadar sepenuhnya dari tidur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "banjar",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

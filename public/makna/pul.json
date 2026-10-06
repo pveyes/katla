@@ -1,0 +1,58 @@
+[
+  {
+    "sukuKata": "pul",
+    "akarKata": null,
+    "ejaan": "pul",
+    "baku": true,
+    "alt": "pol",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kelompok bertanding (dalam pertandingan olahraga)",
+        "contoh": "juara -- A ialah regu Brazil",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat mengumpulkan atau memusatkan sesuatu",
+        "contoh": "mobil itu mogok persis di depan -- bus PPD",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pul",
+    "akarKata": null,
+    "ejaan": "pul",
+    "baku": false,
+    "alt": "pol",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penuh",
+        "contoh": "bus jurusan Medan itu sudah --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batas yang paling tinggi atau paling banyak (tentang masa kerja, gaji, dan sebagainya)",
+        "contoh": "akhir tahun ini gajinya sudah --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

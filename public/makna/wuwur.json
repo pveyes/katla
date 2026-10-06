@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "wu.wur",
+    "akarKata": null,
+    "ejaan": "wuwur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang; bantuan materi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

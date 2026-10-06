@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ko.rem",
+    "akarKata": null,
+    "ejaan": "korèm",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "komando resort militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

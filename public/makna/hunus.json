@@ -1,0 +1,18 @@
+[
+  {
+    "sukuKata": "hu.nus",
+    "akarKata": null,
+    "ejaan": "hunus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menghunus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

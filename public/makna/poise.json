@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "poi.se",
+    "akarKata": null,
+    "ejaan": "poisê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan kekentalan dinamik fluida yang berkaitan dengan gaya singgung satu dyne per sentimeter kuadrat yang menghambat aliran antara dua lapisan fluida yang melakukan gerakan relatif dengan kecepatan satu sentimeter per detik untuk beda jarak satu sentimeter antara kedua lapisan itu, dilambangkan dengan huruf P",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

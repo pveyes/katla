@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "bu.bur",
+    "akarKata": null,
+    "ejaan": "bubur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "makanan lembek dan berair yang dibuat dari beras, kacang-kacangan, dan sebagainya yang direbus",
+        "contoh": "setiap pagi ia makan -- kacang hijau",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang yang rupanya sebagai bubur",
+        "contoh": "-- kertas",
+        "info": []
+      }
+    ]
+  }
+]

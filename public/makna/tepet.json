@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "te.pet",
+    "akarKata": null,
+    "ejaan": "tèpèt",
+    "baku": false,
+    "alt": "tepek",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selempeng (tembakau dan sebagainya)",
+        "contoh": "gula --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang melekat atau menempel (seperti tanah liat, lumpur, dan kapur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

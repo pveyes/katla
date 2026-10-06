@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "abang.an",
+    "akarKata": null,
+    "ejaan": "abangan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "talang air pada atap rumah dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abang.an",
+    "akarKata": null,
+    "ejaan": "abangan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "golongan masyarakat yang menganut agama Islam, tetapi tidak melaksanakan ajaran secara keseluruhan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

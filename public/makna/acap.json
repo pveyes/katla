@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "acap",
+    "akarKata": null,
+    "ejaan": "acap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "kerap; sering",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "segera; lekas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "acap",
+    "akarKata": null,
+    "ejaan": "acap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "masuk dalam-dalam",
+        "contoh": "keris itu pun --lah",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tergenang (oleh air); terendam (dalam air); penuh berisi air",
+        "contoh": "dua hari dua malam --lah desa itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air yang mengalir, menyusup ke arah lain walaupun sudah dibendung",
+        "contoh": "-- selalu ke tempat yang rendah",
+        "info": [
+          {
+            "sumber": "melayu riau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

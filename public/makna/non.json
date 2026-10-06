@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "non",
+    "akarKata": null,
+    "ejaan": "non",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nona",
+        "contoh": "makanan sudah siap, --!",
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "non",
+    "akarKata": null,
+    "ejaan": "non",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "biarawati",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "non",
+    "akarKata": null,
+    "ejaan": "non",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kaum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

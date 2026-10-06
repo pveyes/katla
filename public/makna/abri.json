@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ABRI",
+    "akarKata": null,
+    "ejaan": "ABRI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Angkatan Bersenjata Republik Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

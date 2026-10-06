@@ -1,0 +1,64 @@
+[
+  {
+    "sukuKata": "se.men",
+    "akarKata": null,
+    "ejaan": "sèmèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "air mani; benih mani",
+        "contoh": "penyakit ternak ini dapat menular kepada manusia lewat sisa-sisa persalinan seekor ternak yang keguguran atau melalui -- sapi jantan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.men",
+    "akarKata": null,
+    "ejaan": "sêmèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adukan kapur dan sebagainya untuk merekatkan batu bata (tentang membuat tembok dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serbuk (tepung) dari kapur dan sebagainya yang dipakai untuk membuat beton, merekatkan batu bata, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zat kapur yang melekat pada akar gigi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.men",
+    "akarKata": null,
+    "ejaan": "sêmèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola batik yang bergambar garuda dengan dua sayap, ekor, dan bergambar gunung, umumnya berwarna biru tua dengan gambar berwarna emas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

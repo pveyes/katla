@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ge.nom",
+    "akarKata": null,
+    "ejaan": "gènom",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satu gugus kromosom yang selaras dengan segugus sel dari suatu jenis",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perangkat kromosom yang terdapat dalam setiap inti sel satu jenis tumbuhan atau hewan tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

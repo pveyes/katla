@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "wa.fer",
+    "akarKata": null,
+    "ejaan": "wafêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kue renyah, berbentuk persegi panjang, berlapis dengan berbagai rasa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "semipenghantar tipis yang terbuat dari silikon untuk membuat mikrocip",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

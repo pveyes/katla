@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ti.ten",
+    "akarKata": null,
+    "ejaan": "titèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun atau ranting-ranting kedelai yang luruh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

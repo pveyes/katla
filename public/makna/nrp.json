@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "NRP",
+    "akarKata": null,
+    "ejaan": "NRP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nomor registrasi pokok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

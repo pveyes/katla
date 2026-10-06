@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "an.tri",
+    "akarKata": null,
+    "ejaan": "antri",
+    "baku": false,
+    "alt": "antre",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berdiri berderet-deret ke belakang menunggu untuk mendapat giliran (membeli karcis, mengambil ransum, membeli bensin, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "antrean",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

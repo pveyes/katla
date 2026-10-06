@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ca.wan",
+    "akarKata": null,
+    "ejaan": "cawan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cangkir yang tidak bertelinga",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mangkuk untuk makan nasi dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lapik cangkir",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

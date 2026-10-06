@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ba.kal",
+    "akarKata": null,
+    "ejaan": "bakal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang akan dijadikan (dibuat)",
+        "contoh": "hutan-hutan yang dirambah itu -- persawahan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sesuatu yang akan menjadi; calon",
+        "contoh": "-- suaminya seorang pedagang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan",
+        "contoh": "-- rumah",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "akan",
+        "contoh": "lamarannya tidak -- diterima",
+        "info": []
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "untuk; buat",
+        "contoh": "uang itu -- beli apa?",
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

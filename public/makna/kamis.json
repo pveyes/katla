@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "Ka.mis",
+    "akarKata": null,
+    "ejaan": "Kamis",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hari ke-5 dalam jangka waktu satu minggu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.mis",
+    "akarKata": null,
+    "ejaan": "kamis",
+    "baku": false,
+    "alt": "gamis",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemeja arab",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "baju yang panjangnya semata kaki atau lebih menyerupai kemeja dengan potongan longgar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

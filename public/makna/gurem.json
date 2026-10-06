@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "gu.rem",
+    "akarKata": null,
+    "ejaan": "gurêm",
+    "baku": false,
+    "alt": "guram",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kutu pada ayam yang sedang mengeram dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kecil dan tidak bermutu; tidak diperhitungkan",
+        "contoh": "dalam percaturan politik partai-partai -- biasanya tersisihkan",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

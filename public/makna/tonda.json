@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ton.da",
+    "akarKata": null,
+    "ejaan": "tonda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keranjang yang dibuat dari daun sagu diberi tali dikepang, biasanya dibawa di punggung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kaili",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

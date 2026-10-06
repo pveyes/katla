@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PUEYD",
+    "akarKata": null,
+    "ejaan": "PUEYD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

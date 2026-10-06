@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "su.lit",
+    "akarKata": null,
+    "ejaan": "sulit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar sekali; susah (diselesaikan, dikerjakan, dan sebagainya)",
+        "contoh": "pekerjaan yang -- diselesaikan",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "susah dicari; jarang terdapat",
+        "contoh": "obat semacam itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dirahasiakan (sukar diketahui dan sebagainya); tersembunyi",
+        "contoh": "tempat yang -- pun ia tahu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gelap (rahasia, tidak terang-terangan)",
+        "contoh": "apa yang mereka lakukan itu merupakan perbuatan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dalam keadaan yang sukar (genting, gawat, dan sebagainya)",
+        "contoh": "penghidupan yang -- itu kita hadapi dengan sabar dan tawakal",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ca.dok",
+    "akarKata": null,
+    "ejaan": "cadok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat melihat jauh; rabun (tentang mata)",
+        "contoh": "dia cantik, tetapi --",
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

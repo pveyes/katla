@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "mo.tif",
+    "akarKata": null,
+    "ejaan": "motif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pola; corak",
+        "contoh": "ia menyukai kain batik dengan -- parang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salah satu dari beberapa gagasan yang dominan di dalam karya sastra, yang dapat berupa peran, citra yang berulang, atau pola pemakaian kata",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alasan (sebab) seseorang melakukan sesuatu",
+        "contoh": "polisi belum menemukan -- pembunuhan itu",
+        "info": []
+      }
+    ]
+  }
+]

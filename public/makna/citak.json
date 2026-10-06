@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ci.tak",
+    "akarKata": null,
+    "ejaan": "citak",
+    "baku": false,
+    "alt": "cetak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cap (terutama yang dipakai untuk membuat buku dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "acuan (untuk membuat batu bata, kue, dan sebagainya); cetakan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

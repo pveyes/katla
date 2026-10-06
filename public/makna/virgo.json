@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "Vir.go",
+    "akarKata": null,
+    "ejaan": "Virgo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama gugus bintang yang terletak di antara Leo dan Libra pada deklinasi 0°",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astronomi",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "zodiak ke-6 yang digambarkan dengan wanita kembar sebagai lambang bagi orang yang lahir antara tanggal 23 Agustus dan 22 September; Kanya; Mayang; Sunbulat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "astrologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

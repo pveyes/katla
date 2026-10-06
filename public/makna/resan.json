@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "re.san",
+    "akarKata": null,
+    "ejaan": "rêsan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merasa tersinggung (tersindir dan sebagainya) oleh perkataan orang lain",
+        "contoh": "-- hatinya karena diejek",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merasa tidak senang hati terhadap kelebihan orang lain; merasa cemburu (dengki, iri hati)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

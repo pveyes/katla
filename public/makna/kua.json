@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "kua",
+    "akarKata": null,
+    "ejaan": "kua",
+    "baku": false,
+    "alt": "koa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "permainan kartu ceki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "KUA",
+    "akarKata": null,
+    "ejaan": "KUA",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Kantor Urusan Agama (kantor yang melaksanakan sebagian tugas kantor Kementerian Agama Indonesia di kabupaten dan kota madya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

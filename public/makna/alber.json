@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "al.ber",
+    "akarKata": null,
+    "ejaan": "albêr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat/peralatan berat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

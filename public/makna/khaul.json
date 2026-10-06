@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kha.ul",
+    "akarKata": null,
+    "ejaan": "khaul",
+    "baku": false,
+    "alt": "haul",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jangka waktu satu tahun yang menjadi batas kewajiban membayar zakat bagi pemilikan harta kekayaan, seperti perniagaan, emas, ternak",
+        "contoh": "perniagaan cukup --",
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

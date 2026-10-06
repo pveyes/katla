@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ter-",
+    "akarKata": null,
+    "ejaan": "têr-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "telah dilakukan atau dalam keadaan",
+        "contoh": "terbuka",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "telah mengalami; menderita keadaan atau kejadian (dengan tidak sengaja atau dengan tiba-tiba)",
+        "contoh": "terpesona",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sanggup atau dapat dilakukan (biasanya didahului kata tidak atau bersufiks -kan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sampai ke",
+        "contoh": "tertulang",
+        "info": []
+      }
+    ]
+  }
+]

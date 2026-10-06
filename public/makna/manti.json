@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "man.ti",
+    "akarKata": null,
+    "ejaan": "manti",
+    "baku": false,
+    "alt": "menteri",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala suatu departemen (anggota kabinet), merupakan pembantu kepala negara dalam melaksanakan urusan (pekerjaan) negara",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gajah (dalam permainan catur)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pegawai tinggi (sebagai penasihat raja dan sebagainya)",
+        "contoh": "para hulubalang dan -- tumenggung sedang berada di balairung menghadap baginda",
+        "info": []
+      }
+    ]
+  }
+]

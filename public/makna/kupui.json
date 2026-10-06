@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.pui",
+    "akarKata": null,
+    "ejaan": "kupui",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi mencapai 18 m, kayunya berwarna kemerah-merahan dan agak awet, buahnya licin dan keras, berasa masam, warnanya hijau muda, dibuat sayur dan juga manisan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah kupui",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kupui",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

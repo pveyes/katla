@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "nol",
+    "akarKata": null,
+    "ejaan": "nol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "bilangan yang dilambangkan dengan 0",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "kelas persiapan sebelum memasuki tingkat pertama dalam urutan kelas",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "tidak ada kenyataan; omong kosong",
+        "contoh": "semua yang dikatakannya -- belaka",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "tidak ada hasil",
+        "contoh": "ia sudah berusaha, tetapi hasilnya --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

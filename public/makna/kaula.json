@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ka.u.la",
+    "akarKata": null,
+    "ejaan": "kaula",
+    "baku": false,
+    "alt": "kawula",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hamba sahaya; budak; abdi",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rakyat dari suatu negara; orang yang di bawah perintah suatu negara; pengikut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saya; aku (untuk menghormat)",
+        "contoh": "-- tidak dapat ikut ke sana, Gusti",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

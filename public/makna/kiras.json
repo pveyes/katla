@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ki.ras",
+    "akarKata": null,
+    "ejaan": "kiras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang kayunya dapat dijadikan bahan rumah dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kiras",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

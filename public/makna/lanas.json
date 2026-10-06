@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.nas",
+    "akarKata": null,
+    "ejaan": "lanas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit yang menyerang akar dan batang tanaman tembakau, disebabkan oleh cendawan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

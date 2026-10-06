@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ob.rus",
+    "akarKata": null,
+    "ejaan": "obrus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan perwira yang berpangkat letnan kolonel; overste",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

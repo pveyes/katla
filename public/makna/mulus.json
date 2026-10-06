@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "mu.lus",
+    "akarKata": null,
+    "ejaan": "mulus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(putih) bersih",
+        "contoh": "ayam putih --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "halus; tanpa cacat",
+        "contoh": "tangannya -- dengan jari-jari tanpa warna merah di kukunya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lancar; tidak ada halangan",
+        "contoh": "hubungan mereka berlangsung --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat berjalan baik",
+        "contoh": "mobil sedan itu masih dalam keadaan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jujur; suci hati; tulus",
+        "contoh": "orangnya jujur, hatinya --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "zo.lim",
+    "akarKata": null,
+    "ejaan": "zolim",
+    "baku": false,
+    "alt": "zalim",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bengis; tidak menaruh belas kasihan; tidak adil; kejam",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang melakukan perbuatan aniaya yang merugikan dirinya sendiri dan/atau orang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

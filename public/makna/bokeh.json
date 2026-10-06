@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "bo.keh",
+    "akarKata": null,
+    "ejaan": "bokèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "foto yang menonjolkan objek utama dengan fokus yang sangat tajam, sementara latar belakang (dan/atau depan) sangat kabur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "fotografi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

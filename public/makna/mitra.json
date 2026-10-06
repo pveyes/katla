@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mit.ra",
+    "akarKata": null,
+    "ejaan": "mitra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "teman; sahabat",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kawan kerja; pasangan kerja; rekan",
+        "contoh": "ia telah memilih perusahaan itu sebagai -- dagangnya",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "nan",
+    "akarKata": null,
+    "ejaan": "nan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "yang",
+        "contoh": "kekasihku -- jauh di mata",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

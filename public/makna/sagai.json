@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "sa.gai",
+    "akarKata": null,
+    "ejaan": "sagai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut dan payau, ukurannya mencapai 165 cm, berat 25 kg, hidup di terumbu karang perairan tropis dengan kedalaman 20–100 m, tersebar di perairan Laut Merah dan Afrika Timur hingga Prancis, bagian utara hingga Jepang, bagian selatan sampai Laut Arafura",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sagai",
+    "akarKata": null,
+    "ejaan": "sagai",
+    "baku": false,
+    "alt": "sakai",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang bawahan (hamba, pengiring, rakyat, dan sebagainya)",
+        "contoh": "hulubalang itu pun berangkat dengan membawa sejumlah --nya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ad interim",
+    "akarKata": null,
+    "ejaan": "ad interim",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "untuk sementara waktu",
+        "contoh": "saat ini, ia ditunjuk sebagai menteri --",
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

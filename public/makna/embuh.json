@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "em.buh",
+    "akarKata": null,
+    "ejaan": "êmbuh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mau; ingin",
+        "contoh": "tak --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

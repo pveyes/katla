@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "osa.ra",
+    "akarKata": null,
+    "ejaan": "osara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala adat yang bertugas menyelesaikan perselisihan pewarisan, dan masalah-masalah adat yang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tolaki",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

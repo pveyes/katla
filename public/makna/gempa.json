@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "gem.pa",
+    "akarKata": null,
+    "ejaan": "gêmpa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "guncangan; gerakan (bumi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peristiwa alam berupa getaran atau gerakan bergelombang pada kulit bumi yang ditimbulkan oleh tenaga asal dalam; gempa bumi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

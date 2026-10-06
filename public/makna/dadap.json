@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "da.dap",
+    "akarKata": null,
+    "ejaan": "dadap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama untuk berbagai jenis pohon, ada yang berduri dan ada yang tidak, bunganya merah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "da.dap",
+    "akarKata": null,
+    "ejaan": "dadap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perisai yang terbuat dari kulit atau rotan, berbentuk bulat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "si.kai",
+    "akarKata": null,
+    "ejaan": "sikai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sejenis rotan yang daunnya dibuat atap",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "daun sikai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

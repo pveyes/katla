@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "adau",
+    "akarKata": null,
+    "ejaan": "adau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu yang biasa digunakan utk membuat alat musik petik pada masyarakat Dayak Kenyah, Kayan, dan Iban",
+        "contoh": "Ayah mencari -- utk membuat sapek",
+        "info": [
+          {
+            "sumber": "dayak",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

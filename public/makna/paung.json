@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pa.ung",
+    "akarKata": null,
+    "ejaan": "paung",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "roti kering",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

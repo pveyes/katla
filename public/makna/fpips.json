@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "FPIPS",
+    "akarKata": null,
+    "ejaan": "FPIPS",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Fakultas Pendidikan Ilmu Pengetahuan Sosial",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

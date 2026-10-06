@@ -1,0 +1,56 @@
+[
+  {
+    "sukuKata": "san.da",
+    "akarKata": null,
+    "ejaan": "sanda",
+    "baku": true,
+    "alt": "senda, sinda",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "aku (biasa dipakai oleh pengarang lama); yang diperhamba; sahayanda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "san.da",
+    "akarKata": null,
+    "ejaan": "sanda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harta yang dijadikan jaminan dalam pegang gadai, yang sewaktu-waktu akan ditebus kembali",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gadai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "pu.dar",
+    "akarKata": null,
+    "ejaan": "pudar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "suram (tidak bercahaya, tidak berseri-seri)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pucat (tentang warna); kurang terang atau kabur (tentang gambar, potret, dan sebagainya); sayu, tidak berseri-seri (tentang mata)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak bersemangat lagi; agak kendur atau tidak keras lagi (tentang ajaran agama dan sebagainya); kurang manjur (tentang kesaktian dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buyar (tentang inspirasi, ilham, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berkuasa lagi; tidak berpengaruh lagi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

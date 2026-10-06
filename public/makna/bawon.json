@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ba.won",
+    "akarKata": null,
+    "ejaan": "bawon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembagian upah menuai padi yang berdasarkan banyak sedikitnya padi yang dipotong",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

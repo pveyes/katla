@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "so.lar",
+    "akarKata": null,
+    "ejaan": "solar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan bakar minyak untuk mesin diesel, lebih kental daripada minyak tanah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "so.lar",
+    "akarKata": null,
+    "ejaan": "solar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "berkenaan dengan matahari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

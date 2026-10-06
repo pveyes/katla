@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.mor",
+    "akarKata": null,
+    "ejaan": "jamor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "burung kumkum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "berik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

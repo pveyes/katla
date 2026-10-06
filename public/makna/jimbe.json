@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "jim.be",
+    "akarKata": null,
+    "ejaan": "jimbé",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik tabuh menyerupai gendang yang tengahnya lebih ramping",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

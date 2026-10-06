@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ce.ram",
+    "akarKata": null,
+    "ejaan": "cêram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi orang mandi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

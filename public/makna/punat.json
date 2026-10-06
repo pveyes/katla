@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "pu.nat",
+    "akarKata": null,
+    "ejaan": "punat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mata atau pusat bintil (bengkak dan sebagainya); benih (bisul dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "akar segala kejahatan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

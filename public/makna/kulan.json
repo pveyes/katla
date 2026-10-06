@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.lan",
+    "akarKata": null,
+    "ejaan": "kulan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi hingga 38 m, kayunya berwarna cokelat muda, berat dan keras, digunakan untuk perkakas rumah dan sebagainya; balam beringin; nyatuh beringin; nyatuh sondai",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kulan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

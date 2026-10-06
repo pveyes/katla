@@ -1,0 +1,98 @@
+[
+  {
+    "sukuKata": "bi.ang",
+    "akarKata": null,
+    "ejaan": "biang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "induk (tentang binatang, tumbuhan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepala; pimpinan",
+        "contoh": "-- penjahat",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sari atau pati (yang dapat dijadikan banyak dengan menambahkan air dan sebagainya kepadanya)",
+        "contoh": "-- cuka",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis yang tulen; jenis belum bercampur dengan jenis yang lain; ras",
+        "contoh": "-- ayam",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pokok pangkal; asal mula",
+        "contoh": "kemalasan merupakan -- kemelaratan",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.ang",
+    "akarKata": null,
+    "ejaan": "biang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir tembuk (tembus)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.ang",
+    "akarKata": null,
+    "ejaan": "biang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang-lubang kecil (pada sela-sela dinding atau atap yang sudah bocor)",
+        "contoh": "dari -- atap rumbia yang sudah tua dan lapuk itu masuk cahaya bulan",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bi.ang",
+    "akarKata": null,
+    "ejaan": "biang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan laut atau payau, panjang jantan mencapai 15,3 cm, panjang betina mencapai 22,1 cm, hidup di perairan tropis, tersebar di perairan Indo-Pasifik Barat",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Adi.ti",
+    "akarKata": null,
+    "ejaan": "Aditi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ibu para dewa; dewi langit",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama hindu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

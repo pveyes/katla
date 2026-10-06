@@ -1,0 +1,61 @@
+[
+  {
+    "sukuKata": "BAU",
+    "akarKata": null,
+    "ejaan": "BAU",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Biro Administrasi Umum (unsur pelaksana administrasi umum di perguruan tinggi)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "bau",
+    "akarKata": null,
+    "ejaan": "bau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "apa yang dapat ditangkap oleh indra pencium (seperti anyir, harum, busuk)",
+        "contoh": "-- napas yang keluar dari mulutnya busuk",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "ada baunya; mengeluarkan bau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bau",
+    "akarKata": null,
+    "ejaan": "bau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan ukuran luas tanah sama dengan 7.096 m² atau 500 tombak persegi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

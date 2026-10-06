@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PLBSI",
+    "akarKata": null,
+    "ejaan": "PLBSI",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Persatuan Liong dan Barongsai Seluruh Indonesia",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

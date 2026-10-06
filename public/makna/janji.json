@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "jan.ji",
+    "akarKata": null,
+    "ejaan": "janji",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ucapan yang menyatakan kesediaan dan kesanggupan untuk berbuat (seperti hendak memberi, menolong, datang, bertemu)",
+        "contoh": "banyak --, tetapi tidak satu pun yang ditepati",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persetujuan antara dua pihak (masing-masing menyatakan kesediaan dan kesanggupan untuk berbuat atau tidak berbuat sesuatu)",
+        "contoh": "jangan kalian berdua ingkar akan -- yang telah diteguhkan oleh penghulu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "syarat; ketentuan (yang harus dipenuhi)",
+        "contoh": "rumah ini diserahkan kepada adiknya tanpa -- apa-apa",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penundaan waktu (membayar dan sebagainya); penangguhan",
+        "contoh": "kalau boleh, saya minta -- dua bulan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batas waktu (hidup); ajal",
+        "contoh": "sampai --nya",
+        "info": []
+      }
+    ]
+  }
+]

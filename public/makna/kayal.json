@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ka.yal",
+    "akarKata": null,
+    "ejaan": "kayal",
+    "baku": false,
+    "alt": "khayal",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lukisan (gambar) dalam angan-angan; fantasi",
+        "contoh": "apa yang diceritakan itu -- belaka",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang diangan-angankan seperti benar-benar ada",
+        "contoh": "cerita --",
+        "info": []
+      }
+    ]
+  }
+]

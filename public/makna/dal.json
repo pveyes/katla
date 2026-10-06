@@ -1,0 +1,68 @@
+[
+  {
+    "sukuKata": "dal",
+    "akarKata": null,
+    "ejaan": "dal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "lihat kacang1",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "Dal",
+    "akarKata": null,
+    "ejaan": "Dal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama tahun ke-5 dalam daur kecil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dal",
+    "akarKata": null,
+    "ejaan": "dal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "huruf ke-8 abjad Arab",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "dal",
+    "akarKata": null,
+    "ejaan": "dal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dekaliter",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

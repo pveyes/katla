@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "STTAL",
+    "akarKata": null,
+    "ejaan": "STTAL",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Sekolah Tinggi Teknologi Angkatan Laut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

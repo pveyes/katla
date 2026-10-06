@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ab.di.ka.si",
+    "akarKata": null,
+    "ejaan": "abdikasi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pelepasan hak, wewenang, atau kekuasaan (tentang pembesar atau penguasa)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "turun takhta dengan sukarela (tentang seorang raja)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ATF",
+    "akarKata": null,
+    "ejaan": "ATF",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adenosina trifosfat",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

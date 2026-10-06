@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ki.tar",
+    "akarKata": null,
+    "ejaan": "kitar",
+    "baku": true,
+    "alt": "kintar",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "keliling; putar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.tar",
+    "akarKata": null,
+    "ejaan": "kitar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tolak, desak ke sisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ki.tar",
+    "akarKata": null,
+    "ejaan": "kitar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bilangan yang menunjukkan jumlah kegiatan yang dapat dilakukan oleh suatu sarana angkutan dari satu titik mula per satuan waktu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

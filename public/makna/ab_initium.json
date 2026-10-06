@@ -1,0 +1,26 @@
+[
+  {
+    "sukuKata": "ab initium",
+    "akarKata": null,
+    "ejaan": "ab initium",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "ungkapan",
+        "definisi": "dari permulaan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "latin",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

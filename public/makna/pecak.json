@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.cak",
+    "akarKata": null,
+    "ejaan": "pécak",
+    "baku": true,
+    "alt": "pecok",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pesuk; pipih",
+        "contoh": "bola --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "buta (sebelah mata) yang bola matanya rusak sama sekali",
+        "contoh": "matanya -- sebelah",
+        "info": []
+      }
+    ]
+  }
+]

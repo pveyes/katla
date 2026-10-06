@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "sa.lai",
+    "akarKata": null,
+    "ejaan": "salai",
+    "baku": true,
+    "alt": "sale",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan yang dikeringkan di atas api (dipanggang atau diasapi)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pisang yang dikeringkan dengan panas matahari atau di atas api (dipanggang atau diasapi)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

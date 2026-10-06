@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "re.sek",
+    "akarKata": null,
+    "ejaan": "rèsèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "usil; mencampuri urusan orang lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.sek",
+    "akarKata": null,
+    "ejaan": "rèsèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meresek-resek"
+        ]
+      }
+    ]
+  }
+]

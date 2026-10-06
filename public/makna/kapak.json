@@ -1,0 +1,55 @@
+[
+  {
+    "sukuKata": "ka.pak",
+    "akarKata": null,
+    "ejaan": "kapak",
+    "baku": true,
+    "alt": "kampak",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat terbuat dari logam, bermata, dan bertangkai panjang; beliung besar untuk menebang pohon (membelah kayu dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.pak",
+    "akarKata": null,
+    "ejaan": "kapak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepak; sayap",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.pak",
+    "akarKata": null,
+    "ejaan": "kapak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ikan air tawar, panjang mencapai 73 cm, hidup di perairan subtropis, tersebar di perairan Argentina, Suriname, Guyana, Venezuela dan Kolumbia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

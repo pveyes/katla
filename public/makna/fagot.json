@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fa.got",
+    "akarKata": null,
+    "ejaan": "fagot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik tiup dengan ujungnya berupa lembar tipis rangkap yang suaranya besar dan berfungsi sebagai instrumen bas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

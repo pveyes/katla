@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "za.kar",
+    "akarKata": null,
+    "ejaan": "zakar",
+    "baku": true,
+    "alt": "dakar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan laki-laki; penis; pelir",
+        "contoh": "buah --",
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

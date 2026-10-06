@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "pol.da",
+    "akarKata": null,
+    "ejaan": "polda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kepolisian daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

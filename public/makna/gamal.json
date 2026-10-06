@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ga.mal",
+    "akarKata": null,
+    "ejaan": "gamal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "unta",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.mal",
+    "akarKata": null,
+    "ejaan": "gamal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon yang tingginya hingga 12 m, dianggap efektif sebagai pembasmi alang-alang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "re.sik",
+    "akarKata": null,
+    "ejaan": "rêsik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.sik",
+    "akarKata": null,
+    "ejaan": "rêsik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "bersih",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

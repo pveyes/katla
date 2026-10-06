@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "wit",
+    "akarKata": null,
+    "ejaan": "wit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ruang antarhalaman buku atau majalah yang digunakan untuk proses pelipatan dan penjilidan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "ilmu komunikasi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "WIT",
+    "akarKata": null,
+    "ejaan": "WIT",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Waktu Indonesia Timur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

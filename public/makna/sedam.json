@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "se.dam",
+    "akarKata": null,
+    "ejaan": "sêdam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "deram meriam dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

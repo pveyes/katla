@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "akh.li",
+    "akarKata": null,
+    "ejaan": "akhli",
+    "baku": false,
+    "alt": "ahli",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang mahir, menguasai, paham sekali dalam suatu ilmu; orang yang memiliki kemampuan dalam menelaah, menganalisis, menginterpretasi suatu ilmu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mahir benar; sangat mendalam dalam suatu ilmu",
+        "contoh": "dia seorang yang -- menjalankan mesin itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat tekun dan gemar melaksanakan suatu kewajiban",
+        "contoh": "dia orang yang -- dalam ibadah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pangkat dalam jabatan atau tugas fungsional",
+        "contoh": "-- peneliti",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "akh.li",
+    "akarKata": null,
+    "ejaan": "akhli",
+    "baku": false,
+    "alt": "ahli",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggota",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang(-orang) yang termasuk dalam suatu golongan; penganut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penduduk; penghuni",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keluarga atau kaum",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

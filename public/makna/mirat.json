@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mi.rat",
+    "akarKata": null,
+    "ejaan": "mirat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cermin",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gejala optik berupa gambar bayangan di dalam udara yang berasal dari suatu benda, yang dapat tunggal atau majemuk, tegak atau terbalik, dan dapat tampak lebih besar atau lebih kecil daripada yang sebenarnya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

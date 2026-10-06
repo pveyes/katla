@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HPV",
+    "akarKata": null,
+    "ejaan": "HPV",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "virus penyebab kanker serviks",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

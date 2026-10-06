@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.kup",
+    "akarKata": null,
+    "ejaan": "tukup",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tutup; tudung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "um.bra",
+    "akarKata": null,
+    "ejaan": "umbra",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian tergelap di belakang benda tidak tembus cahaya yang terkena sinar; bayang-bayang inti",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian yang paling gelap pada roda matahari",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

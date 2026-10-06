@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pri.ma",
+    "akarKata": null,
+    "ejaan": "prima",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "pertama",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sangat baik; utama",
+        "contoh": "kesehatannya --",
+        "info": []
+      }
+    ]
+  }
+]

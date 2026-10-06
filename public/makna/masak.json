@@ -1,0 +1,76 @@
+[
+  {
+    "sukuKata": "ma.sak",
+    "akarKata": null,
+    "ejaan": "masak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah tua dan sampai waktunya untuk dipetik, dimakan, dan sebagainya (tentang buah-buahan)",
+        "contoh": "durian ini -- di pohon bukan -- karena diperam",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah matang (empuk, jadi) dan sampai waktunya untuk diambil, diangkat, dan sebagainya (tentang makanan)",
+        "contoh": "nasi sudah --, makanlah dulu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sudah selesai dikerjakan (dididik dan sebagainya); sudah dipikirkan (dipertimbangkan) baik-baik; sudah diputuskan (disetujui) bersama; sudah sempurna; sudah pada tingkatan yang terbaik (terakhir)",
+        "contoh": "dia pemuda yang sudah -- sehingga dapat berpikir (bekerja) secara baik",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "matang (dalam berpikir)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memasak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.sak",
+    "akarKata": null,
+    "ejaan": "masak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "mana boleh; masa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

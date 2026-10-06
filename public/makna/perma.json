@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "per.ma",
+    "akarKata": null,
+    "ejaan": "pêrma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peraturan Mahkamah Agung",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

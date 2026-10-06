@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "na.dir",
+    "akarKata": null,
+    "ejaan": "nadir",
+    "baku": true,
+    "alt": "nadirat",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jarang ada; jarang didapat; luar biasa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.dir",
+    "akarKata": null,
+    "ejaan": "nadir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "titik yang paling rendah dari bulatan cakrawala (bola langit) yang terletak tepat di bawah kaki pengamat; titik kaki",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.dir",
+    "akarKata": null,
+    "ejaan": "nadir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu (di Malaka)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "na.dir",
+    "akarKata": null,
+    "ejaan": "nadir",
+    "baku": true,
+    "alt": "nazir",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengawas; inspektur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

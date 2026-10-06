@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "at.mil",
+    "akarKata": null,
+    "ejaan": "atmil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atase militer",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

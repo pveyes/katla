@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "an.kum",
+    "akarKata": null,
+    "ejaan": "ankum",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atasan yang berhak menghukum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

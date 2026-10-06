@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "res.tu",
+    "akarKata": null,
+    "ejaan": "rêstu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "berkat; doa",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengaruh baik atau buruk; pesona",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

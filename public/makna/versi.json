@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ver.si",
+    "akarKata": null,
+    "ejaan": "vèrsi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bentuk terjemahan cerita, buku, dan sebagainya dalam bahasa lain",
+        "contoh": "Shakespeare -- Prancis",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "model; menurut cara",
+        "contoh": "film “Romeo and Juliet” -- India",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anggapan (pelukisan, penggambaran, dan sebagainya) tentang sesuatu dari seseorang atau suatu sudut pandang",
+        "contoh": "tentang perkara pemerkosaan itu, -- polisi tidak sama dengan -- saksi",
+        "info": []
+      }
+    ]
+  }
+]

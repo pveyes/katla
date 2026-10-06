@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "te.lop",
+    "akarKata": null,
+    "ejaan": "tèlop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tayangan berupa tulisan di layar televisi, berupa imbauan, pengumuman, teks terjemahan, dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk membuat dan menghasilkan judul tulisan dan gambar pada layar televisi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

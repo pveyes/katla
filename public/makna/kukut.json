@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.kut",
+    "akarKata": null,
+    "ejaan": "kukut",
+    "baku": false,
+    "alt": "kokot",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "besi (kawat) yang dibengkokkan untuk memaut; gembok",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bengkok dan melekat (tentang jari tangan, kaki, dan sebagainya); kerukut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

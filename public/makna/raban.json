@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ra.ban",
+    "akarKata": null,
+    "ejaan": "raban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bunyi ujar anak yang berusia sekitar 5–8 bulan, berupa pengulangan bunyi yang mirip suku kata, sebelum anak berhasil mengucapkan kata-kata, misalnya ma ma ma, ba ba ba",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.ban",
+    "akarKata": null,
+    "ejaan": "raban",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kandang ternak, biasanya dibuat di bawah rumah atau di belakang rumah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu kalimantan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

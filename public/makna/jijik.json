@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ji.jik",
+    "akarKata": null,
+    "ejaan": "jijik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak suka melihat (merasa mual dan sebagainya) karena kotor, keji, dan sebagainya",
+        "contoh": "saya -- akan perangainya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(dipakai sebagai) kata seru untuk menyatakan rasa tidak suka (karena keji, kotor, dan sebagainya)",
+        "contoh": "ai, ai, --, jangan kaupegang makanan yang penuh lalat itu",
+        "info": []
+      }
+    ]
+  }
+]

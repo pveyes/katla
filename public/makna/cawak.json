@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ca.wak",
+    "akarKata": null,
+    "ejaan": "cawak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk (pada bagian kulit tubuh dan sebagainya); lesung",
+        "contoh": "-- pipi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.wak",
+    "akarKata": null,
+    "ejaan": "cawak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali kulit (dipasang di leher anjing dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

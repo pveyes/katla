@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.fah",
+    "akarKata": null,
+    "ejaan": "tufah",
+    "baku": true,
+    "alt": "topah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buah apel",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "sukuKata": "ka.dar",
+    "akarKata": null,
+    "ejaan": "kadar",
+    "baku": true,
+    "alt": "kedar",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuasa; kekuatan",
+        "contoh": "ala --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ketentuan Tuhan (takdir)",
+        "contoh": "percaya kepada -- dan takdir Tuhan bukan berarti kita tidak perlu lagi bekerja keras untuk mencapai cita-cita",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "untung malang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kodrat; sifat bawaan",
+        "contoh": "menyalahi -- hidupnya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dar",
+    "akarKata": null,
+    "ejaan": "kadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran untuk menentukan suatu norma",
+        "contoh": "belum ada -- yang pasti dalam hal mengatakan salah atau benarnya bukti itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "isi atau bagian yang tulen (tentang emas, perak, dan sebagainya)",
+        "contoh": "emas ini --nya 0,800, berarti yang tulen ⅘nya dari nilai itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nilai, harga, taraf (tingkatan)",
+        "contoh": "dalam pertemuan antara para ahli itulah, baru ia tahu akan -- dirinya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lebih kurang; kira-kira",
+        "contoh": "jumlah anggotanya -- lima ratus orang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jumlah hasil pengukuran dalam persentase mengenai gejala tertentu yang terdapat pada populasi tertentu dalam keadaan dan jangka waktu tertentu",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "antropologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dar",
+    "akarKata": null,
+    "ejaan": "kadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain tenunan sendiri untuk dipakai sendiri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dar",
+    "akarKata": null,
+    "ejaan": "kadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kain tenunan sendiri untuk dipakai sendiri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.dar",
+    "akarKata": null,
+    "ejaan": "kadar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kadah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

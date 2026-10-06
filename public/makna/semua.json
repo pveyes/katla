@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "se.mua",
+    "akarKata": null,
+    "ejaan": "sêmua",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "segala; sekalian",
+        "contoh": "-- orang menangisi kepergiannya",
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "sekaliannya; semuanya",
+        "contoh": "-- memuji tindakannya",
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "belaka; semata",
+        "contoh": "perhiasan ini dibuat dari emas --",
+        "info": []
+      },
+      {
+        "tipe": "numeralia",
+        "tipeTeks": "kata bilangan",
+        "definisi": "segenap; seluruh",
+        "contoh": "ke mana mata memandang -- tempat menghijau",
+        "info": []
+      }
+    ]
+  }
+]

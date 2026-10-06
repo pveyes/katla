@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "Ra.nau",
+    "akarKata": null,
+    "ejaan": "Ranau",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "danau yang berada di perbatasan Provinsi  Sumatra Selatan dan Bengkulu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami perbatasan daerah Sumatra Selatan dan Bengkulu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Ranau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

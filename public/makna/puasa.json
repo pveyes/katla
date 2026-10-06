@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "pu.a.sa",
+    "akarKata": null,
+    "ejaan": "puasa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "meniadakan makan, minum, dan sebagainya dengan sengaja (terutama bertalian dengan keagamaan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "salah satu rukun Islam berupa ibadah menahan diri atau berpantang makan, minum, dan segala yang membatalkannya mulai terbit fajar sampai terbenam matahari; saum",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama islam",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "la.hak",
+    "akarKata": null,
+    "ejaan": "lahak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bau busuk",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

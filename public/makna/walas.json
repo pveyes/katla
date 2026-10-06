@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "wa.las",
+    "akarKata": null,
+    "ejaan": "walas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wali kelas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

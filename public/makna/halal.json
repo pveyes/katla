@@ -1,0 +1,37 @@
+[
+  {
+    "sukuKata": "ha.lal",
+    "akarKata": null,
+    "ejaan": "halal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "diizinkan (tidak dilarang oleh syarak)",
+        "contoh": "makanan ini --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(yang diperoleh atau diperbuat dengan) sah",
+        "contoh": "uang --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "izin; ampun",
+        "contoh": "menyembah minta -- akan segala pengajarannya",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

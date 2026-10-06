@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "wa.gub",
+    "akarKata": null,
+    "ejaan": "wagub",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wakil gubernur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ema.il",
+    "akarKata": null,
+    "ejaan": "émail",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "massa berupa kaca tidak bening yang di pakai untuk melapisi benda dari logam, gelas, atau tembikar",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "barang-barang yang diberi salutan email",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahan padat berwarna putih dan keras yang melapisi dan melindungi bagian dentin mahkota gigi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

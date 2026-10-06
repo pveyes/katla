@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ne.nen",
+    "akarKata": null,
+    "ejaan": "nènèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyusu pada ibu (bahasa anak-anak)",
+        "contoh": "kebiasaan bayi itu sehabis -- terus tidur",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

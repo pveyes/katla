@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "mir.as",
+    "akarKata": null,
+    "ejaan": "miras",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman keras",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

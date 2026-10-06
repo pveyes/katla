@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "ba.wat",
+    "akarKata": null,
+    "ejaan": "bawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "payung kebesaran (bertangkai panjang dan warnanya sesuai dengan pangkat pembesar yang memakainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.wat",
+    "akarKata": null,
+    "ejaan": "bawat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tergantung ke bawah (seperti tali-temali di perahu, pakaian di sampaian, rumbai-rumbai pada pakaian, sulur pada beringin)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "hampir tidak dapat dibuka lagi karena sangat mengantuk (tentang mata)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

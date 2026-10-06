@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "dog.ma",
+    "akarKata": null,
+    "ejaan": "dogma",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pokok ajaran (tentang kepercayaan dan sebagainya) yang harus diterima sebagai hal yang benar dan baik, tidak boleh dibantah dan diragukan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "keyakinan tertentu",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

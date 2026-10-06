@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mu.ram",
+    "akarKata": null,
+    "ejaan": "muram",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terang cahayanya; kurang bercahaya; suram; buram",
+        "contoh": "bulan pun mulai --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak berseri; tidak kelihatan bergembira; sedih",
+        "contoh": "hari ini mukanya -- saja",
+        "info": []
+      }
+    ]
+  }
+]

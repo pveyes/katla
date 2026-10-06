@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ra.lip",
+    "akarKata": null,
+    "ejaan": "ralip",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "arip",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.lip",
+    "akarKata": null,
+    "ejaan": "ralip",
+    "baku": false,
+    "alt": "galib",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "umum; lazim",
+        "contoh": "pada --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "jaya; menang; beruntung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

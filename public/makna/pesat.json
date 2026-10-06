@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.sat",
+    "akarKata": null,
+    "ejaan": "pêsat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "cepat sekali",
+        "contoh": "meluncur dengan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "maju (berkembang) dengan cepat",
+        "contoh": "perusahaan yang dipimpinnya bertambah --",
+        "info": []
+      }
+    ]
+  }
+]

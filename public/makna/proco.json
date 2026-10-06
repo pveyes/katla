@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "pro.co",
+    "akarKata": null,
+    "ejaan": "proco",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman yang terdiri atas potongan buah-buahan yang diberi santan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu medan",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

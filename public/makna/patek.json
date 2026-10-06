@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.tek",
+    "akarKata": null,
+    "ejaan": "patèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit kulit yang disebabkan oleh spora; penyakit puru; frambusia",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.tek",
+    "akarKata": null,
+    "ejaan": "patêk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit tanaman yang menyerang buah cabai akibat jamur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "botani",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

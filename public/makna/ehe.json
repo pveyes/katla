@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "Ehe",
+    "akarKata": null,
+    "ejaan": "êhê",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nama tahun ke-2 dalam daur kecil (windu)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

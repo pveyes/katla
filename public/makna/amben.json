@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "am.ben",
+    "akarKata": null,
+    "ejaan": "ambèn",
+    "baku": true,
+    "alt": "ambin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balai-balai",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "am.ben",
+    "akarKata": null,
+    "ejaan": "ambên",
+    "baku": true,
+    "alt": "ambin",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tali perut kuda yang terdiri atas bagian dalam dan bagian luar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

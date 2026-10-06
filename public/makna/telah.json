@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "te.lah",
+    "akarKata": null,
+    "ejaan": "têlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "sudah (untuk menyatakan perbuatan, keadaan dan sebagainya yang sempurna, lampau, atau selesai)",
+        "contoh": "ia -- pergi dan tidak akan kembali lagi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "te.lah",
+    "akarKata": null,
+    "ejaan": "têlah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menelah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

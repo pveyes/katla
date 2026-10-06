@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ab.so.lut",
+    "akarKata": null,
+    "ejaan": "absolut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak terbatas; mutlak",
+        "contoh": "seorang raja mempunyai kekuasaan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sepenuhnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tanpa syarat",
+        "contoh": "penyerahan -- tentara kolonial Belanda kepada tentara pendudukan Jepang",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat diragukan lagi; nyata",
+        "contoh": "terbukti keterlibatannya dalam peristiwa itu --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "murni; bebas dari campuran",
+        "contoh": "alkohol -- dengan konsentrasi 99% ampuh untuk membunuh kuman dan penyakit",
+        "info": []
+      }
+    ]
+  }
+]

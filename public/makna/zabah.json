@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "za.bah",
+    "akarKata": null,
+    "ejaan": "zabah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "sembelih; menyembelih",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

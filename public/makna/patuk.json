@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "pa.tuk",
+    "akarKata": null,
+    "ejaan": "patuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "catuk; cotok; pagut (dengan paruh)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.tuk",
+    "akarKata": null,
+    "ejaan": "patuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat kelamin laki-laki; zakar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pa.pan",
+    "akarKata": null,
+    "ejaan": "papan",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu (besi, batu, dan sebagainya) yang lebar dan tipis",
+        "contoh": "rumah panggung itu lantainya terbuat dari -- (kayu) jati",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat tinggal; rumah",
+        "contoh": "kita perlu sandang, pangan, dan --",
+        "info": []
+      }
+    ]
+  }
+]

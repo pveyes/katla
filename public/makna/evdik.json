@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ev.dik",
+    "akarKata": null,
+    "ejaan": "évdik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "evaluasi pendidikan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

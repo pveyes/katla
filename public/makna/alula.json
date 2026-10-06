@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "alu.la",
+    "akarKata": null,
+    "ejaan": "alula",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "selaput pada pangkal sayap beberapa serangga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "biologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

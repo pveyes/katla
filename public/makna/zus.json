@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "zus",
+    "akarKata": null,
+    "ejaan": "zus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada saudara perempuan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan akrab kepada perempuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

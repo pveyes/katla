@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ra.gut",
+    "akarKata": null,
+    "ejaan": "ragut",
+    "baku": false,
+    "alt": "renggut",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tarik; ambil",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.gut",
+    "akarKata": null,
+    "ejaan": "ragut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "meragut"
+        ]
+      }
+    ]
+  }
+]

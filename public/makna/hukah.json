@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hu.kah",
+    "akarKata": null,
+    "ejaan": "hukah",
+    "baku": false,
+    "alt": "hokah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pipa panjang yang diberi air untuk mengisap tembakau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

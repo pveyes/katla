@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ana-",
+    "akarKata": null,
+    "ejaan": "ana-",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "naik; ke atas",
+        "contoh": "anabolisme",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "kembali",
+        "contoh": "analogi",
+        "info": []
+      },
+      {
+        "tipe": "-",
+        "tipeTeks": "-",
+        "definisi": "sampai habis atau menyeluruh",
+        "contoh": "anatomi",
+        "info": []
+      }
+    ]
+  }
+]

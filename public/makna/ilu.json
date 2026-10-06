@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ilu",
+    "akarKata": null,
+    "ejaan": "ilu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat menimbulkan rasa iba (pilu) dalam hati",
+        "contoh": "dengan suara lembut ia berkata -- seakan-akan bermohon",
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

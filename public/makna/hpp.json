@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "HPP",
+    "akarKata": null,
+    "ejaan": "HPP",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga pembelian pemerintah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ja.sus",
+    "akarKata": null,
+    "ejaan": "jasus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "orang yang bertugas menyelidiki keadaan musuh; mata-mata",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arab",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

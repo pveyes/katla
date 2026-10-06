@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "bi.rih",
+    "akarKata": null,
+    "ejaan": "birih",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari jendela layar belah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "UPN",
+    "akarKata": null,
+    "ejaan": "UPN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Universitas Pembangunan Nasional \"Veteran\"",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

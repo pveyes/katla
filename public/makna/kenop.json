@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "ke.nop",
+    "akarKata": null,
+    "ejaan": "kênop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tombol (pada pintu, lampu, radio, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.nop",
+    "akarKata": null,
+    "ejaan": "kênop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kancing baju",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ke.nop",
+    "akarKata": null,
+    "ejaan": "kênop",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemukul (gada) dari karet",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

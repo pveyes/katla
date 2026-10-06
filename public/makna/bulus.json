@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "bu.lus",
+    "akarKata": null,
+    "ejaan": "bulus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "gundul sama sekali (tidak berdaun, tidak berbulu, tidak beranting)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak dapat mempunyai anak karena mandul",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak memiliki apa-apa lagi; miskin; papa",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.lus",
+    "akarKata": null,
+    "ejaan": "bulus",
+    "baku": true,
+    "alt": "bolos",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat masuk (lulus)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kena pukul (dalam permainan pencak dan sebagainya); tembus",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.lus",
+    "akarKata": null,
+    "ejaan": "bulus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "labi-labi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

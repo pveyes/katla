@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "se.reh",
+    "akarKata": null,
+    "ejaan": "sêrèh",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "serai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.reh",
+    "akarKata": null,
+    "ejaan": "sêrêh",
+    "baku": false,
+    "alt": "serai",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "terserai",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

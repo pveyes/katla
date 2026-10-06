@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "hen.ry",
+    "akarKata": null,
+    "ejaan": "hènry",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "satuan induksi listrik",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "elektronika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

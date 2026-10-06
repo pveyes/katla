@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "nak",
+    "akarKata": null,
+    "ejaan": "nak",
+    "baku": false,
+    "alt": "hendak",
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "mau; akan; bermaksud akan",
+        "contoh": "pamannya -- pergi jauh",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "nak",
+    "akarKata": null,
+    "ejaan": "nak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "anak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  }
+]

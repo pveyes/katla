@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "se.rap",
+    "akarKata": null,
+    "ejaan": "sèrap",
+    "baku": true,
+    "alt": "serep",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cadangan; serep",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "se.rap",
+    "akarKata": null,
+    "ejaan": "sêrap",
+    "baku": true,
+    "alt": "serep",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "menyerap",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

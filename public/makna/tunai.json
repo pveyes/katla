@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "tu.nai",
+    "akarKata": null,
+    "ejaan": "tunai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak bertanggung lagi; tidak bertangguh (tentang pembayaran) pada saat itu juga; kontan",
+        "contoh": "ia tidak suka berutang, dan selalu membayar -- barang yang dibelinya",
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "diterima (diserahkan) segera setelah dilakukan pembayaran",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

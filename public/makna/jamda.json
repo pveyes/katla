@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "jam.da",
+    "akarKata": null,
+    "ejaan": "jamda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jambore daerah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

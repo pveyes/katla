@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "lu.mer",
+    "akarKata": null,
+    "ejaan": "lumèr",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "encer; leleh",
+        "contoh": "baja hanya dapat dicetak dalam keadaan --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mau menurut; tidak bersikeras lagi",
+        "contoh": "setelah dinasihati, akhirnya -- juga hatinya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

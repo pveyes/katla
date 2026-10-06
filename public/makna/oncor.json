@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "on.cor",
+    "akarKata": null,
+    "ejaan": "oncor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suluh",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "on.cor",
+    "akarKata": null,
+    "ejaan": "oncor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pengaliran air ke sawah-sawah; irigasi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

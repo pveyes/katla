@@ -1,0 +1,43 @@
+[
+  {
+    "sukuKata": "je.bol",
+    "akarKata": null,
+    "ejaan": "jêbol",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terangkat dari tempatnya tertanam (tentang tanaman) sampai ke akar-akarnya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak parah (terbongkar) hingga tidak berfungsi (tentang tanggul air, dinding, dan sebagainya) karena tidak mampu menahan benturan keras yang melanda",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak mampu menahan serangan lawan (misalnya dalam pertandingan)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak mampu mempertahankan nilai-nilai budaya yang dimiliki dalam menghadapi arus budaya lain (asing) yang melanda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

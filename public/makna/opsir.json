@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "op.sir",
+    "akarKata": null,
+    "ejaan": "opsir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perwira (pangkat dalam kemiliteran)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

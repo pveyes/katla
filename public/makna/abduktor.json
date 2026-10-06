@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ab.duk.tor",
+    "akarKata": null,
+    "ejaan": "abduktor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "otot yang menggerakkan anggota badan, seperti tangan dan kaki ke samping",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

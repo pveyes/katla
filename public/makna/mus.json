@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "mus",
+    "akarKata": null,
+    "ejaan": "mus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan ringan yang dibuat dari agar-agar, putih telur, krim busa, perencah, dan sebagainya, biasanya dihidangkan sebagai makanan pencuci mulut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masakan yang dibuat dari sayuran yang dicacah lembut atau buah-buahan yang dimasak sehingga menjadi seperti bubur",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

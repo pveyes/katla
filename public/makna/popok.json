@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "po.pok",
+    "akarKata": null,
+    "ejaan": "popok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kain alas bayi; lampin",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.pok",
+    "akarKata": null,
+    "ejaan": "popok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kemaluan anak perempuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.pok",
+    "akarKata": null,
+    "ejaan": "popok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "kemaluan anak perempuan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "po.pok",
+    "akarKata": null,
+    "ejaan": "popok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memopok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

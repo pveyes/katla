@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "ka.har",
+    "akarKata": null,
+    "ejaan": "kahar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kereta beroda dua yang ditarik oleh kuda, lembu, atau kerbau; pedati; dokar",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.har",
+    "akarKata": null,
+    "ejaan": "kahar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "mahakuasa (tentang sifat Allah Swt.)",
+        "contoh": "Tuhan Yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sewenang-wenang",
+        "contoh": "ia makin -- lakunya, sering menganiaya orang, sedikit pun tiada adilnya",
+        "info": []
+      }
+    ]
+  }
+]

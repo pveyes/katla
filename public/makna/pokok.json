@@ -1,0 +1,78 @@
+[
+  {
+    "sukuKata": "po.kok",
+    "akarKata": null,
+    "ejaan": "pokok",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "segala tumbuhan yang berbatang keras dan besar; pokok kayu",
+        "contoh": "-- beringin",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang kayu dari pangkal ke atas; pokok kayu",
+        "contoh": "pada -- pohon karet itu terdapat banyak torehan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "uang yang dipakai sebagai induk dalam berniaga; modal",
+        "contoh": "-- perusahaan itu lima juta",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "harga pembelian",
+        "contoh": "kain ini dijual di bawah harga --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lantaran; sebab",
+        "contoh": "itulah yang menjadi -- perselisihan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "asas; dasar; inti sari",
+        "contoh": "-- pikiran",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pusat (yang menjadi titik perhatian dan sebagainya)",
+        "contoh": "-- pembicaraannya ialah masalah remaja",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tergantung; terserah",
+        "contoh": "jadi atau tidak, --nya kepada tuan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "yang terutama; yang sangat penting",
+        "contoh": "makanan --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

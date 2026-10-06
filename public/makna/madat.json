@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ma.dat",
+    "akarKata": null,
+    "ejaan": "madat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "candu (yang telah dimasak dan siap untuk diisap)",
+        "contoh": "mukanya pucat karena mengisap --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mengisap candu",
+        "contoh": "kesukaannya minum dan --",
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ma.dat",
+    "akarKata": null,
+    "ejaan": "madat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "menara tempat orang berjaga (berkawal dan sebagainya); dinding atau tembok di atap atau di menara, diberi lubang-lubang untuk mengintai atau menembak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

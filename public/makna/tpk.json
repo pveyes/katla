@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TPK",
+    "akarKata": null,
+    "ejaan": "TPK",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tujuan pengajaran khusus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

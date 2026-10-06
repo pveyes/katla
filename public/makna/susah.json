@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "su.sah",
+    "akarKata": null,
+    "ejaan": "susah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa tidak senang (karena sukar, sulit, berat, dan sebagainya)",
+        "contoh": "-- benar memenuhi permintaannya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merasa tidak aman (dalam hati); selalu gelisah dan khawatir; sedih",
+        "contoh": "bukan main -- hatinya menerima kenyataan pahit itu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sukar",
+        "contoh": "masalah itu -- sekali mengatasinya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak mudah (mendapat, mencari, dan sebagainya)",
+        "contoh": "-- mendapat pembantu serajin dia",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kekurangan; miskin",
+        "contoh": "hidupnya kini serba --",
+        "info": []
+      }
+    ]
+  }
+]

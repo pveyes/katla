@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "ki.bor",
+    "akarKata": null,
+    "ejaan": "kibor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "seperangkat tombol atau bilah dalam satu atau beberapa baris yang digunakan untuk mengoperasikan sesuatu, seperti komputer atau alat musik; papan tombol; papan tuts",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat musik elektronik, terdiri atas satu papan tuts horisontal seperti piano, dapat memainkan beragam suara, seperti terompet, suling, gitar, biola, atau perkusi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

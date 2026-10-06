@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ca.kil",
+    "akarKata": null,
+    "ejaan": "cakil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batang kayu yang berkait untuk melilitkan ujung tali pada benda tersebut",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.kil",
+    "akarKata": null,
+    "ejaan": "cakil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pasak dari bambu yang ujungnya runcing",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

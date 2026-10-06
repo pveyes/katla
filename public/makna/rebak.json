@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "re.bak",
+    "akarKata": null,
+    "ejaan": "rébak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "robek panjang (kain, layar, dan sebagainya); luka dalam (kena pisau dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.bak",
+    "akarKata": null,
+    "ejaan": "rébak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merebak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.bak",
+    "akarKata": null,
+    "ejaan": "rêbak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "merebak",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

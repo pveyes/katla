@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "co.ang",
+    "akarKata": null,
+    "ejaan": "coang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "bercoang",
+          "bercoangan",
+          "mencoang",
+          "mencoangkan",
+          "tercoang"
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.ang",
+    "akarKata": null,
+    "ejaan": "coang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "mencoang-coang"
+        ]
+      }
+    ]
+  }
+]

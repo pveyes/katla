@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "me.gah",
+    "akarKata": null,
+    "ejaan": "mêgah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tampak mengagumkan (karena besarnya, indahnya, dan sebagainya); gagah kuat; mulia, masyhur",
+        "contoh": "monumen pahlawan itu berdiri dengan --nya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bangga",
+        "contoh": "ia merasa -- ketika duduk di dalam mobilnya yang baru",
+        "info": []
+      }
+    ]
+  }
+]

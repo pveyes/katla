@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ma.wut",
+    "akarKata": null,
+    "ejaan": "mawut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berceceran; berserak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

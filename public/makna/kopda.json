@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "kop.da",
+    "akarKata": null,
+    "ejaan": "kopda",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kopral dua",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

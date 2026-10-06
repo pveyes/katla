@@ -1,0 +1,105 @@
+[
+  {
+    "sukuKata": "cap",
+    "akarKata": null,
+    "ejaan": "cap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alat untuk membuat rekaman tanda (gambar, tanda tangan) dengan menekankannya pada kertas (surat dan sebagainya); stempel; tera",
+        "contoh": "surat itu sudah ditandatangani, tetapi belum diberi --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rekaman (tanda gambar, tanda tangan yang dibuat dengan cap)",
+        "contoh": "surat keterangan yang tidak mempunyai -- dari kelurahan tidak berlaku",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cetak; cetakan (pada buku, kain, dan sebagainya); bukan tulisan tangan",
+        "contoh": "huruf --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "merek dagang; etiket",
+        "contoh": "anggur -- Orang Tua",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda atau gambar pengenal",
+        "contoh": "semua kendaraan milik PMI memakai -- palang merah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sifat (keadaan dan sebagainya) yang khusus; ciri",
+        "contoh": "dengan demikian kelihatan --nya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebutan (karena sifat yang menjadi ciri pengenalnya)",
+        "contoh": "ia sudah mendapat -- si Lamban",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cap",
+    "akarKata": null,
+    "ejaan": "cap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "ukuran sebesar tangan memegang (ujung jari bertemu dengan ibu jari)",
+        "contoh": "tujuh hasta bidang dadanya, tujuh -- pokok lengannya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cap",
+    "akarKata": null,
+    "ejaan": "cap",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tiruan bunyi kecap (sewaktu orang makan atau mengecap makanan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

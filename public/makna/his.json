@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "his",
+    "akarKata": null,
+    "ejaan": "his",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata seru untuk menyatakan tidak suka dan sebagainya",
+        "contoh": "--, jangan keras-keras bicaramu",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "his",
+    "akarKata": null,
+    "ejaan": "his",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penguncupan (pengerutan) rahim pada waktu persalinan",
+        "contoh": "salah satu faktor persalinan yang normal ialah terjadinya --",
+        "info": []
+      }
+    ]
+  }
+]

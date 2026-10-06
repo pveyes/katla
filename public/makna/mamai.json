@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ma.mai",
+    "akarKata": null,
+    "ejaan": "mamai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "seperti hilang ingatan (mabuk, tidak sadar, dan sebagainya) rupanya; kelam ingatan atau pikiran (karena terlampau tua, habis sakit payah, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "mimpi dan mengigau",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

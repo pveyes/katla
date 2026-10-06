@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ha.rus",
+    "akarKata": null,
+    "ejaan": "harus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "patut",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "wajib; mesti (tidak boleh tidak)",
+        "contoh": "kalau dia tidak datang, kau -- menggantikannya",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ha.rus",
+    "akarKata": null,
+    "ejaan": "harus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "boleh dilakukan dan boleh juga ditinggalkan; jaiz; mubah",
+        "contoh": "hal yang demikian itu hukumnya --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "ku.lai",
+    "akarKata": null,
+    "ejaan": "kulai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "siput mutiara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ku.lai",
+    "akarKata": null,
+    "ejaan": "kulai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "siput mutiara",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

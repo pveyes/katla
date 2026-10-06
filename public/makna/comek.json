@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "co.mek",
+    "akarKata": null,
+    "ejaan": "comèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bulu yang tumbuh di bawah bibir bawah (di atas dagu)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "co.mek",
+    "akarKata": null,
+    "ejaan": "comèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cumi-cumi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

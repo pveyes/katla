@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "STAIN",
+    "akarKata": null,
+    "ejaan": "STAIN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Sekolah Tinggi Agama Islam Negeri",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

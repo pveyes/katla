@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "on.sen",
+    "akarKata": null,
+    "ejaan": "onsèn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kolam pemandian air panas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jepang",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

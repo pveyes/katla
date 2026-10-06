@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "re.sam",
+    "akarKata": null,
+    "ejaan": "rêsam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tumbuhan jenis pakis, batangnya keras, dapat dibuat kalam; paku rotan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "re.sam",
+    "akarKata": null,
+    "ejaan": "rêsam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "adat kebiasaan; aturan-aturan yang menjadi adat; pembawaan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

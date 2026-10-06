@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ajung",
+    "akarKata": null,
+    "ejaan": "ajung",
+    "baku": false,
+    "alt": "jung",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perahu besar dari negeri Cina, untuk berlayar di lautan, terbuat dari kayu, berlayar, bertutup, digunakan untuk mengangkut orang atau barang",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ajung",
+    "akarKata": null,
+    "ejaan": "ajung",
+    "baku": false,
+    "alt": "ajun",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "maksud",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

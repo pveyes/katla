@@ -1,0 +1,27 @@
+[
+  {
+    "sukuKata": "ngo.ko",
+    "akarKata": null,
+    "ejaan": "ngoko",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tingkatan bahasa yang terendah dalam bahasa Jawa yang dipakai untuk berbicara dengan orang yang sudah akrab, dengan orang yang lebih rendah kedudukannya, atau dengan orang yang lebih muda",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

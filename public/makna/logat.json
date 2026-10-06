@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "lo.gat",
+    "akarKata": null,
+    "ejaan": "logat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata (dalam arti yang sebenarnya)",
+        "contoh": "terjemahan menurut -- (kata demi kata)",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dialek",
+        "contoh": "-- Jakarta",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "cara mengucapkan kata (aksen) atau lekuk lidah yang khas",
+        "contoh": "menilik --nya, dapat dipastikan bahwa ia berasal dari Medan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perbendaharaan kata",
+        "contoh": "kata ini tidak terdapat dalam -- Melayu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kamus",
+        "contoh": "kitab -- Melayu",
+        "info": []
+      }
+    ]
+  }
+]

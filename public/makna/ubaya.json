@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "uba.ya",
+    "akarKata": null,
+    "ejaan": "ubaya",
+    "baku": false,
+    "alt": "hubaya-hubaya",
+    "makna": [
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung untuk memperkuat (peringatan, larangan, dan sebagainya) sekali-kali; benar-benar (jangan ...)",
+        "contoh": "hendaklah Tuan hamba mufakat dengan dua ekor unggas, -- jangan tiada, hai nyawaku",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "kata penghubung untuk mengeraskan harapan; mudah-mudahan",
+        "contoh": "saya berdoa kepada Allah -- jangan salah lagi",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "partikel",
+        "tipeTeks": "kelas kata yang meliputi kata depan, kata sambung, kata seru, kata sandang, ucapan salam",
+        "definisi": "terlebih lagi; terutama",
+        "contoh": "-- setelah didengarnya sindiran ibunya sendiri, ia pun insaf akan dirinya",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

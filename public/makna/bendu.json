@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ben.du",
+    "akarKata": null,
+    "ejaan": "bêndu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sahabat; kawan; sanak saudara",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

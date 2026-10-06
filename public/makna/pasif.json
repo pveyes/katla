@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "pa.sif",
+    "akarKata": null,
+    "ejaan": "pasif",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bersifat menerima saja; tidak giat; tidak aktif",
+        "contoh": "anggota perkumpulan itu -- saja",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang atau lebih kecil daripada pengeluaran (tentang penerimaan, pemasukan uang, dan sebagainya)",
+        "contoh": "neraca pembayaran --",
+        "info": [
+          {
+            "sumber": "ekonomi dan keuangan",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(jenis kalimat) yang menunjukkan bahwa subjek adalah tujuan dari perbuatan, misalnya ia dipukul",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "dapat memahami bacaan, pembicaraan, dan sebagainya, tetapi tidak dapat mengemukakan kembali, baik lisan maupun tulis (tentang penguasaan bahasa)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

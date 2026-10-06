@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "tu.nak",
+    "akarKata": null,
+    "ejaan": "tunak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adverbia",
+        "tipeTeks": "kata yang menjelaskan verba, adjektiva, adverbia lain, atau kalimat",
+        "definisi": "tidak henti-hentinya (bekerja dan sebagainya); tetap patuh; betah",
+        "contoh": "matanya -- memandang ke lantai",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      }
+    ]
+  }
+]

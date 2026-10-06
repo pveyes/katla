@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "so.rog",
+    "akarKata": null,
+    "ejaan": "sorog",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu panjang untuk menjolok buah dan sebagainya",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "ca.leg",
+    "akarKata": null,
+    "ejaan": "calèg",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "calon legislator",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

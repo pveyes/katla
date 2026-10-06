@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "sah",
+    "akarKata": null,
+    "ejaan": "sah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "dilakukan menurut hukum (undang-undang, peraturan) yang berlaku",
+        "contoh": "berdasarkan akta notaris, pendirian yayasan itu sudah --",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tidak batal (tentang keagamaan)",
+        "contoh": "salatnya tetap -- meskipun tidak memakai peci",
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "berlaku; diakui kebenarannya; diakui oleh pihak resmi",
+        "contoh": "para pelamar harus membawa surat-surat keterangan yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "boleh dipercaya; tidak diragukan (disangsikan); benar; asli; autentik",
+        "contoh": "naskah proklamasi yang dibacakan pada setiap peringatan tanggal 17 Agustus adalah naskah yang --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyata dan tentu; pasti",
+        "contoh": "peti ini -- berisi uang",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "sah",
+    "akarKata": null,
+    "ejaan": "sah",
+    "baku": false,
+    "alt": "syah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "raja; baginda raja",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "raja (dalam permainan catur)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

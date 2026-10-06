@@ -1,0 +1,60 @@
+[
+  {
+    "sukuKata": "ra.wah",
+    "akarKata": null,
+    "ejaan": "rawah",
+    "baku": false,
+    "alt": "rawa",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanah yang rendah (umumnya di daerah pantai) dan digenangi air, biasanya banyak terdapat tumbuhan air",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wah",
+    "akarKata": null,
+    "ejaan": "rawah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuali besar",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ra.wah",
+    "akarKata": null,
+    "ejaan": "rawah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "persekutuan dagang (tentang penangkapan ikan dan sebagainya) yang sebagian pesertanya memberikan modal dan sebagian memberikan tenaga",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "arkais",
+            "sumberTeks": "menandai kata yang tidak lazim"
+          }
+        ]
+      }
+    ]
+  }
+]

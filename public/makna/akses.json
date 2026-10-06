@@ -1,0 +1,51 @@
+[
+  {
+    "sukuKata": "ak.ses",
+    "akarKata": null,
+    "ejaan": "aksès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jalan masuk",
+        "contoh": "seluruh pembangunan -- ini dibiayai oleh dana obligasi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ak.ses",
+    "akarKata": null,
+    "ejaan": "aksès",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pencapaian berkas di disket untuk penulisan atau pembacaan data",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "elektronika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tindakan untuk memperoleh informasi, seperti cakram keras atau suatu layanan informasi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "pe.suk",
+    "akarKata": null,
+    "ejaan": "pêsuk",
+    "baku": true,
+    "alt": "pesok",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lubang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lekuk (pada topi dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

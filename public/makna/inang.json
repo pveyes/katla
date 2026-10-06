@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "inang",
+    "akarKata": null,
+    "ejaan": "inang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "perempuan yang merawat (menyusui dan sebagainya) anak tuannya (seperti anak raja atau anak pembesar)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "organisme tempat parasit tumbuh dan makan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pertanian",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

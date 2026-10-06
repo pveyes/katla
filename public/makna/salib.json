@@ -1,0 +1,54 @@
+[
+  {
+    "sukuKata": "sa.lib",
+    "akarKata": null,
+    "ejaan": "salib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "dua batang kayu yang bersilang",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu bersilang tempat Yesus dihukum orang Yahudi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanda silang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "agama kristen",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "syarat dengan tangan yang menggambarkan tanda silang sebagai pengungkapan doa",
+        "contoh": "sebelum berdoa ia membuat tanda -- dengan menggerakkan tangan dari dahi ke dada dan dari pangkal lengan kiri ke pangkal lengan kanan",
+        "info": [
+          {
+            "sumber": "agama katolik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ik.rar",
+    "akarKata": null,
+    "ejaan": "ikrar",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "janji yang sungguh-sungguh",
+        "contoh": "ia membacakan -- kesetiaan di depan pemimpinnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "janji (dengan sumpah); pengakuan",
+        "contoh": "setelah menyanyikan lagu Indonesia Raya,mereka membacakan -- Sumpah Pemuda",
+        "info": []
+      }
+    ]
+  }
+]

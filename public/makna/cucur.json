@@ -1,0 +1,67 @@
+[
+  {
+    "sukuKata": "cu.cur",
+    "akarKata": null,
+    "ejaan": "cucur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pancaran menurun (tentang air mata dan sebagainya)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.cur",
+    "akarKata": null,
+    "ejaan": "cucur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian perahu sebelah depan yang menganjur panjang; jungur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "layar segitiga (dipasang pada tiang terdepan) pada perahu; jib",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "cu.cur",
+    "akarKata": null,
+    "ejaan": "cucur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penganan, dibuat dari adonan tepung beras dan gula (merah), kemudian digoreng",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

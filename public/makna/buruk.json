@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "bu.ruk",
+    "akarKata": null,
+    "ejaan": "buruk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rusak atau busuk karena sudah lama",
+        "contoh": "memakai kain --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "(tentang kelakuan dan sebagainya) jahat; tidak menyenangkan",
+        "contoh": "kelakuannya sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak cantik, tidak elok, jelek (tentang muka, rupa, dan sebagainya)",
+        "contoh": "-- rupa",
+        "info": []
+      }
+    ]
+  }
+]

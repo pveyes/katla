@@ -1,0 +1,88 @@
+[
+  {
+    "sukuKata": "abang",
+    "akarKata": null,
+    "ejaan": "abang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kakak laki-laki; saudara laki-laki yang lebih tua",
+        "contoh": "--nya tiga tahun lebih tua",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada orang laki-laki yang lebih tua atau tidak dikenal",
+        "contoh": "tahukah -- jalan ke kantor pos?",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan istri kepada suami",
+        "contoh": "sudah dua hari -- tidak pulang",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan kepada penjual sayur, penjual ikan, pengemudi becak, dan sebagainya",
+        "contoh": "ia biasa belanja pada -- sayur yang lewat di depan rumahnya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata sapaan untuk saudara laki-laki ayah di kalangan kaum bangsawan Banggai di Sulawesi",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "abang",
+    "akarKata": null,
+    "ejaan": "abang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "merah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "abang",
+    "akarKata": null,
+    "ejaan": "abang",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat mengikat kemudi bagian atas",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "pelayaran",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

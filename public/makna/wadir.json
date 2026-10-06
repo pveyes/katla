@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "wa.dir",
+    "akarKata": null,
+    "ejaan": "wadir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "wakil direktur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

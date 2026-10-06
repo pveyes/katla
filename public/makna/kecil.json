@@ -1,0 +1,46 @@
+[
+  {
+    "sukuKata": "ke.cil",
+    "akarKata": null,
+    "ejaan": "kêcil",
+    "baku": true,
+    "alt": "kecik",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kurang besar (keadaannya dan sebagainya) daripada yang biasa; tidak besar",
+        "contoh": "kursi -- itu dirancang untuk anak-anak usia sekitar lima tahun",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "muda",
+        "contoh": "anak itu lebih -- daripada adikku",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sedikit",
+        "contoh": "bagian harta warisanku sangat --",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "sempit (tidak luas, tidak lebar, dan sebagainya)",
+        "contoh": "rumah -- itu dibangun untuk pegawai rendah",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak penting (tidak berharga dan sebagainya)",
+        "contoh": "saran baik yang disampaikan kepadanya itu dianggap --",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "PKn",
+    "akarKata": null,
+    "ejaan": "PKn",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pendidikan kewarganegaraan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

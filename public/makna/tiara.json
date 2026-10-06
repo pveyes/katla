@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ti.a.ra",
+    "akarKata": null,
+    "ejaan": "tiara",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiasan kepala bertatahkan mutiara yang dipakai para ratu",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "mahkota bersusun tiga (seperti yang dipakai oleh Paus)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

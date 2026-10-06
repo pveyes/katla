@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "ang.go",
+    "akarKata": null,
+    "ejaan": "anggo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jenis kunyit hutan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "abrap",
+            "sumberTeks": "bahasa di provinsi papua"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ang.go",
+    "akarKata": null,
+    "ejaan": "anggo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pembakaran barang-barang tertentu, khususnya sisa-sisa binatang yang tertangkap, untuk inisiasi anak laki-laki dalam upacara penyembelihan babi keramat atau upacara perkawinan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "muyu",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ang.go",
+    "akarKata": null,
+    "ejaan": "anggo",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "lagu tradisional yang berisikan puji-pujian dan sanjungan yang berfungsi sebagai pelajaran pembentukan watak kepahlawanan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tolaki",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

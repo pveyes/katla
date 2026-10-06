@@ -1,0 +1,35 @@
+[
+  {
+    "sukuKata": "na.zam",
+    "akarKata": null,
+    "ejaan": "nazam",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "puisi yang berasal dari Parsi, terdiri atas dua belas larik, berima dua-dua atau empat-empat, isinya perihal hamba sahaya istana yang setia dan budiman",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "sastra",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

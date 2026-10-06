@@ -1,0 +1,57 @@
+[
+  {
+    "sukuKata": "ka.mus",
+    "akarKata": null,
+    "ejaan": "kamus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "karya rujukan atau acuan dalam bentuk cetak maupun digital yang memuat kata dan ungkapan, dapat disusun menurut abjad atau tema, berisi keterangan tentang makna, pemakaian, atau terjemahan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "buku yang memuat kumpulan istilah atau nama yang disusun menurut abjad beserta penjelasan tentang makna dan pemakaiannya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "diri, pikiran",
+        "contoh": "tak ada istilah “takut” dalam -- saya",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ka.mus",
+    "akarKata": null,
+    "ejaan": "kamus",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kulit yang sudah dimasak; samak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

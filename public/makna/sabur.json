@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "sa.bur",
+    "akarKata": null,
+    "ejaan": "sabur",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "bercampur (berbaur) tidak menentu (sehingga tidak dapat dibedakan lagi, seperti suara tangis bercampur dengan teriak, beribu-ribu orang berkumpul)",
+        "contoh": "dalam keadaan kacau akibat kebakaran itu, suara tangis dan jeritan menjadi --",
+        "info": [
+          {
+            "sumber": "klasik",
+            "sumberTeks": "menandai kata yang digunakan dalam kesusastraan melayu klasik"
+          }
+        ]
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "kabur; agak suram; agak gelap",
+        "contoh": "kaca jendela ini -- karena sudah lama tidak dibersihkan",
+        "info": []
+      }
+    ]
+  }
+]

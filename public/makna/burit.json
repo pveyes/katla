@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bu.rit",
+    "akarKata": null,
+    "ejaan": "burit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "(bagian) belakang; buntut; dubur; punggung",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bu.rit",
+    "akarKata": null,
+    "ejaan": "burit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sore",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

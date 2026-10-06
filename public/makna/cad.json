@@ -1,0 +1,42 @@
+[
+  {
+    "sukuKata": "Cad",
+    "akarKata": null,
+    "ejaan": "Cad",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "negara yang terletak di Afrika Tengah, beribu kota N'Djamena",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "CAD",
+    "akarKata": null,
+    "ejaan": "CAD",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "desain berbantu komputer; dari computer-aided design",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "komputer",
+            "sumberTeks": null
+          },
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

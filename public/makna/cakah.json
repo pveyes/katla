@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ca.kah",
+    "akarKata": null,
+    "ejaan": "cakah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lebar (tentang sudut, cabang, kaki yang dilangkahkan)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ca.kah",
+    "akarKata": null,
+    "ejaan": "cakah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "lurus mendatar, tidak melengkung (tentang tanduk kerbau)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

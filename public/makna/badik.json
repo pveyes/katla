@@ -1,0 +1,48 @@
+[
+  {
+    "sukuKata": "ba.dik",
+    "akarKata": null,
+    "ejaan": "badik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "senjata tradisional khas suku Bugis dan Makassar berbentuk pisau, bersarung, bermata satu, memiliki kegunaan sebagai simbol, azimat, dan untuk membela diri",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dik",
+    "akarKata": null,
+    "ejaan": "badik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "putik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.dik",
+    "akarKata": null,
+    "ejaan": "badik",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "putik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

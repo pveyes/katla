@@ -1,0 +1,50 @@
+[
+  {
+    "sukuKata": "pu.las",
+    "akarKata": null,
+    "ejaan": "pulas",
+    "baku": true,
+    "alt": "pules",
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "nyenyak (tentang tidur)",
+        "contoh": "anak-anak sudah --",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.las",
+    "akarKata": null,
+    "ejaan": "pulas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "memulas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pu.las",
+    "akarKata": null,
+    "ejaan": "pulas",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "memulas",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

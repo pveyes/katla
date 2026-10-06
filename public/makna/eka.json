@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "Eka",
+    "akarKata": null,
+    "ejaan": "Eka",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "elektronika",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "an.dil",
+    "akarKata": null,
+    "ejaan": "andil",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian modal dalam perusahaan; saham; sero",
+        "contoh": "ia mempunyai -- di perusahaan itu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jasa, usaha, atau bantuan (berupa uang, tenaga, dan sebagainya) yang diberikan",
+        "contoh": "ia mempunyai -- besar dalam memajukan olahraga nasional",
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "sukuKata": "pi.jat",
+    "akarKata": null,
+    "ejaan": "pijat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tekan; pencet",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "urut; pijit",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pi.jat",
+    "akarKata": null,
+    "ejaan": "pijat",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "prakategorial",
+        "tipeTeks": "kata tidak dipakai dalam bentuk dasarnya",
+        "referensi": [
+          "pijat-pijat"
+        ]
+      }
+    ]
+  }
+]

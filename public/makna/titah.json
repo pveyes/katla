@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "ti.tah",
+    "akarKata": null,
+    "ejaan": "titah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kata; perintah (biasanya dari raja) yang harus dipatuhi",
+        "contoh": "-- raja harus dipatuhi",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ti.tah",
+    "akarKata": null,
+    "ejaan": "titah",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "belajar berjalan sambil memegang tangan orang tua, untuk melatih bayi berjalan; tatih; tatah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

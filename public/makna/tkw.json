@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "TKW",
+    "akarKata": null,
+    "ejaan": "TKW",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tenaga kerja wanita",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

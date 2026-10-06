@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "ga.yor",
+    "akarKata": null,
+    "ejaan": "gayor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "posisi tanduk domba mengarah ke tengah",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ga.yor",
+    "akarKata": null,
+    "ejaan": "gayor",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hiasan berbentuk gapura atau ornamen lain berbahan janur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

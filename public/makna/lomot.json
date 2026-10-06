@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "lo.mot",
+    "akarKata": null,
+    "ejaan": "lomot",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "melomot",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "melayu jakarta",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

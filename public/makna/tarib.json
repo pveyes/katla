@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ta.rib",
+    "akarKata": null,
+    "ejaan": "tarib",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "atap darurat dari daun kelapa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "bali",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

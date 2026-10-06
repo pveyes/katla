@@ -1,0 +1,72 @@
+[
+  {
+    "sukuKata": "ge.rai",
+    "akarKata": null,
+    "ejaan": "gérai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat duduk pengantin; pelaminan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "balai-balai untuk tempat tidur dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kedai kecil, meja, dan sebagainya tempat melayani pengunjung (pembeli, pelanggan) di hotel, bank, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rai",
+    "akarKata": null,
+    "ejaan": "gêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "definisi": "tempat duduk pengantin; pelaminan",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "balai-balai untuk tempat tidur dan sebagainya",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "definisi": "kedai kecil, meja, dan sebagainya tempat melayani pengunjung (pembeli, pelanggan) di hotel, bank, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ge.rai",
+    "akarKata": null,
+    "ejaan": "gêrai",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "gali; gorek",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

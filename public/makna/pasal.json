@@ -1,0 +1,32 @@
+[
+  {
+    "sukuKata": "pa.sal",
+    "akarKata": null,
+    "ejaan": "pasal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bagian dari bab; artikel (dalam undang-undang)",
+        "contoh": "bahasa negara adalah bahasa Indonesia tercantum dalam salah satu -- UUD 1945",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hal; perkara; pokok pembicaraan (perselisihan dan sebagainya)",
+        "contoh": "-- begitu saja kaumasukkan ke dalam hati",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sebab; lantaran",
+        "contoh": "rupanya itulah --nya mengapa dia merajuk",
+        "info": []
+      }
+    ]
+  }
+]

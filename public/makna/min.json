@@ -1,0 +1,38 @@
+[
+  {
+    "sukuKata": "min",
+    "akarKata": null,
+    "ejaan": "min",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "minus; kurang",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "min",
+    "akarKata": null,
+    "ejaan": "min",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tanaman herba genus Mentha, memiliki batang berbentuk persegi, bunga berukuran kecil berwarna putih, kebiru-biruan, dan merah muda, serta daun yang tumbuh berpasangan pada batang, dengan aroma dan rasa yang unik",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "sukuKata": "isu",
+    "akarKata": null,
+    "ejaan": "isu",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "masalah yang dikedepankan (untuk ditanggapi dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kabar yang tidak jelas asal usulnya dan tidak terjamin kebenarannya; kabar angin; desas-desus",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

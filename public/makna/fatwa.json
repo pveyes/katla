@@ -1,0 +1,29 @@
+[
+  {
+    "sukuKata": "fat.wa",
+    "akarKata": null,
+    "ejaan": "fatwa",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jawab (keputusan, pendapat) yang diberikan oleh mufti tentang suatu masalah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "nasihat orang alim; pelajaran baik; petuah",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

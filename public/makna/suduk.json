@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "su.duk",
+    "akarKata": null,
+    "ejaan": "suduk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tikam",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "su.duk",
+    "akarKata": null,
+    "ejaan": "suduk",
+    "baku": false,
+    "alt": "sodok",
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "tolak, dorong, atau sorong",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

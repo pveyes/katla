@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "len.so",
+    "akarKata": null,
+    "ejaan": "lénso",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tarian muda-mudi (tarian pergaulan) dari daerah Maluku dengan mempergunakan saputangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "musik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "len.so",
+    "akarKata": null,
+    "ejaan": "lénso",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saputangan",
+        "contoh": "Salim sedang membeli -- di toko",
+        "info": [
+          {
+            "sumber": "papua",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

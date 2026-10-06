@@ -1,0 +1,34 @@
+[
+  {
+    "sukuKata": "bon",
+    "akarKata": null,
+    "ejaan": "bon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "surat kecil berisi keterangan pengambilan barang, peminjaman uang, dan sebagainya",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "bon",
+    "akarKata": null,
+    "ejaan": "bon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "gabungan perkumpulan olahraga; perserikatan",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

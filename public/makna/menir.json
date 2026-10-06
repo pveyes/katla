@@ -1,0 +1,39 @@
+[
+  {
+    "sukuKata": "me.nir",
+    "akarKata": null,
+    "ejaan": "mênir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pecahan beras halus yang terjadi ketika ditumbuk; melukut",
+        "contoh": "itik diberi makan -- bercampur bubuk ikan kering",
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "me.nir",
+    "akarKata": null,
+    "ejaan": "mênir",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tuan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          }
+        ]
+      }
+    ]
+  }
+]

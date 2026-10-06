@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "kon.ro",
+    "akarKata": null,
+    "ejaan": "konro",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sup khas Bugis-Makassar, dibuat dari tulang rusuk daging sapi atau kerbau",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "tata boga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

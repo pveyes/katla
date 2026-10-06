@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "su.tet",
+    "akarKata": null,
+    "ejaan": "sutèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "saluran udara tegangan ekstra tinggi",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "akronim"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ku.lut",
+    "akarKata": null,
+    "ejaan": "kulut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pohon, tinggi hingga 27 m, kayunya dianggap awet untuk digunakan sebagai tiang, balok, dan papan pada pembangunan rumah",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kayu kulut",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

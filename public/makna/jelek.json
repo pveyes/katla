@@ -1,0 +1,36 @@
+[
+  {
+    "sukuKata": "je.lek",
+    "akarKata": null,
+    "ejaan": "jêlèk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak enak dipandang mata; buruk (tentang wajah)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak menyenangkan (tidak menenteramkan, tidak membahagiakan, dan sebagainya); jahat; tidak baik (tentang watak)",
+        "contoh": "-- benar tabiatmu",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tercemar",
+        "contoh": "karena ia melakukan korupsi, namanya jadi --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

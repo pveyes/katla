@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "ka.tut",
+    "akarKata": null,
+    "ejaan": "katut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "verba",
+        "tipeTeks": "kata kerja",
+        "definisi": "terbawa",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "jawa",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

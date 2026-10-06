@@ -1,0 +1,45 @@
+[
+  {
+    "sukuKata": "pa.hit",
+    "akarKata": null,
+    "ejaan": "pahit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "rasa tidak sedap seperti rasa empedu",
+        "contoh": "jamu temu hitam itu -- rasanya",
+        "info": []
+      },
+      {
+        "tipe": "adjektiva",
+        "tipeTeks": "kata yang menjelaskan nomina atau pronomina",
+        "definisi": "tidak menyenangkan hati; menyusahkan hati; menyedihkan",
+        "contoh": "pengalaman yang --",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pa.hit",
+    "akarKata": null,
+    "ejaan": "pahit",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "minuman keras; jenewer",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "sukuKata": "sen.di",
+    "akarKata": null,
+    "ejaan": "sêndi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hubungan yang terbentuk antara tulang; sendi tulang; tulang sendi",
+        "contoh": "ia berasa ngilu pada tulang --nya",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tempat bersambungnya dua bagian barang; sekeri (pintu, peti, dan sebagainya)",
+        "contoh": "tukang sedang memasang -- pintu",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "simpai (bingkai) sebagai penyalut",
+        "contoh": "tongkat itu diberi -- emas",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peralihan bermakna dari satu segmen fonologis ke segmen fonologis yang lain atau segmen fonologis ke kesenyapan, baik yang terbuka maupun yang tertutup",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "linguistik",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "sen.di",
+    "akarKata": null,
+    "ejaan": "sêndi",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batu pengalas atau pengganjal tiang rumah dan sebagainya",
+        "contoh": "memasang batu --",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alas; dasar; asas; fundamen",
+        "contoh": "Pancasila menjadi -- kehidupan bangsa kita",
+        "info": [
+          {
+            "sumber": "kiasan"
+          }
+        ]
+      }
+    ]
+  }
+]

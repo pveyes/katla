@@ -1,0 +1,44 @@
+[
+  {
+    "sukuKata": "ba.sal",
+    "akarKata": null,
+    "ejaan": "basal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "batuan beku berwarna gelap, berbutir halus, yang umumnya merupakan pembekuan lava dari gunung api",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "geografi dan geologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "ba.sal",
+    "akarKata": null,
+    "ejaan": "basal",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "penyakit bengkak (karena penyakit beri-beri dan sebagainya)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "kedokteran dan fisiologi",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

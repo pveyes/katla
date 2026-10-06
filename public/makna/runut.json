@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "ru.nut",
+    "akarKata": null,
+    "ejaan": "runut",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "jejak (bekas tapak kaki dan sebagainya)",
+        "contoh": "-- orang yang masuk ke halaman rumah masih jelas kelihatan",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "alur di tanah (bekas roda pedati dan sebagainya)",
+        "contoh": "-- roda pedati dan sapi membekas di sepanjang jalan desa",
+        "info": []
+      }
+    ]
+  }
+]

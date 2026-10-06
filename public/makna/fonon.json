@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "fo.non",
+    "akarKata": null,
+    "ejaan": "fonon",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "kuantum atau catu ragam akustik getaran termal di dalam kekisi hablur",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "fisika",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

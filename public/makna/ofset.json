@@ -1,0 +1,47 @@
+[
+  {
+    "sukuKata": "of.set",
+    "akarKata": null,
+    "ejaan": "ofsèt",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "proses cetak buku, koran, dan sebagainya, tinta cetak dari pelat dialihkan dulu ke bahan karet, kemudian baru ke kertas atau bahan cetak lain",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "grafika",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sistem pembelian barang (pesawat terbang dan sebagainya) yang mewajibkan pabrik penghasil sebagai penjual untuk memberikan lisensi pembuatan sebagian komponennya pada industri di negara pembeli",
+        "contoh": "pembelian pesawat tempur Mirage 2000 akan dilakukan dengan sistem --",
+        "info": [
+          {
+            "sumber": "teknik",
+            "sumberTeks": null
+          }
+        ]
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "praktik hukum terkait dengan kegiatan perdagangan dalam industri kedirgantaraan dan militer; praktik komersial departemen militer yang tidak mengacu pada aturan negara tetapi telah diberikan kebijakan formal berkenaan kegiatan perdagangan",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "hukum",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

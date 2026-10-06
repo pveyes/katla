@@ -1,0 +1,69 @@
+[
+  {
+    "sukuKata": "ru.suk",
+    "akarKata": null,
+    "ejaan": "rusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "sisi; samping; lambung (sebelah tubuh dan sebagainya)",
+        "contoh": "kandang kerbau itu bersambung dengan -- rumah",
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "tepi; pinggir",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "iga (tulang-tulang dari tulang belakang ke tulang dada)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.suk",
+    "akarKata": null,
+    "ejaan": "rusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "rumah untuk sementara waktu (di Mentawai)",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "ru.suk",
+    "akarKata": null,
+    "ejaan": "rusuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "pemain depan yang ditempatkan di bagian samping atau sayap (dalam permainan sepak bola)",
+        "contoh": "serangan dari -- kanan",
+        "info": [
+          {
+            "sumber": "olahraga",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

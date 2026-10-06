@@ -1,0 +1,22 @@
+[
+  {
+    "sukuKata": "LAN",
+    "akarKata": null,
+    "ejaan": "LAN",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "Lembaga Administrasi Negara (lembaga pemerintah nonkementerian yang berfungsi melaksanakan tugas pemerintahan di bidang administrasi negara)",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "singkatan"
+          }
+        ]
+      }
+    ]
+  }
+]

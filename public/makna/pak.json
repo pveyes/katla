@@ -1,0 +1,65 @@
+[
+  {
+    "sukuKata": "pak",
+    "akarKata": null,
+    "ejaan": "pak",
+    "baku": true,
+    "alt": "pah",
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bapak",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "cakapan",
+            "sumberTeks": "menandai kata yang digunakan dalam ragam takbaku"
+          },
+          {
+            "sumber": "kependekan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sukuKata": "pak",
+    "akarKata": null,
+    "ejaan": "pak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bungkusan dari pabrik berisi barang dalam jumlah tertentu (tentang rokok, teh, garam, dan sebagainya)",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "peti berisi barang-barang; kemasan barang; bendela",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  },
+  {
+    "sukuKata": "pak",
+    "akarKata": null,
+    "ejaan": "pak",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "hak mengusahakan milik (tanah dan sebagainya) orang atau memborong sesuatu yang mendatangkan hasil dengan membayar sewa (pajak) setiap tahun",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]

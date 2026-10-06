@@ -1,0 +1,23 @@
+[
+  {
+    "sukuKata": "um.puk",
+    "akarKata": null,
+    "ejaan": "umpuk",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "timbunan; tumpukan; longgok",
+        "contoh": null,
+        "info": [
+          {
+            "sumber": "minangkabau",
+            "sumberTeks": null
+          }
+        ]
+      }
+    ]
+  }
+]

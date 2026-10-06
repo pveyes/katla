@@ -1,0 +1,25 @@
+[
+  {
+    "sukuKata": "Wa.res",
+    "akarKata": null,
+    "ejaan": "warês",
+    "baku": true,
+    "alt": null,
+    "makna": [
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "suku bangsa yang mendiami wilayah pesisir utara Papua",
+        "contoh": null,
+        "info": []
+      },
+      {
+        "tipe": "nomina",
+        "tipeTeks": "kata benda",
+        "definisi": "bahasa yang dituturkan suku Wares",
+        "contoh": null,
+        "info": []
+      }
+    ]
+  }
+]
