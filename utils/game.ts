@@ -24,6 +24,7 @@ export const initialState: GameState = {
   enableHardMode: false,
   enableLiarMode: false,
   lieBoxes: [],
+  startedAt: null,
 };
 
 export const useGamePersistedState =
@@ -89,6 +90,8 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
             ...state,
             answers: Array(6).fill(""),
             attempt: 0,
+            // a new game starts its own clock
+            startedAt: null,
             // always reset liar mode
             enableLiarMode: false,
             lieBoxes: [],
@@ -105,6 +108,8 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
             ...state,
             answers: Array(6).fill(""),
             attempt: 0,
+            // a new game starts its own clock
+            startedAt: null,
             // always reset liar mode
             enableLiarMode: false,
             lieBoxes: [],

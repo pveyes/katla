@@ -7,6 +7,7 @@ import Modal from "./Modal";
 import { AnswerState, Game, GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
 import fetcher from "../utils/fetcher";
+import { formatDuration } from "../utils/duration";
 import { pad0 } from "../utils/formatter";
 import {
   useRemainingTime,
@@ -96,6 +97,10 @@ export default function StatsModal(props: Props) {
       return text;
     }
 
+    const duration = formatDuration(stats.duration);
+    if (duration) {
+      text += `\nDurasi: ${duration}`;
+    }
     text += "\n" + window.location.href;
     return text;
   }
@@ -150,6 +155,14 @@ export default function StatsModal(props: Props) {
     ctx.fillStyle = resolvedTheme === "dark" ? "#ffffff" : "#111827";
     ctx.fillText(text, canvas.width / 2, 300);
     ctx.font = "32px sans-serif";
+    const duration = formatDuration(stats.duration);
+    if (duration) {
+      ctx.fillText(
+        `Durasi: ${duration}`,
+        canvas.width / 2,
+        canvas.height - 300
+      );
+    }
     ctx.fillText("katla.id", canvas.width / 2, canvas.height - 150);
 
     answerStates.forEach((states, y) => {
@@ -314,8 +327,11 @@ export default function StatsModal(props: Props) {
         <>
           <WordDefinition answer={answer} />
           <div className="flex items-center justify-between w-3/4 m-auto my-8 space-x-2">
-            {props.remainingTime ? (
-              <TimeCounter time={props.remainingTime} />
+            {props.remainingTime || props.stats.duration != null ? (
+              <TimeCounter
+                time={props.remainingTime}
+                duration={props.stats.duration}
+              />
             ) : (
               <div />
             )}
@@ -450,17 +466,37 @@ function WordDefinition({ answer }) {
   );
 }
 
-function TimeCounter({ time }: { time: ReturnType<typeof useRemainingTime> }) {
-  const remainingTime = `${time.hours}:${pad0(time.minutes)}:${pad0(
-    time.seconds
-  )}`;
+function TimeCounter({
+  time,
+  duration,
+}: {
+  time?: ReturnType<typeof useRemainingTime>;
+  duration: number | null | undefined;
+}) {
+  const remainingTime = time
+    ? `${time.hours}:${pad0(time.minutes)}:${pad0(time.seconds)}`
+    : null;
+
+  const finishedTime = formatDuration(duration);
 
   return (
-    <div className="text-center flex flex-1 flex-col">
-      <div className="font-semibold uppercase text-xs md:text-md">
-        Katla berikutnya
-      </div>
-      <div className="text-xl md:text-4xl">{remainingTime}</div>
+    <div>
+      {finishedTime && (
+        <div className="text-center flex flex-1 flex-col mb-6">
+          <div className="font-semibold uppercase text-xs md:text-md">
+            Durasi
+          </div>
+          <div className="text-xl md:text-4xl">{finishedTime}</div>
+        </div>
+      )}
+      {remainingTime && (
+        <div className="text-center flex flex-1 flex-col">
+          <div className="font-semibold uppercase text-xs md:text-md">
+            Katla berikutnya
+          </div>
+          <div className="text-xl md:text-4xl">{remainingTime}</div>
+        </div>
+      )}
     </div>
   );
 }

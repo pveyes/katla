@@ -11,6 +11,7 @@ export interface GameState {
   enableHardMode: boolean;
   enableLiarMode: boolean;
   lieBoxes: ForcedResult[];
+  startedAt: number | null;
 }
 
 export interface GameStats {
@@ -25,6 +26,8 @@ export interface GameStats {
   };
   currentStreak: number;
   maxStreak: number;
+  // seconds it took to finish the latest game
+  duration: number | null;
 }
 
 export interface Game<T = GameState> {
