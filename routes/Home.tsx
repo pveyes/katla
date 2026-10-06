@@ -9,7 +9,6 @@ import HeadingWithNum from "../components/HeadingWithNum";
 import HelpModal from "../components/HelpModal";
 import { useModalState } from "../components/Modal";
 import SettingsModal from "../components/SettingsModal";
-import SponsorshipFooter from "../components/SponsorshipFooter";
 import StatsModal from "../components/StatsModal";
 
 import LocalStorage from "../utils/browser";
@@ -168,7 +167,6 @@ function Game(props: Props) {
         onClose={resetModalState}
         game={game}
       />
-      <SponsorshipFooter />
     </Container>
   );
 }
