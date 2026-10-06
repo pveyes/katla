@@ -25,13 +25,17 @@ async function cached(
   produce: () => Promise<Response>
 ) {
   const cache = caches.default;
-  const hit = await cache.match(request);
+  // bump the version when the response shape changes, entries live for hours
+  const key = new Request(
+    `${new URL(request.url).origin}${new URL(request.url).pathname}?v=2`
+  );
+  const hit = await cache.match(key);
   if (hit) {
     return hit;
   }
   const response = await produce();
   if (response.ok) {
-    ctx.waitUntil(cache.put(request, response.clone()));
+    ctx.waitUntil(cache.put(key, response.clone()));
   }
   return response;
 }
@@ -72,7 +76,11 @@ async function handleApi(request: Request, env: Env, ctx: ExecutionContext) {
     }
 
     return cached(request, ctx, async () => {
-      const definitions = await getDefinitions(env.ASSETS, define[1]);
+      const definitions = await getDefinitions(
+        env.ASSETS,
+        new URL(request.url).origin,
+        define[1]
+      );
       if (definitions === null) {
         return json({ error: "Failed to get definitions" }, 500);
       }
