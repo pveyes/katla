@@ -1,3 +1,4 @@
+import { Duration } from "date-fns";
 import { Dispatch, SetStateAction } from "react";
 
 export type AnswerState = "c" | "e" | "w";
@@ -11,6 +12,7 @@ export interface GameState {
   enableHardMode: boolean;
   enableLiarMode: boolean;
   lieBoxes: ForcedResult[];
+  startedAt: number | null;
 }
 
 export interface GameStats {
@@ -25,6 +27,7 @@ export interface GameStats {
   };
   currentStreak: number;
   maxStreak: number;
+  duration: Duration | null;
 }
 
 export interface Game<T = GameState> {

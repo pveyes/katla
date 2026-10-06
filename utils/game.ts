@@ -24,6 +24,7 @@ export const initialState: GameState = {
   enableHardMode: false,
   enableLiarMode: false,
   lieBoxes: [],
+  startedAt: null,
 };
 
 export const useGamePersistedState =
