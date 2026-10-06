@@ -95,6 +95,32 @@ test("already played, ready for new game", () => {
   expect(localStorage.getItem(INVALID_WORDS_KEY)).toBe("[]");
 });
 
+// yesterday's start time would make today's solve duration absurdly long
+test.each([
+  ["a new day has started", new Date(2022, 1, 9, 0, 0, 0), "previous"],
+  [
+    "the stored game is older than the previous day",
+    new Date(2022, 1, 8, 22, 0, 0),
+    "older",
+  ],
+])("the solve clock starts over when %s", (_, now, lastHash) => {
+  vi.setSystemTime(now.getTime());
+  localStorage.setItem(LAST_HASH_KEY, encode(lastHash));
+  localStorage.setItem(
+    GAME_STATE_KEY,
+    JSON.stringify({
+      answers: ["ganar", "pakar", "syair"],
+      attempt: 3,
+      startedAt: Date.now() - 60_000,
+    })
+  );
+
+  const { result } = renderHook(() => useGame(hashed));
+
+  expect(result.current.state.attempt).toBe(0);
+  expect(result.current.state.startedAt).toBeNull();
+});
+
 test("already played, not ready for new game", () => {
   vi.setSystemTime(new Date(2022, 1, 8, 22, 0, 0).getTime());
   localStorage.setItem(LAST_HASH_KEY, encode("previous"));

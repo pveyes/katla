@@ -9,6 +9,7 @@ export default defineConfig({
       "utils/**/*.test.{js,ts,tsx}",
       "worker/**/*.test.ts",
       "routes/**/*.test.tsx",
+      "components/**/*.test.tsx",
     ],
   },
 });

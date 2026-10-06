@@ -1,4 +1,3 @@
-import { Duration } from "date-fns";
 import { Dispatch, SetStateAction } from "react";
 
 export type AnswerState = "c" | "e" | "w";
@@ -27,7 +26,8 @@ export interface GameStats {
   };
   currentStreak: number;
   maxStreak: number;
-  duration: Duration | null;
+  // seconds it took to finish the latest game
+  duration: number | null;
 }
 
 export interface Game<T = GameState> {

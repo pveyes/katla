@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from "react";
-import { intervalToDuration } from "date-fns";
 
 import Board from "./Board";
 import Keyboard from "./Keyboard";
 
 import { GameStats } from "../utils/types";
 import { decode } from "../utils/codec";
+import { secondsSince } from "../utils/duration";
 import { handleGameComplete, getFailureMessage } from "../utils/message";
 import {
   checkHardModeAnswer,
@@ -45,9 +45,10 @@ export default function App(props: Props) {
       return;
     }
 
-    game.state.startedAt = game.state.startedAt ?? new Date().getTime();
     game.setState({
       ...game.state,
+      // the clock starts at the first letter of the game
+      startedAt: game.state.startedAt ?? Date.now(),
       answers: game.state.answers.map((answer, i) => {
         if (i === game.state.attempt) {
           if (answer.length === 5) {
@@ -208,10 +209,7 @@ export default function App(props: Props) {
           },
           currentStreak,
           maxStreak: Math.max(stats.maxStreak, currentStreak),
-          duration: intervalToDuration({
-            start: new Date(game.state.startedAt),
-            end: new Date(game.state.lastCompletedDate || new Date().getTime()),
-          }),
+          duration: secondsSince(game.state.startedAt),
         });
       } else if (game.state.attempt === 5) {
         if (typeof game.submitAnswer === "function") {
@@ -239,10 +237,7 @@ export default function App(props: Props) {
           },
           currentStreak: 0,
           maxStreak: stats.maxStreak,
-          duration: intervalToDuration({
-            start: new Date(game.state.startedAt),
-            end: new Date(game.state.lastCompletedDate || new Date().getTime()),
-          }),
+          duration: secondsSince(game.state.startedAt),
         });
 
         const failureMessage = getFailureMessage(
