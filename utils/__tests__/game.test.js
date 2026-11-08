@@ -1,7 +1,7 @@
 import { renderHook } from "@testing-library/react";
 import { afterEach, beforeAll, expect, test, vi } from "vitest";
 
-import { useGame } from "../game";
+import { useGame, useRemainingTime } from "../game";
 import { GAME_STATE_KEY, INVALID_WORDS_KEY, LAST_HASH_KEY } from "../constants";
 import { decode, encode, encodeHashed } from "../codec";
 import LocalStorage from "../browser";
@@ -209,4 +209,20 @@ test("already played, refresh event", async () => {
   rerender();
   expect(decode(result.current.hash)).toBe("refresh");
   expect(result.current.num).toBe(newNum);
+});
+
+test.each([
+  ["10:00:15", [10, 0, 15], { hours: 13, minutes: 59, seconds: 45 }],
+  ["10:00:00", [10, 0, 0], { hours: 14, minutes: 0, seconds: 0 }],
+  ["10:30:00", [10, 30, 0], { hours: 13, minutes: 30, seconds: 0 }],
+  ["00:00:30", [0, 0, 30], { hours: 23, minutes: 59, seconds: 30 }],
+  ["23:00:00", [23, 0, 0], { hours: 1, minutes: 0, seconds: 0 }],
+  ["23:59:59", [23, 59, 59], { hours: 0, minutes: 0, seconds: 1 }],
+  // the new word is out, so the countdown hits zero and refetches it
+  ["00:00:00", [0, 0, 0], { hours: 0, minutes: 0, seconds: 0 }],
+])("time left until the next word at %s", (_, time, expected) => {
+  vi.setSystemTime(new Date(2022, 1, 9, ...time).getTime());
+
+  const { result } = renderHook(() => useRemainingTime());
+  expect(result.current).toEqual(expected);
 });
