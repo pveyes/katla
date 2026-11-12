@@ -176,23 +176,13 @@ export function useGame(hashed: string, enableStorage: boolean = true): Game {
 }
 
 export function useRemainingTime() {
-  const now = new Date();
-  const hours = getHoursDiff(now);
-  const minutes = getMinutesDiff(now);
-  const seconds = getSecondsDiff(now);
-
-  const [remainingTime, setRemainingTime] = useState({
-    hours,
-    minutes,
-    seconds,
-  });
+  const [remainingTime, setRemainingTime] = useState(() =>
+    getRemainingTime(new Date())
+  );
 
   useEffect(() => {
     const t = setInterval(() => {
-      const now = new Date();
-      const hours = getHoursDiff(now);
-      const minutes = getMinutesDiff(now);
-      const seconds = getSecondsDiff(now);
+      const { hours, minutes, seconds } = getRemainingTime(new Date());
 
       if (hours + minutes + seconds === 0) {
         // fetch the new daily word
@@ -207,22 +197,17 @@ export function useRemainingTime() {
   return remainingTime;
 }
 
-function getHoursDiff(date: Date) {
-  return date.getHours() === 0 &&
-    date.getMinutes() === 0 &&
-    date.getSeconds() === 0
-    ? 0
-    : 23 - date.getHours();
-}
+// time left until the next local midnight, when the new word comes out
+function getRemainingTime(date: Date) {
+  const elapsed =
+    date.getHours() * 3600 + date.getMinutes() * 60 + date.getSeconds();
+  const remaining = (24 * 3600 - elapsed) % (24 * 3600);
 
-function getMinutesDiff(date: Date) {
-  return date.getMinutes() === 0
-    ? 0
-    : (date.getSeconds() === 0 ? 60 : 59) - date.getMinutes();
-}
-
-function getSecondsDiff(date: Date) {
-  return date.getSeconds() === 0 ? 0 : 60 - date.getSeconds();
+  return {
+    hours: Math.floor(remaining / 3600),
+    minutes: Math.floor((remaining % 3600) / 60),
+    seconds: remaining % 60,
+  };
 }
 
 export function isGameFinished(game: Game) {
